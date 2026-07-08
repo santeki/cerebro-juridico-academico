@@ -86,3 +86,6 @@ Tipos de entrada:
 
 ## [2026-07-08] Arquitectura | versao: 6.8 — re-derivação: infra-estrutura
 - Histórico migrado para CHANGELOG.md; git inicializado com tag v6.8 e .gitignore criado (Camada 1 densificada); telemetria de convocação (wiki/telemetria.md, Frente 4 do Painel); relações tipadas mínimas (contraria/concretiza/excepciona); caminho curto na ingestão; casos dourados na origem. Decisão expressa do aluno.
+
+## [2026-07-08] Arquitectura | versao: 6.9 — sedes, paridade e modos (trabalhos adiados)
+- Piloto de consolidação: padrão sede-única confirmado instalado; eco da regra 10 fundido; «Arquitectura de sedes» codificada nas convenções. Paridade: divergências dos 3 ficheiros ≥ 0.90 classificadas intencionais; deriva zero; paridade.py com baseline instalado na fonte. Modos: todos mantidos com fundamento; Mapeador transversal sob telemetria — revisão marcada para quando houver dados de uma cadeira completa. Decisão expressa do aluno.

@@ -1,6 +1,6 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.8
+versao: 6.9
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
 ultima_actualizacao: 2026-07-08
 ---
@@ -112,7 +112,7 @@ Uma fonte só fica ingerida quando lida do início ao fim (corpo, introdução, 
 
 Enquanto a fonte em curso não estiver digerida e com relatório no log, nenhuma outra é aberta. **Sobreposição de ingestões é proibida** — corta linhas doutrinárias ao meio e produz a cegueira mais perigosa da wiki: um ramo que parece coberto mas só tem meia voz.
 
-A cobertura é sempre integral: toda a fonte que entra lê-se do início ao fim, notas de rodapé incluídas, sem sobreposição de ingestões. Uma consulta dirigida a um ponto isolado é pesquisa legítima, mas não é ingestão — não gera página de fonte coberta nem sustenta afirmação de cobertura, e o que dela se aproveita marca-se como vindo de fonte não ingerida. O que se gradua é o **tratamento** de cada secção — núcleo (tratamento integral), periferia relevante (sumário fiel e mapa), contexto (sumário curto) —, e essa graduação poupa o esforço de extracção, **nunca** o de cobertura nem o de verificação. A captura de notas fugazes tem porta própria (`PROTOCOLO-CAPTURA.md`): regista no momento, verifica na triagem. Ver `PROTOCOLO-INGESTAO.md`.
+Uma consulta dirigida a um ponto isolado é pesquisa legítima, mas não é ingestão — não gera página de fonte coberta nem sustenta afirmação de cobertura, e o que dela se aproveita marca-se como vindo de fonte não ingerida. O que se gradua é o **tratamento** de cada secção — núcleo (tratamento integral), periferia relevante (sumário fiel e mapa), contexto (sumário curto) —, e essa graduação poupa o esforço de extracção, **nunca** o de cobertura nem o de verificação. A captura de notas fugazes tem porta própria (`PROTOCOLO-CAPTURA.md`): regista no momento, verifica na triagem. Ver `PROTOCOLO-INGESTAO.md`.
 
 ### 11. O agente é dono de `wiki/`; lê `raw/` e `playbooks/`; nunca os altera.
 
