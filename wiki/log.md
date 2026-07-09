@@ -152,3 +152,10 @@ Tipos de entrada:
 - Propagação (ok do aluno): criadas [[Conceitos/Direito Objectivo e Direito Subjectivo]] e [[Conceitos/Ramos do Direito]] (verificado; monocamada). Vistas: FDUP pontos 3, 7 e 8; NOVA ponto 10 (primeiro da NOVA); Católica Porto Parte II → monocamada.
 - Erratas da conversão MD: +1 («fome»→«fonte», p. 70), total 8.
 - Contradições: nenhuma. progresso: Caps. I-III de XI fechados; segue Cap. IV.
+
+## [2026-07-09] ingestão | Baptista Machado, Introdução ao Direito e ao Discurso Legitimador — cap. IV fechado (obra pp. 79-123)
+- Leitura integral no MD; confronto com o PDF nas folhas 41-43, 49-52, 55-58 e 60-63 — todos os artigos de lei citados conferidos; gralhas do exemplar registadas («ommis definitio periculosa», p. 111; «BARTALANFFY», p. 121), citam-se com [sic].
+- Extracção no reservatório (secção Cap. IV); remissões normativas de 1982 marcadas datadas (CC com valores em escudos; CP de 1886; CRP pré-revisões; DL 372-A/75; DL 422/76; DL 161/77).
+- Propagação (ok do aluno): criadas [[Conceitos/Norma Jurídica]], [[Conceitos/Facto Jurídico]], [[Conceitos/Personalidade Jurídica]] e [[Conceitos/Codificação e Técnicas Legislativas]]; espécies de direitos subjectivos integradas em [[Conceitos/Direito Objectivo e Direito Subjectivo]] (tudo verificado; monocamada).
+- Vistas: FDUP pontos 9-13 (12/28); NOVA pontos 13-15 (4/21); Católica Porto Parte III completa (Partes I-III); Católica Lisboa ponto 7 (4/15); FDUL pontos 14-15 (3/19) — monocamada.
+- Contradições: nenhuma. progresso: Caps. I-IV de XI fechados; a conversa encerra aqui por decisão do aluno — retoma no Cap. V (tutela).

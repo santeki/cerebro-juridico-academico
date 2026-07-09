@@ -12,5 +12,11 @@
 | 6 | p. 48 ([p. 26]) | «dizia HEROER» | «dizia HERDER» |
 | 7 | p. 49 ([p. 26]) | «o *l.Rbenswelt*» (duas ocorrências) | «o *Lebenswelt*» |
 | 8 | p. 70 ([p. 37]) | «um direito de fome supra-estadual» | «um direito de fonte supra-estadual» |
+| 9 | p. 26 ([p. 15]) | «considerar os factcs sociais como coisas» | «considerar os factos sociais como coisas» |
+| 10 | p. 34 ([p. 19]) | «uma /*ex imperfecta*» | «uma *lex imperfecta*» |
+| 11 | p. 65 ([p. 34]) | «critério da posição dos stijeitos» | «critério da posição dos sujeitos» |
+| 12 | p. 29 ([p. 16]) | «dupla institucionali1.ação» | «dupla institucionalização» |
+| 13 | p. 99 ([p. 51]) | «por uma forma citntífico- -sistemática» | «por uma forma científico-sistemática» |
+| 14 | p. 12 ([p. 8]) | «uestrutura estratificada» / «uconsciência colectiva» (aspas de abertura corrompidas em «u») | «"estrutura estratificada"» / «"consciência colectiva"» — padrão recorrente no MD: aspas de abertura lidas como «u» ou «••» |
 
 Notas: (a) o ruído difuso de OCR do MD (acentos trocados, caracteres soltos) só entra nesta errata quando toque passagem usada na wiki ou deforme o sentido; (b) gralhas do próprio exemplar não entram aqui — citam-se como estão, com [sic] quando relevante.

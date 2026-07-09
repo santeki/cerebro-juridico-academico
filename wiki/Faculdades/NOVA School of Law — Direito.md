@@ -44,9 +44,9 @@ ultima_actualizacao: 2026-07-09
   12. Vigência das Normas, hierarquia e conflito entre as normas (BM, cap. VI, 9-12) — por cobrir.
 
   IV — A Norma Jurídica
-  13. Estrutura da Norma Jurídica (BM, cap. IV, sessão I, § 1) — por cobrir.
-  14. Classificação da Norma Jurídica (BM, cap. IV, sessão I, § 2) — por cobrir.
-  15. Codificação e técnicas legislativas (BM, cap. IV, sessão II) — por cobrir.
+  13. Estrutura da Norma Jurídica (BM, cap. IV, sessão I, § 1) — [[Conceitos/Norma Jurídica]] · [[Conceitos/Facto Jurídico]] · [[Conceitos/Personalidade Jurídica]] — monocamada.
+  14. Classificação da Norma Jurídica (BM, cap. IV, sessão I, § 2) — [[Conceitos/Norma Jurídica]] — monocamada.
+  15. Codificação e técnicas legislativas (BM, cap. IV, sessão II) — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada.
   16. Interpretação da lei (BM, cap. VII, seções I e II) — por cobrir.
   17. Integração da lei (BM, cap. VII, seções III e IV) — por cobrir.
   18. Aplicação da lei no tempo (BM, cap. VIII, seção I, § 1) — por cobrir.
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-09
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — por cobrir.
 
-- **Cobertura do programa**: 1 de 21 pontos em monocamada (ponto 10 — BM, cap. III, fechado em 2026-07-09); 20 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
+- **Cobertura do programa**: 4 de 21 pontos em monocamada (pontos 10 e 13-15 — BM, caps. III-IV, fechados em 2026-07-09); 17 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)

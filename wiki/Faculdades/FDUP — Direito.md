@@ -37,13 +37,13 @@ ultima_actualizacao: 2026-07-09
   8. Principais ramos do Direito — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, 5-7).
 
   III. A norma jurídica
-  9. O conceito de norma jurídica: elementos definidores e estrutura da norma — por cobrir.
-  10. O facto jurídico, o ato jurídico, a situação jurídica e a relação jurídica — por cobrir.
-  11. Classificação das normas jurídicas — por cobrir.
+  9. O conceito de norma jurídica: elementos definidores e estrutura da norma — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, Secção I, § 1º).
+  10. O facto jurídico, o ato jurídico, a situação jurídica e a relação jurídica — [[Conceitos/Facto Jurídico]] — monocamada (BM, cap. IV, § 1º, 3).
+  11. Classificação das normas jurídicas — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, § 2º).
 
   IV. A criação normativa estadual
-  12. A codificação — por cobrir.
-  13. Técnicas legislativas principais — por cobrir.
+  12. A codificação — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, Secção II, § 1º).
+  13. Técnicas legislativas principais — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, Secção II, §§ 2º-4º).
 
   V. A tutela do Direito e dos direitos
   14. Meios de tutela jurídica — por cobrir.
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 7 de 28 pontos em monocamada (pontos 1-5, 7 e 8 — BM, caps. I-III, fechados em 2026-07-09); 21 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 12 de 28 pontos em monocamada (pontos 1-5 e 7-13 — BM, caps. I-IV, fechados em 2026-07-09); 16 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

@@ -44,8 +44,8 @@ ultima_actualizacao: 2026-07-09
   13. Suspensão da vigência; cessação da vigência: caducidade e revogação (modalidades; lei revogatória e revogada; não repristinação) — por cobrir.
 
   Capítulo IV — Norma jurídica e proposição jurídica
-  14. Secção I (Generalidades): fontes de Direito e normas jurídicas; norma e proposição jurídica; estrutura da norma; carácter hipotético da aplicação; características — por cobrir.
-  15. Secção II (Classificações de normas): geral, especial e excepcional; injuntivas e dispositivas; obrigatórias e prescritivas; permissivas e supletivas; proposições jurídicas não normativas (definições, ficções, presunções) e proposições incompletas — por cobrir.
+  14. Secção I (Generalidades): fontes de Direito e normas jurídicas; norma e proposição jurídica; estrutura da norma; carácter hipotético da aplicação; características — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, Secção I, § 1º).
+  15. Secção II (Classificações de normas): geral, especial e excepcional; injuntivas e dispositivas; obrigatórias e prescritivas; permissivas e supletivas; proposições jurídicas não normativas (definições, ficções, presunções) e proposições incompletas — [[Conceitos/Norma Jurídica]] · [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, §§ 2º da Secção I e 2º da Secção II).
   16. «Secção IV» [sic] (Norma jurídica e princípio jurídico): princípios jurídicos — formulação; formais e materiais; princípio e norma — por cobrir.
 
   «Capítulo IV» [sic] — O sistema jurídico
@@ -55,7 +55,7 @@ ultima_actualizacao: 2026-07-09
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
 
-- **Cobertura do programa**: 1 de 19 pontos em monocamada (ponto 4 — BM, cap. II, fechado em 2026-07-09); 18 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 3 de 19 pontos em monocamada (pontos 4, 14 e 15 — BM, caps. II e IV, fechados em 2026-07-09); 16 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)

@@ -29,11 +29,11 @@ ultima_actualizacao: 2026-07-09
   Parte II — A Macroestrutura do Direito — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, «Macroestrutura: as grandes divisões do Direito»).
 
   Parte III — A norma jurídica
-  1. Noção e estrutura — por cobrir.
-  2. O facto jurídico, a situação jurídica e a relação jurídica — por cobrir.
-  3. O sujeito jurídico e os direitos subjectivos — por cobrir.
-  4. Classificação das normas jurídicas — por cobrir.
-  5. Técnicas legislativas — por cobrir.
+  1. Noção e estrutura — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, § 1º).
+  2. O facto jurídico, a situação jurídica e a relação jurídica — [[Conceitos/Facto Jurídico]] — monocamada (BM, cap. IV, § 1º, 3).
+  3. O sujeito jurídico e os direitos subjectivos — [[Conceitos/Personalidade Jurídica]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. IV, § 1º, 4-5).
+  4. Classificação das normas jurídicas — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, § 2º).
+  5. Técnicas legislativas — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, Secção II).
 
   Parte IV — A tutela do Direito — por cobrir.
 
@@ -49,7 +49,7 @@ ultima_actualizacao: 2026-07-09
   10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas — por cobrir.
   11. A aplicação da lei no espaço (referência) — por cobrir.
 
-- **Cobertura do programa**: Partes I e II em monocamada (BM, caps. I-III, fechadas em 2026-07-09); restantes 5 Partes (11 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: Partes I, II e III em monocamada (BM, caps. I-IV, fechadas em 2026-07-09); restantes 4 Partes (6 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Porto)

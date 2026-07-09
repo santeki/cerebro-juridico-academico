@@ -14,11 +14,11 @@ ultima_actualizacao: 2026-07-09
 
 ## Faculdades (vistas)
 <!-- Uma linha por faculdade, link para a vista em wiki/Faculdades/. Acrescentar à medida que entram. -->
-- [[Faculdades/NOVA School of Law — Direito]] — NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 1 em monocamada via BM cap. III).
-- [[Faculdades/FDUP — Direito]] — Faculdade de Direito da Universidade do Porto, Direito. «Introdução ao Direito» 2025/2026 mapeada (28 pontos; 7 em monocamada via BM caps. I-III).
-- [[Faculdades/Católica Porto — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Porto), Direito. «Introdução ao Estudo do Direito» mapeada (7 Partes; Partes I-II em monocamada via BM caps. I-III).
-- [[Faculdades/Católica Lisboa — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Lisboa), Direito. «Introdução ao Estudo do Direito» 2023/2024 mapeada (15 pontos; 3 em monocamada via BM caps. I-II).
-- [[Faculdades/FDUL — Direito]] — Faculdade de Direito da Universidade de Lisboa, Direito. «Introdução ao Estudo do Direito I», Turma A, 2025-2026 mapeada (19 pontos; 1 em monocamada via BM cap. II).
+- [[Faculdades/NOVA School of Law — Direito]] — NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 4 em monocamada via BM caps. III-IV).
+- [[Faculdades/FDUP — Direito]] — Faculdade de Direito da Universidade do Porto, Direito. «Introdução ao Direito» 2025/2026 mapeada (28 pontos; 12 em monocamada via BM caps. I-IV).
+- [[Faculdades/Católica Porto — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Porto), Direito. «Introdução ao Estudo do Direito» mapeada (7 Partes; Partes I-III em monocamada via BM caps. I-IV).
+- [[Faculdades/Católica Lisboa — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Lisboa), Direito. «Introdução ao Estudo do Direito» 2023/2024 mapeada (15 pontos; 4 em monocamada via BM caps. I-IV).
+- [[Faculdades/FDUL — Direito]] — Faculdade de Direito da Universidade de Lisboa, Direito. «Introdução ao Estudo do Direito I», Turma A, 2025-2026 mapeada (19 pontos; 3 em monocamada via BM caps. II e IV).
 
 ## Convergência entre faculdades
 Quando fontes adoptadas por faculdades diferentes tratam a mesma matéria, alimentam a **mesma** página de conhecimento — a matéria fica vista por mais do que uma escola numa só página. As posições não se fundem: o Eixo B classifica a relação entre elas (complementares · compatíveis · distintas · em conflito) e cada uma fica ancorada à sua fonte. A convergência serve o estudo completo; cada vista recorta, para o seu exame, o que conta nessa faculdade. Ver `PROTOCOLO-ANALISE-COMPARATIVA.md`.
