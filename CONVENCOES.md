@@ -68,6 +68,7 @@ cerebro-juridico-academico/
 │   ├── index.md                    # catálogo de conteúdo
 │   ├── log.md                      # registo cronológico append-only
 │   ├── telemetria.md               # convocações por operação: o que se lê (PROTOCOLO-PAINEL, Frente 4)
+│   ├── VOZ-EVOLUCAO.md             # evolução aprovada do fingerprint (PROTOCOLO-VOZ)
 │   ├── Inbox/                      # captura rápida (notas fugazes por processar)
 │   ├── Faculdades.md               # índice de vistas por faculdade
 │   ├── Faculdades/                 # uma vista curricular por faculdade (Ano → Semestre → Cadeira)

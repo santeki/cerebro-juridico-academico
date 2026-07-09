@@ -95,3 +95,6 @@ Tipos de entrada:
 
 ## [2026-07-09] Arquitectura | versao: 6.11 — derivados desactualizados
 - Frente 5 do Painel: fonte nova que toque instituto com sebenta/diagnóstico/resposta-modelo emitidos marca-os desactualizados (nota datada + log); listagem até refresh; nunca servidos como actuais. Manual tardio = caso normal. Decisão expressa do aluno.
+
+## [2026-07-09] Arquitectura | versao: 6.12 — método Augusta (voz evolutiva; contrato do resumo)
+- Evolução do fingerprint por correcções (proposta+evidência+✅; VOZ-EVOLUCAO.md); contrato de poda do ESTADO-RESUMO. Derrogação de governação registada. Decisão expressa do aluno.

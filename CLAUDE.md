@@ -1,6 +1,6 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.11
+versao: 6.12
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
 ultima_actualizacao: 2026-07-08
 ---

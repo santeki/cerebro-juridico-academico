@@ -32,6 +32,10 @@ O log regista o que se escreve; a telemetria regista o que se lê. Cada consulta
 
 O conhecimento derivado envelhece quando a base muda: no fecho de cada ingestão que toque instituto com derivados emitidos — sebenta de vista, diagnóstico de cobertura, resposta-modelo arquivada —, esses derivados marcam-se desactualizados (nota datada no topo do próprio ficheiro, com a fonte que a causou; linha no log), e esta frente lista-os até ao refresh. Derivado desactualizado nunca se serve como actual: ou se refaz, ou vai com a marca à vista. A chegada tardia de um manual é o caso típico — a fila de ingestão é eficiência, não requisito; o corpo absorve fora de ordem, e os derivados dizem-no.
 
+## Contrato do ESTADO-RESUMO
+
+O `wiki/ESTADO-RESUMO.md` é o leitor rápido do cofre, não o arquivo: **reconstrói-se, nunca se appenda**, com tecto de ≈25 KB. Regras de poda: só o valor mais recente por item de estado; pendências vivas copiam-se integrais; deltas apenas dos últimos 7 dias, no máximo um por operação e por dia, do mais recente para o mais antigo; excedido o tecto, cortam-se os deltas mais antigos primeiro. Escrita atómica (temporário, verificação de tamanho, substituição); a fonte da verdade — log e páginas — nunca se toca a partir daqui; fonte ilegível não reescreve o resumo: regista a falha no log e mantém o anterior.
+
 ## Regeneração
 
 O painel reconstrói-se quando o pedes («painel», «o que estudo agora») e, idealmente, no início de cada sessão de estudo. A regeneração lê o estado (frontmatter de revisão, lacunas, fila, `Faculdades.md`) e reescreve `wiki/PAINEL.md`. Não decide por ti — propõe a ordem; tu escolhes onde pegar.

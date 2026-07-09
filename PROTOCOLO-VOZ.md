@@ -28,6 +28,10 @@ Os produtos de trabalho com texto corrido — sebentas, sínteses, esquemas, ens
 
 Todo o produto académico — ensaio, dissertação, resposta desenvolvida, trabalho — sai com aparato crítico completo: referências no corpo ou em nota, e bibliografia final, na norma de citação fixada. A norma concreta configura-se na vista da faculdade (`wiki/Faculdades/<Faculdade>.md`, campo `norma_citacao`) — em Portugal, a NP 405-1 é a referência natural; faculdades ou docentes podem exigir outra. Sem norma configurada, o produto sai com as referências completas em formato neutro e a pendência declarada («norma de citação por configurar na vista») — declara-se, não se improvisa um formato com autoridade que não tem. Invariantes que nenhuma norma dispensa: jurisprudência identifica-se por tribunal, data, processo e ECLI quando exista; legislação com diploma, artigo, n.º e alínea, na versão vigente; doutrina com autor, obra, edição e ano, página quando citada; e a bibliografia espelha o corpus efectivamente convocado e verificado — não decora. A distinção visual da citação (aspas curvas, itálico) é a das `CONVENCOES.md`.
 
+## Evolução do fingerprint
+
+A voz não é estática: evolui a partir das correcções reais. Periodicamente, ou a cada ciclo de produtos que o aluno indique, o agente compara os seus rascunhos com as versões finais corrigidas e com os produtos aprovados, identifica padrões recorrentes de correcção — aberturas, fórmulas, extensão de frase e de parágrafo, terminologia preferida, construções eliminadas — e propõe actualizações ao `VOZ-FINGERPRINT.md` com a evidência à vista («corrigido X→Y em N produtos»). Nada se aplica sem ✅; aprovada, a actualização entra com data e nota do que mudou, e a evolução regista-se em `wiki/VOZ-EVOLUCAO.md` — data, mudança, padrão que a motivou, decisão. Proposta recusada não se repropõe sem evidência nova; na dúvida entre a voz antiga e a emergente, a antiga vale até o aluno decidir.
+
 ## Invocação
 - «constrói a voz» / «actualiza a voz» — corre a construção ou a passagem de evolução (com aprovação).
 - «aplica a voz a isto» — molda um texto existente ao fingerprint, sem tocar a substância.
