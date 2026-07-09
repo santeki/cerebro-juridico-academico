@@ -28,6 +28,10 @@ O painel mostra o que está por ingerir, cruzado com `Faculdades.md` e com a pro
 
 O log regista o que se escreve; a telemetria regista o que se lê. Cada consulta e cada sessão do Examinador fecha com uma linha em `wiki/telemetria.md` — `data | operação | páginas convocadas` —, e o Painel agrega: páginas mais convocadas (o corpo vivo), páginas nunca convocadas desde a criação (candidatas a revisão de dimensionamento — não a corte automático: a decisão é de quem opera). Sem telemetria, o dimensionamento decide-se por intuição; com ela, por uso.
 
+## Frente 5 — Derivados desactualizados
+
+O conhecimento derivado envelhece quando a base muda: no fecho de cada ingestão que toque instituto com derivados emitidos — sebenta de vista, diagnóstico de cobertura, resposta-modelo arquivada —, esses derivados marcam-se desactualizados (nota datada no topo do próprio ficheiro, com a fonte que a causou; linha no log), e esta frente lista-os até ao refresh. Derivado desactualizado nunca se serve como actual: ou se refaz, ou vai com a marca à vista. A chegada tardia de um manual é o caso típico — a fila de ingestão é eficiência, não requisito; o corpo absorve fora de ordem, e os derivados dizem-no.
+
 ## Regeneração
 
 O painel reconstrói-se quando o pedes («painel», «o que estudo agora») e, idealmente, no início de cada sessão de estudo. A regeneração lê o estado (frontmatter de revisão, lacunas, fila, `Faculdades.md`) e reescreve `wiki/PAINEL.md`. Não decide por ti — propõe a ordem; tu escolhes onde pegar.

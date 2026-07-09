@@ -92,3 +92,6 @@ Tipos de entrada:
 
 ## [2026-07-09] Arquitectura | versao: 6.10 — perspectiva curricular
 - Syllabus como bússola, não algemas: regra de perspectiva na consulta (ordena, não amputa; fora-do-programa e outras escolas marcados) e no Examinador (padrão do docente primeiro; outras escolas como contraste que soma em exame). Não toca a linha profissional. Decisão expressa do aluno.
+
+## [2026-07-09] Arquitectura | versao: 6.11 — derivados desactualizados
+- Frente 5 do Painel: fonte nova que toque instituto com sebenta/diagnóstico/resposta-modelo emitidos marca-os desactualizados (nota datada + log); listagem até refresh; nunca servidos como actuais. Manual tardio = caso normal. Decisão expressa do aluno.
