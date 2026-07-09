@@ -11,5 +11,6 @@
 | 5 | índice gerado do MD | o índice do Cap. I termina no ponto 11 | a obra tem ponto 12, «Das instituições sociais para as instituições jurídicas», p. 28 — em falta no índice gerado (o corpo do MD contém a secção) |
 | 6 | p. 48 ([p. 26]) | «dizia HEROER» | «dizia HERDER» |
 | 7 | p. 49 ([p. 26]) | «o *l.Rbenswelt*» (duas ocorrências) | «o *Lebenswelt*» |
+| 8 | p. 70 ([p. 37]) | «um direito de fome supra-estadual» | «um direito de fonte supra-estadual» |
 
 Notas: (a) o ruído difuso de OCR do MD (acentos trocados, caracteres soltos) só entra nesta errata quando toque passagem usada na wiki ou deforme o sentido; (b) gralhas do próprio exemplar não entram aqui — citam-se como estão, com [sic] quando relevante.

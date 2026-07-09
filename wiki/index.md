@@ -6,9 +6,9 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Vistas de faculdade
 <!-- [[Faculdades/<Faculdade>]] — currículo de cada faculdade sobre o corpo comum. Índice em wiki/Faculdades.md. -->
-- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 0 cobertos — blocos II-V fecham com o BM em ingestão).
-- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 4 em monocamada, BM caps. I-II).
-- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Parte I em monocamada, BM caps. I-II; sem ano/semestre/bibliografia na fonte).
+- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 1 em monocamada, BM cap. III).
+- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 7 em monocamada, BM caps. I-III).
+- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Partes I-II em monocamada, BM caps. I-III; sem ano/semestre/bibliografia na fonte).
 - [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; 3 em monocamada, BM caps. I-II; leituras por secção com páginas).
 - [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; 1 em monocamada, BM cap. II).
 
@@ -27,6 +27,8 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Conceitos/Noção de Direito]] — definição sociológica vs jurídica (Weber/Larenz em relato), pretensão de validade, vigência, Direito/Estado, Direito/Moral; monocamada (BM, cap. II); verificado.
 - [[Conceitos/Coercibilidade]] — nexo juridicidade→coercibilidade, legitimidade e necessidade da coacção, Direito e Força; monocamada (BM, cap. II, § 1º); verificado.
 - [[Conceitos/Segurança Jurídica]] — certeza jurídica, institutos ao serviço, tensão com a justiça (Radbruch em relato), Estado de Direito; monocamada (BM, cap. II, § 4º); verificado.
+- [[Conceitos/Direito Objectivo e Direito Subjectivo]] — definições e correlação direito/dever; monocamada (BM, cap. III, 2); verificado.
+- [[Conceitos/Ramos do Direito]] — summa divisio (critério da posição dos sujeitos, polémica marcada), catálogo dos ramos públicos, privados e novos (retrato de 1982 datado); monocamada (BM, cap. III); verificado.
 
 ## Doutrina
 <!-- [[Doutrina/<autor>]] — área, obras na wiki, patamar N1/N2 -->
@@ -71,4 +73,4 @@ Ver [[Faculdades]] — vistas por faculdade: cadeiras em curso, programa, datas 
 - Católica Lisboa: ficha é de 2023/2024 — obter a do ano corrente.
 - Baptista Machado: recensões e dados biográficos do autor por verificar (Situação da fonte, lacuna assinalada).
 - Baptista Machado, cap. II, nota da p. 36: «Castanheira Neves, ob. cit., pp. 353 e 359» — obra do relato não identificada até este ponto do exemplar; fechar quando a primeira citação aparecer na leitura.
-- Cobertura em curso pela ingestão do BM: FDUP 4/28, Católica Lisboa 3/15, Católica Porto Parte I, FDUL 1/19 em monocamada; NOVA 0/21 (o bloco I pede o Freitas do Amaral; os blocos II-V fecham com os caps. III-IX do BM).
+- Cobertura em curso pela ingestão do BM: FDUP 7/28, Católica Lisboa 3/15, Católica Porto Partes I-II, FDUL 1/19, NOVA 1/21 em monocamada (o bloco I da NOVA pede o Freitas do Amaral; os blocos III-V fecham com os caps. IV-IX do BM).

@@ -37,7 +37,7 @@ ultima_actualizacao: 2026-07-09
   9. Direito Natural e Positivismo (FA, cap. 8) — por cobrir.
 
   II — Ramos do Direito
-  10. Ramos do Direito (BM, cap. III, 1-6) — por cobrir.
+  10. Ramos do Direito (BM, cap. III, 1-6) — [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III).
 
   III — Fontes do Direito
   11. Fontes do Direito (BM, cap. VI, 1-8) — por cobrir.
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-09
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — por cobrir.
 
-- **Cobertura do programa**: 0 de 21 pontos cobertos — tudo «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
+- **Cobertura do programa**: 1 de 21 pontos em monocamada (ponto 10 — BM, cap. III, fechado em 2026-07-09); 20 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)

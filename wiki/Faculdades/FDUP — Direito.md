@@ -27,14 +27,14 @@ ultima_actualizacao: 2026-07-09
   I. Noção e Sentido do Direito
   1. O Ser Humano, a sociedade e o Direito — [[Conceitos/Instituição]] — monocamada (BM, cap. I).
   2. O Direito como ordem normativa e como sistema institucional: confronto com outras ordens normativas — [[Conceitos/Noção de Direito]] — monocamada (BM, caps. I-II).
-  3. Direito em sentido objetivo e direito(s) em sentido subjetivo — por cobrir.
+  3. Direito em sentido objetivo e direito(s) em sentido subjetivo — [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III, 2).
   4. O Direito, a autoridade e o poder: a problemática da coação — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
   5. A relação entre Direito, justiça e segurança — [[Conceitos/Segurança Jurídica]] — monocamada (BM, cap. II, § 4º).
   6. O problema do Direito Natural — por cobrir.
 
   II. Os ramos do Direito
-  7. A *summa divisio* estrutural: Direito Público e Direito Privado — por cobrir.
-  8. Principais ramos do Direito — por cobrir.
+  7. A *summa divisio* estrutural: Direito Público e Direito Privado — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, 4).
+  8. Principais ramos do Direito — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, 5-7).
 
   III. A norma jurídica
   9. O conceito de norma jurídica: elementos definidores e estrutura da norma — por cobrir.
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 4 de 28 pontos em monocamada (pontos 1, 2, 4 e 5 — BM, caps. I-II, fechados em 2026-07-09); 24 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 7 de 28 pontos em monocamada (pontos 1-5, 7 e 8 — BM, caps. I-III, fechados em 2026-07-09); 21 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

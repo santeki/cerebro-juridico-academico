@@ -144,3 +144,11 @@ Tipos de entrada:
 - Erratas da conversão MD: +2 (HEROER→HERDER; l.Rbenswelt→Lebenswelt), total 7.
 - Dúvida em aberto: «Castanheira Neves, ob. cit., pp. 353 e 359» (BM, p. 36) — obra do relato por identificar no exemplar.
 - Contradições: nenhuma. progresso: Caps. I-II de XI fechados; segue Cap. III.
+
+## [2026-07-09] ingestão | Baptista Machado, Introdução ao Direito e ao Discurso Legitimador — cap. III fechado (obra pp. 63-77)
+- Leitura integral no MD; confronto com o PDF em todas as páginas do capítulo.
+- Extracção no reservatório (secção Cap. III); panorâmica assumida pela fonte; datações marcadas (art. 8º CRP de 1982; Código Comercial; Concordata de 1940; quadro comunitário pré-adesão).
+- **Errata da edição verificada em fonte primária**: «Tratado de Roma, de 25.4.1957» (p. 75) → 25 de Março de 1957 (EUR-Lex, CELEX 11957E); registada em «Erratas identificadas»; derivadas usam a data correcta.
+- Propagação (ok do aluno): criadas [[Conceitos/Direito Objectivo e Direito Subjectivo]] e [[Conceitos/Ramos do Direito]] (verificado; monocamada). Vistas: FDUP pontos 3, 7 e 8; NOVA ponto 10 (primeiro da NOVA); Católica Porto Parte II → monocamada.
+- Erratas da conversão MD: +1 («fome»→«fonte», p. 70), total 8.
+- Contradições: nenhuma. progresso: Caps. I-III de XI fechados; segue Cap. IV.
