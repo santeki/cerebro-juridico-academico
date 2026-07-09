@@ -1,0 +1,64 @@
+---
+tipo: vista-faculdade
+titulo: "FDUL — Direito"
+faculdade: "Faculdade de Direito da Universidade de Lisboa"
+curso: "Direito (licenciatura)"
+norma_citacao: ""
+ultima_actualizacao: 2026-07-09
+---
+
+# FDUL — Direito
+
+> Vista curricular da FDUL sobre o corpo de conhecimento da wiki. Fonte única, por ora: o programa da Turma A de «Introdução ao Estudo do Direito I», 2025-2026, regente José Alberto Vieira ([[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]]). O recorte é da turma e do regente — turmas diferentes podem ter programas distintos. Tudo sai do documento; nada foi inferido. O documento não indica ano curricular nem semestre; a designação «I» indicia desdobramento em duas partes, mas o programa da parte II não está no exemplar.
+
+## Ano por confirmar
+
+### Semestre por confirmar
+
+#### Introdução ao Estudo do Direito I (Turma A)
+- **Docente**: regente — Prof. Doutor José Alberto Vieira (programa, p. 1).
+- **Padrão de ensino do docente**: por preencher — sem fonte verificada além do próprio recorte do programa; não se preenche de memória.
+- **Avaliação**: o programa não indica regime nem datas.
+- **Bibliografia principal obrigatória** (programa, p. 6): Oliveira Ascensão, *O Direito / Introdução e Teoria Geral*, Almedina, 2005; Menezes Cordeiro, *Tratado de Direito Civil I*, Almedina, 2019; Romano Martinez, *Introdução ao Estudo do Direito*, AAFDL, 2021; Teixeira de Sousa, *Introdução ao Direito*, Almedina, 2012.
+- **Bibliografia complementar recomendada** (programa, p. 6): Bronze, *Lições de Introdução ao Direito*, 2006, e *Metodologia do Direito*, 2020; Canaris, 3.ª ed., 2002; Engisch, 2008; Larenz, 1997; Kaufmann, *Filosofia do Direito*, 2004; Kaufmann/Hassemer, 2002; Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, Almedina, 2002 → [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]; Wieacker, *História do Direito Privado Moderno*, 1980.
+- **Fontes da cadeira em `raw/`**: `raw/Faculdade de Direito da Universidade de Lisboa/Ano por confirmar/Semestre por confirmar/Introdução ao Estudo do Direito I/Programa/`.
+- **Programa** (pp. 1-5; transcrição ponto a ponto — a numeração de capítulos e secções do original preserva-se, incluindo as repetições [sic]) → páginas de conhecimento:
+
+  Capítulo I — Direito e ordem jurídica
+  1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir.
+  2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — por cobrir.
+  3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — por cobrir.
+  4. Coacção e coercibilidade — por cobrir.
+  5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — por cobrir.
+
+  Capítulo II — As fontes de direito
+  6. Secção I (Generalidades): noção de fonte de direito; critérios e classificação das fontes (intencionais/não intencionais, imediatas/mediatas, internas/internacionais); fontes de Direito e sistemas jurídicos internacionais — por cobrir.
+  7. Secção II (As fontes de Direito internacionais): fontes internacionais; fontes de Direito da União Europeia; primado do Direito da União Europeia sobre o Direito de fonte interna e limites constitucionais — por cobrir.
+  8. «Secção II» [sic] (As fontes de Direito internas imediatas): a lei — constitucional e ordinária, espécies, lei formal e material, actos legislativos e regulamentares, âmbito de vigência; as normas corporativas; o costume — noção, elementos, formação, costume e usos, modalidades (internacional, constitucional, jurisprudencial, geral), relevância actual e no Direito positivo português — por cobrir.
+  9. «Secção II» [sic] (As fontes de Direito internas mediatas): os usos; a jurisprudência — funções, valor jurídico da decisão, jurisprudência constante e uniformizada; a doutrina — por cobrir.
+  10. Secção IV (A hierarquia das fontes de Direito): organização estratificada em níveis; fontes internacionais e internas — primado do Direito da União e limites constitucionais; hierarquias e modificações; o valor da fonte de grau inferior incompatível com a de grau superior — juízos de desconformidade: inconstitucionalidade, ilegalidade, inexistência, invalidade e ineficácia — por cobrir.
+
+  Capítulo III — Vicissitudes das fontes de Direito
+  11. Publicação (obrigatoriedade, formas, efeitos e falta, divulgação); rectificações — por cobrir.
+  12. Entrada em vigor; *vacatio legis* — por cobrir.
+  13. Suspensão da vigência; cessação da vigência: caducidade e revogação (modalidades; lei revogatória e revogada; não repristinação) — por cobrir.
+
+  Capítulo IV — Norma jurídica e proposição jurídica
+  14. Secção I (Generalidades): fontes de Direito e normas jurídicas; norma e proposição jurídica; estrutura da norma; carácter hipotético da aplicação; características — por cobrir.
+  15. Secção II (Classificações de normas): geral, especial e excepcional; injuntivas e dispositivas; obrigatórias e prescritivas; permissivas e supletivas; proposições jurídicas não normativas (definições, ficções, presunções) e proposições incompletas — por cobrir.
+  16. «Secção IV» [sic] (Norma jurídica e princípio jurídico): princípios jurídicos — formulação; formais e materiais; princípio e norma — por cobrir.
+
+  «Capítulo IV» [sic] — O sistema jurídico
+  17. Definição; sistema externo e interno; funcionamento; características; a importância dos princípios para a construção do sistema — por cobrir.
+
+  Capítulo V — A sucessão das fontes de Direito no tempo
+  18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
+  19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
+
+- **Cobertura do programa**: 0 de 19 pontos cobertos — tudo «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
+- **Histórico de avaliações**: sem fontes de avaliação ingeridas.
+
+## Fila de prioridade (FDUL)
+1. Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador* — em ingestão ([[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]).
+2. Bibliografia obrigatória da turma, na sequência do plano do Telmo: Ascensão e Teixeira de Sousa primeiro; depois os específicos da FDUL (Menezes Cordeiro e Romano Martinez).
+3. Obter a ficha oficial da UC (ano curricular, semestre, ECTS, avaliação) e o programa de IED II.

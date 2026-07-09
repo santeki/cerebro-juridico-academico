@@ -6,6 +6,11 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Vistas de faculdade
 <!-- [[Faculdades/<Faculdade>]] — currículo de cada faculdade sobre o corpo comum. Índice em wiki/Faculdades.md. -->
+- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; cobertura 0; BM remetido nos blocos II-V).
+- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; cobertura 0; BM obrigatório).
+- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; cobertura 0; sem ano/semestre/bibliografia na fonte).
+- [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; cobertura 0; leituras por secção com páginas).
+- [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; cobertura 0; BM complementar).
 
 ## Avaliação (componente prática)
 <!-- [[Avaliação/<pagina>]] — fontes de avaliação reais (fonte-avaliacao: exames, casos, testes, correcções) e casos práticos de treino (caso-pratico). Índice em wiki/Avaliação/_indice.md. -->
@@ -42,6 +47,12 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Fontes ingeridas
 <!-- [[Fontes/<pagina>]] — referência, estado de verificação -->
+- [[Fontes/Ficha da UC — Introdução ao Direito (FDUP, 2025-2026)]] — ficha oficial SIGARRA; institucional; verificado.
+- [[Fontes/Página da UC — Introdução ao Estudo do Direito (Católica Porto, captura 2026-07-09)]] — página oficial FD-Porto; institucional; verificado (sem ano/semestre/bibliografia/avaliação na fonte).
+- [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
+- [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
+- [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **admitida (Fase 0), leitura por começar** — o campo `progresso:` da página diz onde vai.
 
 ---
 
@@ -50,3 +61,9 @@ Ver [[Faculdades]] — vistas por faculdade: cadeiras em curso, programa, datas 
 
 ## Lacunas em aberto
 <!-- Institutos/conceitos mencionados sem página própria; blocos por confirmar; tópicos de programa sem cobertura. A auditoria (planos 3 e 4) e o Examinador (modo cobertura) alimentam esta lista. -->
+- Católica Porto: ano curricular, semestre, regência, bibliografia e avaliação — a página capturada não os dá; obter ficha completa.
+- FDUL: ano curricular, semestre, ECTS e avaliação — o programa da Turma A não os dá; obter ficha oficial e o programa de IED II.
+- NOVA: guia capturado é da edição 2021 — obter ficha do ano corrente (regência e avaliação a reconfirmar); desalinhamento de numeração de capítulos do BM na «aplicação da lei no espaço» (guia: cap. IX, secção II; exemplar: cap. VIII, secção II) a confirmar na leitura.
+- Católica Lisboa: ficha é de 2023/2024 — obter a do ano corrente.
+- Baptista Machado: recensões e dados biográficos do autor por verificar (Situação da fonte, lacuna assinalada).
+- Todos os programas: cobertura a zero — nenhum ponto coberto por páginas de conhecimento ainda.

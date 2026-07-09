@@ -98,3 +98,34 @@ Tipos de entrada:
 
 ## [2026-07-09] Arquitectura | versao: 6.12 — método Augusta (voz evolutiva; contrato do resumo)
 - Evolução do fingerprint por correcções (proposta+evidência+✅; VOZ-EVOLUCAO.md); contrato de poda do ESTADO-RESUMO. Derrogação de governação registada. Decisão expressa do aluno.
+
+## [2026-07-09] ingestão | Ficha da UC — Introdução ao Direito (FDUP, 2025-2026)
+- Fonte admitida: institucional (ficha oficial SIGARRA, captura 2026-07-09), hash_raw registado. Caminho curto. Estado: verificado.
+- Páginas tocadas: [[Fontes/Ficha da UC — Introdução ao Direito (FDUP, 2025-2026)]], [[Faculdades/FDUP — Direito]] (criada: programa de 28 pontos transcrito, cobertura 0), [[Faculdades]].
+- Contradições: nenhuma. Lacunas: datas de avaliação não constam da ficha.
+
+## [2026-07-09] ingestão | Página da UC — Introdução ao Estudo do Direito (Católica Porto, captura 2026-07-09)
+- Fonte admitida: institucional (página oficial FD-Porto, captura 2026-07-09), hash_raw registado. Caminho curto. Estado: verificado.
+- Páginas tocadas: [[Fontes/Página da UC — Introdução ao Estudo do Direito (Católica Porto, captura 2026-07-09)]], [[Faculdades/Católica Porto — Direito]] (criada: 7 Partes transcritas, cobertura 0), [[Faculdades]].
+- Contradições: nenhuma. Lacunas: ano, semestre, regência, bibliografia e avaliação ausentes da fonte — fila: obter ficha completa.
+
+## [2026-07-09] ingestão | Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)
+- Fonte admitida: institucional (ficha da UC, retrato datado 2023/2024), hash_raw registado. Caminho curto. Estado: verificado.
+- Páginas tocadas: [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]], [[Faculdades/Católica Lisboa — Direito]] (criada: 15 pontos transcritos com leituras por secção, cobertura 0), [[Faculdades]].
+- Contradições: nenhuma. Notas: numeração da ficha preservada com [sic] (Cap. II, Secção I sem § 1º); desalinhamento de anos lectivos entre vistas sinalizado.
+
+## [2026-07-09] ingestão | Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)
+- Fonte admitida: institucional (programa da Turma A, regente José Alberto Vieira), hash_raw registado. Caminho curto. Estado: verificado.
+- Páginas tocadas: [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]], [[Faculdades/FDUL — Direito]] (criada: 19 pontos transcritos, numeração do original preservada com [sic], cobertura 0), [[Faculdades]].
+- Contradições: nenhuma. Lacunas: ano, semestre, ECTS e avaliação ausentes; programa de IED II não incluído.
+
+## [2026-07-09] ingestão | Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)
+- Fonte admitida: institucional (NOVA Guia de Cursos, edição 2021 — retrato datado), hash_raw registado. Caminho curto. Estado: verificado.
+- Páginas tocadas: [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]], [[Faculdades/NOVA School of Law — Direito]] (preenchida: 21 pontos transcritos com remissões FA/BM, cobertura 0), [[Faculdades]].
+- Contradições: nenhuma. Erratas do original registadas na página de fonte («IGNOREes» por «fontes», confirmado visualmente; «compararando» [sic]). Lacunas: ficha do ano corrente por obter.
+
+## [2026-07-09] ingestão | Baptista Machado, Introdução ao Direito e ao Discurso Legitimador — Fase 0 (admissão; leitura por começar)
+- Obra admitida: doutrina-verificada (13.ª reimpressão, Almedina, Outubro de 2002; rosto e ficha técnica confirmados no PDF; existência confirmada por quatro fichas institucionais). hash_raw (PDF, o exemplar) e hash do derivado de leitura (MD da Oficina) registados.
+- Probe de paginação feito (4 âncoras): folha N do PDF ↔ obra pp. 2N−4/2N−3; citação pela página da obra.
+- Agenda de leitura e bloco panorâmico registados na página de fonte; mapa de tratamento fixado (núcleo I-VIII e X; periferia IX e XI). `progresso:` = leitura por começar (Cap. I a seguir).
+- Não é ainda «fonte estudada»: nenhuma afirmação da obra entrou em páginas de conhecimento.
