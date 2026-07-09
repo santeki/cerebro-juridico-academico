@@ -24,7 +24,7 @@ ultima_actualizacao: 2026-07-09
 - **Caracterização** (página, p. 1): 7.5 ECTS · semestral · português.
 - **Programa** (página, p. 2; transcrição ponto a ponto — as Partes I, II e IV surgem só com título, sem sub-pontos; a lista não se completa além do que a fonte dá) → páginas de conhecimento:
 
-  Parte I — Introdução. Aproximação a uma ideia de Direito — por cobrir.
+  Parte I — Introdução. Aproximação a uma ideia de Direito — [[Conceitos/Noção de Direito]] · [[Conceitos/Instituição]] — monocamada (BM, caps. I-II).
 
   Parte II — A Macroestrutura do Direito — por cobrir.
 
@@ -49,7 +49,7 @@ ultima_actualizacao: 2026-07-09
   10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas — por cobrir.
   11. A aplicação da lei no espaço (referência) — por cobrir.
 
-- **Cobertura do programa**: 0 pontos cobertos — tudo «por cobrir» (7 Partes; 11 sub-pontos enumerados onde a página os dá). O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: Parte I em monocamada (BM, caps. I-II, fechada em 2026-07-09); restantes 6 Partes (11 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Porto)

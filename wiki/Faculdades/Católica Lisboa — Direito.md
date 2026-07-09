@@ -28,7 +28,7 @@ ultima_actualizacao: 2026-07-09
   1. § 1º A sociabilidade e a necessidade do Direito (*ubi ius ibi societas*; *ubi societas ibi ius*) — [[Conceitos/Instituição]] — monocamada (BM, cap. I; a ficha recomenda aqui Santos Justo, ainda não ingerido).
   2. § 2º A centralidade da dimensão prática do Direito — por cobrir.
   3. § 3º A chamada tridimensionalidade do Direito — por cobrir.
-  4. § 4º A autonomização da ordem jurídica em relação à ordem religiosa, à ordem moral e à ordem de trato social — em especial, a relação entre Direito e Moral — por cobrir.
+  4. § 4º A autonomização da ordem jurídica em relação à ordem religiosa, à ordem moral e à ordem de trato social — em especial, a relação entre Direito e Moral — [[Conceitos/Noção de Direito]] — monocamada (BM, cap. II, § 5º).
   Leituras da ficha: Santos Justo, 3-23; alternativas: Teixeira de Sousa, 49-57; Ascensão, 23-42, 56-59, 214-216 (p. 2).
 
   Capítulo I — Sistema jurídico
@@ -40,7 +40,7 @@ ultima_actualizacao: 2026-07-09
   10. Secção VI: A determinação do âmbito espacial e temporal da norma (§ 1º antinomias normativas — hierarquia e competência, lei especial e lei posterior; § 2º aplicação da lei no espaço (breve); § 3º aplicação da lei no tempo — direito transitório e critérios gerais; não retroatividade — retroatividade e retrospetividade, art. 12º, nº 1, do Código Civil e proibições constitucionais, leis retroativas, lei interpretativa, lei penal mais favorável; critério geral do art. 12º, nº 2 — validade dos factos vs conteúdo das relações, estatuto contratual e leis confirmatórias; regime especial do art. 297º do Código Civil) — por cobrir. Leituras: «BAPTISTA MACHADO, Introdução, 170-272 e 307-332»; Maria João Fernandes, Anotação aos arts. 12º e 13º do CC, *Comentário ao Código Civil — Parte Geral*, UCE 2014; alt.: Teixeira de Sousa, 279-298; Santos Justo, 353-371 (pp. 5-6).
 
   Capítulo II — Efetividade e tutela
-  11. Secção I: Direito e efetividade (a ficha enumera § 2º Direito, Imperatividade e Coercibilidade e § 3º Direito, Estado e pluralismo jurídico, sem § 1º [sic]) — por cobrir.
+  11. Secção I: Direito e efetividade (a ficha enumera § 2º Direito, Imperatividade e Coercibilidade e § 3º Direito, Estado e pluralismo jurídico, sem § 1º [sic]) — [[Conceitos/Coercibilidade]] · [[Conceitos/Noção de Direito]] — monocamada (BM, cap. II, §§ 1º e 3º).
   12. Secção II: Tutela do Direito (§ 1º hétero-tutela e autotutela; § 2º tutela pública — tutela coativa como prerrogativa quase exclusiva dos órgãos estaduais; tribunais e garantia judiciária, acesso aos tribunais e tutela jurisdicional efetiva, processo declarativo vs executivo e providências cautelares; § 3º tutela privada) — por cobrir. Leituras: Nogueira de Brito, 459-499; alt.: Teixeira de Sousa, 109-115; Santos Justo, 145-167 (pp. 6-7).
 
   Capítulo III — Direito e Justiça: o problema do Direito injusto
@@ -50,7 +50,7 @@ ultima_actualizacao: 2026-07-09
 
   Nota da ficha (p. 8): a matéria dos ramos do direito é tratada exclusivamente nas aulas práticas e não vem autonomizada no programa.
 
-- **Cobertura do programa**: 1 de 15 pontos em monocamada (ponto 1 — BM, cap. I, fechado em 2026-07-09); 14 «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 3 de 15 pontos em monocamada (pontos 1, 4 e 11 — BM, caps. I-II, fechados em 2026-07-09); 12 «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Lisboa)

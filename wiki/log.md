@@ -136,3 +136,11 @@ Tipos de entrada:
 - Propagação (ok do aluno): criada [[Conceitos/Instituição]] (verificado; monocamada). Vistas: FDUP ponto 1 e Católica Lisboa ponto 1 → monocamada (BM cap. I).
 - Errata da conversão MD: 5 entradas em raw/Biblioteca/Doutrina/Livros/João Baptista Machado/Introdução ao Direito e ao Discurso Legitimador-ERRATA-MD.md (Ilse Schwidetzki; Anatol Rapoport; tomamos; título do § 9; ponto 12 omisso no índice gerado).
 - Contradições: nenhuma. progresso: Cap. I de XI fechado; segue Cap. II.
+
+## [2026-07-09] ingestão | Baptista Machado, Introdução ao Direito e ao Discurso Legitimador — cap. II fechado (obra pp. 31-62)
+- Leitura integral no MD; confronto com o PDF nas pp. 31-43, 48-51 e 56-62 (todas as citações literais e referências normativas conferidas; spot-checks acima do mínimo).
+- Extracção no reservatório (secção Cap. II da página de fonte); relatos marcados (Weber, Larenz, Esser, Le Fur apud Freund, Castanheira Neves, Freund, Kelsen, Tomás de Aquino, Herder, Luhmann, Hartmann, Henkel, Radbruch, Kant, Latorre); remissões normativas de 1982 (CRP, CP de 1886, art. 7º CC) marcadas datadas, sem conversão de memória.
+- Propagação (ok do aluno): criadas [[Conceitos/Noção de Direito]], [[Conceitos/Coercibilidade]] e [[Conceitos/Segurança Jurídica]] (verificado; monocamada), cross-links com [[Conceitos/Instituição]]. Vistas: FDUP pontos 2, 4 e 5; Católica Porto Parte I; Católica Lisboa pontos 4 e 11; FDUL ponto 4 → monocamada.
+- Erratas da conversão MD: +2 (HEROER→HERDER; l.Rbenswelt→Lebenswelt), total 7.
+- Dúvida em aberto: «Castanheira Neves, ob. cit., pp. 353 e 359» (BM, p. 36) — obra do relato por identificar no exemplar.
+- Contradições: nenhuma. progresso: Caps. I-II de XI fechados; segue Cap. III.

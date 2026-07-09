@@ -28,7 +28,7 @@ ultima_actualizacao: 2026-07-09
   1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir.
   2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — por cobrir.
   3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — por cobrir.
-  4. Coacção e coercibilidade — por cobrir.
+  4. Coacção e coercibilidade — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
   5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — por cobrir.
 
   Capítulo II — As fontes de direito
@@ -55,7 +55,7 @@ ultima_actualizacao: 2026-07-09
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
 
-- **Cobertura do programa**: 0 de 19 pontos cobertos — tudo «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 1 de 19 pontos em monocamada (ponto 4 — BM, cap. II, fechado em 2026-07-09); 18 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)
