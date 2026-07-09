@@ -89,3 +89,6 @@ Tipos de entrada:
 
 ## [2026-07-08] Arquitectura | versao: 6.9 — sedes, paridade e modos (trabalhos adiados)
 - Piloto de consolidação: padrão sede-única confirmado instalado; eco da regra 10 fundido; «Arquitectura de sedes» codificada nas convenções. Paridade: divergências dos 3 ficheiros ≥ 0.90 classificadas intencionais; deriva zero; paridade.py com baseline instalado na fonte. Modos: todos mantidos com fundamento; Mapeador transversal sob telemetria — revisão marcada para quando houver dados de uma cadeira completa. Decisão expressa do aluno.
+
+## [2026-07-09] Arquitectura | versao: 6.10 — perspectiva curricular
+- Syllabus como bússola, não algemas: regra de perspectiva na consulta (ordena, não amputa; fora-do-programa e outras escolas marcados) e no Examinador (padrão do docente primeiro; outras escolas como contraste que soma em exame). Não toca a linha profissional. Decisão expressa do aluno.
