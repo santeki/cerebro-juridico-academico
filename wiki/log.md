@@ -129,3 +129,10 @@ Tipos de entrada:
 - Probe de paginação feito (4 âncoras): folha N do PDF ↔ obra pp. 2N−4/2N−3; citação pela página da obra.
 - Agenda de leitura e bloco panorâmico registados na página de fonte; mapa de tratamento fixado (núcleo I-VIII e X; periferia IX e XI). `progresso:` = leitura por começar (Cap. I a seguir).
 - Não é ainda «fonte estudada»: nenhuma afirmação da obra entrou em páginas de conhecimento.
+
+## [2026-07-09] ingestão | Baptista Machado, Introdução ao Direito e ao Discurso Legitimador — cap. I fechado (obra pp. 7-29)
+- Leitura integral do capítulo no MD, confrontada com o PDF em todas as páginas (acima dos três spot-checks); citações literais conferidas carácter a carácter.
+- Extracção no reservatório ([[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]], secção Cap. I); relatos marcados (Rocher, Eisenstadt, Hauriou, Burdeau, Durkheim, Parsons, Luhmann, Weber, Mill, Winch, Henkel, Savigny em relato em Henkel).
+- Propagação (ok do aluno): criada [[Conceitos/Instituição]] (verificado; monocamada). Vistas: FDUP ponto 1 e Católica Lisboa ponto 1 → monocamada (BM cap. I).
+- Errata da conversão MD: 5 entradas em raw/Biblioteca/Doutrina/Livros/João Baptista Machado/Introdução ao Direito e ao Discurso Legitimador-ERRATA-MD.md (Ilse Schwidetzki; Anatol Rapoport; tomamos; título do § 9; ponto 12 omisso no índice gerado).
+- Contradições: nenhuma. progresso: Cap. I de XI fechado; segue Cap. II.

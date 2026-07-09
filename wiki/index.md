@@ -23,6 +23,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Conceitos
 <!-- [[Conceitos/<pagina>]] — resumo. Páginas de desambiguação de homónimos (dolo, etc.) marcadas como tal. -->
+- [[Conceitos/Instituição]] — noção (corrente, sociológica em relato, jurídica), instituto jurídico, funções, juridificação; monocamada (BM, cap. I); verificado.
 
 ## Doutrina
 <!-- [[Doutrina/<autor>]] — área, obras na wiki, patamar N1/N2 -->

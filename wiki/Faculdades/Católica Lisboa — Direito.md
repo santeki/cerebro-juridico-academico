@@ -25,7 +25,7 @@ ultima_actualizacao: 2026-07-09
 - **Programa** (ficha, pp. 2-7; transcrição ponto a ponto, com as leituras que a própria ficha prescreve por secção) → páginas de conhecimento:
 
   Primeiras Aproximações
-  1. § 1º A sociabilidade e a necessidade do Direito (*ubi ius ibi societas*; *ubi societas ibi ius*) — por cobrir.
+  1. § 1º A sociabilidade e a necessidade do Direito (*ubi ius ibi societas*; *ubi societas ibi ius*) — [[Conceitos/Instituição]] — monocamada (BM, cap. I; a ficha recomenda aqui Santos Justo, ainda não ingerido).
   2. § 2º A centralidade da dimensão prática do Direito — por cobrir.
   3. § 3º A chamada tridimensionalidade do Direito — por cobrir.
   4. § 4º A autonomização da ordem jurídica em relação à ordem religiosa, à ordem moral e à ordem de trato social — em especial, a relação entre Direito e Moral — por cobrir.
@@ -50,7 +50,7 @@ ultima_actualizacao: 2026-07-09
 
   Nota da ficha (p. 8): a matéria dos ramos do direito é tratada exclusivamente nas aulas práticas e não vem autonomizada no programa.
 
-- **Cobertura do programa**: 0 de 15 pontos cobertos — tudo «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 1 de 15 pontos em monocamada (ponto 1 — BM, cap. I, fechado em 2026-07-09); 14 «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Lisboa)

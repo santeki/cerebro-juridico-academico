@@ -25,7 +25,7 @@ ultima_actualizacao: 2026-07-09
 - **Programa** (ficha, pp. 2-3; transcrição ponto a ponto) → páginas de conhecimento:
 
   I. Noção e Sentido do Direito
-  1. O Ser Humano, a sociedade e o Direito — por cobrir.
+  1. O Ser Humano, a sociedade e o Direito — [[Conceitos/Instituição]] — monocamada (BM, cap. I).
   2. O Direito como ordem normativa e como sistema institucional: confronto com outras ordens normativas — por cobrir.
   3. Direito em sentido objetivo e direito(s) em sentido subjetivo — por cobrir.
   4. O Direito, a autoridade e o poder: a problemática da coação — por cobrir.
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 0 de 28 pontos cobertos — tudo «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar passam a «monocamada» ou «coberto» no fecho de cada estudo.
+- **Cobertura do programa**: 1 de 28 pontos em monocamada (ponto 1 — BM, cap. I, fechado em 2026-07-09); 27 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)
