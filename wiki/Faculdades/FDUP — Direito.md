@@ -56,9 +56,9 @@ ultima_actualizacao: 2026-07-09
   19. Hierarquia e conflitos de normas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 11-12).
 
   VII. A efetivação do Direito
-  20. O método jurídico — por cobrir.
-  21. Interpretação da lei: fins, elementos e resultados — por cobrir.
-  22. Integração de lacunas — por cobrir.
+  20. O método jurídico — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII: querela dos métodos, posição do CC e postulados hermenêuticos; a reserva de BM ao esquema subsuntivo em [[Conceitos/Integração da Lei]]).
+  21. Interpretação da lei: fins, elementos e resultados — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII, Secções I-II e IV).
+  22. Integração de lacunas — [[Conceitos/Integração da Lei]] — monocamada (BM, cap. VII, Secção III).
 
   VIII. Aplicação da lei no tempo
   23. Identificação do problema — por cobrir.
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 18 de 28 pontos em monocamada (pontos 1-5 e 7-19 — BM, caps. I-VI, fechados em 2026-07-09/10); 10 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 21 de 28 pontos em monocamada (pontos 1-5 e 7-22 — BM, caps. I-VII, fechados em 2026-07-09/10); 7 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

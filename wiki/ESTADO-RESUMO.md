@@ -24,29 +24,30 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 14 | teoria do Direito (BM caps. I-VI); tudo `verificado` |
-| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-VI de XI) |
+| Conceitos | 16 | teoria do Direito (BM caps. I-VII); tudo `verificado` |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-VII de XI) |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. VII).
-- [[Conceitos/Tutela do Direito]] — porta de entrada da matéria da tutela; ligada por 5 conceitos e 5 vistas.
-- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VI (sentido/coacção; auto-referência; positivação).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. VIII).
+- [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC na redacção mantida de 1966).
+- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; auto-referência; positivação; dialéctica positivo/trans-positivo).
 - [[Conceitos/Fontes de Direito]] e [[Conceitos/Vigência das Normas]] — o par do cap. VI (produção do Direito; dinâmica temporal e hierárquica da norma posta).
+- [[Conceitos/Tutela do Direito]] — porta de entrada da matéria da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
 
-- [2026-07-10] ingestão | BM cap. VI (fontes e vigência) → [[Conceitos/Fontes de Direito]] e [[Conceitos/Vigência das Normas]] criadas; integrações em 4 conceitos + errata na Tutela; 5 vistas actualizadas (FDUP 18/28, NOVA 7/21, C.Porto I-V, C.Lisboa 6/15, FDUL 11/19); errata MD 33 entradas; erratas da edição arts. 5º/2 e 7º/4 CC (DRE) e art. 1º CPC (dúvida do cap. V fechada); hipótese CN circunscrita (BFD LI, 1975).
-- [2026-07-10] ingestão | BM cap. V (tutela) → [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] criadas; integrações em 4 conceitos; 5 vistas actualizadas (FDUP 15/28, NOVA 5/21, C.Porto I-IV, C.Lisboa 5/15, FDUL 5/19); errata MD 19 entradas; errata da edição «91º→21º» verificada.
+- [2026-07-10] ingestão | BM cap. VII (interpretação e integração) → [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] criadas; integrações em 6 conceitos; 4 vistas actualizadas (FDUP 21/28, NOVA 9/21, C.Porto I-VI, C.Lisboa 7/15; FDUL sem ponto autónomo); verificador de citações verde (29; 9 adjudicadas pela imagem; 4 erratas novas apanhadas); errata MD 51 entradas; erratas da edição «1976» p. 175 e ZITTELMANN p. 195; dossier CN alargado (2 refs completas novas); arts. 8º-13º CC confirmados em consolidações (DRE em aberto, JS).
+- [2026-07-10] Decisões | fecho de conversa passa a regenerar obrigatoriamente o doc `claude/estado-do-cofre.md` do projecto; fecho de cada fonte ingerida passa a incluir revisão total (auditoria integral 4 planos + coerência dos derivados; em obra longa, no fecho da obra); entrega à Oficina única e no fim do BM (relatório de padrões + errata consolidada); bugs/melhorias diferidos para o fim (7 itens acumulados: a-g).
+- [2026-07-10] ingestão | BM cap. VI (fontes e vigência) → [[Conceitos/Fontes de Direito]] e [[Conceitos/Vigência das Normas]] criadas; integrações em 4 conceitos + errata na Tutela; 5 vistas actualizadas; errata MD 36 entradas; erratas da edição arts. 5º/2 e 7º/4 CC (DRE) e art. 1º CPC (dúvida do cap. V fechada); hipótese CN circunscrita (BFD LI, 1975).
+- [2026-07-10] ingestão | BM cap. V (tutela) → [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] criadas; integrações em 4 conceitos; 5 vistas actualizadas; errata MD 19 entradas; errata da edição «91º→21º» verificada.
 - [2026-07-09] ingestão | 5 fichas institucionais (FDUP, C.Porto, C.Lisboa, FDUL, NOVA) → 5 vistas; BM Fase 0 + caps. I-IV → 10 conceitos criados.
-- [2026-07-09] Arquitectura | 6.10 (perspectiva curricular) · 6.11 (derivados desactualizados) · 6.12 (voz evolutiva; contrato deste resumo).
-- [2026-07-08] Arquitectura | 6.7 (referências nos produtos) · 6.8 (CHANGELOG; git; telemetria; relações tipadas) · 6.9 (sedes; paridade; modos).
-- [2026-07-07] Arquitectura | 4.1.2→6.6 (charter consolidada; protocolos; certificação; produção; empacotamento).
+- [2026-07-08/09] Arquitectura | 6.7-6.12 (referências nos produtos; CHANGELOG/git/telemetria; sedes; perspectiva curricular; derivados desactualizados; voz evolutiva; contrato deste resumo).
 
 ## Última passagem completa
 
-2026-07-10 — regeneração total deste resumo (segunda, no fecho do cap. VI do BM).
+2026-07-10 — regeneração total deste resumo (terceira, no fecho do cap. VII do BM).
 
 ---
 

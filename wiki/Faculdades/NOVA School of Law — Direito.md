@@ -47,8 +47,8 @@ ultima_actualizacao: 2026-07-09
   13. Estrutura da Norma Jurídica (BM, cap. IV, sessão I, § 1) — [[Conceitos/Norma Jurídica]] · [[Conceitos/Facto Jurídico]] · [[Conceitos/Personalidade Jurídica]] — monocamada.
   14. Classificação da Norma Jurídica (BM, cap. IV, sessão I, § 2) — [[Conceitos/Norma Jurídica]] — monocamada.
   15. Codificação e técnicas legislativas (BM, cap. IV, sessão II) — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada.
-  16. Interpretação da lei (BM, cap. VII, seções I e II) — por cobrir.
-  17. Integração da lei (BM, cap. VII, seções III e IV) — por cobrir.
+  16. Interpretação da lei (BM, cap. VII, seções I e II) — [[Conceitos/Interpretação da Lei]] — monocamada (a remissão do guia coincide com o exemplar; a Secção IV, postulados hermenêuticos, entra pela remissão do ponto 17).
+  17. Integração da lei (BM, cap. VII, seções III e IV) — [[Conceitos/Integração da Lei]] — monocamada (a Secção III é a integração; a Secção IV, que o guia lhe agrega, são os postulados hermenêuticos, tratados em [[Conceitos/Interpretação da Lei]] e [[Conceitos/Noção de Direito]]).
   18. Aplicação da lei no tempo (BM, cap. VIII, seção I, § 1) — por cobrir.
   19. Não-retroatividade e suas aplicações (BM, cap. VIII, seção I, § 2) — por cobrir.
   20. Aplicação da lei no espaço (BM, cap. IX, seção II) — por cobrir.
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-09
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V).
 
-- **Cobertura do programa**: 7 de 21 pontos em monocamada (pontos 10-15 e 21 — BM, caps. III-VI, fechados em 2026-07-09/10); 14 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
+- **Cobertura do programa**: 9 de 21 pontos em monocamada (pontos 10-17 e 21 — BM, caps. III-VII, fechados em 2026-07-09/10); 12 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)
