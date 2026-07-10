@@ -9,11 +9,9 @@ ultima_regeneracao: 2026-07-10
 
 > **Reescrito a cada regeneração** (`PROTOCOLO-PAINEL.md`). Retrato do agora, não histórico — derivado do estado do cofre, nada aqui é fonte original.
 
-## A rever agora (revisão espaçada)
+## Revisão espaçada (regime opt-in — Decisão de 2026-07-10)
 
-As dez páginas de conceito criadas em 2026-07-09 têm `revisao_proxima: 2026-07-10` — **devidas hoje**: [[Conceitos/Instituição]] · [[Conceitos/Noção de Direito]] · [[Conceitos/Coercibilidade]] · [[Conceitos/Segurança Jurídica]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] · [[Conceitos/Ramos do Direito]] · [[Conceitos/Norma Jurídica]] · [[Conceitos/Facto Jurídico]] · [[Conceitos/Personalidade Jurídica]] · [[Conceitos/Codificação e Técnicas Legislativas]]. («revi {página}: bem | mal» regista e recalcula.)
-
-As seis criadas em 2026-07-10 — [[Conceitos/Tutela do Direito]] · [[Conceitos/Jurisdição]] · [[Conceitos/Fontes de Direito]] · [[Conceitos/Vigência das Normas]] · [[Conceitos/Interpretação da Lei]] · [[Conceitos/Integração da Lei]] — vencem a 2026-07-11.
+Nenhuma página em revisão marcada. O ciclo automático foi desligado por decisão do Telmo: página nova nasce **fora do ciclo**, e entra quando (a) o Telmo a marcar — «quero rever X» ou «vou estudar {matéria}» — ou (b) um exame ou frequência se aproximar no calendário da vista, caso em que este painel propõe as páginas dessa matéria por urgência. Registo continua igual: «revi {página}: bem | mal» (bem expande 1→3→7→16→35 dias; mal volta ao início). As 16 páginas de conceito existentes estão fora do ciclo; os campos `revisao_*` do frontmatter são retrato do regime anterior até à codificação formal (item (h) da lista de melhorias). Sem calendário de avaliações carregado nas vistas, o gatilho (b) está dormente — carregar datas quando existirem.
 
 ## Em curso
 
