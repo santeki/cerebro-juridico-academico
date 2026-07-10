@@ -46,9 +46,9 @@ ultima_actualizacao: 2026-07-09
   13. Técnicas legislativas principais — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, Secção II, §§ 2º-4º).
 
   V. A tutela do Direito e dos direitos
-  14. Meios de tutela jurídica — por cobrir.
-  15. Modalidades de tutela quanto aos fins — por cobrir.
-  16. Modalidades de tutela quanto aos entes — por cobrir.
+  14. Meios de tutela jurídica — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, §§ 1º-2º).
+  15. Modalidades de tutela quanto aos fins — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º: preventiva, compulsiva, reconstitutiva, punitiva, recusa de efeitos).
+  16. Modalidades de tutela quanto aos entes — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V: heterotutela/autotutela, §§ 2º-4º).
 
   VI. Fontes de Direito e Vigência das normas
   17. Modalidades das fontes de Direito — por cobrir.

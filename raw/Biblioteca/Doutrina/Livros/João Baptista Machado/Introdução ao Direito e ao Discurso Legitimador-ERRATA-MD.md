@@ -18,5 +18,14 @@
 | 12 | p. 29 ([p. 16]) | «dupla institucionali1.ação» | «dupla institucionalização» |
 | 13 | p. 99 ([p. 51]) | «por uma forma citntífico- -sistemática» | «por uma forma científico-sistemática» |
 | 14 | p. 12 ([p. 8]) | «uestrutura estratificada» / «uconsciência colectiva» (aspas de abertura corrompidas em «u») | «"estrutura estratificada"» / «"consciência colectiva"» — padrão recorrente no MD: aspas de abertura lidas como «u» ou «••» |
+| 15 | p. 132 ([p. 68]) | «nos termos da alínea z) do n. 0 1 do art. 1093. 0» | «nos termos da alínea i) do n.º 1 do art. 1093.º» — **substantiva**: a alínea da remissão normativa está errada no MD (PDF ampliado a 300 dpi: «i)») |
+| 16 | p. 146 ([p. 75]) | «aquela que o art. Jl5. 0 do Tratado de» | «aquela que o art. 85.º do Tratado de» — **substantiva**: o dígito «8» está parcialmente degradado na impressão do exemplar; leitura «85º» confirmada pelo objecto do artigo (acordos restritivos da concorrência) contra EUR-Lex, CELEX 11957E085 |
+| 17 | p. 140 ([p. 72]) | «não passa duma *fie tio iuris*» / «uma tal *fletia iuris*» | «não passa duma *fictio iuris*» / «uma tal *fictio iuris*» (termo latino deformado nas duas ocorrências) |
+| 18 | p. 125 ([p. 64]) | «a função da *reciproddac*/(! e da cooperação» | «a função da *reciprocidade* e da cooperação» |
+| 19 | p. 128 ([p. 66]) | «a *indemnização por equiva/eme*» | «a *indemnização por equivalente*» |
+| 20 | p. 130 ([p. 67]) | «restituir-se ao exercício do direit:o de que seja titular pór sua própria força» | «restituir-se ao exercício do direito de que seja titular por sua própria força» (citação do art. 1º do CPC usada literalmente na wiki; impressão confirmada em ampliação a 300 dpi) |
+| 21 | p. 133 ([p. 68]) | «"reacção da ordem juridica à inobservância ou à violação das suas normas"» | «"reacção da ordem jurídica à inobservância ou à violação das suas normas"» («jurídica» com acento na impressão, confirmado em ampliação a 300 dpi; definição de sanção usada literalmente na wiki) |
+| 22 | p. 139 ([p. 71]) | «órgãos de soberania com compe.tência para administrar» | «órgãos de soberania com competência para administrar» (hifenização de linha lida como ponto; citação do art. 205º da CRP usada literalmente na wiki) |
+| 23 | p. 146 ([p. 75]) | «mas talvez mais urna função administractiva» | «mas talvez mais uma função administractiva» («urna» é do MD; «administractiva» é gralha do próprio exemplar, confirmada em ampliação a 300 dpi — cita-se com [sic]) |
 
 Notas: (a) o ruído difuso de OCR do MD (acentos trocados, caracteres soltos) só entra nesta errata quando toque passagem usada na wiki ou deforme o sentido; (b) gralhas do próprio exemplar não entram aqui — citam-se como estão, com [sic] quando relevante.

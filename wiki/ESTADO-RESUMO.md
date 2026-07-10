@@ -2,7 +2,7 @@
 tipo: estado-resumo
 titulo: "Resumo de estado (fotografia podada do conhecimento)"
 estado_verificacao: verificado
-ultima_actualizacao: AAAA-MM-DD
+ultima_actualizacao: 2026-07-10
 ---
 
 # Resumo de estado
@@ -21,34 +21,30 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Estado da wiki (contagens por categoria)
 
-_Vazio no arranque. Regenerado a partir de `index.md`: uma linha por categoria, com a contagem de páginas. Só os números correntes._
-
 | Categoria | Páginas | Nota |
 |---|---|---|
-<!-- Institutos | N | -->
-<!-- Conceitos | N | -->
-<!-- Doutrina | N | -->
-<!-- Jurisprudência | N | -->
-<!-- Legislação | N | (⚠ M com vacatio a vencer) -->
-<!-- Temas | N | -->
-<!-- Debates (divergências vivas) | N | -->
+| Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
+| Conceitos | 12 | teoria do Direito (BM caps. I-V); tudo `verificado` |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-V de XI) |
+| Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-_As páginas centrais — as mais ligadas, as que servem de porta de entrada a uma cadeira ou instituto. Uma linha cada. Regeneradas pela contagem de backlinks ou por marcação manual._
-
-<!-- - [[Institutos/Boa-fé]] — porta de entrada ao instituto; liga a M aplicações de ramo. -->
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. VI).
+- [[Conceitos/Tutela do Direito]] — porta de entrada da matéria da tutela; ligada por 5 conceitos e 5 vistas.
+- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-V (sentido/coacção; auto-referência do sistema).
 
 ## Mudanças recentes (últimos 7 dias)
 
-_Deltas dos últimos sete dias, um por linha, mais recente primeiro. Extraídos de `log.md`. No máximo uma linha por dia e por tipo de operação; descarta-se o que é mais antigo do que sete dias._
-
-<!-- - [AAAA-MM-DD] Ingestão | <fonte> → <páginas tocadas> -->
-<!-- - [AAAA-MM-DD] Consulta | <pergunta> devolvida a [[Temas/...]] -->
+- [2026-07-10] ingestão | BM cap. V (tutela) → [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] criadas; integrações em 4 conceitos; 5 vistas actualizadas (FDUP 15/28, NOVA 5/21, C.Porto I-IV, C.Lisboa 5/15, FDUL 5/19); errata MD 19 entradas; errata da edição «91º→21º» verificada.
+- [2026-07-09] ingestão | 5 fichas institucionais (FDUP, C.Porto, C.Lisboa, FDUL, NOVA) → 5 vistas; BM Fase 0 + caps. I-IV → 10 conceitos criados.
+- [2026-07-09] Arquitectura | 6.10 (perspectiva curricular) · 6.11 (derivados desactualizados) · 6.12 (voz evolutiva; contrato deste resumo).
+- [2026-07-08] Arquitectura | 6.7 (referências nos produtos) · 6.8 (CHANGELOG; git; telemetria; relações tipadas) · 6.9 (sedes; paridade; modos).
+- [2026-07-07] Arquitectura | 4.1.2→6.6 (charter consolidada; protocolos; certificação; produção; empacotamento).
 
 ## Última passagem completa
 
-_AAAA-MM-DD — regeneração total deste resumo._
+2026-07-10 — regeneração total deste resumo (primeira; até aqui vigorava a isenção de wiki pequena da regra 5).
 
 ---
 

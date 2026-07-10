@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-10
 ---
 
 # Noção de Direito
@@ -23,7 +23,9 @@ BM opta pela segunda: toda a realidade social se especifica pelo seu sentido, e 
 
 ## Vigência como dimensão essencial
 
-O Direito é também realidade social com existência no tempo e no espaço: a essa existência histórica — observância efectiva pelos destinatários, aplicação efectiva por órgãos instituídos — chama BM *vigência* ou *eficácia social*; um complexo de normas informado pelo ideal de Justiça mas sem vigência positiva não é Direito (BM, pp. 33-34). No mesmo passo, «todo o Direito ou é positivo (vigente) ou não é Direito» — com apoio, em nota do mediador, «por todos», em Castanheira Neves (ob. cit., pp. 353 e 359, sobre a ligação incindível entre validade e vigência; obra não identificada até este ponto do exemplar — verificação em aberto) (BM, p. 36). Daí a *particular articulação* do ser e do dever-ser em que a juridicidade consiste: o conteúdo normativo-valorativo não depende da eficácia, mas os valores só têm juridicidade institucionalizados na ordem social real; em relato, Kelsen — a eficácia constitui um limite à validade, e a norma que perca eficácia pelo desuso (*desuetudo*) deixa de ser válida (BM, p. 42; a observação de BM sobre a eficácia revogatória negativa do desuso «não obstante o que se diz no art. 7º do Código Civil» reporta-se à redacção de 1982 — confronto com a versão vigente antes de uso actual).
+O Direito é também realidade social com existência no tempo e no espaço: a essa existência histórica — observância efectiva pelos destinatários, aplicação efectiva por órgãos instituídos — chama BM *vigência* ou *eficácia social*; um complexo de normas informado pelo ideal de Justiça mas sem vigência positiva não é Direito (BM, pp. 33-34). No mesmo passo, «todo o Direito ou é positivo (vigente) ou não é Direito» — com apoio, em nota do mediador, «por todos», em Castanheira Neves (ob. cit., pp. 353 e 359, sobre a ligação incindível entre validade e vigência; obra não identificada até à p. 151 do exemplar — verificação em aberto) (BM, p. 36). Daí a *particular articulação* do ser e do dever-ser em que a juridicidade consiste: o conteúdo normativo-valorativo não depende da eficácia, mas os valores só têm juridicidade institucionalizados na ordem social real; em relato, Kelsen — a eficácia constitui um limite à validade, e a norma que perca eficácia pelo desuso (*desuetudo*) deixa de ser válida (BM, p. 42; a observação de BM sobre a eficácia revogatória negativa do desuso «não obstante o que se diz no art. 7º do Código Civil» reporta-se à redacção de 1982 — confronto com a versão vigente antes de uso actual).
+
+O cap. V da fonte acrescenta o reverso sistémico deste nexo: norma cuja violação não desencadeie reacção da ordem jurídica não pode considerar-se jurídica — «uma infracção ao direito não pode ser juridicamente irrelevante» —, mas o fundamento «nada tem a ver» com a tese do elemento coactivo como essência do Direito: é a *auto-referência* de todo o sistema, que tende a manter a sua unidade e integridade reagindo com mecanismos próprios; se fosse possível violar normas jurídicas sem efeitos jurídicos interiores ao sistema, este não teria autonomia, ao menos relativa, perante o seu envolvimento político-social (BM, pp. 133-134; o quadro dos meios de reacção vive em [[Conceitos/Tutela do Direito]] *(concretiza)*).
 
 ## Direito e Estado
 
@@ -42,4 +44,4 @@ A ordem jurídica distingue-se das outras ordens normativas sociais (moral socia
 É a pergunta inaugural de qualquer curso de Introdução ao Direito: o confronto das duas definições estrutura o «conceito de Direito» nos programas mapeados (FDUP I; Católica Porto Parte I; NOVA bloco I; Católica Lisboa, Primeiras Aproximações). A questão do conceito de Direito pertence, para BM, *de iure* à alçada da Filosofia do Direito (BM, p. 44) — o problema do direito justo retoma-se no cap. X da obra.
 
 ## Fontes
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, pp. 31-62 (leitura integral; citações conferidas no PDF).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, pp. 31-62; cap. V, pp. 133-134 (leitura integral; citações conferidas no PDF).

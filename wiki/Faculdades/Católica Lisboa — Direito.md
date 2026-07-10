@@ -41,7 +41,7 @@ ultima_actualizacao: 2026-07-09
 
   Capítulo II — Efetividade e tutela
   11. Secção I: Direito e efetividade (a ficha enumera § 2º Direito, Imperatividade e Coercibilidade e § 3º Direito, Estado e pluralismo jurídico, sem § 1º [sic]) — [[Conceitos/Coercibilidade]] · [[Conceitos/Noção de Direito]] — monocamada (BM, cap. II, §§ 1º e 3º).
-  12. Secção II: Tutela do Direito (§ 1º hétero-tutela e autotutela; § 2º tutela pública — tutela coativa como prerrogativa quase exclusiva dos órgãos estaduais; tribunais e garantia judiciária, acesso aos tribunais e tutela jurisdicional efetiva, processo declarativo vs executivo e providências cautelares; § 3º tutela privada) — por cobrir. Leituras: Nogueira de Brito, 459-499; alt.: Teixeira de Sousa, 109-115; Santos Justo, 145-167 (pp. 6-7).
+  12. Secção II: Tutela do Direito (§ 1º hétero-tutela e autotutela; § 2º tutela pública — tutela coativa como prerrogativa quase exclusiva dos órgãos estaduais; tribunais e garantia judiciária, acesso aos tribunais e tutela jurisdicional efetiva, processo declarativo vs executivo e providências cautelares; § 3º tutela privada) — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V; o recorte da ficha inclui tutela jurisdicional efetiva e providências cautelares, que o texto de 1982 não trata nesses termos — completa-se com as leituras da ficha). Leituras: Nogueira de Brito, 459-499; alt.: Teixeira de Sousa, 109-115; Santos Justo, 145-167 (pp. 6-7).
 
   Capítulo III — Direito e Justiça: o problema do Direito injusto
   13. § 1º Do dever ser com efetiva vigência à pretensão de um Direito Justo — por cobrir.

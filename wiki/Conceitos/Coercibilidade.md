@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-10
 ---
 
 # Coercibilidade
@@ -35,9 +35,11 @@ O Direito depende da Força no seu *existir* (vigência) — na origem (ditado p
 
 A coercibilidade não serve de critério suficiente de juridicidade: há Direito com coercibilidade fraca ou difusa — o Direito Internacional (normas obrigatórias com vigência efectiva, sem órgão sancionatório permanente) e o direito das comunidades «primitivas» (mecanismos espontâneos de defesa do grupo) conservam juridicidade (BM, pp. 51-53). Inversamente, a eficácia condiciona a validade: em relato, Kelsen — a norma que perca eficácia pelo desuso deixa de ser válida (BM, p. 42; ver [[Conceitos/Noção de Direito]]).
 
+No plano operativo, a coercibilidade é assegurada pelo aparelho de coerção estadual, com a dupla função de impor e tutelar o direito objectivo e de garantir os direitos subjectivos (BM, p. 125) — o quadro dos meios em que essa garantia se desdobra vive em [[Conceitos/Tutela do Direito]] *(concretiza)*. O cap. V da fonte fecha o arco aberto aqui: à pergunta de saber «se pode considerar-se *jurídica* aquela norma cuja violação não desencadeia uma reacção (automática ou interna, digamos) da ordem jurídica», BM responde negativamente, mas o fundamento «nada tem a ver» com a tese do elemento coactivo como essência do Direito — é a *auto-referência* do sistema, que mantém a sua unidade e integridade reagindo às violações com os seus mecanismos próprios; a reacção tampouco exige justiciabilidade, bastando que a infracção funcione como pressuposto constitutivo de poderes jurídicos (BM, pp. 133-134).
+
 ## Distinção de figuras próximas
 
 Coercibilidade (susceptibilidade de coacção) ≠ coacção (aplicação efectiva da força) ≠ Força (o poder de facto que as suporta): a primeira é qualidade da norma jurídica, a segunda o seu momento patológico, a terceira o substrato que o Direito legitima e regula (BM, pp. 34-42). A heteronomia jurídica distingue-se da autovinculação moral — ver a distinção Direito/Moral em [[Conceitos/Noção de Direito]] *(concretiza)*.
 
 ## Fontes
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 1º, pp. 31-44 (leitura integral; citações conferidas no PDF).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 1º, pp. 31-44; cap. V, pp. 125-126 e 133-134 (leitura integral; citações conferidas no PDF).

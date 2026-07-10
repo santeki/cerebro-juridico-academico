@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-10
 ---
 
 # Norma Jurídica
@@ -31,9 +31,13 @@ Contra a definição tradicional (comando geral, abstracto e coercível), BM reg
 
 Preceptivas, proibitivas e permissivas ou concessivas («tu deves», «tu não deves», «tu podes» — exemplos concessivos: arts. 802º, 1055º e 1698º do Código Civil) (BM, pp. 93-94). Universais, regionais e locais, pelo âmbito territorial (BM, p. 94). Gerais (direito-regra) vs excepcionais: o *ius singulare* consagra, em sector restrito e por razões privativas dele, um regime *oposto* ao regime-regra — exemplo do art. 1143º (forma do mútuo, nos valores em escudos de 1982) contra a consensualidade do art. 219º; por força do art. 11º, as normas excepcionais não comportam aplicação analógica, o que exige verificar caso a caso se há verdadeiro *ius singulare* (BM, pp. 94-95). Comuns vs especiais: o direito especial consagra disciplina nova ou diferente, não oposta (Comercial, Agrário, Trabalho face ao Civil) (BM, p. 95). *Leges plus quam perfectae* (nulidade e pena — art. 280º, 2, do Código Civil com o crime de lenocínio do art. 405º do Código Penal de 1886; art. 284º, usura criminosa), *perfectae* (só nulidade), *minus quam perfectae* (só pena), *imperfectae* (sem sanção — exemplo do art. 198º, 3, da Constituição na redacção de 1982; *quis custodet custodem?*) (BM, pp. 95-96). Autónomas vs não autónomas (remissivas ou indirectas), ao lado das «proposições jurídicas incompletas» — definições e classificações legais (BM, pp. 96-97). Pela autonomia privada: injuntivas (imperativas) vs dispositivas, subdividindo-se estas em facultativas ou concessivas, interpretativas (o art. 840º resolve na dúvida pela dação *pro solvendo*) e supletivas (arts. 772º e sgs., 784º e seg., 455º, 2) — com a nota de que a tendência moderna sujeitaria o afastamento das supletivas nos contratos de adesão a uma *justa causa*, preferindo BM ao controlo judicial a homologação administrativa das condições gerais (BM, pp. 97-98).
 
+## Norma e sanção
+
+O cap. V da fonte articula a estrutura da norma com a reacção do sistema à sua violação: a sanção jurídica — «reacção da ordem jurídica à inobservância ou à violação das suas normas» — situa-se a dois níveis, conforme o tipo de norma violada: nas normas que fixam os pressupostos dos actos de exercício eficaz (válido) de um poder ou competência, ou proíbem certos actos jurídico-constitutivos ou normativos, a sanção é a recusa (total ou parcial) de eficácia jurídica; nas restantes, o desencadeamento de efeitos jurídicos — constitutivos, modificativos, extintivos, «inibidores» ou impeditivos (BM, p. 133). A tipologia das *leges* pela sanção (plus quam perfectae, perfectae, minus quam perfectae, imperfectae — acima) ganha assim um enquadramento sistémico: mesmo a *lex imperfecta* põe o problema de saber se há norma jurídica onde não há reacção alguma do sistema (BM, pp. 95-96 e 133-134; o quadro dos meios de tutela vive em [[Conceitos/Tutela do Direito]] *(concretiza)*).
+
 ## Distinção de figuras próximas
 
 A norma distingue-se dos comandos individuais e concretos (sentença, despacho de nomeação, acto administrativo definitivo e executório) e das cláusulas negociais, vinculantes mas não criadoras de direito objectivo (BM, p. 91). Das proposições jurídicas incompletas (definições, classificações) distingue-se por ter sentido completo (BM, pp. 96-97). O facto que a previsão hipoteíza trata-se em [[Conceitos/Facto Jurídico]] *(concretiza)*; as técnicas por que o legislador constrói e articula normas em [[Conceitos/Codificação e Técnicas Legislativas]] *(concretiza)*; o fundamento institucional em [[Conceitos/Instituição]].
 
 ## Fontes
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, pp. 79-98 (leitura integral; artigos e citações conferidos no PDF).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, pp. 79-98; cap. V, pp. 133-134 (leitura integral; artigos e citações conferidos no PDF).

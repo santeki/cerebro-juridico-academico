@@ -27,9 +27,9 @@ ultima_actualizacao: 2026-07-09
   Capítulo I — Direito e ordem jurídica
   1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir.
   2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — por cobrir.
-  3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — por cobrir.
+  3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º e nº 9: tipologia dos meios e sanção como reacção do sistema).
   4. Coacção e coercibilidade — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
-  5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — por cobrir.
+  5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º, 6-7).
 
   Capítulo II — As fontes de direito
   6. Secção I (Generalidades): noção de fonte de direito; critérios e classificação das fontes (intencionais/não intencionais, imediatas/mediatas, internas/internacionais); fontes de Direito e sistemas jurídicos internacionais — por cobrir.

@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-10
 ---
 
 # Segurança Jurídica
@@ -29,7 +29,7 @@ Como conhecimento prévio daquilo com que cada um pode contar, a segurança apar
 
 ## Segurança perante o poder: o Estado de Direito
 
-No Estado de Direito Democrático o cidadão goza de segurança perante intervenções dos poderes públicos: recurso a um «poder neutro» (o Poder Judicial) para defesa dos direitos, liberdades e garantias, directamente aplicáveis; sujeição da Administração aos princípios da legalidade e da imparcialidade; garantia do recurso contencioso contra actos da Administração (na numeração de 1982: arts. 18º, 267º e 269º da Constituição — datado, como acima) (BM, pp. 58-59; em nota do mediador, Angel Latorre, ob. cit., pp. 54 e ss.). O princípio do Estado de Direito, nascido por contraposição ao Estado Absoluto e à «Razão de Estado», exige hoje a defesa dos direitos e liberdades também contra *poderes sociais de facto* — e o Estado de Direito demite-se da sua função quando se abstém dos meios indispensáveis à tutela da segurança e dos direitos (BM, p. 59).
+No Estado de Direito Democrático o cidadão goza de segurança perante intervenções dos poderes públicos: recurso a um «poder neutro» (o Poder Judicial) para defesa dos direitos, liberdades e garantias, directamente aplicáveis; sujeição da Administração aos princípios da legalidade e da imparcialidade; garantia do recurso contencioso contra actos da Administração (na numeração de 1982: arts. 18º, 267º e 269º da Constituição — datado, como acima) (BM, pp. 58-59; em nota do mediador, Angel Latorre, ob. cit., pp. 54 e ss.). O princípio do Estado de Direito, nascido por contraposição ao Estado Absoluto e à «Razão de Estado», exige hoje a defesa dos direitos e liberdades também contra *poderes sociais de facto* — e o Estado de Direito demite-se da sua função quando se abstém dos meios indispensáveis à tutela da segurança e dos direitos (BM, p. 59). O «poder neutro» judicial que esta garantia convoca — legitimidade, imparcialidade como qualidade de terceiro *supra partes*, independência face ao poder político — desenvolve-se em [[Conceitos/Jurisdição]] *(concretiza)*; o quadro geral dos meios de garantia, em [[Conceitos/Tutela do Direito]].
 
 ## Distinção de figuras próximas
 

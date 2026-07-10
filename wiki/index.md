@@ -6,11 +6,11 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Vistas de faculdade
 <!-- [[Faculdades/<Faculdade>]] — currículo de cada faculdade sobre o corpo comum. Índice em wiki/Faculdades.md. -->
-- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 4 em monocamada, BM caps. III-IV).
-- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 12 em monocamada, BM caps. I-IV).
-- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Partes I-III em monocamada, BM caps. I-IV; sem ano/semestre/bibliografia na fonte).
-- [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; 4 em monocamada, BM caps. I-IV; leituras por secção com páginas).
-- [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; 3 em monocamada, BM caps. II e IV).
+- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 5 em monocamada, BM caps. III-V).
+- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 15 em monocamada, BM caps. I-V).
+- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Partes I-IV em monocamada, BM caps. I-V; sem ano/semestre/bibliografia na fonte).
+- [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; 5 em monocamada, BM caps. I-V; leituras por secção com páginas).
+- [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; 5 em monocamada, BM caps. II, IV e V).
 
 ## Avaliação (componente prática)
 <!-- [[Avaliação/<pagina>]] — fontes de avaliação reais (fonte-avaliacao: exames, casos, testes, correcções) e casos práticos de treino (caso-pratico). Índice em wiki/Avaliação/_indice.md. -->
@@ -33,6 +33,8 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Conceitos/Facto Jurídico]] — facto/acto jurídico, quase-negócios e negócios, ónus jurídico, estado de sujeição/direitos potestativos, situação e relação jurídica; monocamada (BM, cap. IV, § 1º, 3); verificado.
 - [[Conceitos/Personalidade Jurídica]] — centro de imputação, capacidades (gozo/exercício/delitual), pessoas colectivas, direitos de personalidade; monocamada (BM, cap. IV, § 1º, 4); verificado.
 - [[Conceitos/Codificação e Técnicas Legislativas]] — código como Gestalt, partes gerais, remissões, ficções, definições, presunções, conceitos indeterminados, cláusulas gerais, poder discricionário, sistematicidade; monocamada (BM, cap. IV, Secção II); verificado.
+- [[Conceitos/Tutela do Direito]] — meios de tutela (preventiva, compulsiva, reconstitutiva, punitiva, recusa de efeitos), heterotutela/autotutela, tutela do direito vs dos direitos, sanção como reacção do sistema, tutela administrativa, controle social; monocamada (BM, cap. V); verificado.
+- [[Conceitos/Jurisdição]] — legitimidade do poder judicial («em nome do povo», representação estatutária), jurisdição em sentido material, imparcialidade, independência e autogoverno, organização judiciária de 1982 datada; monocamada (BM, cap. V, § 4º); verificado.
 
 ## Doutrina
 <!-- [[Doutrina/<autor>]] — área, obras na wiki, patamar N1/N2 -->
@@ -62,7 +64,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
 - [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
 - [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-II fechados e propagados** — o campo `progresso:` da página diz onde vai.
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-V fechados e propagados** — o campo `progresso:` da página diz onde vai.
 
 ---
 
@@ -76,5 +78,6 @@ Ver [[Faculdades]] — vistas por faculdade: cadeiras em curso, programa, datas 
 - NOVA: guia capturado é da edição 2021 — obter ficha do ano corrente (regência e avaliação a reconfirmar); desalinhamento de numeração de capítulos do BM na «aplicação da lei no espaço» (guia: cap. IX, secção II; exemplar: cap. VIII, secção II) a confirmar na leitura.
 - Católica Lisboa: ficha é de 2023/2024 — obter a do ano corrente.
 - Baptista Machado: recensões e dados biográficos do autor por verificar (Situação da fonte, lacuna assinalada).
-- Baptista Machado, cap. II, nota da p. 36: «Castanheira Neves, ob. cit., pp. 353 e 359» — obra do relato não identificada até este ponto do exemplar; fechar quando a primeira citação aparecer na leitura.
-- Cobertura em curso pela ingestão do BM (caps. I-IV fechados): FDUP 12/28, Católica Lisboa 4/15, Católica Porto Partes I-III, FDUL 3/19, NOVA 4/21 em monocamada. Próximo: cap. V (tutela) fecha FDUP 14-16, NOVA 21, C.Porto Parte IV, C.Lisboa 12.
+- Baptista Machado, cap. II, nota da p. 36: «Castanheira Neves, ob. cit., pp. 353 e 359» — obra do relato não identificada até à p. 151 do exemplar (caps. I-V lidos); fechar quando a primeira citação aparecer na leitura.
+- Baptista Machado, cap. V: epígrafe e texto do art. 223º da CRP de 1976 originária por confirmar em fonte primária, para fechar a oscilação «Conselho Superior Judiciário» (p. 140) / «Conselho Superior da Magistratura» (p. 150); redacção do art. 1º do CPC de 1961 por confrontar com a citação de BM (p. 130).
+- Cobertura em curso pela ingestão do BM (caps. I-V fechados): FDUP 15/28, Católica Lisboa 5/15, Católica Porto Partes I-IV, FDUL 5/19, NOVA 5/21 em monocamada. Próximo: cap. VI (fontes de Direito e vigência) toca FDUP 17-18, NOVA 11, C.Porto Parte V, C.Lisboa 8 e FDUL 6-7 (recortes exactos a fixar no refresher do capítulo).

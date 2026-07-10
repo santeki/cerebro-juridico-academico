@@ -35,7 +35,7 @@ ultima_actualizacao: 2026-07-09
   4. Classificação das normas jurídicas — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, § 2º).
   5. Técnicas legislativas — [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, Secção II).
 
-  Parte IV — A tutela do Direito — por cobrir.
+  Parte IV — A tutela do Direito — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V).
 
   Parte V — Fontes do Direito
   6. O problema — por cobrir.
