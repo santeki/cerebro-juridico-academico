@@ -51,9 +51,9 @@ ultima_actualizacao: 2026-07-09
   16. Modalidades de tutela quanto aos entes — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V: heterotutela/autotutela, §§ 2º-4º).
 
   VI. Fontes de Direito e Vigência das normas
-  17. Modalidades das fontes de Direito — por cobrir.
-  18. Vigência das normas jurídicas — por cobrir.
-  19. Hierarquia e conflitos de normas — por cobrir.
+  17. Modalidades das fontes de Direito — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 1-8: problema, elenco, classificações, fontes em espécie).
+  18. Vigência das normas jurídicas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 9-10: entrada em vigor, *vacatio legis*, cessação; regime especial de 1976/1982, citado datado).
+  19. Hierarquia e conflitos de normas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 11-12).
 
   VII. A efetivação do Direito
   20. O método jurídico — por cobrir.
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 15 de 28 pontos em monocamada (pontos 1-5 e 7-16 — BM, caps. I-V, fechados em 2026-07-09/10); 13 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 18 de 28 pontos em monocamada (pontos 1-5 e 7-19 — BM, caps. I-VI, fechados em 2026-07-09/10); 10 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

@@ -32,16 +32,16 @@ ultima_actualizacao: 2026-07-09
   5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º, 6-7).
 
   Capítulo II — As fontes de direito
-  6. Secção I (Generalidades): noção de fonte de direito; critérios e classificação das fontes (intencionais/não intencionais, imediatas/mediatas, internas/internacionais); fontes de Direito e sistemas jurídicos internacionais — por cobrir.
-  7. Secção II (As fontes de Direito internacionais): fontes internacionais; fontes de Direito da União Europeia; primado do Direito da União Europeia sobre o Direito de fonte interna e limites constitucionais — por cobrir.
-  8. «Secção II» [sic] (As fontes de Direito internas imediatas): a lei — constitucional e ordinária, espécies, lei formal e material, actos legislativos e regulamentares, âmbito de vigência; as normas corporativas; o costume — noção, elementos, formação, costume e usos, modalidades (internacional, constitucional, jurisprudencial, geral), relevância actual e no Direito positivo português — por cobrir.
-  9. «Secção II» [sic] (As fontes de Direito internas mediatas): os usos; a jurisprudência — funções, valor jurídico da decisão, jurisprudência constante e uniformizada; a doutrina — por cobrir.
-  10. Secção IV (A hierarquia das fontes de Direito): organização estratificada em níveis; fontes internacionais e internas — primado do Direito da União e limites constitucionais; hierarquias e modificações; o valor da fonte de grau inferior incompatível com a de grau superior — juízos de desconformidade: inconstitucionalidade, ilegalidade, inexistência, invalidade e ineficácia — por cobrir.
+  6. Secção I (Generalidades): noção de fonte de direito; critérios e classificação das fontes (intencionais/não intencionais, imediatas/mediatas, internas/internacionais); fontes de Direito e sistemas jurídicos internacionais — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 1-2: noção/problema; voluntárias/não voluntárias ≈ intencionais/não intencionais; imediatas/mediatas do art. 1º CC; a dimensão internacional no costume internacional e no art. 8º CRP-1976).
+  7. Secção II (As fontes de Direito internacionais): fontes internacionais; fontes de Direito da União Europeia; primado do Direito da União Europeia sobre o Direito de fonte interna e limites constitucionais — por cobrir (o quadro «comunitário» de BM é retrato pré-adesão de 1982: não sustenta este recorte; pede fonte moderna).
+  8. «Secção II» [sic] (As fontes de Direito internas imediatas): a lei — constitucional e ordinária, espécies, lei formal e material, actos legislativos e regulamentares, âmbito de vigência; as normas corporativas; o costume — noção, elementos, formação, costume e usos, modalidades (internacional, constitucional, jurisprudencial, geral), relevância actual e no Direito positivo português — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 3 e 5, com o mapa de 1982 citado datado; costume: *corpus*/*animus*, desuso, usos, costume internacional e jurisprudencial, arts. 1º, 3º e 7º CC).
+  9. «Secção II» [sic] (As fontes de Direito internas mediatas): os usos; a jurisprudência — funções, valor jurídico da decisão, jurisprudência constante e uniformizada; a doutrina — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 2, 4, 6-7: usos mediatos; caso julgado, «legislador complementar», assentos como uniformização de 1982; doutrina).
+  10. Secção IV (A hierarquia das fontes de Direito): organização estratificada em níveis; fontes internacionais e internas — primado do Direito da União e limites constitucionais; hierarquias e modificações; o valor da fonte de grau inferior incompatível com a de grau superior — juízos de desconformidade: inconstitucionalidade, ilegalidade, inexistência, invalidade e ineficácia — [[Conceitos/Vigência das Normas]] — monocamada com lacuna expressa (BM, cap. VI, § 11: níveis, inconstitucionalidade orgânica/formal/material, ilegalidade, nulidade/anulabilidade; o sub-recorte «primado do Direito da União e limites constitucionais» é pós-adesão e fica por cobrir; a «inexistência» como juízo autónomo não está na fonte).
 
   Capítulo III — Vicissitudes das fontes de Direito
-  11. Publicação (obrigatoriedade, formas, efeitos e falta, divulgação); rectificações — por cobrir.
-  12. Entrada em vigor; *vacatio legis* — por cobrir.
-  13. Suspensão da vigência; cessação da vigência: caducidade e revogação (modalidades; lei revogatória e revogada; não repristinação) — por cobrir.
+  11. Publicação (obrigatoriedade, formas, efeitos e falta, divulgação); rectificações — por cobrir (BM só toca a publicação como pressuposto da vigência, no quadro de 1976; formas, falta e rectificações ausentes da fonte).
+  12. Entrada em vigor; *vacatio legis* — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, § 9: art. 5º CC e regime especial de 1976/1982, citado datado).
+  13. Suspensão da vigência; cessação da vigência: caducidade e revogação (modalidades; lei revogatória e revogada; não repristinação) — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, § 10 e art. 7º CC; a suspensão só aparece de raspão, nos decretos de estado de sítio do § 11 — sub-recorte sinalizado).
 
   Capítulo IV — Norma jurídica e proposição jurídica
   14. Secção I (Generalidades): fontes de Direito e normas jurídicas; norma e proposição jurídica; estrutura da norma; carácter hipotético da aplicação; características — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, Secção I, § 1º).
@@ -55,7 +55,7 @@ ultima_actualizacao: 2026-07-09
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
 
-- **Cobertura do programa**: 5 de 19 pontos em monocamada (pontos 3, 4, 5, 14 e 15 — BM, caps. II, IV e V, fechados em 2026-07-09/10); 14 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 11 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-15 — BM, caps. II, IV, V e VI, fechados em 2026-07-09/10; o 10 com lacuna expressa no sub-recorte do primado do Direito da União); 8 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)
