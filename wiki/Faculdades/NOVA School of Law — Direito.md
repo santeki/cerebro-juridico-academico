@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-09
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V).
 
-- **Cobertura do programa**: 4 de 21 pontos em monocamada (pontos 10 e 13-15 — BM, caps. III-IV, fechados em 2026-07-09); 17 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
+- **Cobertura do programa**: 5 de 21 pontos em monocamada (pontos 10, 13-15 e 21 — BM, caps. III-V, fechados em 2026-07-09/10); 16 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos): a ingestão em curso fecha-os à medida que os capítulos da obra selam; o bloco I pede o Freitas do Amaral, ainda não entrado.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)

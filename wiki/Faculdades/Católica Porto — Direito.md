@@ -49,7 +49,7 @@ ultima_actualizacao: 2026-07-09
   10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas — por cobrir.
   11. A aplicação da lei no espaço (referência) — por cobrir.
 
-- **Cobertura do programa**: Partes I, II e III em monocamada (BM, caps. I-IV, fechadas em 2026-07-09); restantes 4 Partes (6 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: Partes I-IV em monocamada (BM, caps. I-V, fechadas em 2026-07-09/10); restantes 3 Partes (6 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Porto)

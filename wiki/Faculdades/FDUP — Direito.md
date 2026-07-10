@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-09
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 12 de 28 pontos em monocamada (pontos 1-5 e 7-13 — BM, caps. I-IV, fechados em 2026-07-09); 16 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 15 de 28 pontos em monocamada (pontos 1-5 e 7-16 — BM, caps. I-V, fechados em 2026-07-09/10); 13 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

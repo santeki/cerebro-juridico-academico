@@ -50,7 +50,7 @@ ultima_actualizacao: 2026-07-09
 
   Nota da ficha (p. 8): a matéria dos ramos do direito é tratada exclusivamente nas aulas práticas e não vem autonomizada no programa.
 
-- **Cobertura do programa**: 4 de 15 pontos em monocamada (pontos 1, 4, 7 e 11 — BM, caps. I-IV, fechados em 2026-07-09); 11 «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 5 de 15 pontos em monocamada (pontos 1, 4, 7, 11 e 12 — BM, caps. I-V, fechados em 2026-07-09/10); 10 «por cobrir». O Baptista Machado em ingestão é leitura recomendada da Secção VI do Capítulo I (aplicação da lei no tempo, pp. 170-272 e 307-332 da obra); actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Lisboa)

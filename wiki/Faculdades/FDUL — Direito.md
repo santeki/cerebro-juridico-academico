@@ -55,7 +55,7 @@ ultima_actualizacao: 2026-07-09
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
 
-- **Cobertura do programa**: 3 de 19 pontos em monocamada (pontos 4, 14 e 15 — BM, caps. II e IV, fechados em 2026-07-09); 16 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 5 de 19 pontos em monocamada (pontos 3, 4, 5, 14 e 15 — BM, caps. II, IV e V, fechados em 2026-07-09/10); 14 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)
