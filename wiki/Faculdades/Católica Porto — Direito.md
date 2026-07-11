@@ -4,7 +4,7 @@ titulo: "Católica Porto — Direito"
 faculdade: "Universidade Católica Portuguesa — Faculdade de Direito (Porto)"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-11
 ---
 
 # Católica Porto — Direito
@@ -46,10 +46,10 @@ ultima_actualizacao: 2026-07-09
   9. Integração: noção e necessidade; preenchimento de lacunas — [[Conceitos/Integração da Lei]] — monocamada (BM, cap. VII, Secção III).
 
   Parte VII — Aplicação da lei no tempo e no espaço
-  10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas — por cobrir.
-  11. A aplicação da lei no espaço (referência) — por cobrir.
+  10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (BM, cap. VIII, Secção I: todos os sub-tópicos enumerados têm sede na fonte, incluindo as leis confirmativas do § 2º, 6).
+  11. A aplicação da lei no espaço (referência) — [[Conceitos/Aplicação da Lei no Espaço]] — monocamada (BM, cap. VIII, Secção II — o carácter de mera referência do programa coincide com o tratamento da fonte, p. 252).
 
-- **Cobertura do programa**: Partes I-VI em monocamada (BM, caps. I-VII, fechadas em 2026-07-09/10); resta a Parte VII (2 sub-pontos enumerados) «por cobrir». O Baptista Machado em ingestão serve vários destes pontos; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: Partes I-VII em monocamada (BM, caps. I-VIII, fechadas em 2026-07-09/10/11) — **o programa enumerado está integralmente coberto em monocamada BM**: primeira vista do cofre nesta condição; a bicamada aguarda os manuais seguintes da fila. Actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Porto)

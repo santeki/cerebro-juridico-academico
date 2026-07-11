@@ -39,6 +39,8 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Conceitos/Vigência das Normas]] — entrada em vigor e vacatio legis (art. 5º CC; regime de 1976 datado), cessação (art. 7º: caducidade, revogação, não repristinação), hierarquia (inconstitucionalidade, esferas de competência) e conflitos (três critérios, antinomias, lacuna de colisão); monocamada (BM, cap. VI, §§ 9-12); verificado.
 - [[Conceitos/Interpretação da Lei]] — noção e hermenêutica jurídica, interpretação doutrinal/autêntica (art. 13º CC), querela dos métodos, elementos e resultados, posição do art. 9º CC (presunções, actualismo, unidade do sistema), postulados hermenêuticos (referente, positivo/trans-positivo, leis-medida); monocamada (BM, cap. VII, Secções I-II e IV); verificado.
 - [[Conceitos/Integração da Lei]] — non liquet (art. 8º CC) e espaço ajurídico, lacuna como incompletude contrária a um plano, três camadas e espécies (colisão, teleológicas, lacunas do direito), analogia e norma ad hoc (art. 10º CC), proibições (art. 11º), political restraint e lacuna política; monocamada (BM, cap. VII, Secção III); verificado.
+- [[Conceitos/Aplicação da Lei no Tempo]] — conflito extra-sistemático e lei competente; arts. 12º/13º/297º CC; teoria do facto passado (Nipperdey) e correcções de BM; estatutos; leis interpretativas e confirmativas (monocamada BM cap. VIII, Secção I).
+- [[Conceitos/Aplicação da Lei no Espaço]] — conflitos de leis no espaço; regras de conflitos (arts. 14º-65º CC) como normas sobre normas; remissão ao DIP (monocamada BM cap. VIII, Secção II; página curta).
 
 ## Doutrina
 <!-- [[Doutrina/<autor>]] — área, obras na wiki, patamar N1/N2 -->
@@ -68,7 +70,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
 - [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
 - [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-VII fechados e propagados; cap. VIII lido e verificado (2026-07-11), propagação a aguardar ok** — o campo `progresso:` da página diz onde vai.
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-VIII fechados e propagados** — o campo `progresso:` da página diz onde vai.
 
 ---
 

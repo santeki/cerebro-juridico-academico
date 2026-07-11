@@ -4,7 +4,7 @@ titulo: "FDUP — Direito"
 faculdade: "Faculdade de Direito da Universidade do Porto"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-11
 ---
 
 # FDUP — Direito
@@ -61,16 +61,16 @@ ultima_actualizacao: 2026-07-09
   22. Integração de lacunas — [[Conceitos/Integração da Lei]] — monocamada (BM, cap. VII, Secção III).
 
   VIII. Aplicação da lei no tempo
-  23. Identificação do problema — por cobrir.
-  24. A solução através do direito transitório — por cobrir.
-  25. O princípio da não retroatividade da lei e a sua expressão no ordenamento jurídico português — por cobrir.
+  23. Identificação do problema — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (BM, cap. VIII, § 1º da Secção I).
+  24. A solução através do direito transitório — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (disposições transitórias formais e materiais; «direito transitório»).
+  25. O princípio da não retroatividade da lei e a sua expressão no ordenamento jurídico português — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (arts. 12º, 13º e 297º do CC; teoria do facto passado e correcções de BM).
 
   IX. O sistema jurídico
   26. Os sistemas jurídicos do mundo: principais famílias jurídicas e convergências entre elas — por cobrir.
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 21 de 28 pontos em monocamada (pontos 1-5 e 7-22 — BM, caps. I-VII, fechados em 2026-07-09/10); 7 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 24 de 28 pontos em monocamada (pontos 1-5 e 7-25 — BM, caps. I-VIII, fechados em 2026-07-09/10/11); 4 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

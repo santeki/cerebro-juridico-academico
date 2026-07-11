@@ -15,7 +15,7 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 
 ## Em curso
 
-- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: caps. I-VII fechados e propagados (obra pp. 7-218); **cap. VIII lido e verificado em dupla fonte (obra pp. 219-252; verificador do capítulo verde: 77 citações, 0 falhas), extracção no reservatório — RETOMA PELA PROPAGAÇÃO, após ok do Telmo** (mapa PROP-BMVIII-01..09 no log de 2026-07-11 e no doc do projecto: 2 páginas novas — Aplicação da Lei no Tempo, Aplicação da Lei no Espaço —, 6 integrações, 5 vistas, veredicto NOVA, gancho de Eixo B). Depois: cap. IX — O Direito e as Ciências Sociais (obra p. 253; MD [p. 128]; tratamento: periferia). O campo `progresso:` da página de fonte é a referência.
+- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: caps. I-VIII de XI fechados e propagados (obra pp. 7-252). **Retoma no Cap. IX — O Direito e as Ciências Sociais** (obra p. 253, verificada — abre na folha 128, metade direita; MD [p. 128]; tratamento: periferia relevante). O campo `progresso:` da página de fonte é a referência. Nota do refresher: fronteira confirmada pelo texto (a Secção II do cap. VIII fecha na p. 252, par); cap. IX sem bibliografia própria visível na abertura — conferir na leitura; título do índice da obra a conferir contra o corpo, como sempre.
 
 ## Lacunas em aberto
 
@@ -31,10 +31,10 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 
 ## Fila de ingestão
 
-1. **Propagação do cap. VIII do BM** (lido e verificado em 2026-07-11; aguarda ok) — o coração dos recortes restantes: C.Lisboa 10, FDUL 18-19, FDUP 23-25, NOVA 18-20, C.Porto Parte VII; mapa PROP-BMVIII-01..09 no log.
-2. Caps. IX-XI do BM (Direito e Ciências Sociais — periferia; Discurso Legitimador — núcleo; Ciência Jurídica — periferia) e releitura selectiva no fecho da obra, seguida da **revisão total** (auditoria integral 4 planos + coerência dos derivados — Decisão de 2026-07-10) e da ida única à Oficina (relatório de padrões regenerado + errata consolidada, 66 entradas à data).
+1. **Caps. IX-XI do BM** — IX (Direito e Ciências Sociais; periferia relevante; único recorte de programa que o toca: a leitura prescrita da C.Lisboa chega às pp. 253-272), X (Prolegómenos do Discurso Legitimador; núcleo — C.Lisboa cap. III «Direito e Justiça» e pp. 307-332 da prescrição) e XI (Ciência Jurídica; periferia).
+2. Releitura selectiva no fecho da obra, seguida da **revisão total** (auditoria integral 4 planos + coerência dos derivados — Decisão de 2026-07-10) e da ida única à Oficina (relatório de padrões regenerado + errata consolidada, 66 entradas à data).
 3. Manuais seguintes, pela ordem do plano do Telmo: Ascensão (exemplar já convertido, fora do cofre até o BM fechar; gancho de Eixo B na querela do art. 9º) → Teixeira de Sousa → Amaral → Bronze → Santos Justo; específicos: Cordeiro e Romano Martinez (FDUL), Nogueira de Brito e Anotação de Maria João Fernandes (Católica Lisboa).
 
-## Cobertura dos programas (monocamada BM, caps. I-VII)
+## Cobertura dos programas (monocamada BM, caps. I-VIII)
 
-FDUP 21/28 · NOVA 9/21 · Católica Porto Partes I-VI de VII · Católica Lisboa 7/15 · FDUL 11/19.
+FDUP 24/28 · NOVA 12/21 · Católica Porto Partes I-VII (programa enumerado completo) · Católica Lisboa 8/15 · FDUL 13/19.

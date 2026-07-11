@@ -4,7 +4,7 @@ titulo: "FDUL — Direito"
 faculdade: "Faculdade de Direito da Universidade de Lisboa"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-11
 ---
 
 # FDUL — Direito
@@ -52,10 +52,10 @@ ultima_actualizacao: 2026-07-09
   17. Definição; sistema externo e interno; funcionamento; características; a importância dos princípios para a construção do sistema — por cobrir.
 
   Capítulo V — A sucessão das fontes de Direito no tempo
-  18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — por cobrir.
-  19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — por cobrir.
+  18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (BM, cap. VIII, Secção I: todos os sub-tópicos do ponto têm sede na fonte, incluindo a «sobrevigência» da lei antiga e a sua reformulação como lex transit in contractum).
+  19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (as duas partes do n.º 2 e a presunção do n.º 1; requisitos e limites da lei interpretativa; letra do art. 13º/1 conferida pelo Ac. STJ 96B112).
 
-- **Cobertura do programa**: 11 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-15 — BM, caps. II, IV, V e VI, fechados em 2026-07-09/10; o 10 com lacuna expressa no sub-recorte do primado do Direito da União); 8 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 13 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-15 e 18-19 — BM, caps. II, IV, V, VI e VIII, fechados em 2026-07-09/10/11; o 10 com lacuna expressa no sub-recorte do primado do Direito da União); 6 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)

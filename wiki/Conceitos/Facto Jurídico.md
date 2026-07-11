@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-09
+ultima_actualizacao: 2026-07-11
 ---
 
 # Facto Jurídico
@@ -31,9 +31,13 @@ A norma estabelece uma específica relação de causalidade entre os factos da p
 
 Da verificação do facto hipoteizado resulta uma situação jurídica nova, modificada ou extinta; ela é *relação jurídica* quando ao dever de um ou mais sujeitos corresponde o direito de outro ou outros — com a ressalva dos direitos absolutos, a que se contrapõe a «obrigação passiva universal» de respeito (BM, pp. 85-86). Nem todo o facto jurídico gera relação: pode gerar apenas um *status* ou qualidade (a aquisição da nacionalidade, da personalidade, da capacidade); «rigorosamente, uma relação jurídica é sempre uma relação entre duas ou mais pessoas jurídicas» (BM, p. 86).
 
+## O facto no tempo: constitutivos e factos-pressuposto
+
+O cap. VIII da fonte dá à tipologia uma dimensão intertemporal decisiva: no problema da aplicação da lei no tempo, só os **factos constitutivos** (modificativos e extintivos) de situações jurídicas determinam a competência da lei aplicável — a lei nova é retroactiva quando se aplica «a factos passados por ela própria assumidos ou visados como factos constitutivos (ou modificativos, ou extintivos)» de situações jurídicas (BM, p. 235). Deles se distinguem os **factos-«pressupostos»** (impeditivos ou «desimpeditivos»), cuja localização no tempo não influi na determinação da lei: impedimentos matrimoniais, causas de indignidade sucessória, fundamentos de deserdação, efeitos inibitórios de penas, consequências mediatas de situação regulada por outra lei (BM, pp. 235-236); e o próprio decurso de um prazo pode valer como facto constitutivo (prescrição, caducidade — donde o regime do art. 297º) ou como simples facto-pressuposto que acresce a um facto principal (períodos de presunções legais, prazo internupcial), com regimes intertemporais opostos (BM, pp. 243-245). Desenvolvimento em [[Conceitos/Aplicação da Lei no Tempo]] *(concretiza)*.
+
 ## Distinção de figuras próximas
 
-O facto jurídico não se confunde com o facto naturalístico: é a *facti-species* que o jurisdiciza e recorta ([[Conceitos/Norma Jurídica]] *(concretiza)*). O sujeito a quem os efeitos se imputam trata-se em [[Conceitos/Personalidade Jurídica]] *(concretiza)*; os direitos subjectivos que o facto desencadeia, em [[Conceitos/Direito Objectivo e Direito Subjectivo]].
+O facto jurídico não se confunde com o facto naturalístico: é a *facti-species* que o jurisdiciza e recorta ([[Conceitos/Norma Jurídica]] *(concretiza)*). O sujeito a quem os efeitos se imputam trata-se em [[Conceitos/Personalidade Jurídica]] *(concretiza)*; os direitos subjectivos que o facto desencadeia, em [[Conceitos/Direito Objectivo e Direito Subjectivo]]. A relevância da localização temporal do facto — constitutivo ou pressuposto — para a lei aplicável, em [[Conceitos/Aplicação da Lei no Tempo]].
 
 ## Fontes
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, § 1º, 3, pp. 82-86 (leitura integral confrontada no PDF).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, § 1º, 3, pp. 82-86; cap. VIII, pp. 235-236 e 243-245 (leitura integral confrontada no PDF).
