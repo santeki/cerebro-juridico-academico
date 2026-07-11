@@ -24,9 +24,9 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 ## Conceitos
 <!-- [[Conceitos/<pagina>]] — resumo. Páginas de desambiguação de homónimos (dolo, etc.) marcadas como tal. -->
 - [[Conceitos/Instituição]] — noção (corrente, sociológica em relato, jurídica), instituto jurídico, funções, juridificação; monocamada (BM, cap. I); verificado.
-- [[Conceitos/Noção de Direito]] — definição sociológica vs jurídica (Weber/Larenz em relato), pretensão de validade, vigência, Direito/Estado, Direito/Moral; monocamada (BM, cap. II); verificado.
+- [[Conceitos/Noção de Direito]] — definição sociológica vs jurídica (Weber/Larenz em relato), pretensão de validade, vigência, Direito/Estado, Direito/Moral; fundamento suprapositivo da validade e princípio democrático (cap. IX); monocamada (BM, caps. II e V-IX); verificado.
 - [[Conceitos/Coercibilidade]] — nexo juridicidade→coercibilidade, legitimidade e necessidade da coacção, Direito e Força; monocamada (BM, cap. II, § 1º); verificado.
-- [[Conceitos/Segurança Jurídica]] — certeza jurídica, institutos ao serviço, tensão com a justiça (Radbruch em relato), Estado de Direito; monocamada (BM, cap. II, § 4º); verificado.
+- [[Conceitos/Segurança Jurídica]] — certeza jurídica, institutos ao serviço, tensão com a justiça (Radbruch em relato), Estado de Direito; fundamento do direito transitório (cap. VIII) e face decisória («redução da complexidade», cap. IX); monocamada (BM, caps. II, VI-IX); verificado.
 - [[Conceitos/Direito Objectivo e Direito Subjectivo]] — definições e correlação direito/dever; monocamada (BM, cap. III, 2); verificado.
 - [[Conceitos/Ramos do Direito]] — summa divisio (critério da posição dos sujeitos, polémica marcada), catálogo dos ramos públicos, privados e novos (retrato de 1982 datado); monocamada (BM, cap. III); verificado.
 - [[Conceitos/Norma Jurídica]] — previsão/estatuição, facti-species que jurisdiciza, crítica ao imperativismo (com o remate hermenêutico do cap. VII: normas como «respostas»; leis-medida), generalidade/abstracção, classificações; monocamada (BM, caps. IV e VII); verificado.
@@ -34,7 +34,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Conceitos/Personalidade Jurídica]] — centro de imputação, capacidades (gozo/exercício/delitual), pessoas colectivas, direitos de personalidade; monocamada (BM, cap. IV, § 1º, 4); verificado.
 - [[Conceitos/Codificação e Técnicas Legislativas]] — código como Gestalt, partes gerais, remissões, ficções, definições, presunções, conceitos indeterminados, cláusulas gerais, poder discricionário, sistematicidade; monocamada (BM, cap. IV, Secção II); verificado.
 - [[Conceitos/Tutela do Direito]] — meios de tutela (preventiva, compulsiva, reconstitutiva, punitiva, recusa de efeitos), heterotutela/autotutela, tutela do direito vs dos direitos, sanção como reacção do sistema, tutela administrativa, controle social; monocamada (BM, cap. V); verificado.
-- [[Conceitos/Jurisdição]] — legitimidade do poder judicial («em nome do povo», representação estatutária), jurisdição em sentido material, imparcialidade, independência e autogoverno, organização judiciária de 1982 datada; monocamada (BM, cap. V, § 4º); verificado.
+- [[Conceitos/Jurisdição]] — legitimidade do poder judicial («em nome do povo», representação estatutária), jurisdição em sentido material, imparcialidade, independência e autogoverno, organização judiciária de 1982 datada; modelo jurídico de decisão e jurisdicização (cap. IX); monocamada (BM, caps. V-VII e IX); verificado.
 - [[Conceitos/Fontes de Direito]] — problema da positivação («questão jurística»), crítica ao fundamento factual da validade, elenco e classificações (arts. 1º-4º CC de 1982), lei, assentos, costume, jurisprudência, doutrina, princípios fundamentais supraconstitucionais; monocamada (BM, cap. VI, §§ 1-8); verificado.
 - [[Conceitos/Vigência das Normas]] — entrada em vigor e vacatio legis (art. 5º CC; regime de 1976 datado), cessação (art. 7º: caducidade, revogação, não repristinação), hierarquia (inconstitucionalidade, esferas de competência) e conflitos (três critérios, antinomias, lacuna de colisão); monocamada (BM, cap. VI, §§ 9-12); verificado.
 - [[Conceitos/Interpretação da Lei]] — noção e hermenêutica jurídica, interpretação doutrinal/autêntica (art. 13º CC), querela dos métodos, elementos e resultados, posição do art. 9º CC (presunções, actualismo, unidade do sistema), postulados hermenêuticos (referente, positivo/trans-positivo, leis-medida); monocamada (BM, cap. VII, Secções I-II e IV); verificado.
@@ -70,7 +70,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
 - [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
 - [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-VIII fechados e propagados** — o campo `progresso:` da página diz onde vai.
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-IX fechados e propagados (o IX em periferia relevante — sumário e mapa no reservatório, sem página nova)** — o campo `progresso:` da página diz onde vai.
 
 ---
 

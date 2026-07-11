@@ -15,7 +15,7 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 
 ## Em curso
 
-- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: caps. I-VIII de XI fechados e propagados (obra pp. 7-252). **Retoma no Cap. IX — O Direito e as Ciências Sociais** (obra p. 253, verificada — abre na folha 128, metade direita; MD [p. 128]; tratamento: periferia relevante). O campo `progresso:` da página de fonte é a referência. Nota do refresher: fronteira confirmada pelo texto (a Secção II do cap. VIII fecha na p. 252, par); cap. IX sem bibliografia própria visível na abertura — conferir na leitura; título do índice da obra a conferir contra o corpo, como sempre.
+- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: caps. I-IX de XI fechados e propagados (obra pp. 7-272; o IX em periferia relevante — sumário fiel e mapa no reservatório, sem página nova). **Retoma no Cap. X — Prolegómenos do Discurso Legitimador** (obra p. 273, verificada — abre na folha 138, metade direita, sem verso em branco; MD [p. 138]; tratamento: núcleo). O campo `progresso:` da página de fonte é a referência. Notas do refresher: o cap. X traz Secções I-III (índice da obra, p. 387: Introdução geral; O problema do direito justo, pp. 286-306; Da mediação no discurso legitimador); a fatia pp. 307-332 da prescrição da C.Lisboa cai nele; título do índice «Prolegómenos» vs corpo «PROLEGÔMENOS» (MD) — acentuação a conferir contra a imagem; bibliografia própria a verificar na abertura; a nota da p. 254 (cap. IX) remete para a S. II, 2, II — retomar o fio do *pacta sunt servanda* aí.
 
 ## Lacunas em aberto
 
@@ -24,17 +24,17 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 - Verificação DRE dos arts. 8º-13º do CC — em aberto (tentada de novo em 2026-07-11 por cinco vias: todas JS-gated; Chrome não ligado); consolidações convergentes mantêm-se, com sinalização. Entretanto: **art. 13º/1 fechado** por transcrição integral no Ac. STJ 96B112 (27.6.1996); **art. 297º** n.º 1 parcial (STJ 2014; TC 592/2012) e n.º 2 confirmado (STJ 2005) — eventuais números além dos dois primeiros por confirmar.
 - [BLOQUEADA: à espera de ficha completa da Católica Porto] ano curricular, semestre, regência, bibliografia e avaliação da UC.
 - [BLOQUEADA: à espera de ficha oficial da FDUL] ano, semestre, ECTS, avaliação; programa de IED II.
-- [BLOQUEADA: à espera de ficha NOVA do ano corrente] o guia capturado é da edição 2021; desalinhamento de numeração BM na aplicação da lei no espaço — **VEREDICTO (2026-07-11): confirmado** (a aplicação no espaço é a Secção II do cap. VIII, p. 252; o cap. IX é «O Direito e as Ciências Sociais», p. 253); registado na página de fonte, a levar à vista na propagação.
+- [BLOQUEADA: à espera de ficha NOVA do ano corrente] o guia capturado é da edição 2021; desalinhamento de numeração BM na aplicação da lei no espaço — **VEREDICTO (2026-07-11): confirmado** (a aplicação no espaço é a Secção II do cap. VIII, p. 252; o cap. IX é «O Direito e as Ciências Sociais», p. 253 — a leitura integral do IX reconfirmou-o); registado na página de fonte e na vista (ponto 20).
 - [BLOQUEADA: à espera de ficha Católica Lisboa do ano corrente] a ingerida é de 2023/2024.
 - Recensões e dados biográficos de Baptista Machado por verificar (Situação da fonte).
 - FDUL ponto 7 e sub-recorte do ponto 10 (fontes de Direito da União; primado): pré-adesão em BM — pedem fonte moderna. FDUL ponto 11 (formas de publicação; rectificações): ausente da fonte.
 
 ## Fila de ingestão
 
-1. **Caps. IX-XI do BM** — IX (Direito e Ciências Sociais; periferia relevante; único recorte de programa que o toca: a leitura prescrita da C.Lisboa chega às pp. 253-272), X (Prolegómenos do Discurso Legitimador; núcleo — C.Lisboa cap. III «Direito e Justiça» e pp. 307-332 da prescrição) e XI (Ciência Jurídica; periferia).
+1. **Caps. X-XI do BM** — X (Prolegómenos do Discurso Legitimador; núcleo — C.Lisboa cap. III «Direito e Justiça» e pp. 307-332 da prescrição; reavaliar aí a promoção do material do § 6 do IX, fundamento suprapositivo) e XI (Ciência Jurídica; periferia).
 2. Releitura selectiva no fecho da obra, seguida da **revisão total** (auditoria integral 4 planos + coerência dos derivados — Decisão de 2026-07-10) e da ida única à Oficina (relatório de padrões regenerado + errata consolidada, 66 entradas à data).
 3. Manuais seguintes, pela ordem do plano do Telmo: Ascensão (exemplar já convertido, fora do cofre até o BM fechar; gancho de Eixo B na querela do art. 9º) → Teixeira de Sousa → Amaral → Bronze → Santos Justo; específicos: Cordeiro e Romano Martinez (FDUL), Nogueira de Brito e Anotação de Maria João Fernandes (Católica Lisboa).
 
-## Cobertura dos programas (monocamada BM, caps. I-VIII)
+## Cobertura dos programas (monocamada BM, caps. I-IX)
 
-FDUP 24/28 · NOVA 12/21 · Católica Porto Partes I-VII (programa enumerado completo) · Católica Lisboa 8/15 · FDUL 13/19.
+FDUP 24/28 · NOVA 12/21 · Católica Porto Partes I-VII (programa enumerado completo) · Católica Lisboa 8/15 · FDUL 13/19. O cap. IX não altera contadores (nenhum programa o convoca directamente); serve a C.Lisboa pela nota de alcance do ponto 10 — fatia pp. 170-272 da leitura prescrita fechada.

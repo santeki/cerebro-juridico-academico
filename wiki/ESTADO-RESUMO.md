@@ -24,13 +24,13 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 18 | teoria do Direito (BM caps. I-VIII); tudo `verificado` |
-| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-VIII de XI fechados e propagados) |
+| Conceitos | 18 | teoria do Direito (BM caps. I-IX); tudo `verificado` |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-IX de XI fechados e propagados; o IX em periferia relevante, sem página nova) |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. IX).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. X, núcleo).
 - [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]] — o par do cap. VIII (direito transitório: arts. 12º/13º/297º; regras de conflitos como normas sobre normas).
 - [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC na redacção mantida de 1966).
 - [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; auto-referência; positivação; dialéctica positivo/trans-positivo).
@@ -39,6 +39,8 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Mudanças recentes (últimos 7 dias)
 
+- [2026-07-11] auditoria | **verificador global de citações: VERDE** (471 varridas, 0 falhas); 24 deformações do MD em passagens usadas registadas em atraso (erratas 78-101, seis adjudicadas a 300 dpi nesta sessão); sinalizações acrescentadas em 3 páginas; fronteira de citação corrigida na Norma Jurídica.
+- [2026-07-11] ingestão | BM cap. IX **lido, verificado e propagado** (obra pp. 253-272; periferia relevante — sumário fiel e mapa no reservatório, sem página nova; «Factiddade» adjudicado como erro de conversão; sem bibliografia própria; CN sem menção; verificador do capítulo verde: 28 citações, 0 falhas; errata MD +11, 67-77). Integrações em Noção de Direito (fundamento suprapositivo, § 6), Jurisdição (modelo jurídico de decisão, § 4) e Segurança Jurídica; vista C.Lisboa — fatia pp. 170-272 da leitura prescrita integralmente coberta (nota de alcance do ponto 10); contadores das vistas inalterados (nenhum programa convoca o IX).
 - [2026-07-11] ingestão | BM cap. VIII **propagado** (2 conceitos novos; 6 integrações; 5 vistas — FDUP 24/28, NOVA 12/21 com veredicto do guia, C.Porto I-VII completo, C.Lisboa 8/15, FDUL 13/19; gancho de Eixo B da lei interpretativa BM/Ascensão).
 - [2026-07-11] ingestão | BM cap. VIII (aplicação da lei no tempo e no espaço) lido e verificado em dupla fonte (18 folhas confrontadas; 15 zonas a 300 dpi); extracção no reservatório (13 pontos, 15 citações novas); verificador do capítulo verde (77 citações, 0 falhas); errata MD 66 entradas (+15; substantivas: alínea c) do art. 6º CP, data do Ac. STJ 5-4-79, NIPPERDEY, «adoptado»); erratas da edição novas (LA→LN p. 222; 12º/1→12º/2 p. 249; citação do art. 13º/1 ≠ letra — fechada com Ac. STJ 96B112); veredicto NOVA confirmado (espaço = cap. VIII Secção II); art. 297º/2 confirmado (STJ 2005), n.º 1 parcial (STJ 2014 + TC 592/2012); DRE tentado por 5 vias, mantém-se JS-gated; CN sem menção no capítulo. **Propagação a aguardar ok (mapa PROP-BMVIII-01..09 no log)** — por decisão do Telmo, a conversa fechou antes de propagar.
 
@@ -51,7 +53,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-11 — regeneração (quinta, no fecho do cap. VIII do BM — leitura, verificação e propagação).
+2026-07-11 — regeneração (sexta, no fecho do cap. IX do BM — leitura, verificação, propagação e verificador global).
 
 ---
 
