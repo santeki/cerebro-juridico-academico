@@ -30,7 +30,7 @@ ultima_actualizacao: 2026-07-11
   3. Direito em sentido objetivo e direito(s) em sentido subjetivo — [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III, 2).
   4. O Direito, a autoridade e o poder: a problemática da coação — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
   5. A relação entre Direito, justiça e segurança — [[Conceitos/Segurança Jurídica]] — monocamada (BM, cap. II, § 4º).
-  6. O problema do Direito Natural — por cobrir.
+  6. O problema do Direito Natural — [[Conceitos/Direito Justo]] — monocamada (BM, cap. X, Secção II: o problema, modelo ontológico vs positivismo vs pragmática universal, valer/vigorar, *pacta sunt servanda*, concepção hodierna da indisponibilidade, validade do Direito Positivo fundada no Direito Natural; fechado em 2026-07-11).
 
   II. Os ramos do Direito
   7. A *summa divisio* estrutural: Direito Público e Direito Privado — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, 4).
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-11
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 24 de 28 pontos em monocamada (pontos 1-5 e 7-25 — BM, caps. I-VIII, fechados em 2026-07-09/10/11); 4 «por cobrir». O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 25 de 28 pontos em monocamada (pontos 1-25 — BM, caps. I-VIII e X, fechados em 2026-07-09/10/11); 3 «por cobrir» (26-28: famílias jurídicas e princípios fundamentais do direito privado e do direito público, fora da fonte). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

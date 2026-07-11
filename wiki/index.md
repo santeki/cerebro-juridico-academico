@@ -6,11 +6,11 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 
 ## Vistas de faculdade
 <!-- [[Faculdades/<Faculdade>]] — currículo de cada faculdade sobre o corpo comum. Índice em wiki/Faculdades.md. -->
-- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 9 em monocamada, BM caps. III-VII).
-- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 21 em monocamada, BM caps. I-VII).
-- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Partes I-VI em monocamada, BM caps. I-VII; sem ano/semestre/bibliografia na fonte).
-- [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; 7 em monocamada, BM caps. I-VII; leituras por secção com páginas).
-- [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; 11 em monocamada, BM caps. II, IV, V e VI).
+- [[Faculdades/NOVA School of Law — Direito]] — «Introdução ao Direito e ao Pensamento Jurídico» mapeada do guia 2021 (21 pontos; 14 em monocamada, BM caps. III-VIII e X — os pontos 2 e 9 com ressalva do recorte FA).
+- [[Faculdades/FDUP — Direito]] — «Introdução ao Direito» 2025/2026 mapeada da ficha SIGARRA (28 pontos; 25 em monocamada, BM caps. I-VIII e X).
+- [[Faculdades/Católica Porto — Direito]] — «Introdução ao Estudo do Direito» mapeada da página oficial (7 Partes; Partes I-VII em monocamada, BM caps. I-VIII; sem ano/semestre/bibliografia na fonte).
+- [[Faculdades/Católica Lisboa — Direito]] — «Introdução ao Estudo do Direito» 2023/2024 mapeada da ficha da UC (15 pontos; 11 em monocamada, BM caps. I-X — leitura prescrita do BM integralmente coberta; leituras por secção com páginas).
+- [[Faculdades/FDUL — Direito]] — «Introdução ao Estudo do Direito I», Turma A 2025-2026 (regente José Alberto Vieira), mapeada do programa (19 pontos; 14 em monocamada, BM caps. II, IV, V, VI, VIII e X).
 
 ## Avaliação (componente prática)
 <!-- [[Avaliação/<pagina>]] — fontes de avaliação reais (fonte-avaliacao: exames, casos, testes, correcções) e casos práticos de treino (caso-pratico). Índice em wiki/Avaliação/_indice.md. -->
@@ -41,6 +41,8 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Conceitos/Integração da Lei]] — non liquet (art. 8º CC) e espaço ajurídico, lacuna como incompletude contrária a um plano, três camadas e espécies (colisão, teleológicas, lacunas do direito), analogia e norma ad hoc (art. 10º CC), proibições (art. 11º), political restraint e lacuna política; monocamada (BM, cap. VII, Secção III); verificado.
 - [[Conceitos/Aplicação da Lei no Tempo]] — conflito extra-sistemático e lei competente; arts. 12º/13º/297º CC; teoria do facto passado (Nipperdey) e correcções de BM; estatutos; leis interpretativas e confirmativas (monocamada BM cap. VIII, Secção I).
 - [[Conceitos/Aplicação da Lei no Espaço]] — conflitos de leis no espaço; regras de conflitos (arts. 14º-65º CC) como normas sobre normas; remissão ao DIP (monocamada BM cap. VIII, Secção II; página curta).
+- [[Conceitos/Direito Justo]] — o problema (vigente vs válido); modelo ontológico, positivismo «metafísica antimetafísica» e pragmática universal; valer/vigorar (Larenz em relato); *pacta sunt servanda* como pressuposto ético-semântico; concepção hodierna da indisponibilidade; validade do Direito Positivo fundada no Direito Natural; Direito Comum vs direito organizativo (monocamada BM cap. X, Secção II, com o cap. IX § 6); verificado.
+- [[Conceitos/Discurso Legitimador]] — a construção que dá título à obra: prolação do fenómeno comunicativo originário; Discurso Jurídico como modalidade exemplar; concretização como mediação (esfera de risco); círculo hermenêutico; força persuasiva e étimo ético; sensus/consensus iuridicus; razão e pacto; origem vs génese; hermenêutica transcendental; dois pecados (monocamada BM cap. X, Secções I, III e IV); verificado.
 
 ## Doutrina
 <!-- [[Doutrina/<autor>]] — área, obras na wiki, patamar N1/N2 -->
@@ -70,7 +72,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
 - [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
 - [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-IX fechados e propagados (o IX em periferia relevante — sumário e mapa no reservatório, sem página nova)** — o campo `progresso:` da página diz onde vai.
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-X fechados e propagados (o IX em periferia relevante; o X, núcleo, criou Direito Justo e Discurso Legitimador)** — o campo `progresso:` da página diz onde vai.
 
 ---
 
@@ -84,7 +86,7 @@ Ver [[Faculdades]] — vistas por faculdade: cadeiras em curso, programa, datas 
 - NOVA: guia capturado é da edição 2021 — obter ficha do ano corrente (regência e avaliação a reconfirmar); desalinhamento de numeração de capítulos do BM na «aplicação da lei no espaço» (guia: cap. IX, secção II; exemplar: cap. VIII, secção II) a confirmar na leitura.
 - Católica Lisboa: ficha é de 2023/2024 — obter a do ano corrente.
 - Baptista Machado: recensões e dados biográficos do autor por verificar (Situação da fonte, lacuna assinalada).
-- Baptista Machado, cap. II, nota da p. 36: «Castanheira Neves, ob. cit., pp. 353 e 359» — hipótese principal (cap. VI): *As Fontes do Direito e o problema da positividade jurídica*, BFD Coimbra, vol. LI (1975), pp. 115 e sgs. (nota da p. 159); o cap. VII alargou o leque com duas referências completas novas — *A Unidade do Sistema Jurídico* (Coimbra, 1979; nota p. 197) e *Questão-de-Facto-Questão-de-Direito* (Coimbra 1967, ≥ 309 pp.; nota p. 203) — sem deslocar a hipótese principal; fecho pede o vol. LI do BFD (inacessível em linha) — biblioteca.
+- Baptista Machado, cap. II, nota da p. 36: «Castanheira Neves, ob. cit., pp. 353 e 359» — hipótese principal (cap. VI): *As Fontes do Direito e o problema da positividade jurídica*, BFD Coimbra, vol. LI (1975), pp. 115 e sgs. (nota da p. 159); o cap. VII alargou o leque com duas referências completas novas — *A Unidade do Sistema Jurídico* (Coimbra, 1979; nota p. 197) e *Questão-de-Facto-Questão-de-Direito* (Coimbra 1967, ≥ 309 pp.; nota p. 203) — sem deslocar a hipótese principal; o cap. X acrescentou a quarta menção (nota pp. 275-276: «*Unidade*, cit., pp. 77 e s.», por remissão à p. 197); nenhuma menção nos caps. VIII-IX; fecho pede o vol. LI do BFD (inacessível em linha) — biblioteca.
 - Baptista Machado, cap. V: epígrafe e texto do art. 223º da CRP de 1976 originária por confirmar em fonte primária, para fechar a oscilação «Conselho Superior Judiciário» (p. 140) / «Conselho Superior da Magistratura» (p. 150). [A pendência do art. 1º do CPC de 1961 fechou em 2026-07-10: citação híbrida de BM, errata da edição — v. página de fonte.]
 - Cobertura em curso pela ingestão do BM (caps. I-VII fechados): FDUP 21/28, Católica Lisboa 7/15, Católica Porto Partes I-VI, FDUL 11/19, NOVA 9/21 em monocamada. Próximo: cap. VIII (aplicação da lei no tempo e no espaço) — o coração dos recortes restantes: C.Lisboa 10 (leitura prescrita: BM pp. 170-272 e 307-332), FDUL 18-19, FDUP 23-25, NOVA 18-20, C.Porto Parte VII; atenção ao desalinhamento de numeração do guia NOVA na aplicação no espaço (guia: cap. IX, secção II; exemplar: cap. VIII, Secção II).
 - Verificação DRE dos arts. 8º-13º do CC (redacção de 1966 mantida, confirmada em consolidações convergentes): a página do DRE exige JavaScript e ficou inacessível ao fetch na sessão de 2026-07-10 — em aberto, sinalizada na página de fonte.

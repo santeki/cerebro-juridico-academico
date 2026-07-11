@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-10
+ultima_actualizacao: 2026-07-11
 ---
 
 # Fontes de Direito
@@ -28,6 +28,8 @@ A mesma estrutura de «questão jurística» reaparece no cap. VII da fonte a pr
 Contra a «férrea lógica do positivismo», que atribui ao sistema posto competência exclusiva para decidir sobre as próprias fontes: como as normas sobre as fontes são elas mesmas produto de uma decisão legislativa — de um facto —, a validade jurídica acabaria por fundar-se num facto, e «não podemos embarcar num *recursum ad infinitum*»; fundar a validade num facto é inadmissível e conduz a absurdos (BM, pp. 154-155). Dois exemplos da fonte: a decisão maioritária (ou até unânime) pela qual o povo, segundo as regras do processo democrático, entregasse o poder a um chefe não seria hoje aceite como válida — sinal de que a validade se funda em princípios regulativos superiores que transcendem os factos mediante os quais se positiva (p. 155); e a norma de segundo grau que declarasse imutável uma norma constitucional alheia à essência da Constituição só pode entender-se como «patética afirmação de força», norma fundada num simples «*quero porque quero*» (p. 156).
 
 Conclusões de BM (p. 156): (a) há fontes de direito que não são nem podem por natureza ser positivadas — é inviável a pretensão do legislador de definir taxativamente as fontes; (b) o legislador é limitado por princípios fundamentais de direito fora do seu alcance, que predefinem o sentido possível das normas que põe; (c) a esses princípios, sedimentados na cultura humana ao longo da história — hoje incluindo o princípio regulativo da legitimidade democrática —, remonta o fundamento último da validade das normas jurídicas. E o corolário político: «o direito nunca está por inteiro na livre disponibilidade do poder político» — é-lhe inerente um núcleo irredutível de autonomia (princípios fundamentais decorrentes da própria «ideia de direito») perante o qual a acção política de positivação se tem de justificar; a ordem jurídica na sua globalidade está sob a postulação vinculante da Justiça (BM, p. 157; a articulação validade/vigência vem do cap. II — [[Conceitos/Noção de Direito]]).
+
+O cap. X acrescenta a moldura legitimadora: as fontes positivas «representam já concretizações ou positivações vinculantes de um Discurso Legitimador antecedente» (BM, p. 285), e o próprio acto positivador «nunca afirma a norma que positiva como um *quero porque quero*, antes ao decretá-la afirma uma pretensão de justiça para o conteúdo daquela norma» (BM, p. 293, nota, 300 dpi — v. ERRATA-MD) — o fundamento desenvolvido em [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]].
 
 ## Elenco e classificações
 

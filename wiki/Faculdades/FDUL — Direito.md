@@ -46,7 +46,7 @@ ultima_actualizacao: 2026-07-11
   Capítulo IV — Norma jurídica e proposição jurídica
   14. Secção I (Generalidades): fontes de Direito e normas jurídicas; norma e proposição jurídica; estrutura da norma; carácter hipotético da aplicação; características — [[Conceitos/Norma Jurídica]] — monocamada (BM, cap. IV, Secção I, § 1º).
   15. Secção II (Classificações de normas): geral, especial e excepcional; injuntivas e dispositivas; obrigatórias e prescritivas; permissivas e supletivas; proposições jurídicas não normativas (definições, ficções, presunções) e proposições incompletas — [[Conceitos/Norma Jurídica]] · [[Conceitos/Codificação e Técnicas Legislativas]] — monocamada (BM, cap. IV, §§ 2º da Secção I e 2º da Secção II).
-  16. «Secção IV» [sic] (Norma jurídica e princípio jurídico): princípios jurídicos — formulação; formais e materiais; princípio e norma — por cobrir.
+  16. «Secção IV» [sic] (Norma jurídica e princípio jurídico): princípios jurídicos — formulação; formais e materiais; princípio e norma — [[Conceitos/Norma Jurídica]] · [[Conceitos/Discurso Legitimador]] — monocamada com lacuna expressa (BM, cap. X, Secção III, § 1.º: princípio vs norma — os princípios «não são normas», carecem de concretização por subprincípios; a tipologia «formais e materiais» e a «formulação» como recorte autónomo não estão na fonte; fechado com esta ressalva em 2026-07-11).
 
   «Capítulo IV» [sic] — O sistema jurídico
   17. Definição; sistema externo e interno; funcionamento; características; a importância dos princípios para a construção do sistema — por cobrir.
@@ -55,7 +55,7 @@ ultima_actualizacao: 2026-07-11
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (BM, cap. VIII, Secção I: todos os sub-tópicos do ponto têm sede na fonte, incluindo a «sobrevigência» da lei antiga e a sua reformulação como lex transit in contractum).
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (as duas partes do n.º 2 e a presunção do n.º 1; requisitos e limites da lei interpretativa; letra do art. 13º/1 conferida pelo Ac. STJ 96B112).
 
-- **Cobertura do programa**: 13 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-15 e 18-19 — BM, caps. II, IV, V, VI e VIII, fechados em 2026-07-09/10/11; o 10 com lacuna expressa no sub-recorte do primado do Direito da União); 6 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: 14 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-16 e 18-19 — BM, caps. II, IV, V, VI, VIII e X, fechados em 2026-07-09/10/11; o 10 com lacuna expressa no sub-recorte do primado do Direito da União; o 16 com lacuna expressa na tipologia formais/materiais); 5 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)

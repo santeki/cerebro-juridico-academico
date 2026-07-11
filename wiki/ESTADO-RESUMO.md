@@ -24,13 +24,14 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 18 | teoria do Direito (BM caps. I-IX); tudo `verificado` |
-| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-IX de XI fechados e propagados; o IX em periferia relevante, sem página nova) |
+| Conceitos | 20 | teoria do Direito (BM caps. I-X); tudo `verificado` |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-X de XI fechados e propagados; falta só o cap. XI, periferia) |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. X, núcleo).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. XI, o último; periferia relevante).
+- [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] — o par do cap. X (o problema do direito justo, valer/vigorar, *pacta sunt servanda*, indisponibilidade, validade do DP fundada no DN; mediação, círculo hermenêutico, étimo ético, analogia como espinha dorsal) — a tese que dá título à obra.
 - [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]] — o par do cap. VIII (direito transitório: arts. 12º/13º/297º; regras de conflitos como normas sobre normas).
 - [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC na redacção mantida de 1966).
 - [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; auto-referência; positivação; dialéctica positivo/trans-positivo).
@@ -39,6 +40,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Mudanças recentes (últimos 7 dias)
 
+- [2026-07-11] ingestão | BM cap. X **lido, verificado e propagado** (obra pp. 273-357; núcleo; quatro Secções — o índice da p. 388, lido agora, revelou a IV). Criadas [[Conceitos/Direito Justo]] (absorve a promoção do § 6 do IX) e [[Conceitos/Discurso Legitimador]]; integrações em 7 conceitos; vistas FDUP 25/28 · C.Lisboa 11/15 (**leitura prescrita do BM integralmente coberta**; 14-15 com lacunas expressas) · NOVA 14/21 (2 e 9 com ressalva FA) · FDUL 14/19 (16 com lacuna expressa) · C.Porto inalterada. Verificador do capítulo VERDE (371 citações, 0 falhas; 36 recortes a 300 dpi); **verificador global VERDE** (1323 citações no escopo BM, 0 falhas). Erratas MD 102-133 (+32; substantiva: transposição de linhas p. 287); gralhas da edição novas: «ligitimador» (273), «direito zativo» (306), «KAUFMAN»/numeração IV (330), «revelante» ×3 (345 n.), Parsons duplicado pp. 213↔346, e mais; **«§ 442 BGB» (p. 311 n.) em aberto** — Citação por verificar contra Larenz, RR, p. 87. CN: quarta menção (pp. 275-276 n., «Unidade, cit., pp. 77 e s.»); dossier «ob. cit.» inalterado. Fio da p. 254 fechado (pacta sunt servanda, pp. 294-296). Fronteira: cap. X fecha na p. 357; folha 181 = página única (p. 359, abertura do XI; excepção à regra de paginação registada).
 - [2026-07-11] auditoria | **verificador global de citações: VERDE** (471 varridas, 0 falhas); 24 deformações do MD em passagens usadas registadas em atraso (erratas 78-101, seis adjudicadas a 300 dpi nesta sessão); sinalizações acrescentadas em 3 páginas; fronteira de citação corrigida na Norma Jurídica.
 - [2026-07-11] ingestão | BM cap. IX **lido, verificado e propagado** (obra pp. 253-272; periferia relevante — sumário fiel e mapa no reservatório, sem página nova; «Factiddade» adjudicado como erro de conversão; sem bibliografia própria; CN sem menção; verificador do capítulo verde: 28 citações, 0 falhas; errata MD +11, 67-77). Integrações em Noção de Direito (fundamento suprapositivo, § 6), Jurisdição (modelo jurídico de decisão, § 4) e Segurança Jurídica; vista C.Lisboa — fatia pp. 170-272 da leitura prescrita integralmente coberta (nota de alcance do ponto 10); contadores das vistas inalterados (nenhum programa convoca o IX).
 - [2026-07-11] ingestão | BM cap. VIII **propagado** (2 conceitos novos; 6 integrações; 5 vistas — FDUP 24/28, NOVA 12/21 com veredicto do guia, C.Porto I-VII completo, C.Lisboa 8/15, FDUL 13/19; gancho de Eixo B da lei interpretativa BM/Ascensão).
@@ -53,7 +55,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-11 — regeneração (sexta, no fecho do cap. IX do BM — leitura, verificação, propagação e verificador global).
+2026-07-11 — regeneração (sétima, no fecho do cap. X do BM — leitura, verificação, propagação, verificador global e auditoria estrutural).
 
 ---
 

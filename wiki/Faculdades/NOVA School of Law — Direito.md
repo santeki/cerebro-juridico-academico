@@ -27,14 +27,14 @@ ultima_actualizacao: 2026-07-11
 
   I — Conceito de Direito
   1. Direito e Sociedade (FA, cap. 1) — por cobrir.
-  2. Direito, Natureza e Cultura (FA, cap. 1) — por cobrir.
+  2. Direito, Natureza e Cultura (FA, cap. 1) — [[Conceitos/Discurso Legitimador]] — monocamada com ressalva (a Secção IV do cap. X de BM — «O Direito, o Homem e a Cultura»: unidade originária direito-cultura, concepção culturalista vs materialista, operadores semânticos natureza/cultura — trata directamente a matéria; o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar; marcado em 2026-07-11).
   3. Definição de Direito (FA, cap. 2) — por cobrir.
   4. Características do Direito (FA, cap. 3) — por cobrir.
   5. Direito, Religião e Moral (FA, cap. 4) — por cobrir.
-  6. Direito, Justiça e Equidade (FA, cap. 5) — por cobrir.
+  6. Direito, Justiça e Equidade (FA, cap. 5) — por cobrir (a componente Justiça está substantivamente tratada no cap. X de BM — [[Conceitos/Direito Justo]] —, mas a equidade, central no recorte, só aparece na fonte como remissão ao art. 4º CC: o ponto aguarda o Freitas do Amaral).
   7. Direito, Usos Sociais, Normas técnicas e Profissionais (FA, cap. 6) — por cobrir.
   8. Direito, Economia, Sociologia e Política (FA, cap. 7) — por cobrir.
-  9. Direito Natural e Positivismo (FA, cap. 8) — por cobrir.
+  9. Direito Natural e Positivismo (FA, cap. 8) — [[Conceitos/Direito Justo]] — monocamada com ressalva (a Secção II do cap. X de BM trata directamente a matéria — jusnaturalismo ontológico, positivismo «metafísica antimetafísica», concepção hodierna, validade do DP fundada no DN; o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar; marcado em 2026-07-11).
 
   II — Ramos do Direito
   10. Ramos do Direito (BM, cap. III, 1-6) — [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III).
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-11
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V).
 
-- **Cobertura do programa**: 12 de 21 pontos em monocamada (pontos 10-21 — BM, caps. III-VIII, fechados em 2026-07-09/10/11); 9 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, agora todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
+- **Cobertura do programa**: 14 de 21 pontos em monocamada (pontos 2, 9 e 10-21 — BM, caps. III-VIII e X, fechados em 2026-07-09/10/11; os pontos 2 e 9 com ressalva expressa: matéria coberta pelo cap. X de BM, recorte do guia — Freitas do Amaral — a conferir quando o FA entrar); 7 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)
