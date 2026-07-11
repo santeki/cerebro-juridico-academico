@@ -39,5 +39,7 @@ A mesma palavra «direito» cobre as duas realidades — o equívoco desfaz-se p
 
 É a primeira desambiguação de qualquer curso introdutório (FDUP, ponto 3 do programa; subjaz aos programas das restantes escolas). BM anuncia a classificação dos direitos subjectivos para momento posterior da obra — a taxonomia não se fecha aqui além do que a fonte fecha.
 
+A titularidade e a capacidade que os direitos subjectivos pressupõem vivem em [[Conceitos/Personalidade Jurídica]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. III, 2, p. 64; cap. IV, pp. 84 e 88-90; cap. V, pp. 125 e 131-132 (confrontado no PDF).

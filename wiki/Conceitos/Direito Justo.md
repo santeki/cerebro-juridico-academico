@@ -46,5 +46,7 @@ O Direito Justo não é o direito vigente nem se confunde com ele: os seus princ
 
 Nos programas mapeados: FDUP ponto 6 («O problema do Direito Natural»); Católica Lisboa, Capítulo III do programa («Direito e Justiça: o problema do Direito injusto», pontos 13-15 — a sede da segunda fatia da leitura prescrita, pp. 307-332, é a Secção III do cap. X, tratada em [[Conceitos/Discurso Legitimador]]); NOVA ponto 9 («Direito Natural e Positivismo», que o guia remete ao Freitas do Amaral, por ingerir — recorte a conferir).
 
+A crítica ao fundamento factual da validade, no plano da produção do Direito, vive em [[Conceitos/Fontes de Direito]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. X, Secção II (pp. 286-307), com o cap. IX, § 6 (pp. 264-268) e a Secção I do cap. X (leitura integral; confronto com o PDF em todas as folhas; adjudicações a 300 dpi — v. página de fonte).

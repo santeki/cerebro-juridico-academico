@@ -41,5 +41,7 @@ No plano operativo, a coercibilidade é assegurada pelo aparelho de coerção es
 
 Coercibilidade (susceptibilidade de coacção) ≠ coacção (aplicação efectiva da força) ≠ Força (o poder de facto que as suporta): a primeira é qualidade da norma jurídica, a segunda o seu momento patológico, a terceira o substrato que o Direito legitima e regula (BM, pp. 34-42). A heteronomia jurídica distingue-se da autovinculação moral — ver a distinção Direito/Moral em [[Conceitos/Noção de Direito]] *(concretiza)*.
 
+A coercibilidade como característica (contestada) da norma desenvolve-se em [[Conceitos/Norma Jurídica]]; o seu serviço à segurança e à confiança, em [[Conceitos/Segurança Jurídica]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 1º, pp. 31-44; cap. V, pp. 125-126 e 133-134 (leitura integral; citações conferidas no PDF).

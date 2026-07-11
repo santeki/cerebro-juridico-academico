@@ -39,5 +39,7 @@ Registos e Notariado (Códigos do Registo Civil, Predial e do Notariado); Direit
 
 O ramo (subconjunto normativo por matéria) não se confunde com a classificação das normas por fontes formais ou por classes, vias alternativas de arrumação que BM aponta (p. 64), nem com as disciplinas curriculares, a que só «no geral» corresponde (p. 65). A unidade que os atravessa é o sistema — as páginas de instituto que forem nascendo ligam de volta a esta. Ver [[Conceitos/Direito Objectivo e Direito Subjectivo]] *(concretiza)* e [[Conceitos/Noção de Direito]].
 
+A arquitectura dos códigos e a técnica legislativa que servem a divisão por ramos vivem em [[Conceitos/Codificação e Técnicas Legislativas]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. III, pp. 63-77 (leitura integral confrontada no PDF; errata da edição na data do Tratado de Roma verificada em EUR-Lex).

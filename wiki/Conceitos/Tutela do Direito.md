@@ -59,5 +59,7 @@ O Estado hodierno dispõe de meios de orientação da conduta que o elenco clás
 
 A tutela do Direito (garantia da ordem objectiva) distingue-se da tutela dos direitos (garantia das posições subjectivas), entrelaçando-se ambas nos mesmos meios (BM, pp. 131-132; ver [[Conceitos/Direito Objectivo e Direito Subjectivo]]). A coercibilidade é a qualidade da norma que o aparelho de tutela assegura — o fundamento do nexo entre juridicidade e coacção vive em [[Conceitos/Coercibilidade]] *(concretiza)*. A sanção como reacção sistémica articula-se com a estrutura da norma em [[Conceitos/Norma Jurídica]]. A espécie judiciária da heterotutela — os tribunais, a sua legitimidade e a função jurisdicional — desenvolve-se em [[Conceitos/Jurisdição]] *(concretiza)*.
 
+O quadro da segurança e da certeza que a tutela serve vive em [[Conceitos/Segurança Jurídica]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. V, pp. 125-151 (leitura integral; confronto com o PDF em todas as folhas; verificações primárias: CRP-1976 arts. 21º/91º, parlamento.pt; art. 85º Tratado CEE, EUR-Lex CELEX 11957E085).

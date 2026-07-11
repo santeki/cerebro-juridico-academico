@@ -49,5 +49,7 @@ O cap. V da fonte articula a estrutura da norma com a reacção do sistema à su
 
 A norma distingue-se dos comandos individuais e concretos (sentença, despacho de nomeação, acto administrativo definitivo e executório) e das cláusulas negociais, vinculantes mas não criadoras de direito objectivo (BM, p. 91). Das proposições jurídicas incompletas (definições, classificações) distingue-se por ter sentido completo (BM, pp. 96-97). O facto que a previsão hipoteíza trata-se em [[Conceitos/Facto Jurídico]] *(concretiza)*; as técnicas por que o legislador constrói e articula normas em [[Conceitos/Codificação e Técnicas Legislativas]] *(concretiza)*; o fundamento institucional em [[Conceitos/Instituição]]. A norma no sistema — os modos por que é produzida, a sua posição hierárquica e os conflitos internos (antinomias lógicas e teleológicas, «lacuna de colisão») — trata-se em [[Conceitos/Fontes de Direito]] e em [[Conceitos/Vigência das Normas]] (BM, cap. VI, pp. 166-171). A determinação do sentido da norma e o preenchimento da sua falta vivem em [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] *(concretiza)*.
 
+A aplicação da norma pelo julgador — vinculação à lei, instância de controle, ónus da justificação — desenvolve-se em [[Conceitos/Jurisdição]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, pp. 79-98; cap. V, pp. 133-134; cap. VI, pp. 166-171; cap. VII, pp. 187-188, 206-207 e 217-218; cap. VIII, pp. 225, 231 e 252 (leitura integral; artigos e citações conferidos no PDF).

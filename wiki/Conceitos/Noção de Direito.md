@@ -55,5 +55,7 @@ A ordem jurídica distingue-se das outras ordens normativas sociais (moral socia
 
 É a pergunta inaugural de qualquer curso de Introdução ao Direito: o confronto das duas definições estrutura o «conceito de Direito» nos programas mapeados (FDUP I; Católica Porto Parte I; NOVA bloco I; Católica Lisboa, Primeiras Aproximações). A questão do conceito de Direito pertence, para BM, *de iure* à alçada da Filosofia do Direito (BM, p. 44) — o problema do direito justo retoma-se no cap. X da obra.
 
+O desdobramento em direito objectivo e direitos subjectivos vive em [[Conceitos/Direito Objectivo e Direito Subjectivo]]; a projecção da noção pelos ramos, em [[Conceitos/Ramos do Direito]]; a dinâmica temporal e hierárquica da norma posta, em [[Conceitos/Vigência das Normas]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, pp. 31-62; cap. V, pp. 133-134; cap. VI, pp. 153-157 e 161; cap. VII, pp. 205-216; cap. VIII, pp. 223-225; cap. IX, pp. 253-255 e 264-269; cap. XI, pp. 369-372 (leitura integral; citações conferidas no PDF).

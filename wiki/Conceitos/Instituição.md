@@ -39,5 +39,7 @@ As instituições são um importante *dado prévio do Direito* (Henkel, em relat
 
 A instituição distingue-se do substrato organizacional (o grupo, a organização) que a corporiza: analiticamente, a instituição é o aspecto normativo; a organização é a estrutura de acção que o põe por obra (BM, pp. 15-16). Distingue-se também do simples hábito: apropriar-se de uma regra institucionalizada é adquirir um *critério* de maneira certa e errada de fazer as coisas, não um mecanismo reflexo (BM, pp. 24-25). A positividade institucional culmina na [[Conceitos/Noção de Direito]] *(concretiza)* — a vigência como forma de existência da ideia valorativa — e na estabilidade que o Direito lhe acrescenta, a [[Conceitos/Segurança Jurídica]] *(concretiza)*; a relação com a norma jurídica trabalha-se na página própria quando o cap. IV da fonte for propagado.
 
+As instituições são convocadas pela produção do Direito ([[Conceitos/Fontes de Direito]]), incorporam as normas que regem os comportamentos ([[Conceitos/Norma Jurídica]]) e sustentam a personalidade como posição institucionalizada ([[Conceitos/Personalidade Jurídica]]).
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. I, pp. 7-29 (leitura integral confrontada com o PDF; citações literais conferidas carácter a carácter).

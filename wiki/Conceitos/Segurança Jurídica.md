@@ -41,5 +41,7 @@ O cap. X inverte o ónus clássico: sendo a aplicação analógica exigência do
 
 A segurança jurídica não se confunde com a estabilidade institucional genérica ([[Conceitos/Instituição]] *(concretiza)*): é o incremento específico que o Direito lhe acrescenta (BM, p. 55). Articula-se com a vigência e a eficácia — dimensões de existência do Direito — tratadas em [[Conceitos/Noção de Direito]] *(concretiza)*, e com a coercibilidade que garante a ordem ([[Conceitos/Coercibilidade]]).
 
+O contributo das técnicas legislativas (definições legais, presunções, partes gerais) para a certeza vive em [[Conceitos/Codificação e Técnicas Legislativas]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 4º, pp. 55-59; cap. VI, pp. 165 e 171; cap. VII, pp. 176 e 202; cap. VIII, pp. 225-226, 229 e 250-251; cap. IX, pp. 261-262; cap. XI, p. 366 (leitura integral; citações conferidas no PDF).

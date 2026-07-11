@@ -10,7 +10,7 @@ ultima_actualizacao: 2026-07-11
 
 # Discurso Legitimador
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. X, Secções I, III e IV (pp. 273-286, 307-332, 333-357). É a construção que dá título à obra — nas palavras da Apresentação, os dois últimos capítulos são os mais tardios e «ainda mais provisórios»: o que segue é construção doutrinária de BM, dialogando com Habermas, Apel, Larenz, Luhmann, Hayek, Kaufmann, Esser e Bihler (todos em relato).
+Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. X, Secções I, III e IV (pp. 273-286, 307-332, 333-357). É a construção que dá título à obra — na Apresentação, «mais incompletos e provisórios ainda serão os dois últimos capítulos», os mais tardios: o que segue é construção doutrinária de BM, dialogando com Habermas, Apel, Larenz, Luhmann, Hayek, Kaufmann, Esser e Bihler (todos em relato).
 
 ## Noção
 
@@ -22,7 +22,7 @@ O Discurso Jurídico é modalidade específica do Discurso Legitimador — herme
 
 ## A concretização como mediação
 
-Os princípios do Direito Justo só se vislumbram «mediatizadamente»; paralelamente, a cláusula geral só se torna aplicável integrada em contextos que a concretizem. Princípios carecidos de concretização «não são normas» — carecem de consolidação tipificadora, de se desenvolverem em normas referidas ao real; o método é a procura de subprincípios já dotados de conteúdo factual-descritivo, referíveis a situações típicas, com função clarificadora (BM, pp. 307-309). O exemplo demonstrativo da fonte é a «esfera de risco»: do princípio vago de que cada parte suporta os prejuízos da sua esfera de risco, pelas concretizações dos arts. 1040º e 1045º do CC (locação) e do art. 1167º, c) e d) (mandato), até à conclusão de que o princípio que aflora no art. 816º tem âmbito mais vasto que a *mora credendi* (BM, pp. 309-310 — percurso completo na página de fonte). A «mediatização» por contextos diversos «filtra a *ratio*» do princípio — tradução em fórmulas «operacionalizáveis» em que o próprio princípio se ilumina (BM, pp. 310-311). «O jurista é sobretudo um mediador que se ocupa em "negociar" ajustes entre os princípios abstractos e as situações concretas» (BM, p. 311).
+Os princípios do Direito Justo só se vislumbram «mediatizadamente»; paralelamente, a cláusula geral só se torna aplicável integrada em contextos que a concretizem. Princípios carecidos de concretização «não são normas» — carecem de consolidação tipificadora, de se desenvolverem em normas referidas ao real; o método é a procura de subprincípios já dotados de conteúdo factual-descritivo, referíveis a situações típicas, com função clarificadora (BM, pp. 307-309). O exemplo demonstrativo da fonte é a «esfera de risco»: do princípio vago de que cada parte suporta os prejuízos da sua esfera de risco, pelas concretizações dos arts. 1040º e 1045º do CC (locação) e do art. 1167º, c) e d) (mandato), até à conclusão de que o princípio que aflora no art. 816º tem âmbito mais vasto que a *mora credendi* (BM, pp. 309-310 — percurso completo na página de fonte). A «mediatização» por contextos diversos permite como que «filtrar a *ratio*» do princípio — tradução em fórmulas «operacionalizáveis» em que o próprio princípio se ilumina (BM, pp. 310-311). «O jurista é sobretudo um mediador que se ocupa em "negociar" ajustes entre os princípios abstractos e as situações concretas» (BM, p. 311).
 
 ## O círculo hermenêutico
 
@@ -51,6 +51,8 @@ O fundamento material que o discurso legitimador serve — os princípios do Dir
 ## Relevância
 
 Nos programas mapeados: é a sede da segunda fatia da leitura prescrita pela Católica Lisboa (pp. 307-332 = cap. X, Secção III — mediação e analogia), servindo o Capítulo III do programa («Direito e Justiça»); NOVA ponto 2 («Direito, Natureza e Cultura» — a Secção IV é tratamento directo da matéria, com a ressalva de o guia remeter ao Freitas do Amaral); FDUP ponto 6 pela via do fundamento (com [[Conceitos/Direito Justo]]).
+
+No plano das articulações: as fontes como concretizações vinculantes do discurso antecedente vivem em [[Conceitos/Fontes de Direito]]; a norma como «resposta» a uma questão de regulamentação, em [[Conceitos/Norma Jurídica]]; a moldura da validade e da pretensão de justiça, em [[Conceitos/Noção de Direito]].
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. X, Secções I, III e IV (pp. 273-286, 307-332, 333-357), com remissões ao cap. IX; cap. XI, pp. 374-375 (leitura integral; confronto com o PDF em todas as folhas; adjudicações a 300 dpi — v. página de fonte).
