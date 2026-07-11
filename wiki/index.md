@@ -68,7 +68,7 @@ _Vazio no arranque. Cada página criada é registada na sua categoria, com link 
 - [[Fontes/Ficha da UC — Introdução ao Estudo do Direito (Católica Lisboa, 2023-2024)]] — ficha da UC, retrato datado 2023/2024; institucional; verificado.
 - [[Fontes/Programa — Introdução ao Estudo do Direito I, Turma A (FDUL, 2025-2026)]] — programa da Turma A, regente José Alberto Vieira; institucional; verificado.
 - [[Fontes/Página do Guia de Cursos — Introdução ao Direito e ao Pensamento Jurídico (NOVA, captura 2026-07-09)]] — NOVA Guia de Cursos, edição 2021, retrato datado; institucional; verificado (errata do original registada: «IGNOREes» por «fontes»).
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-VII fechados e propagados** — o campo `progresso:` da página diz onde vai.
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — 13.ª reimp., Almedina, 2002; doutrina-verificada; **em ingestão capitular: caps. I-VII fechados e propagados; cap. VIII lido e verificado (2026-07-11), propagação a aguardar ok** — o campo `progresso:` da página diz onde vai.
 
 ---
 
