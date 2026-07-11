@@ -25,20 +25,22 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
 | Conceitos | 20 | teoria do Direito (BM caps. I-X); tudo `verificado` |
-| Fontes ingeridas | 6 | 5 fichas institucionais + BM (em ingestão capitular: caps. I-X de XI fechados e propagados; falta só o cap. XI, periferia) |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (**obra lida por inteiro**: caps. I-XI fechados e propagados; em curso o fecho da obra — releitura selectiva, revisão total, Oficina) |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório em construção; `progresso:` diz onde a leitura vai (segue cap. XI, o último; periferia relevante).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório completo (caps. I-XI); `progresso:` diz o estado do fecho da obra («Tese central» por preencher na releitura selectiva).
 - [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] — o par do cap. X (o problema do direito justo, valer/vigorar, *pacta sunt servanda*, indisponibilidade, validade do DP fundada no DN; mediação, círculo hermenêutico, étimo ético, analogia como espinha dorsal) — a tese que dá título à obra.
 - [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]] — o par do cap. VIII (direito transitório: arts. 12º/13º/297º; regras de conflitos como normas sobre normas).
 - [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC na redacção mantida de 1966).
-- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; auto-referência; positivação; dialéctica positivo/trans-positivo).
+- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; auto-referência; positivação; dialéctica positivo/trans-positivo); o cap. XI rematou o arco pelo lado do saber (ciência jurídica como parte da vida do Direito).
 - [[Conceitos/Fontes de Direito]] e [[Conceitos/Vigência das Normas]] — o par do cap. VI (produção do Direito; dinâmica temporal e hierárquica da norma posta).
 - [[Conceitos/Tutela do Direito]] — porta de entrada da matéria da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
+
+- [2026-07-11] ingestão | BM cap. XI **lido, verificado e propagado** (obra pp. 359-375; periferia relevante — sumário fiel das 7 secções e mapa de conceitos no reservatório, sem página nova). **A obra está lida por inteiro.** Integrações em 5 conceitos (Noção de Direito — ciência jurídica na vida do Direito + CN 5.ª menção; Segurança Jurídica — função estabilizadora da dogmática, p. 366; Jurisdição — juiz órgão da ordem espontânea + ónus de justificação, pp. 365/370-371; Interpretação da Lei — formação dogmática vs literalismo + momento hermenêutico, pp. 368-369/375; Discurso Legitimador — hermenêutica funcionalizada e duas lógicas, pp. 374-375); contadores das vistas inalterados (nenhum programa convoca o XI). Adjudicação: **Canaris, Berlim 1969** (300 dpi; a instrução da sessão antecipava 1968). Erratas do exemplar com âncora de catálogo: «Erkeuntnis» (Springer: *Erkenntnis*) e «BULLEWASCH» (Büllesbach). Remissões X→XI fechadas (286→3,4,6 · 305→5 · 325→3). Dossier CN: quinta menção (p. 371, *Unidade*, p. 14) + bloco de 5 obras na bibliografia (p. 377) — reforço sem fecho. ERRATA-MD 154 entradas (+21). Verificador do capítulo VERDE (71 citações: 57 exactas, 14 adjudicadas, 0 falhas). Título «## Citações literais (excepcionais)» reposto na página de fonte (perdido no fecho do IX; restauro conforme git).
 
 - [2026-07-11] ingestão | BM cap. X **lido, verificado e propagado** (obra pp. 273-357; núcleo; quatro Secções — o índice da p. 388, lido agora, revelou a IV). Criadas [[Conceitos/Direito Justo]] (absorve a promoção do § 6 do IX) e [[Conceitos/Discurso Legitimador]]; integrações em 7 conceitos; vistas FDUP 25/28 · C.Lisboa 11/15 (**leitura prescrita do BM integralmente coberta**; 14-15 com lacunas expressas) · NOVA 14/21 (2 e 9 com ressalva FA) · FDUL 14/19 (16 com lacuna expressa) · C.Porto inalterada. Verificador do capítulo VERDE (371 citações, 0 falhas; 36 recortes a 300 dpi); **verificador global VERDE** (1323 citações no escopo BM, 0 falhas). Erratas MD 102-133 (+32; substantiva: transposição de linhas p. 287); gralhas da edição novas: «ligitimador» (273), «direito zativo» (306), «KAUFMAN»/numeração IV (330), «revelante» ×3 (345 n.), Parsons duplicado pp. 213↔346, e mais; **«§ 442 BGB» (p. 311 n.) em aberto** — Citação por verificar contra Larenz, RR, p. 87. CN: quarta menção (pp. 275-276 n., «Unidade, cit., pp. 77 e s.»); dossier «ob. cit.» inalterado. Fio da p. 254 fechado (pacta sunt servanda, pp. 294-296). Fronteira: cap. X fecha na p. 357; folha 181 = página única (p. 359, abertura do XI; excepção à regra de paginação registada).
 - [2026-07-11] auditoria | **verificador global de citações: VERDE** (471 varridas, 0 falhas); 24 deformações do MD em passagens usadas registadas em atraso (erratas 78-101, seis adjudicadas a 300 dpi nesta sessão); sinalizações acrescentadas em 3 páginas; fronteira de citação corrigida na Norma Jurídica.
@@ -55,7 +57,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-11 — regeneração (sétima, no fecho do cap. X do BM — leitura, verificação, propagação, verificador global e auditoria estrutural).
+2026-07-11 — regeneração (oitava, no fecho do cap. XI do BM — leitura, verificação, propagação; obra lida por inteiro; segue o fecho da obra).
 
 ---
 
