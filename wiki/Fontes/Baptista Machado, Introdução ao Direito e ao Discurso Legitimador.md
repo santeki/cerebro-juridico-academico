@@ -8,7 +8,7 @@ procedencia: local
 hash_raw: "fe90407d36a6e5864ad1a62154986826f0db1acfa0cd8d582634542ba0d81d37"
 ocr_motor: "conversão da Oficina (motor não declarado no exemplar)"
 ocr_data:
-progresso: "Caps. I-X fechados e propagados. Cap. XI — A Ciência Jurídica (obra pp. 359-375; periferia relevante; o último) lido e verificado em dupla fonte, extracção no reservatório — propagação a aguardar ok. Com o ok seguem-se: propagação do XI; releitura selectiva e «Tese central»; revisão total; preparação da ida única à Oficina; lista de bugs; decisão Ascensão."
+progresso: "OBRA FECHADA (2026-07-16): caps. I-XI lidos, verificados em dupla fonte e propagados; fecho da obra completo — releitura selectiva + «Tese central» preenchida; revisão total (global VERDE, 942 citações, 0 falhas); entrega à Oficina preparada (relatório de 14 padrões + errata de 186 entradas; a entrega é do Telmo); bugs (a)-(k) decididos; Ascensão: entrada confirmada (Fase 0, cabeça da fila), exemplar à espera da ronda do Telmo com a Oficina."
 cobertura: integral
 tratamento_nucleo: "Caps. I-VIII e X — matéria dos cinco programas mapeados (noção, ramos, norma, tutela, fontes, interpretação/integração, aplicação no tempo e no espaço, discurso legitimador/direito justo)"
 tratamento_periferia: "Cap. IX (O Direito e as Ciências Sociais) · Cap. XI (A Ciência Jurídica)"

@@ -15,7 +15,7 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 
 ## Em curso
 
-- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: **obra lida por inteiro — caps. I-XI fechados e propagados** (pp. 7-375; o XI, «A Ciência Jurídica», em periferia relevante: sumário fiel e mapa no reservatório, integrações em 5 conceitos). Em curso o **fecho da obra**, por esta ordem e com pausa antes de cada passo: (1) ✔ releitura selectiva feita (caps. I, II, VII e IX relidos; iluminações registadas em secção própria da fonte) e «Tese central» preenchida; (2) ✔ revisão total feita (4 planos + derivados; global VERDE 942 citações/0 falhas; 22 assimetrias fechadas; 10 correcções de fidelidade; MELHORIA passagem 1); (3) ✔ ida à Oficina preparada (relatório de padrões regenerado — 14 padrões em 3 classes, com recomendações e nota sobre o Ascensão — + errata consolidada de 186 entradas; ambos junto ao exemplar em raw/ e entregues ao Telmo em ficheiro; a entrega à Oficina é dele); (4) ✔ lista de bugs e melhorias decidida item a item («avança com cada», 2026-07-16) — (b) e (j) aplicados no cofre; (e) tentado (via `files.diariodarepublica.pt` confirmada; o CC integral excede o tecto do fetcher — ver lacuna DRE); os sete itens de sistema empacotados no **delta 6.13** e entregues ao Telmo para o cowork de evolução (o sistema não se altera aqui; as regras já vigoram por Decisão); (5) decisão sobre a entrada do Oliveira Ascensão (Fase 0, à cabeça da fila; ganchos de Eixo B: querela do art. 9º, p. 173; lei interpretativa, BM p. 247 vs *O Direito*, p. 260).
+- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: **OBRA FECHADA (2026-07-16)** — caps. I-XI lidos, verificados e propagados (pp. 7-375); fecho da obra completo nos cinco passos: (1) ✔ releitura selectiva + «Tese central»; (2) ✔ revisão total (global VERDE 942/0; 22 assimetrias fechadas; 10 correcções de fidelidade; MELHORIA passagem 1); (3) ✔ ida à Oficina preparada (relatório de 14 padrões + errata de 186; a entrega é do Telmo); (4) ✔ bugs (a)-(k) decididos («avança com cada»; delta 6.13 entregue para o cowork de evolução); (5) ✔ Ascensão decidido (ASC-01: entrada confirmada à cabeça da fila; ASC-02: exemplar de leitura definido na ronda do Telmo com a Oficina — re-convertido se barato, o actual se caro). Nenhuma ingestão em curso; a próxima abre com o exemplar do Ascensão anexado.
 
 ## Lacunas em aberto
 
@@ -33,8 +33,8 @@ Nenhuma página em revisão marcada. O ciclo automático foi desligado por decis
 
 ## Fila de ingestão
 
-1. **Fecho da obra BM** (passos 1-5 acima, com pausa antes de cada um) — a correr nesta conversa.
-2. Manuais seguintes, pela ordem do plano do Telmo: Ascensão (exemplar já convertido, fora do cofre até aqui; a entrada decide-se no passo 5 do fecho) → Teixeira de Sousa → Amaral → Bronze → Santos Justo; específicos: Cordeiro e Romano Martinez (FDUL), Nogueira de Brito e Anotação de Maria João Fernandes (Católica Lisboa).
+1. **Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*** — entrada confirmada (ASC-01, 2026-07-16), pela **Fase 0** (gate de admissão; a edição do exemplar fixa-se no gate — a referência no cofre é a citada por BM, bibliografia do cap. VIII, p. 219: Lisboa 1978). Abre quando (a) a ronda do Telmo com a Oficina fechar o exemplar de leitura (ASC-02: re-convertido se a re-passagem for barata, o actual se cara) e (b) o exemplar (PDF + MD) for anexado — está fora do cofre. Eixo B inaugura-se na propagação; ganchos registados: querela do art. 9º (BM, p. 173); lei interpretativa (BM, p. 247 vs *O Direito*, p. 260).
+2. Manuais seguintes, pela ordem do plano do Telmo: Teixeira de Sousa → Amaral → Bronze → Santos Justo; específicos: Cordeiro e Romano Martinez (FDUL), Nogueira de Brito e Anotação de Maria João Fernandes (Católica Lisboa).
 
 ## Cobertura dos programas (monocamada BM, caps. I-XI)
 
