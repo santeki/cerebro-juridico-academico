@@ -33,7 +33,7 @@ O aparelho de coerção estadual, ao mesmo tempo que impõe e tutela o direito o
 
 ## Distinção de figuras próximas
 
-A mesma palavra «direito» cobre as duas realidades — o equívoco desfaz-se pelo contexto: a regra geral e abstracta (objectivo) vs a posição concreta atribuída pela sua aplicação (subjectivo) (BM, p. 64). O direito objectivo desenvolve-se na teoria da norma e das fontes ([[Conceitos/Noção de Direito]] *(concretiza)*; [[Conceitos/Ramos do Direito]]); o facto jurídico em sentido lato, gatilho da atribuição, terá página própria com o cap. IV da fonte.
+A mesma palavra «direito» cobre as duas realidades — o equívoco desfaz-se pelo contexto: a regra geral e abstracta (objectivo) vs a posição concreta atribuída pela sua aplicação (subjectivo) (BM, p. 64). O direito objectivo desenvolve-se na teoria da norma e das fontes ([[Conceitos/Noção de Direito]] *(concretiza)*; [[Conceitos/Ramos do Direito]]); o facto jurídico em sentido lato, gatilho da atribuição, vive em [[Conceitos/Facto Jurídico]] *(concretiza)*.
 
 ## Relevância
 

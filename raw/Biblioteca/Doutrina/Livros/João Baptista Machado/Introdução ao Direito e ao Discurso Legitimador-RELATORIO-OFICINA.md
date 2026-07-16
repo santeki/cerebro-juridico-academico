@@ -1,7 +1,7 @@
 # Relatório de padrões de conversão — para a Oficina
 
 **Obra:** J. Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimpressão, Almedina, 2002 (PDF de 199 folhas; Markdown paginado por folha `[p. N]`).
-**Data:** 2026-07-11, no fecho da absorção integral (caps. I-XI + índice + bibliografia).
+**Data:** 2026-07-16, no fecho da obra (absorção integral — caps. I-XI + índice + bibliografia — fechada a 2026-07-11).
 **Base:** errata consolidada de **186 entradas** (ficheiro `…-ERRATA-MD.md`, ao lado deste), construída por dupla fonte — todo o número e citação usados confirmados contra o PDF, com ampliação a 300 dpi (600 dpi nos casos difíceis) nos dígitos e palavras duvidosos. Substitui o relatório intercalar de 2026-07-10 (10 padrões sobre 36 entradas).
 **Distribuição por capítulo:** I 14 · II 6 · III 3 · IV 3 · V 10 · VI 15 · VII 26 · VIII 24 · IX 13 · X 49 · XI 18 · aparato final 3 · índice gerado 2. Dezassete entradas são **substantivas** (alteram remissão normativa, número de artigo, alínea, data ou nome); as restantes deformam a letra sem alterar o sentido, mas contaminam qualquer citação literal.
 
