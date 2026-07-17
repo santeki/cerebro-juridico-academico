@@ -24,13 +24,13 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 20 | teoria do Direito (BM caps. I-X); tudo `verificado` |
-| Fontes ingeridas | 6 | 5 fichas institucionais + BM (**obra lida por inteiro**: caps. I-XI fechados e propagados; em curso o fecho da obra — releitura selectiva, revisão total, Oficina) |
+| Conceitos | 20 | teoria do Direito (BM caps. I-XI); tudo `verificado` |
+| Fontes ingeridas | 6 | 5 fichas institucionais + BM (**obra fechada, 2026-07-16**: caps. I-XI propagados; cinco passos do fecho completos; 6.13 aplicada 2026-07-17; próxima: Ascensão, Fase 0) |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## Notas-âncora
 
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório completo (caps. I-XI); `progresso:` diz o estado do fecho da obra («Tese central» por preencher na releitura selectiva).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — reservatório completo (caps. I-XI); `progresso:` regista a obra fechada («Tese central» preenchida no passo 1 do fecho).
 - [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] — o par do cap. X (o problema do direito justo, valer/vigorar, *pacta sunt servanda*, indisponibilidade, validade do DP fundada no DN; mediação, círculo hermenêutico, étimo ético, analogia como espinha dorsal) — a tese que dá título à obra.
 - [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]] — o par do cap. VIII (direito transitório: arts. 12º/13º/297º; regras de conflitos como normas sobre normas).
 - [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC na redacção mantida de 1966).
