@@ -13,7 +13,7 @@ ultima_actualizacao: 2026-07-11
 
 # Integração da Lei
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VII, Secção III (pp. 192-205). Os arts. 8º e 10º do Código Civil mantêm hoje a redacção de 1966 — conferidos contra consolidações convergentes, com a verificação directa no DRE em aberto nesta sessão (v. página de fonte) —; as remissões da fonte ao CP de 1886, ao CPC de 1961/67 e ao EMJ de 1977 citam-se datadas. A interpretação vive em [[Conceitos/Interpretação da Lei]].
+Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VII, Secção III (pp. 192-205). Os arts. 8º e 10º do Código Civil mantêm hoje a redacção de 1966 — conferidos contra consolidações convergentes e, a 2026-07-17, contra o consolidado oficial do DRE, sem alteração registada (v. página de fonte) —; as remissões da fonte ao CP de 1886, ao CPC de 1961/67 e ao EMJ de 1977 citam-se datadas. A interpretação vive em [[Conceitos/Interpretação da Lei]].
 
 ## A reserva metodológica prévia
 
@@ -70,4 +70,4 @@ Nos programas mapeados: FDUP VII (ponto 22 — integração de lacunas); NOVA bl
 O fundamento suprapositivo da analogia — a igualdade como exigência do direito justo — desenvolve-se em [[Conceitos/Direito Justo]].
 
 ## Fontes
-- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. VII, Secção III, pp. 192-205, e cap. X, Secção III, § 2.º, pp. 326-332 (leitura integral; confronto com o PDF em todas as folhas; arts. 8º, 10º e 11º do CC conferidos contra consolidações convergentes, verificação DRE em aberto; dígitos do cap. X conferidos a 300 dpi — v. página de fonte).
+- [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. VII, Secção III, pp. 192-205, e cap. X, Secção III, § 2.º, pp. 326-332 (leitura integral; confronto com o PDF em todas as folhas; arts. 8º, 10º e 11º do CC conferidos contra consolidações convergentes e, a 2026-07-17, o consolidado oficial do DRE; dígitos do cap. X conferidos a 300 dpi — v. página de fonte).

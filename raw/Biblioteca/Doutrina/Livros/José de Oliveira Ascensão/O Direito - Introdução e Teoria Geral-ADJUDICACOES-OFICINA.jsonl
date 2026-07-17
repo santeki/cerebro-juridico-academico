@@ -1,0 +1,331 @@
+{"i": 2, "folha": 24, "acao": "fiel", "nota": "impresso mostra n.os na linha (sem superscript); MD fiel"}
+{"i": 3, "folha": 33, "acao": "corrigir", "antes": "n. 0 284", "depois": "n. º 284", "nota": "recorte: n.º 284; tambem lnfra->Infra"}
+{"i": 3, "folha": 33, "acao": "corrigir", "antes": "*lnfra,*", "depois": "*Infra,*", "nota": "recorte: Infra com I"}
+{"i": 4, "folha": 36, "acao": "corrigir", "antes": "n. 0 2.", "depois": "n. º 2.", "nota": "recorte: n.º 2"}
+{"i": 5, "folha": 38, "acao": "fiel", "nota": "impresso: n. ° 21 com espaco fino; camada n. º 21 ja fiel"}
+{"i": 7, "folha": 53, "acao": "fiel", "nota": "n. º 20 ja fiel; juridica sem acento e do exemplar"}
+{"i": 8, "folha": 54, "acao": "corrigir", "antes": "n.0s 32-A", "depois": "n.ºs 32-A", "nota": "recorte: ºs elevado"}
+{"i": 9, "folha": 55, "acao": "corrigir", "antes": "n.0s 16", "depois": "n.ºs 16", "nota": "recorte: ºs elevado"}
+{"i": 10, "folha": 56, "acao": "fiel", "nota": "n. º 4 ja fiel"}
+{"i": 11, "folha": 58, "acao": "corrigir", "antes": "n. 0 350", "depois": "n. º 350", "nota": "recorte: n.º 350"}
+{"i": 12, "folha": 65, "acao": "corrigir", "antes": "n. 0 *5* li.", "depois": "n. º *5* II.", "nota": "recorte: n.º 5 II"}
+{"i": 13, "folha": 67, "acao": "corrigir", "antes": "n. os 176-178", "depois": "n. ºs 176-178", "nota": "recorte: ºs elevado"}
+{"i": 14, "folha": 68, "acao": "re-recortar", "nota": "clip apanhou zona errada"}
+{"i": 15, "folha": 71, "acao": "corrigir", "antes": "n. º 28 1.", "depois": "n. º 28 I.", "nota": "recorte: 28 I romano"}
+{"i": 16, "folha": 82, "acao": "corrigir", "antes": "n. 0 29 Ili.", "depois": "n. º 29 III.", "nota": "recorte: n.º 29 III"}
+{"i": 17, "folha": 82, "acao": "fiel", "nota": "n. º 204 ja fiel"}
+{"i": 18, "folha": 85, "acao": "corrigir", "antes": "n. º 39 11)", "depois": "n. º 39 II)", "nota": "recorte: 39 II romano"}
+{"i": 19, "folha": 86, "acao": "corrigir", "antes": "n.0 5 287 e segs ..", "depois": "n.ºs 287 e segs..", "nota": "recorte: n.ºs elevado; 0 5 era ºs; segs.. colado"}
+{"i": 20, "folha": 90, "acao": "corrigir", "antes": "n.0s 38 e 40", "depois": "n.ºs 38 e 40", "nota": "recorte: ºs elevado"}
+{"i": 21, "folha": 91, "acao": "corrigir", "antes": "*lnfra,* n.0 289.", "depois": "*Infra,* n.º 289.", "nota": "recorte: Infra, n.º 289"}
+{"i": 22, "folha": 96, "acao": "corrigir", "antes": "n. 0 82.", "depois": "n. º 82.", "nota": "recorte: n.º 82"}
+{"i": 23, "folha": 115, "acao": "corrigir", "antes": "n.0 64 II", "depois": "n.º 64 II", "nota": "recorte: n.º 64 II"}
+{"i": 24, "folha": 119, "acao": "corrigir", "antes": "n. os 9 I e 92.", "depois": "n. ºs 91 e 92.", "nota": "recorte: n.ºs 91 e 92"}
+{"i": 25, "folha": 128, "acao": "corrigir", "antes": "n.0s 68 a 79", "depois": "n.ºs 68 a 79", "nota": "recorte: ºs elevado"}
+{"i": 26, "folha": 160, "acao": "re-recortar", "nota": "clip apanhou nota vizinha"}
+{"i": 27, "folha": 172, "acao": "corrigir", "antes": "n.0 337.", "depois": "n.º 337.", "nota": "recorte: n.º 337"}
+{"i": 28, "folha": 190, "acao": "corrigir", "antes": "n. 0 98 Ill.", "depois": "n. º 98 III.", "nota": "recorte: n.º 98 III"}
+{"i": 29, "folha": 191, "acao": "corrigir", "antes": "li, n.º 122.", "depois": "II, n.º 122.", "nota": "recorte: II romano"}
+{"i": 30, "folha": 193, "acao": "corrigir", "antes": "n. 0 105 IV.", "depois": "n. º 105 IV.", "nota": "recorte: n.º 105 IV"}
+{"i": 31, "folha": 195, "acao": "corrigir", "antes": "n. 0 308.", "depois": "n. º 308.", "nota": "recorte: n.º 308"}
+{"i": 32, "folha": 195, "acao": "corrigir", "antes": "n. 0 46 III)", "depois": "n. º 46 III)", "nota": "recorte: n.º 46 III"}
+{"i": 34, "folha": 207, "acao": "corrigir", "antes": "n. 0 23.", "depois": "n. º 23.", "nota": "recorte: n.º 23"}
+{"i": 35, "folha": 213, "acao": "corrigir", "antes": "*lnfra,* n.0 273 e segs.", "depois": "*Infra,* n.º 273 e segs.", "nota": "recorte: Infra, n.º 273"}
+{"i": 36, "folha": 220, "acao": "corrigir", "antes": "n. 0 52 III.", "depois": "n. º 52 III.", "nota": "recorte: n.º 52 III"}
+{"i": 37, "folha": 227, "acao": "corrigir", "antes": "n. º 141 1.", "depois": "n. º 141 I.", "nota": "recorte: 141 I romano"}
+{"i": 37, "folha": 227, "acao": "corrigir", "antes": "*Absclzied.*", "depois": "*Abschied.*", "nota": "recorte: Abschied (Schmidt)"}
+{"i": 38, "folha": 228, "acao": "corrigir", "antes": "n.0 62. Falaremos", "depois": "n.º 62. Falaremos", "nota": "recorte: n.º 62"}
+{"i": 39, "folha": 228, "acao": "ampliar", "nota": "impresso mostra 3654e - decidir a 600 dpi se e 365 4e/364 e/365-A e"}
+{"i": 40, "folha": 233, "acao": "corrigir", "antes": "n.0 103.", "depois": "n.º 103.", "nota": "recorte: n.º 103"}
+{"i": 41, "folha": 234, "acao": "corrigir", "antes": "*lnfra,* n.0 360 II.", "depois": "*Infra,* n.º 360 II.", "nota": "recorte: Infra, n.º 360 II"}
+{"i": 42, "folha": 234, "acao": "corrigir", "antes": "n. 0 136 Ili.", "depois": "n. º 136 III.", "nota": "recorte: n.º 136 III"}
+{"i": 43, "folha": 236, "acao": "corrigir", "antes": "n.0 118 IV.", "depois": "n.º 118 IV.", "nota": "recorte: n.º 118 IV"}
+{"i": 44, "folha": 239, "acao": "corrigir", "antes": "n.0s 21 e 22.", "depois": "n.ºs 21 e 22.", "nota": "recorte: ºs elevado"}
+{"i": 45, "folha": 241, "acao": "fiel", "nota": "n. º 3 ja fiel"}
+{"i": 46, "folha": 243, "acao": "corrigir", "antes": "n.0 165.", "depois": "n.º 165.", "nota": "recorte: n.º 165"}
+{"i": 47, "folha": 245, "acao": "re-recortar", "nota": "clip apanhou corpo"}
+{"i": 48, "folha": 254, "acao": "corrigir", "antes": "n.0 350.", "depois": "n.º 350.", "nota": "recorte: n.º 350"}
+{"i": 49, "folha": 256, "acao": "corrigir", "antes": "n. 0 78.", "depois": "n. º 78.", "nota": "recorte: n.º 78"}
+{"i": 50, "folha": 264, "acao": "fiel", "nota": "Sistema, 1, n.º 21 - fiel"}
+{"i": 51, "folha": 264, "acao": "re-recortar", "nota": "clip apanhou corpo"}
+{"i": 52, "folha": 265, "acao": "corrigir", "antes": "art. 1. 0 do Código Civil português", "depois": "art. 1. º do Código Civil português", "nota": "recorte: art. 1.º"}
+{"i": 53, "folha": 267, "acao": "fiel", "nota": "n. º 26 ja fiel"}
+{"i": 54, "folha": 267, "acao": "fiel", "nota": "n. º 5558 ja fiel"}
+{"i": 55, "folha": 269, "acao": "corrigir", "antes": "art. 1.0 do Código Civil português par", "depois": "art. 1.º do Código Civil português par", "nota": "recorte: art. 1.º"}
+{"i": 56, "folha": 271, "acao": "fiel", "nota": "n. º 181 ja fiel"}
+{"i": 57, "folha": 274, "acao": "fiel", "nota": "n. º 2 ja fiel"}
+{"i": 58, "folha": 276, "acao": "corrigir", "antes": "§ 2. 0 JV,", "depois": "§ 2. º IV,", "nota": "recorte: § 2.º IV"}
+{"i": 59, "folha": 276, "acao": "corrigir", "antes": "n.0s 32 e 33.", "depois": "n.ºs 32 e 33.", "nota": "recorte: ºs elevado"}
+{"i": 60, "folha": 276, "acao": "re-recortar", "nota": "clip apanhou art. 69/85, caso era art. 136 § 2.0"}
+{"i": 61, "folha": 277, "acao": "leitura", "leitura": "361 Infra, n.º 305 III.", "nota": "recorte lido; aplicar por padrao"}
+{"i": 62, "folha": 279, "acao": "corrigir", "antes": "n. 0 176 1.", "depois": "n. º 176 I.", "nota": "recorte: n.º 176 I"}
+{"i": 63, "folha": 280, "acao": "corrigir", "antes": "n. 0 158, por exemplo.", "depois": "n. º 158, por exemplo.", "nota": "recorte: n.º 158"}
+{"i": 64, "folha": 282, "acao": "leitura", "leitura": "370 Cfr. supra, n.ºs 34 e segs.", "nota": "ºs elevado no impresso"}
+{"i": 65, "folha": 283, "acao": "corrigir", "antes": "n. 0 126/79", "depois": "n. º 126/79", "nota": "recorte: Dec.-Lei n.º 126/79; 24/ /79 com barra dupla e do impresso"}
+{"i": 66, "folha": 283, "acao": "leitura", "leitura": "com uma alteração no art. 1.º, tem a mesma data de aprovação", "nota": "art. 1.º no impresso"}
+{"i": 67, "folha": 283, "acao": "corrigir", "antes": "n. 0 35 III.", "depois": "n. º 35 III.", "nota": "recorte: n. º 35 III com espaco"}
+{"i": 68, "folha": 284, "acao": "corrigir", "antes": "n.0s 362 a 364.", "depois": "n.ºs 362 a 364.", "nota": "recorte: ºs elevado"}
+{"i": 69, "folha": 285, "acao": "leitura", "leitura": "pela Lei n.º 6/83, de 29 de Julho", "nota": "n.º no impresso"}
+{"i": 70, "folha": 285, "acao": "leitura", "leitura": "378 Alterada pelo Dec.-Lei n.º 1/91, de 2 de Janeiro.", "nota": "n.º e 1/91 confirmados"}
+{"i": 71, "folha": 286, "acao": "corrigir", "antes": "§ 4.0 do Código Administrativo", "depois": "§ 4.º do Código Administrativo", "nota": "recorte: § 4.º"}
+{"i": 72, "folha": 286, "acao": "corrigir", "antes": "Direito Administrativo,* l, n. 0 35,", "depois": "Direito Administrativo,* I, n. º 35,", "nota": "recorte: I romano, n. º 35"}
+{"i": 73, "folha": 289, "acao": "leitura", "leitura": "no art. 2 da referida Lei n.º 6/83 391", "nota": "recorte lido"}
+{"i": 74, "folha": 290, "acao": "corrigir", "antes": "1.0 de Junho de 1967", "depois": "1.º de Junho de 1967", "nota": "recorte: 1.º; vizinhos 1.º de Janeiro 1916/1917 idem se deformados"}
+{"i": 75, "folha": 291, "acao": "leitura", "leitura": "Tribunal Constitucional português n.º 60/84, de 19 de Junho (BMJ, n.º 350 pág. 127)", "nota": "recorte lido"}
+{"i": 76, "folha": 291, "acao": "leitura", "leitura": "pelo art. 1.º da Lei n.º 3/76, de 10 de Setembro", "nota": "recorte lido"}
+{"i": 77, "folha": 291, "acao": "leitura", "leitura": "o art. 5 do Código Civil português faz depender da publicação a obrigatoriedade da lei", "nota": "art. 5 sem ordinal no impresso"}
+{"i": 78, "folha": 294, "acao": "leitura", "leitura": "399 Cfr. supra, n.º 152 II. 400 ... Portaria n.º 568/81, de 8 de Julho ... Dec.-Lei n.º 54-A/81, de 30 de Março", "nota": "recorte lido"}
+{"i": 79, "folha": 295, "acao": "leitura", "leitura": "ab-rogante (sobre esta, cfr. infra, n.ºs 246 e 247) ... cfr. RLJ, 191, 335.", "nota": "ºs elevado; RLJ 191, 335 e o que o impresso mostra"}
+{"i": 80, "folha": 296, "acao": "leitura", "leitura": "No art. 1/4 do Código Civil português ... à do n.º 3: \"salvo se outra for a intenção inequívoca do legislador\"", "nota": "recorte lido"}
+{"i": 81, "folha": 296, "acao": "leitura", "leitura": "Dec.-Lei português n.º 113/74, de 18 de Março ... o art. 142 do Decreto-Lei n.º 8/74, de 14 de Janeiro", "nota": "recorte lido"}
+{"i": 82, "folha": 297, "acao": "leitura", "leitura": "Lições, n.º 18, pág. 105, nt. 2. ... Lei portuguesa n.º 79/77, de 25 de Outubro, art. 114.", "nota": "recorte lido"}
+{"i": 83, "folha": 298, "acao": "leitura", "leitura": "art. 5 do Decreto Regulamentar Regional n.º 8/82/M (Diário da República, de 1 de Junho)", "nota": "recorte lido"}
+{"i": 84, "folha": 298, "acao": "leitura", "leitura": "o art. 64.º da Lei n.º 46/86, de 14 de Outubro ... art. 119 da Lei n.º 8078, de 11 de Setembro de 1990", "nota": "recorte lido"}
+{"i": 85, "folha": 300, "acao": "leitura", "leitura": "a) um preceito determinado: o n°. 2 do art. 80 ... b) uma fonte: a Lei n°. 90/85", "nota": "IMPRESSO mostra n°. com º antes do ponto - ordem do exemplar respeita-se; corrigir apenas 0->º"}
+{"i": 86, "folha": 302, "acao": "leitura", "leitura": "com a Lei n.º 6952, de 6 de Novembro de 1981 ... art. 134 do Código Civil", "nota": "recorte lido"}
+{"i": 87, "folha": 304, "acao": "corrigir", "antes": "n. 0 164 1.", "depois": "n. º 164 I.", "nota": "recorte: n.º 164 I"}
+{"i": 88, "folha": 307, "acao": "leitura", "leitura": "420 Cfr. infra, n.º 205 I.", "nota": "recorte lido"}
+{"i": 89, "folha": 309, "acao": "leitura", "leitura": "Carlos Maximiliano, Hermenêutica, n.ºs 82 e segs..", "nota": "ºs elevado"}
+{"i": 90, "folha": 310, "acao": "leitura", "leitura": "425 Cfr. a nossa Tipicidade, n.º 90. 426 Infra, n.º 353.", "nota": "recorte lido"}
+{"i": 91, "folha": 317, "acao": "leitura", "leitura": "Mas o Ac. n.º 810/93 TC, de 7 de Dezembro ... a norma do artigo 2 do Có-", "nota": "recorte lido"}
+{"i": 92, "folha": 319, "acao": "leitura", "leitura": "III - O art. 17/2 do mesmo Dec.-Lei n.º 329-A/95", "nota": "recorte lido"}
+{"i": 93, "folha": 320, "acao": "leitura", "leitura": "Dec.-Lei n.º 129/84, de 27 de Abril, art. 11, e Dec.-Lei n.º 267/85, de 16 de Julho, arts. 66 a 68.", "nota": "recorte lido"}
+{"i": 94, "folha": 322, "acao": "leitura", "leitura": "(art. 52X). Porém ... Emenda à Constituição n.º 3, de 1994. O art. 102 I a", "nota": "recorte lido"}
+{"i": 95, "folha": 322, "acao": "leitura", "leitura": "O art. 102 I a passou a prever ... efeito erga ommes [assim no impresso]", "nota": "erga ommes e gralha do exemplar - fica"}
+{"i": 96, "folha": 326, "acao": "leitura", "leitura": "Boehmer, Einführung, § 4.º; Grundlagen, em especial § 7.º; Marques Guedes, A Concessão, n.ºs 22-24.", "nota": "recorte lido"}
+{"i": 97, "folha": 326, "acao": "leitura", "leitura": "Civil - Reais, n.ºs 6 a 8. 447 Supra, n.º 12.", "nota": "recorte lido"}
+{"i": 98, "folha": 330, "acao": "leitura", "leitura": "453 Cfr. por exemplo supra, n.º 38 II. 454 ... supra, n.º 160.", "nota": "recorte lido"}
+{"i": 99, "folha": 330, "acao": "leitura", "leitura": "455 Cfr. ... o nosso Direito Corporativo, n.ºs 116 e segs..", "nota": "ºs elevado"}
+{"i": 101, "folha": 335, "acao": "leitura", "leitura": "462 Supra, n.º 187 III.", "nota": "recorte lido"}
+{"i": 102, "folha": 337, "acao": "leitura", "leitura": "a Lei n.º 3/73, de 5 de Abril", "nota": "recorte lido"}
+{"i": 103, "folha": 343, "acao": "leitura", "leitura": "478 Supra, n.ºs 95 e 96.", "nota": "ºs elevado"}
+{"i": 104, "folha": 345, "acao": "leitura", "leitura": "483 Supra, n.º 32 I. 484 Mais categoricamente na Constituição portuguesa (art. 24) que na brasileira", "nota": "recorte lido"}
+{"i": 105, "folha": 346, "acao": "leitura", "leitura": "488 Cfr. também supra, n.º 32 I. 489 Supra, n.º 40 V.", "nota": "recorte lido"}
+{"i": 106, "folha": 349, "acao": "leitura", "leitura": "492 Cfr. supra, n.º 30 II. 493 Cfr. supra. n.º 30.", "nota": "recorte lido"}
+{"i": 107, "folha": 360, "acao": "leitura", "leitura": "cfr. infra, n.º 227. 502 ... o art. 4 da Carta de Lei de 28 de Junho de 1888", "nota": "recorte lido"}
+{"i": 108, "folha": 362, "acao": "leitura", "leitura": "Cabral de Moncada, Lições, I, n.ºs 22 e segs.; Pires de Lima e Antunes Varela, Noções, I, n.º 24.", "nota": "recorte lido"}
+{"i": 109, "folha": 363, "acao": "leitura", "leitura": "507 Dec.-Lei n.º 4657, de 4 de Setembro de 1941.", "nota": "impresso mostra 1941 [LICC brasileira e de 1942 - candidata a gralha do exemplar; fica como impresso]"}
+{"i": 110, "folha": 367, "acao": "leitura", "leitura": "513 Como vimos supra, n.º 204 III.", "nota": "recorte lido"}
+{"i": 111, "folha": 377, "acao": "leitura", "leitura": "523 Infra, n.ºs 341 e segs..", "nota": "ºs elevado"}
+{"i": 112, "folha": 382, "acao": "leitura", "leitura": "530 Cfr. a nossa Tipicidade, n.º 72 IV. 531 Como dissemos já supra, n.º 144 II.", "nota": "recorte lido"}
+{"i": 113, "folha": 383, "acao": "leitura", "leitura": "535 Supra, n.º 217 II. Cfr. ... Betti, Teoria, II, §54. 536 Cfr. supra, n.º 191. 537 ... Apostilha, n.º 24.", "nota": "recorte lido"}
+{"i": 114, "folha": 383, "acao": "leitura", "leitura": "538 Carlos Maximiliano, Hermenêutica, n.ºs 100 e segs. Contra, Alípio Silveira, Hermenêutica, 1, n.ºs 2 e 3.", "nota": "1 vs I em italico indistinguivel no recorte - na duvida a camada fica"}
+{"i": 116, "folha": 385, "acao": "leitura", "leitura": "541 Por força do que dissemos supra, n.º 221. 542 Às rectificações de diplomas legais (cfr. supra, n.º 156)", "nota": "recorte lido"}
+{"i": 117, "folha": 385, "acao": "leitura", "leitura": "543 O art. 9/2 do Código Civil português diz-nos que não pode ser considerado", "nota": "recorte lido"}
+{"i": 118, "folha": 387, "acao": "leitura", "leitura": "545 Supra, n.º 106.", "nota": "recorte lido"}
+{"i": 119, "folha": 390, "acao": "leitura", "leitura": "547 Cfr. BMJ, n.º 102, pág. 145. 548 ... Do Projecto ao Código Civil, n.ºs 5 e 6 ... no BMJ, n.º 161.", "nota": "recorte lido"}
+{"i": 120, "folha": 391, "acao": "leitura", "leitura": "549 Veja-se ainda infra, n.º 242 III", "nota": "recorte lido"}
+{"i": 121, "folha": 395, "acao": "leitura", "leitura": "um mínimo de correspondência (n.º 2)", "nota": "recorte lido"}
+{"i": 122, "folha": 399, "acao": "leitura", "leitura": "568 ... Dias Marques, Introdução, n.º 68/4.", "nota": "recorte lido"}
+{"i": 123, "folha": 402, "acao": "leitura", "leitura": "570 Supra, n.º 21 II a. 571 Supra, n.º 228 II.", "nota": "recorte lido"}
+{"i": 124, "folha": 402, "acao": "leitura", "leitura": "572 ... aponta o art. 9/1 do Código", "nota": "recorte lido"}
+{"i": 125, "folha": 404, "acao": "fiel", "nota": "heading 236: art. 5 sem ordinal no impresso - MD fiel"}
+{"i": 126, "folha": 416, "acao": "leitura", "leitura": "O art. 175 § 1.º da anterior Constituição brasileira", "nota": "recorte lido"}
+{"i": 127, "folha": 418, "acao": "leitura", "leitura": "Apostilha, n.º 39 ... Ac. Relação de Lisboa de 22 de Novembro de 1972 (BMJ, n.º 229, pág. 93).", "nota": "recorte lido"}
+{"i": 128, "folha": 418, "acao": "leitura", "leitura": "600 Recorde-se desde logo o art. 3/1 do Estatuto dos Magistrados Judiciais.", "nota": "recorte lido"}
+{"i": 129, "folha": 419, "acao": "leitura", "leitura": "Alípio Silveira, Hermenêutica, I n.º 5.", "nota": "I romano sem vírgula antes de n.º - assim no impresso"}
+{"i": 130, "folha": 421, "acao": "leitura", "leitura": "cfr. Sampaio Ferraz, Introdução, 4.3.2.2.1.. ... infra, n.º 312.", "nota": "recorte lido"}
+{"i": 131, "folha": 422, "acao": "leitura", "leitura": "606 Cfr. as nossas Sucessões, n.º 38 II. 607 Assim Miguel Galvão Teles, Eficácia, n.º 8, nota 49.", "nota": "recorte lido"}
+{"i": 132, "folha": 423, "acao": "leitura", "leitura": "(infra, n.ºs 258 e segs.).", "nota": "ºs elevado"}
+{"i": 133, "folha": 432, "acao": "leitura", "leitura": "Contra Magalhães Noronha, Direito Penal, n.º 36.", "nota": "recorte lido"}
+{"i": 134, "folha": 434, "acao": "leitura", "leitura": "625 Carnelutti, Teoria generale del diritto, n.ºs 39 e 40 ... Dias Marques, Introdução, n.º 77", "nota": "recorte lido"}
+{"i": 135, "folha": 439, "acao": "leitura", "leitura": "635 Supra, n.º 153.", "nota": "recorte lido"}
+{"i": 136, "folha": 439, "acao": "leitura", "leitura": "636 Cfr. Alípio Silveira, Analogia, pág. 240. O art. 108 do Código Tributário Nacional brasileiro", "nota": "recorte lido"}
+{"i": 137, "folha": 440, "acao": "leitura", "leitura": "639 Supra, n.º 154.", "nota": "recorte lido"}
+{"i": 138, "folha": 446, "acao": "leitura", "leitura": "656 Cfr. Savigny, Traité, § XVI; Raúl Ventura, Direito Romano, pág. 205. Leiam-se os n.ºs 61 a 63", "nota": "recorte lido"}
+{"i": 139, "folha": 446, "acao": "leitura", "leitura": "657 Caiani, Analogia, n.º 16 ... Betti, Interpretazione, §§ 23 e 24 ... Carlos Maximiliano, Hermenêutica, n.º 274.", "nota": "recorte lido"}
+{"i": 140, "folha": 447, "acao": "leitura", "leitura": "658 Cfr. por exemplo Oscar Tenório, Comentário, n.º176. 659 Supra, n.º 225.", "nota": "n.º176 colado no impresso - fica colado"}
+{"i": 141, "folha": 447, "acao": "leitura", "leitura": "660 Cabral de Moncada, Lições de Direito Civil, 1.º vol., n° 6, al. d).", "nota": "n° 6 SEM ponto no impresso - respeitar"}
+{"i": 142, "folha": 447, "acao": "leitura", "leitura": "cfr. por exemplo Rotondi, Istituzioni, n.º 54.", "nota": "recorte lido"}
+{"i": 143, "folha": 451, "acao": "leitura", "leitura": "669 Sobre estes, cfr. supra, n.ºs 239 e 240.", "nota": "ºs elevado"}
+{"i": 144, "folha": 451, "acao": "leitura", "leitura": "670 Assim, Oscar Tenório, Comentário à Lei de Introdução, n.ºs 181 a 183", "nota": "recorte lido"}
+{"i": 145, "folha": 453, "acao": "leitura", "leitura": "672 ... Oscar Tenório, Lei de Introdução, sub art. 4; ... Espínola Filho, A Lei de Introdução, n.ºs 56 e seguintes.", "nota": "recorte lido"}
+{"i": 146, "folha": 456, "acao": "leitura", "leitura": "675 Supra, n.ºs 239 e 240.", "nota": "ºs elevado"}
+{"i": 147, "folha": 465, "acao": "leitura", "leitura": "688 Supra, n.º 258.", "nota": "recorte lido"}
+{"i": 148, "folha": 466, "acao": "leitura", "leitura": "689 Sobre este, cfr. supra, n.º 194.", "nota": "recorte lido"}
+{"i": 149, "folha": 468, "acao": "leitura", "leitura": "692 Como observámos já, supra, n.º 222.", "nota": "recorte lido"}
+{"i": 150, "folha": 469, "acao": "leitura", "leitura": "693 Cfr. infra, n.º 354.", "nota": "recorte lido"}
+{"i": 151, "folha": 473, "acao": "leitura", "leitura": "703 Cfr. supra, n.º 108.", "nota": "recorte lido"}
+{"i": 152, "folha": 474, "acao": "leitura", "leitura": "706 Supra, n.º 261. 707 Tópica, págs. 33 e segs.", "nota": "recorte lido"}
+{"i": 153, "folha": 488, "acao": "leitura", "leitura": "Nenhuma regra jurídica se aplica por si 728: a regra que estabelece", "nota": "recorte lido"}
+{"i": 154, "folha": 489, "acao": "leitura", "leitura": "731 Cfr., por exemplo, Dias Marques, Introdução, n.ºs 20 e segs. 732 Supra, n.º 16.", "nota": "recorte lido"}
+{"i": 155, "folha": 491, "acao": "leitura", "leitura": "738 Infra, n.º 300 I.", "nota": "recorte lido"}
+{"i": 156, "folha": 491, "acao": "leitura", "leitura": "(supra, n.ºs 15 e 26).", "nota": "ºs elevado"}
+{"i": 157, "folha": 494, "acao": "leitura", "leitura": "Jorge Miranda, Manual, II, n.º 107 I. 744 Cfr. Marcello Caetano, Direito Constitucional, n.º 111; Direito Administrativo, I, n.ºs 35, 37 e 180.", "nota": "recorte lido"}
+{"i": 158, "folha": 499, "acao": "leitura", "leitura": "752 Supra, n.ºs 271 e segs. 753 Supra, n.º 279 I.", "nota": "recorte lido"}
+{"i": 159, "folha": 499, "acao": "leitura", "leitura": "754 Arts. 524 do Cód. Civil brasileiro e 1305 do Cód. Civil português.", "nota": "recorte lido"}
+{"i": 160, "folha": 500, "acao": "leitura", "leitura": "756 Cfr. supra, n.º 289. 757 Cfr. supra, n.º 221. 758 Cfr. infra, n.º 327.", "nota": "recorte lido"}
+{"i": 161, "folha": 501, "acao": "leitura", "leitura": "o art. 96 da Lei brasileira n.º 6404, de 15 de Dezembro de 1976", "nota": "recorte lido"}
+{"i": 162, "folha": 503, "acao": "leitura", "leitura": "765 Sobre este, cfr. infra, n.º 340. 766 Supra, n.º 194.", "nota": "recorte lido"}
+{"i": 163, "folha": 503, "acao": "leitura", "leitura": "767 Arts. 8 da Lei de Introdução ao Cód. Civil brasileiro e 46/1 do Cód. Civil", "nota": "recorte lido"}
+{"i": 164, "folha": 503, "acao": "leitura", "leitura": "768 Infra, n.º 315 II.", "nota": "recorte lido"}
+{"i": 165, "folha": 505, "acao": "leitura", "leitura": "O n.º 3 determina: \"Considera-se sempre de má fé o terceiro", "nota": "recorte lido"}
+{"i": 166, "folha": 506, "acao": "leitura", "leitura": "770 Infra, n.º 300. 771 Supra, n.º 178.", "nota": "recorte lido"}
+{"i": 167, "folha": 506, "acao": "leitura", "leitura": "770 Infra, n.º 300. 771 Supra, n.º 178.", "nota": "recorte lido"}
+{"i": 168, "folha": 507, "acao": "leitura", "leitura": "772 Sobre este direito cfr. supra, n.º 264 II.", "nota": "recorte lido"}
+{"i": 169, "folha": 508, "acao": "leitura", "leitura": "775 Supra n.º 284.", "nota": "SEM virgula apos Supra no impresso - fica"}
+{"i": 170, "folha": 510, "acao": "leitura", "leitura": "783 Supra, n.º 292.", "nota": "recorte lido"}
+{"i": 171, "folha": 512, "acao": "leitura", "leitura": "787 Cfr. Barbero, Sistema, n.º 6. 788 ... Sucessões, n.º 160 I.", "nota": "recorte lido"}
+{"i": 172, "folha": 523, "acao": "leitura", "leitura": "809 Cfr. Serpa Lopes, Lei de Introdução, n.º 32. 810 ... art. 7/3 do Código Civil por-", "nota": "recorte lido"}
+{"i": 173, "folha": 523, "acao": "leitura", "leitura": "Dias Marques, Introdução, n.º 42, 2. 811 Cfr. Cabral de Moncada, Lições, I, n.º 6, c)", "nota": "recorte lido"}
+{"i": 174, "folha": 528, "acao": "leitura", "leitura": "o art. 20 do Dec.-Lei n.º 433/82, de 27 de Outubro", "nota": "recorte lido"}
+{"i": 175, "folha": 529, "acao": "leitura", "leitura": "819 Supra, n.ºs 246 e 247.", "nota": "ºs elevado"}
+{"i": 177, "folha": 535, "acao": "leitura", "leitura": "826 Recorde-se o que dissemos sobre este supra, n.º 272.", "nota": "recorte lido"}
+{"i": 178, "folha": 535, "acao": "leitura", "leitura": "827 Isto exprime afinal o art. 5.º do Dec.-Lei português n.º 47 344, que manda aplicar aos factos passados a regra do art. 12", "nota": "47 344 com espaco no impresso"}
+{"i": 179, "folha": 535, "acao": "leitura", "leitura": "\"com as modificações e os esclarecimentos constantes dos artigos seguintes\".", "nota": "recorte lido"}
+{"i": 180, "folha": 541, "acao": "leitura", "leitura": "a Lei portuguesa n.º 1/77, de 12 de Janeiro", "nota": "recorte lido"}
+{"i": 181, "folha": 547, "acao": "leitura", "leitura": "(Sucessões, n.º 64).", "nota": "recorte lido"}
+{"i": 182, "folha": 550, "acao": "fiel", "nota": "heading 323 fiel no corpo"}
+{"i": 183, "folha": 553, "acao": "leitura", "leitura": "o art. 27.º da Lei n.º 8177, do 1.º de Março de 1991", "nota": "recorte lido"}
+{"i": 184, "folha": 553, "acao": "leitura", "leitura": "factor deflacionário às obrigações contratuais e pecuniárias e aos títulos de crédito", "nota": "recorte lido"}
+{"i": 185, "folha": 553, "acao": "leitura", "leitura": "860 Sobre a noção de acto jurídico, cfr. supra, n.º 5. 861 Veremos ... no art. 13 do", "nota": "recorte lido"}
+{"i": 186, "folha": 561, "acao": "leitura", "leitura": "n.ºs 89 e seguintes. 876 A nosso ver. Cfr. supra, n.º 328 V. 877 Cfr. supra, n.º 325.", "nota": "recorte lido"}
+{"i": 187, "folha": 574, "acao": "leitura", "leitura": "893 Cfr. supra, n.º 295 I. 894 ... dizemos infra, n.º 310 I", "nota": "recorte lido"}
+{"i": 188, "folha": 576, "acao": "leitura", "leitura": "ab-rogante (cfr. supra, n.ºs 245 e 246)", "nota": "recorte lido"}
+{"i": 189, "folha": 579, "acao": "leitura", "leitura": "Quanto à publicação, cfr. supra, n.º 155 III.", "nota": "recorte lido"}
+{"i": 190, "folha": 579, "acao": "leitura", "leitura": "902 Supra, n.ºs 1149 e segs. 903 Supra, n.ºs 176 e 177.", "nota": "1149 remete a obra citada na nota anterior - assim no impresso"}
+{"i": 191, "folha": 579, "acao": "leitura", "leitura": "902 Supra, n.ºs 1149 e segs. 903 Supra, n.ºs 176 e 177.", "nota": "recorte lido"}
+{"i": 192, "folha": 583, "acao": "leitura", "leitura": "(art. 62 § 2.º da Constituição).", "nota": "recorte lido"}
+{"i": 193, "folha": 584, "acao": "leitura", "leitura": "916 ... Carvalho Santos, Código Civil Interpretado, vol. I, sub art. I, n.º 10 ... § 27.", "nota": "sub art. I/1 ambiguo no recorte - camada fica"}
+{"i": 194, "folha": 588, "acao": "leitura", "leitura": "922 ... Dec.-Lei português n.º 183/70, de 28 de Abril, arts. 1/3 e 3/2.", "nota": "recorte lido"}
+{"i": 195, "folha": 588, "acao": "leitura", "leitura": "923 ... o Dec. n.º 39771, de 18 de Agosto de 1954, foi alterado pelo Dec.-Lei n.º 210/74 ... e pelo Dec. n.º 213/74, no que respeita ao art. 6.", "nota": "recorte lido"}
+{"i": 196, "folha": 589, "acao": "leitura", "leitura": "926 Lei n.º 6015, de 31.XII.73, republicada a 16.XI.75, de acordo com o art. 2 da Lei n.º 6216/75, com as alterações introduzidas pelas Leis n.os 6160, de 28.XI.74, 6216, de 30.VI.75", "nota": "n.os na linha nesta ocorrencia"}
+{"i": 197, "folha": 590, "acao": "leitura", "leitura": "interpretação autêntica por caber ao próprio autor da fonte interpretada 928", "nota": "recorte lido"}
+{"i": 198, "folha": 591, "acao": "leitura", "leitura": "931 ... o art. 3 do Dec.-Lei português n.º 195/80, de 20 de Junho. 932 ... Canotilho, Direito Constitucional, 676 ... 933 ... o Ac. n.º 189/85 do Tribunal Constitucional", "nota": "recorte lido"}
+{"i": 199, "folha": 593, "acao": "leitura", "leitura": "a interpretação autêntica do art. 4/2 do Dec.-Lei n.º 621-A/74, de 15 de Novembro", "nota": "621- quebra de linha -A/74 no impresso"}
+{"i": 200, "folha": 595, "acao": "leitura", "leitura": "938 Cfr. Garcia Maynez, Introducción, n.ºs 162 e segs.", "nota": "recorte lido"}
+{"i": 201, "folha": 595, "acao": "leitura", "leitura": "Betti, Interpretazione, § 2°. 940 Supra, n.ºs 116 e segs. 941 Já falámos do art. 5 da Lei de Introdução brasileira.", "nota": "§ 2°. com º antes do ponto - assim no impresso"}
+{"i": 202, "folha": 603, "acao": "leitura", "leitura": "955 Supra, n.ºs 177 e segs.. 956 ... Marques Guedes, Interpretação, págs. 31-32. 957 Supra, n.º 340.", "nota": "recorte lido"}
+{"i": 203, "folha": 605, "acao": "leitura", "leitura": "958 Cfr. supra, n.º 20 I", "nota": "sem ponto final visivel no impresso"}
+{"i": 204, "folha": 606, "acao": "leitura", "leitura": "960 ... Dias Marques, Introdução, n.º 22; Bobbio, Teoria, §35. 961 Betti, Teoria, n.º 1. 962 Cfr. Engisch, Introdução, 49-50.", "nota": "recorte lido"}
+{"i": 205, "folha": 608, "acao": "leitura", "leitura": "963 Cfr. supra, n.º 45 II. 964 Supra, n.º 298.", "nota": "recorte lido"}
+{"i": 206, "folha": 608, "acao": "leitura", "leitura": "963 Cfr. supra, n.º 45 II. 964 Supra, n.º 298.", "nota": "recorte lido"}
+{"i": 207, "folha": 610, "acao": "leitura", "leitura": "(supra, n.º 242), da equidade (supra, n.º 137) e da integração das lacunas (supra, n.º 253)", "nota": "recorte lido"}
+{"i": 208, "folha": 612, "acao": "leitura", "leitura": "971 Supra, n.ºs 243 e 245 IV. 972 Supra, n.º 235. 973 Supra, n.ºs 136 e 137.", "nota": "recorte lido"}
+{"i": 209, "folha": 612, "acao": "leitura", "leitura": "971 Supra, n.ºs 243 e 245 IV. 972 Supra, n.º 235. 973 Supra, n.ºs 136 e 137.", "nota": "recorte lido"}
+{"i": 210, "folha": 612, "acao": "leitura", "leitura": "971 Supra, n.ºs 243 e 245 IV. 972 Supra, n.º 235. 973 Supra, n.ºs 136 e 137.", "nota": "recorte lido"}
+{"i": 211, "folha": 614, "acao": "leitura", "leitura": "977 Supra, n° 285. 978 Cfr. por exemplo Engisch, Logische Studien, 4. 979 Supra, n.ºs 350 III, 351 I e 328 II.", "nota": "n° 285 SEM ponto no impresso - fica"}
+{"i": 212, "folha": 616, "acao": "leitura", "leitura": "Artigo 1.º - Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada.", "nota": "recorte lido"}
+{"i": 213, "folha": 616, "acao": "leitura", "leitura": "§ 3.º - Se, antes de entrar a lei em vigor, ocorrer nova publicação de seu texto", "nota": "recorte lido"}
+{"i": 214, "folha": 616, "acao": "leitura", "leitura": "Artigo 2.º - Não se destinando à vigência temporária, a lei terá vigor até que outra a modifique ou revogue.", "nota": "recorte lido"}
+{"i": 215, "folha": 616, "acao": "leitura", "leitura": "§ 2.º - A lei nova, que estabeleça disposições gerais ou especiais a par das já existentes, não revoga nem modifica a lei anterior.", "nota": "recorte lido"}
+{"i": 216, "folha": 616, "acao": "leitura", "leitura": "Artigo 3.º - Ninguém se escusa de cumprir a lei, alegando que não a conhece. Artigo 4.º - Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito.", "nota": "recorte lido"}
+{"i": 217, "folha": 616, "acao": "leitura", "leitura": "§ 1.º - A lei posterior revoga a anterior quando expressamente o declare", "nota": "recorte lido"}
+{"i": 218, "folha": 616, "acao": "leitura", "leitura": "Artigo 3.º ... Artigo 4.º", "nota": "recorte lido"}
+{"i": 219, "folha": 616, "acao": "leitura", "leitura": "§ 4.º - As correcções a texto de lei já em vigor consideram-se lei nova.", "nota": "recorte lido"}
+{"i": 220, "folha": 625, "acao": "fiel", "nota": "Indice Geral impresso: 236. O art. 5 da Lei de Introdução ao Código Civil brasileiro - fiel, sem ordinal"}
+{"i": 221, "folha": 628, "acao": "fiel", "nota": "Indice: 323 fiel; constiticional e gralha do impresso no indice - fica"}
+{"i": 222, "folha": 432, "acao": "leitura", "leitura": "Contra Magalhães Noronha, Direito Penal, n.º 36.", "nota": "duplicado do 133"}
+{"i": 223, "folha": 469, "acao": "leitura", "leitura": "693 Cfr. infra, n.º 354.", "nota": "duplicado do 150"}
+{"i": 224, "folha": 579, "acao": "leitura", "leitura": "902 Supra, n.ºs 1149 e segs. 903 Supra, n.ºs 176 e 177.", "nota": "duplicado do 190"}
+{"i": 225, "folha": 582, "acao": "leitura", "leitura": "909 Cfr. supra, n.º 159 I. 910 Contra, Souto Borges, Lei Complementar Tributária", "nota": "recorte lido"}
+{"i": 226, "folha": 582, "acao": "leitura", "leitura": "908 Cfr. José Afonso da Silva, Aplicabilidade, págs. 218 e seguintes; Geraldo Ataliba Nogueira, Lei Complementar, n.º 3.", "nota": "recorte lido"}
+{"i": 227, "folha": 16, "acao": "corrigir", "antes": "de umã ·pretensa lei; ª- sua falsidade. foi demonstrada", "depois": "de uma pretensa lei; a sua falsidade foi demonstrada", "nota": "recorte: impresso nitido sob sublinhado de leitor; ponto intruso e ruido de mancha"}
+{"i": 228, "folha": 229, "acao": "leitura", "leitura": "o art. 16 do Dec. brasileiro n.º 24 150, de 20 de Abril de 1934", "nota": "24 150 com espaco no impresso"}
+{"i": 229, "folha": 285, "acao": "leitura", "leitura": "As formas de publicação variam muito com os tempos e lugares. Os antigos arautos ...", "nota": "recorte lido"}
+{"i": 230, "folha": 314, "acao": "leitura", "leitura": "\"O tribunal, reconhecendo a divergência, dará a interpretação a ser observada\", dispõe o art. 478. E ... o art. 479", "nota": "recorte lido"}
+{"i": 231, "folha": 388, "acao": "leitura", "leitura": "Para a primeira, o sentido da lei será o sentido do legislador. Para a segunda, o sentido da lei é um sentido objectivo", "nota": "recorte lido; sublinhados de leitor"}
+{"i": 232, "folha": 515, "acao": "leitura", "leitura": "794 De certa forma, o art. 1023 do Cód. de Proc. Civil português", "nota": "recorte lido"}
+{"i": 233, "folha": 534, "acao": "leitura", "leitura": "ocupa-se da solução de problemas específicos levantados por situações duradouras", "nota": "recorte lido"}
+{"i": 234, "folha": 534, "acao": "leitura", "leitura": "como a do art. 1517, integrado na disciplina da enfiteuse", "nota": "recorte lido"}
+{"i": 235, "folha": 535, "acao": "ampliar", "nota": "impresso aparenta 'preferida. para' com ponto - decidir a 600 dpi se e pico de tinta ou pontuacao do exemplar"}
+{"i": 236, "folha": 579, "acao": "leitura", "leitura": "899 ... M. Rebelo de Sousa, Introdução, n.º 27.7 e segs.", "nota": "recorte lido"}
+{"i": 237, "folha": 588, "acao": "leitura", "leitura": "(duplicado 194)", "nota": "duplicado"}
+{"i": 238, "folha": 588, "acao": "leitura", "leitura": "(duplicado 195)", "nota": "duplicado"}
+{"i": 239, "folha": 589, "acao": "leitura", "leitura": "no Dec. n.º 4857, de 9 de Novembro de 1939 ... novação do título 927", "nota": "recorte lido"}
+{"i": 240, "folha": 54, "acao": "leitura", "leitura": "(duplicado 8)", "nota": "duplicado"}
+{"i": 241, "folha": 55, "acao": "leitura", "leitura": "(duplicado 9)", "nota": "duplicado"}
+{"i": 242, "folha": 90, "acao": "leitura", "leitura": "(duplicado 20)", "nota": "duplicado"}
+{"i": 243, "folha": 128, "acao": "leitura", "leitura": "(duplicado 25)", "nota": "duplicado"}
+{"i": 245, "folha": 239, "acao": "leitura", "leitura": "(duplicado 44)", "nota": "duplicado"}
+{"i": 246, "folha": 245, "acao": "re-recortar", "nota": "duplicado do 47; clip voltou a apanhar corpo"}
+{"i": 247, "folha": 276, "acao": "leitura", "leitura": "(duplicado 59; confirma n.ºs 32 e 33 elevado)", "nota": "duplicado"}
+{"i": 248, "folha": 282, "acao": "leitura", "leitura": "370 Cfr. supra, n.ºs 34 e segs. (confirma 64)", "nota": "duplicado"}
+{"i": 249, "folha": 284, "acao": "leitura", "leitura": "(duplicado 68)", "nota": "duplicado"}
+{"i": 250, "folha": 295, "acao": "leitura", "leitura": "(duplicado 79; confirma n.ºs 246 e 247 elevado e RLJ, 191, 335)", "nota": "duplicado"}
+{"i": 251, "folha": 326, "acao": "leitura", "leitura": "(duplicado 96)", "nota": "duplicado"}
+{"i": 252, "folha": 343, "acao": "leitura", "leitura": "(duplicado 103)", "nota": "duplicado"}
+{"i": 253, "folha": 362, "acao": "leitura", "leitura": "(duplicado 108)", "nota": "duplicado"}
+{"i": 254, "folha": 390, "acao": "leitura", "leitura": "(duplicado 119)", "nota": "duplicado"}
+{"i": 255, "folha": 434, "acao": "leitura", "leitura": "(duplicado 134)", "nota": "duplicado"}
+{"i": 256, "folha": 446, "acao": "leitura", "leitura": "(duplicado 138)", "nota": "duplicado"}
+{"i": 257, "folha": 494, "acao": "leitura", "leitura": "(duplicado 157)", "nota": "duplicado"}
+{"i": 258, "folha": 499, "acao": "leitura", "leitura": "(duplicado 158/159)", "nota": "duplicado"}
+{"i": 259, "folha": 529, "acao": "leitura", "leitura": "(duplicado 175)", "nota": "duplicado"}
+{"i": 260, "folha": 576, "acao": "leitura", "leitura": "(duplicado 188)", "nota": "duplicado"}
+{"i": 261, "folha": 579, "acao": "leitura", "leitura": "(duplicado 190)", "nota": "duplicado"}
+{"i": 262, "folha": 612, "acao": "leitura", "leitura": "(duplicado 208)", "nota": "duplicado"}
+{"i": 263, "folha": 612, "acao": "leitura", "leitura": "(duplicado 209)", "nota": "duplicado"}
+{"i": 264, "folha": 614, "acao": "leitura", "leitura": "(duplicado 211; confirma n° 285 sem ponto)", "nota": "duplicado"}
+{"i": 0, "folha": 0, "acao": "fiel", "nota": "indice gerado deriva do corpo; heading 236 fiel (v. 125/220)"}
+{"i": 1, "folha": 0, "acao": "fiel", "nota": "indice gerado; heading 323 fiel (v. 182/221)"}
+{"i": 14, "folha": 68, "acao": "corrigir", "antes": "n. 0 4.", "depois": "n. º 4.", "nota": "recorte: Norma, n.º 4"}
+{"i": 26, "folha": 160, "acao": "corrigir", "antes": "n. os 122 e segs.", "depois": "n. ºs 122 e segs.", "nota": "recorte: ºs elevado"}
+{"i": 47, "folha": 245, "acao": "corrigir", "antes": "n.0s 137 a 139.", "depois": "n.ºs 137 a 139.", "nota": "recorte: ºs elevado"}
+{"i": 51, "folha": 264, "acao": "corrigir", "antes": "n. os 302 e segs ..", "depois": "n. ºs 302 e segs..", "nota": "recorte: ºs elevado; segs.. colado"}
+{"i": 60, "folha": 276, "acao": "corrigir", "antes": "§ 2.0 da Constituição de 1933", "depois": "§ 2.º da Constituição de 1933", "nota": "recorte: § 2.º"}
+{"i": 6, "folha": 43, "acao": "corrigir", "antes": "43 L' *1çoes,* -l , n. º 14 .", "depois": "43 *Lições,* I, n. º 14.", "nota": "recorte 300dpi: 43 Lições, I, n.º 14."}
+{"i": 33, "folha": 203, "acao": "corrigir", "antes": "25º *lbid.,* n.0s 209 e segs.", "depois": "250 *Ibid.,* n.ºs 209 e segs.", "nota": "recorte: chamada 250; Ibid.; ºs elevado"}
+{"i": 100, "folha": 334, "acao": "corrigir", "antes": "459 */nfra,* n.0 s 337 e segs ..", "depois": "459 *Infra,* n.ºs 337 e segs..", "nota": "recorte: Infra, n.ºs 337 e segs.."}
+{"i": 115, "folha": 384, "acao": "corrigir", "antes": "sub *art. 5* 11. 0 *3 e art. 6 n.* 0 *I (da Lei", "depois": "sub *art. 5 n.º 3 e art. 6 n.º 1 (da Lei", "nota": "recorte: sub art. 5 n.º 3 e art. 6 n.º 1; 1 arabe"}
+{"i": 176, "folha": 534, "acao": "aberto", "nota": "recorte dirigido apanhou outra zona; '47 344. de' fica em aberto (suspeito: virgula impressa)"}
+{"i": 39, "folha": 228, "acao": "fiel", "nota": "600 dpi: impresso mostra '3654e 365' - defeito de composicao do exemplar [plausivelmente 364 e]; fica tal-e-qual"}
+{"i": 235, "folha": 535, "acao": "fiel", "nota": "600 dpi: ponto apos 'preferida' e impresso (gralha do exemplar) - fica"}
+{"i": "N825", "folha": 534, "acao": "corrigir", "antes": "Dec.-Lei n.0 47 344. de 25 de Novembro", "depois": "Dec.-Lei n.º 47 344, de 25 de Novembro", "nota": "recorte 600 dpi: n.º e vírgula"}
+{"i": "N882", "folha": 566, "acao": "corrigir", "antes": "Dcc.-Lei n.º 47 344", "depois": "Dec.-Lei n.º 47 344", "nota": "recorte 600 dpi: Dec.-Lei"}
+{"i": "F301", "folha": 301, "acao": "fiel", "nota": "impresso mostra 47344 colado nesta pagina - tipografia do exemplar varia"}
+{"i": "G12-178a", "folha": 535, "acao": "corrigir", "antes": "art. 5.0 do Dec.-Lei português", "depois": "art. 5.º do Dec.-Lei português", "nota": "recorte grelha 12 (#178): art. 5.º"}
+{"i": "G12-178b", "folha": 535, "acao": "corrigir", "antes": "regra do art. 12, .. com as", "depois": "regra do art. 12, \"com as", "nota": "recorte grelha 12 (#178): abertura de aspas"}
+{"i": "F8", "folha": 8, "acao": "fiel", "nota": "fronteira sa: 'muito de || Teoria Geral' encaixa; falso alarme de maiuscula"}
+{"i": "F31", "folha": 31, "acao": "fiel", "nota": "margem direita cortada na digitalizacao (como p. 29 do lote 1): 'aspectc' fica; imagem nao tem os caracteres"}
+{"i": "F43", "folha": 43, "acao": "fiel", "nota": "fronteira sa: frase completa + item 2); falso alarme de digito"}
+{"i": "F35a", "folha": 35, "acao": "corrigir", "antes": "em primeito lu", "depois": "em primeiro lu", "nota": "recorte: primeiro nitido; lu[gar] truncado na margem, fica"}
+{"i": "F35b", "folha": 35, "acao": "corrigir", "antes": "o direito objectivo. *::* '", "depois": "o direito objectivo.", "nota": "recorte: rabisco de mancha, nao texto impresso"}
+{"i": "G37", "folha": 37, "acao": "fiel", "nota": "margem direita cortada ('variaçã<'); fronteira sa; imagem nao tem o caracter final"}
+{"i": "G55", "folha": 55, "acao": "reparar-zona", "nota": "paragrafo final da f55 degradado por sublinhados; imagem limpa - recorte alargado a seguir"}
+{"i": "G56", "folha": 56, "acao": "corrigir", "antes": "deve fazer'7se\\_logo\\_que\\_a-dívida,seja satisfeit\\_a. '", "depois": "deve fazer-se logo que a dívida seja satisfeita.", "nota": "recorte: impresso nitido sob sublinhado"}
+{"i": "G61", "folha": 61, "acao": "fiel", "nota": "margem cortada ('obrigaçãc'); fronteira sa; caracter final nao visivel na imagem"}
+{"i": "G69", "folha": 69, "acao": "corrigir", "antes": "autonomia mal exercid~", "depois": "autonomia mal exercida", "nota": "recorte: 'exercida' completo e nitido na imagem"}
+{"i": "G83", "folha": 83, "acao": "reparar-zona", "nota": "paragrafo final f83 degradado por sublinhados; impresso: 'agrida por sua vez, com o fim de obstar a que o mal se consume.' - recorte alargado"}
+{"i": "G84", "folha": 84, "acao": "reparar-zona", "nota": "topo f84 degradado: impresso 'Diz-se ainda que a agressão deve ser actual. Mas actual se deve considerar também a agressão iminente.' - recorte alargado"}
+{"i": "G87", "folha": 87, "acao": "corrigir-inicio-f88", "nota": "ruido '.,,..\\_\\_ ' antes de 'e aqui' no topo f88: rabisco de leitor, nao impresso; fronteira sa"}
+{"i": "G101", "folha": 101, "acao": "fiel", "nota": "fronteira sa: '118.' fecha, secao VI abre"}
+{"i": "G130", "folha": 130, "acao": "fiel", "nota": "fronteira sa: item 1) e heading"}
+{"i": "G131", "folha": 131, "acao": "fiel", "nota": "inicio f132 sao; fim f131 'firr' nao coberto pela tira - fica listado (provavel margem cortada)"}
+{"i": "G146", "folha": 146, "acao": "reparar-zona", "nota": "fim f146: 'como no Direito Constitucional britânico, é evidente a manutenção do carácter costumeiro.'"}
+{"i": "G147a", "folha": 147, "acao": "reparar-zona", "nota": "topo f147: '92. O funcionamento / I - Na sua pureza, o precedente só funciona perante as decisões'; fim f147: 'na apreciação da identidade entre o caso já decidido e o novo'"}
+{"i": "G148", "folha": 148, "acao": "reparar-zona", "nota": "topo f148: 'caso. Buscam mais o princípio que anima a decisão que a fórmula por que se exprimiu.'"}
+{"i": "G153", "folha": 153, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G156", "folha": 156, "acao": "corrigir", "antes": "produção sobre Ciência do Direito. ·", "depois": "produção sobre Ciência do Direito.", "nota": "recorte: pinta de tinta, nao ponto medio"}
+{"i": "G159", "folha": 159, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G160", "folha": 160, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G233", "folha": 233, "acao": "fiel", "nota": "fronteira sa: 'Código || Civil' encaixa; falso alarme de maiuscula"}
+{"i": "G235", "folha": 235, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G240", "folha": 240, "acao": "fiel", "nota": "fronteira sa: 'Direito || Comunitário' encaixa"}
+{"i": "G275", "folha": 275, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G276", "folha": 276, "acao": "fiel", "nota": "inicio f277 sao; fim f276 ('tipos de leis 360,') nao coberto pela tira - fica listado"}
+{"i": "G288", "folha": 288, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G337", "folha": 337, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G349", "folha": 349, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G373", "folha": 373, "acao": "reparar-zona", "nota": "topo f374 degradado: impresso 'Em sentido restrito, a interpretação opõe-se à integração das lacunas, enquanto que em sentido amplo a interpretação abrange quer aquela quer esta.'"}
+{"i": "G386", "folha": 386, "acao": "reparar-zona", "nota": "topo f387 degradado: impresso 'pode afirmar que o entendimento literal será normalmente aquele que virá a ser aceite. A regra consta do art. 9/3 do Código Civil português.'; fronteira sa"}
+{"i": "G473", "folha": 473, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G550", "folha": 550, "acao": "corrigir", "antes": "o facto pe,feito e a coisa julgada", "depois": "o facto perfeito e a coisa julgada", "nota": "recorte: perfeito nitido (italico)"}
+{"i": "G585", "folha": 585, "acao": "fiel", "nota": "inicio f586 sao; fim f585 nao coberto pela tira - fica listado"}
+{"i": "G595", "folha": 595, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G4", "folha": 4, "acao": "reparado", "nota": "pagina sem rodape; bloco Notas era corpo - 3 reparacoes aplicadas (imagem completa)"}
+{"i": "G70", "folha": 70, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G71", "folha": 71, "acao": "corrigir", "antes": "i'c\n\nBasta pensar que", "depois": "Basta pensar que", "nota": "recorte: rabisco Pc de leitor, nao impresso"}
+{"i": "G100", "folha": 100, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G134", "folha": 134, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G135", "folha": 135, "acao": "corrigir", "antes": "li - Temos por outro lado a microcomparação", "depois": "II - Temos por outro lado a microcomparação", "nota": "recorte: II romano nitido"}
+{"i": "G198", "folha": 198, "acao": "fiel", "nota": "fronteira sa (frase corre sobre bloco de notas)"}
+{"i": "G314", "folha": 314, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G356", "folha": 356, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G387b", "folha": 388, "acao": "corrigir", "antes": "j Em consequência, o jurista deveria", "depois": "Em consequência, o jurista deveria", "nota": "recorte: chaveta de leitor na margem, nao impresso"}
+{"i": "G395", "folha": 395, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G438", "folha": 438, "acao": "fiel", "nota": "fronteira sa; palavra partida na fronteira fica (regra do projeto)"}
+{"i": "G554", "folha": 555, "acao": "corrigir", "antes": "*li* - *Para além destes efeitos", "depois": "*II* - *Para além destes efeitos", "nota": "recorte: II romano nitido"}
+{"i": "G579", "folha": 579, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G590", "folha": 590, "acao": "fiel", "nota": "fronteira sa"}
+{"i": "G603", "folha": 603, "acao": "fiel", "nota": "fronteira sa"}

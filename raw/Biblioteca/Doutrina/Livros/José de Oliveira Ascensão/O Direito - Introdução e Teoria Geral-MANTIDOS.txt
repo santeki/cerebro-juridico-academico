@@ -1,0 +1,58 @@
+# mantidos-ascensao (derivado) — formas confirmadas FIÉIS ao impresso, não tocar
+# Derivado a 2026-07-17 pelo cofre académico a partir de lote1-ascensao-adjudicacoes.jsonl (acao=fiel);
+# o ficheiro original da Oficina (entrega de 2026-07-16) não veio nas entregas — mesma informação-fonte.
+# Uso: subtrair estas formas ao passe de suspeitos na vigilância da dupla fonte.
+
+folha 0	[forma na nota]	indice gerado deriva do corpo; heading 236 fiel (v. 125/220)
+folha 0	[forma na nota]	indice gerado; heading 323 fiel (v. 182/221)
+folha 8	[forma na nota]	fronteira sa: 'muito de || Teoria Geral' encaixa; falso alarme de maiuscula
+folha 24	[forma na nota]	impresso mostra n.os na linha (sem superscript); MD fiel
+folha 31	[forma na nota]	margem direita cortada na digitalizacao (como p. 29 do lote 1): 'aspectc' fica; imagem nao tem os caracteres
+folha 37	[forma na nota]	margem direita cortada ('variaçã<'); fronteira sa; imagem nao tem o caracter final
+folha 38	[forma na nota]	impresso: n. ° 21 com espaco fino; camada n. º 21 ja fiel
+folha 43	[forma na nota]	fronteira sa: frase completa + item 2); falso alarme de digito
+folha 53	[forma na nota]	n. º 20 ja fiel; juridica sem acento e do exemplar
+folha 56	[forma na nota]	n. º 4 ja fiel
+folha 61	[forma na nota]	margem cortada ('obrigaçãc'); fronteira sa; caracter final nao visivel na imagem
+folha 70	[forma na nota]	fronteira sa
+folha 82	[forma na nota]	n. º 204 ja fiel
+folha 100	[forma na nota]	fronteira sa
+folha 101	[forma na nota]	fronteira sa: '118.' fecha, secao VI abre
+folha 130	[forma na nota]	fronteira sa: item 1) e heading
+folha 131	[forma na nota]	inicio f132 sao; fim f131 'firr' nao coberto pela tira - fica listado (provavel margem cortada)
+folha 134	[forma na nota]	fronteira sa
+folha 153	[forma na nota]	fronteira sa
+folha 159	[forma na nota]	fronteira sa
+folha 160	[forma na nota]	fronteira sa
+folha 198	[forma na nota]	fronteira sa (frase corre sobre bloco de notas)
+folha 228	[forma na nota]	600 dpi: impresso mostra '3654e 365' - defeito de composicao do exemplar [plausivelmente 364 e]; fica tal-e-qual
+folha 233	[forma na nota]	fronteira sa: 'Código || Civil' encaixa; falso alarme de maiuscula
+folha 235	[forma na nota]	fronteira sa
+folha 240	[forma na nota]	fronteira sa: 'Direito || Comunitário' encaixa
+folha 241	[forma na nota]	n. º 3 ja fiel
+folha 264	[forma na nota]	Sistema, 1, n.º 21 - fiel
+folha 267	[forma na nota]	n. º 26 ja fiel
+folha 267	[forma na nota]	n. º 5558 ja fiel
+folha 271	[forma na nota]	n. º 181 ja fiel
+folha 274	[forma na nota]	n. º 2 ja fiel
+folha 275	[forma na nota]	fronteira sa
+folha 276	[forma na nota]	inicio f277 sao; fim f276 ('tipos de leis 360,') nao coberto pela tira - fica listado
+folha 288	[forma na nota]	fronteira sa
+folha 301	[forma na nota]	impresso mostra 47344 colado nesta pagina - tipografia do exemplar varia
+folha 314	[forma na nota]	fronteira sa
+folha 337	[forma na nota]	fronteira sa
+folha 349	[forma na nota]	fronteira sa
+folha 356	[forma na nota]	fronteira sa
+folha 395	[forma na nota]	fronteira sa
+folha 404	[forma na nota]	heading 236: art. 5 sem ordinal no impresso - MD fiel
+folha 438	[forma na nota]	fronteira sa; palavra partida na fronteira fica (regra do projeto)
+folha 473	[forma na nota]	fronteira sa
+folha 535	[forma na nota]	600 dpi: ponto apos 'preferida' e impresso (gralha do exemplar) - fica
+folha 550	[forma na nota]	heading 323 fiel no corpo
+folha 579	[forma na nota]	fronteira sa
+folha 585	[forma na nota]	inicio f586 sao; fim f585 nao coberto pela tira - fica listado
+folha 590	[forma na nota]	fronteira sa
+folha 595	[forma na nota]	fronteira sa
+folha 603	[forma na nota]	fronteira sa
+folha 625	[forma na nota]	Indice Geral impresso: 236. O art. 5 da Lei de Introdução ao Código Civil brasileiro - fiel, sem ordinal
+folha 628	[forma na nota]	Indice: 323 fiel; constiticional e gralha do impresso no indice - fica

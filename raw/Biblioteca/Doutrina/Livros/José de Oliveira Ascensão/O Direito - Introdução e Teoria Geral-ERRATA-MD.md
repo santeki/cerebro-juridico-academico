@@ -1,0 +1,6 @@
+# ERRATA-MD — Oliveira Ascensão, O Direito - Introdução e Teoria Geral (10.ª ed., 1997)
+
+> Erros de conversão do Markdown da Oficina face ao PDF (o exemplar, que é a verdade). Regra da dupla fonte: o erro regista-se aqui, usa-se o texto do PDF, nunca se emenda o MD em silêncio. Formato: página da obra (e folha `[p. N]` do MD) · texto do MD · texto correcto do PDF. **Disciplina das células (regra de 2026-07-11, herdada do BM):** os fragmentos entre «» são simétricos entre as duas colunas — a cada fragmento deformado corresponde um e um só fragmento correcto, com a coluna esquerda byte-fiel ao MD —; sem elipses dentro dos fragmentos; notas editoriais em parêntesis rectos, fora dos fragmentos. A aplicação mecânica pelo verificador depende desta disciplina. Nota deste exemplar: o MD é a conversão v2 da Oficina (passe incremental de 2026-07-16, 177 correcções adjudicadas por imagem); as 331 adjudicações e as 53 formas fiéis registadas vivem ao lado (`-ADJUDICACOES-OFICINA.jsonl`, `-MANTIDOS.txt`) e valem como pool adjudicado do verificador — esta errata acolhe os achados NOVOS da absorção no cofre. Paginação: página impressa = folha PDF + 5 no miolo (regra confirmada por âncoras a 2026-07-17; v. página de fonte).
+
+| # | Obra p. (MD [p. N]) | Texto do MD | Texto correcto do PDF |
+|---|---|---|---|
