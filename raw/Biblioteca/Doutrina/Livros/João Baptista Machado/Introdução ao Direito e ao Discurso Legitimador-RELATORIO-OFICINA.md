@@ -2,8 +2,8 @@
 
 **Obra:** J. Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimpressão, Almedina, 2002 (PDF de 199 folhas; Markdown paginado por folha `[p. N]`).
 **Data:** 2026-07-16, no fecho da obra (absorção integral — caps. I-XI + índice + bibliografia — fechada a 2026-07-11).
-**Base:** errata consolidada de **186 entradas** (ficheiro `…-ERRATA-MD.md`, ao lado deste), construída por dupla fonte — todo o número e citação usados confirmados contra o PDF, com ampliação a 300 dpi (600 dpi nos casos difíceis) nos dígitos e palavras duvidosos. Substitui o relatório intercalar de 2026-07-10 (10 padrões sobre 36 entradas).
-**Distribuição por capítulo:** I 14 · II 6 · III 3 · IV 3 · V 10 · VI 15 · VII 26 · VIII 24 · IX 13 · X 49 · XI 18 · aparato final 3 · índice gerado 2. Dezassete entradas são **substantivas** (alteram remissão normativa, número de artigo, alínea, data ou nome); as restantes deformam a letra sem alterar o sentido, mas contaminam qualquer citação literal.
+**Base:** errata consolidada de **188 entradas** (ficheiro `…-ERRATA-MD.md`, ao lado deste), construída por dupla fonte — todo o número e citação usados confirmados contra o PDF, com ampliação a 300 dpi (600 dpi nos casos difíceis) nos dígitos e palavras duvidosos; as entradas 187-188 (pp. 364/360) foram adjudicadas a 2026-07-17 com dupla leitura independente (maestro + adjudicador cego). Substitui o relatório intercalar de 2026-07-10 (10 padrões sobre 36 entradas).
+**Distribuição por capítulo:** I 14 · II 6 · III 3 · IV 3 · V 10 · VI 15 · VII 26 · VIII 24 · IX 13 · X 49 · XI 20 · aparato final 3 · índice gerado 2. Dezassete entradas são **substantivas** (alteram remissão normativa, número de artigo, alínea, data ou nome); as restantes deformam a letra sem alterar o sentido, mas contaminam qualquer citação literal.
 
 ## A. Padrões de carácter (os mais frequentes)
 
@@ -34,4 +34,4 @@
 O exemplar do Ascensão foi convertido **antes** deste relatório. Os padrões A1-A8 e B9-B13 devem estar-lhe presentes na mesma escala; se a re-passagem do pipeline for barata, vale a pena re-converter antes de a ingestão abrir (decisão do Telmo no passo 5 do fecho). A errata consolidada anexa serve de conjunto de teste: as 186 entradas dão pares deformado→correcto verificados para calibrar qualquer afinação.
 
 ---
-*Gerado no fecho da absorção do BM; entrega à Oficina pelo Telmo (Decisão de 2026-07-10 — entrega única, no fim da obra). A errata consolidada viaja ao lado: `Introdução ao Direito e ao Discurso Legitimador-ERRATA-MD.md` (186 entradas).*
+*Gerado no fecho da absorção do BM; entrega à Oficina pelo Telmo (Decisão de 2026-07-10 — entrega única, no fim da obra). A errata consolidada viaja ao lado: `Introdução ao Direito e ao Discurso Legitimador-ERRATA-MD.md` 
