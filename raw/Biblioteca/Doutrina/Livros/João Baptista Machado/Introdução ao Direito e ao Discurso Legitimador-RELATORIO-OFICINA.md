@@ -31,7 +31,7 @@
 
 ## D. Nota sobre o Oliveira Ascensão
 
-O exemplar do Ascensão foi convertido **antes** deste relatório. Os padrões A1-A8 e B9-B13 devem estar-lhe presentes na mesma escala; se a re-passagem do pipeline for barata, vale a pena re-converter antes de a ingestão abrir (decisão do Telmo no passo 5 do fecho). A errata consolidada anexa serve de conjunto de teste: as 186 entradas dão pares deformado→correcto verificados para calibrar qualquer afinação.
+O exemplar do Ascensão foi convertido **antes** deste relatório. Os padrões A1-A8 e B9-B13 devem estar-lhe presentes na mesma escala; se a re-passagem do pipeline for barata, vale a pena re-converter antes de a ingestão abrir (decisão do Telmo no passo 5 do fecho). A errata consolidada anexa serve de conjunto de teste: as 188 entradas dão pares deformado→correcto verificados para calibrar qualquer afinação.
 
 ---
 *Gerado no fecho da absorção do BM; entrega à Oficina pelo Telmo (Decisão de 2026-07-10 — entrega única, no fim da obra). A errata consolidada viaja ao lado: `Introdução ao Direito e ao Discurso Legitimador-ERRATA-MD.md` 
