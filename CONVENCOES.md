@@ -135,6 +135,7 @@ estado_verificacao: verificado | parcial | em-aberto
 cobertura: integral   # invariante: fonte ingerida é lida do início ao fim; o tratamento por secção (núcleo/periferia/contexto) regista-se na página de fonte
 relacao: complementares | compativeis | distintas | em-conflito   # quando ≥ 2 fontes tratam o conceito (Eixo B)
 estado_comparativo: aguarda-comparativo | comparativo-n-em-curso | comparativa   # ciclo do Eixo B
+# os três campos revisao_* seguintes são opcionais (presentes apenas em páginas dentro do ciclo — regime opt-in, PROTOCOLO-PAINEL.md)
 revisao_ultima: AAAA-MM-DD          # para institutos e conceitos: revisão espaçada (PROTOCOLO-PAINEL.md)
 revisao_intervalo: 1                 # dias até à próxima revisão; expande com o sucesso (1→3→7→16→35)
 revisao_proxima: AAAA-MM-DD          # = revisao_ultima + revisao_intervalo; o painel lê este campo

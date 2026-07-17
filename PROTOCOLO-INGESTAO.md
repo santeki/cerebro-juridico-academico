@@ -78,7 +78,7 @@ Escrever a síntese da fonte em `wiki/Fontes/<fonte>.md`:
 
 ## Fase 4 — Propagação para as páginas de entidade
 
-Quando a fonte pertence ao programa de uma cadeira, a propagação inclui a «Cobertura do programa» na vista da faculdade — o sub-ponto passa ao estado que o estudo lhe dá (coberto ou monocamada), no fecho do estudo.
+Quando a fonte pertence ao programa de uma cadeira, a propagação inclui a «Cobertura do programa» na vista da faculdade — o sub-ponto passa ao estado que o estudo lhe dá (coberto ou monocamada), no fecho do estudo. No mesmo passo conferem-se os derivados-síntese de cada vista tocada — as linhas e contadores da «Cobertura do programa» e as notas de alcance — contra o estado das páginas: a propagação não fecha com contadores desalinhados.
 
 A síntese alimenta as páginas permanentes. Para cada afirmação classificada:
 
@@ -120,6 +120,8 @@ A cerimónia completa é da obra longa; a fonte pequena — o acórdão, o artig
 ## Obra longa — ciclo capitular
 
 Quando a fonte tem capítulos e centenas de páginas, a leitura integral organiza-se sem perder fôlego nem supervisão: **agenda de leitura** no arranque — as perguntas que a wiki actual leva à fonte e as hipóteses sobre a posição do autor que se querem testar, registadas na página de fonte antes da primeira página lida (é o que torna a leitura activa); **bloco panorâmico** único — pré-leitura do índice de todos os capítulos, com função expectável e conceitos prováveis por capítulo (dispensável em obra curta ou uniforme, com nota); **refresher** no início de cada capítulo — reler a entrada panorâmica desse capítulo e fixar as páginas a tocar; **pausa entre capítulos** — cada capítulo fecha com a extracção feita e as páginas actualizadas, e a continuação propõe-se numa linha com default marcado, ficando as decisões substantivas (categoria nova, conflito com página existente) sempre à espera de quem opera; e, no fecho da obra, **releitura selectiva** dos capítulos cujo sentido mudou à luz dos posteriores — a iluminação retroactiva regista-se na página; obra linear dispensa, com nota. O campo `progresso:` do frontmatter diz sempre onde a leitura vai.
+
+O fecho da obra longa corre, por esta ordem e com pausa entre passos: releitura selectiva (iluminação retroactiva registada na página de fonte; «Tese central» preenchida); revisão total — auditoria integral dos quatro planos sobre todo o cofre e conferência de coerência de todos os derivados (index, log, vistas com a «Cobertura do programa», PAINEL, ESTADO-RESUMO, telemetria e doc de estado do projecto); e, havendo conversão externa do exemplar, a entrega consolidada — errata completa e relatório de padrões regenerado — preparada uma só vez, no fim (Decisões de 2026-07-10).
 
 ## Paginação de PDF — probe antes de citar
 

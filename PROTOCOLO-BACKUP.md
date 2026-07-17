@@ -57,3 +57,5 @@ Testar a recuperação não é opcional: uma cópia de segurança nunca verifica
 ## Registo
 
 Operações de backup com efeito estrutural (inicialização do git, mudança de estratégia de replicação) registam-se no `log.md` com prefixo `Arquitectura`. Os commits de rotina vivem no próprio histórico git, não no log da wiki.
+
+Fecho de conversa: além do commit, da auditoria estrutural verde e do zip testado, o fecho regenera o doc de estado do projecto claude.ai (`claude/estado-do-cofre.md`) — a fotografia de retoma que a conversa seguinte lê antes de abrir o zip (Decisão de 2026-07-10).

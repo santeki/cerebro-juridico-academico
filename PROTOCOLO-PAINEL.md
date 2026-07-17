@@ -10,6 +10,8 @@ O painel vive em `wiki/PAINEL.md` e é **reescrito** a cada passagem (não se ac
 
 O conhecimento não revisto esvai-se. Cada página de instituto ou conceito carrega no frontmatter três campos: `revisao_ultima` (data da última revisão), `revisao_intervalo` (dias até à próxima) e `revisao_proxima` (data devida). O painel lista as páginas cuja `revisao_proxima` já passou ou se aproxima, ordenadas pela mais atrasada.
 
+A revisão espaçada corre em regime opt-in (Decisão de 2026-07-10): a página nova nasce fora do ciclo, sem campos `revisao_*`; entra no ciclo quando o aluno a marca («quero rever X»; «vou estudar {matéria}») ou quando uma avaliação se aproxima no calendário da vista — caso em que o painel propõe as páginas dessa matéria por urgência. Campos `revisao_*` pré-existentes mantêm-se como retrato até à primeira revisão real da página.
+
 O intervalo expande-se com o sucesso. Quando revês uma página e a dominas, o `revisao_intervalo` cresce (a sequência sugerida é 1 → 3 → 7 → 16 → 35 dias, ajustável); quando falhas, o intervalo encolhe para o primeiro patamar. O agente recalcula `revisao_proxima = revisao_ultima + revisao_intervalo` após cada revisão e regista a sessão no `log.md` com prefixo `Revisão`. A página de revisão (`modelos/modelo-revisao.md`) recebe o resultado.
 
 A revisão espaçada não substitui o juízo: uma página marcada como dominada continua a poder ser convocada antes do prazo se um exame se aproxima e a matéria é central (ver Frente 3).
