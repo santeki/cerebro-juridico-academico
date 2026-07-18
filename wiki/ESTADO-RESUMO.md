@@ -25,13 +25,13 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
 | Conceitos | 20 | teoria do Direito (BM caps. I-XI); tudo `verificado` |
-| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16; verificador global FECHADO 2026-07-18)** + **Ascensão (Fase 0 integral 2026-07-17; Fase 1 ABERTA com mapa de tratamento aprovado; leitura por abrir — sessão 1 = Títulos I-II)** |
+| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16; verificador global FECHADO 2026-07-18)** + **Ascensão (EM LEITURA: sessão 1, Títulos I-II, extraída a 2026-07-18; propagação pendente do ok)** |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## As duas obras
 
 - **[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]** — reservatório completo (caps. I-XI); obra fechada nos cinco passos (2026-07-16); ERRATA-MD com **195 entradas**; verificador mecânico global fechado a 2026-07-18 (2423 citações no escopo, 0 falhas por resolver; retrato integral no PAINEL). Dossiers em aberto: CN «ob. cit.» (vol. LI BFD) e «§ 442 BGB» (Larenz, *RR*, p. 87) [BLOQUEADOS]; letra do art. 3º/1 CC vs export DRE em aberto (conversa 10, fetch indisponível).
-- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD vazia (acolhe achados da absorção). Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
+- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD com **6 entradas** (sessão 1). **Sessão 1 (Títulos I-II, pp. 9-98) extraída a 2026-07-18; R1 em triagem (28 achados); propagação pendente; sessão 2 = Título III.** Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
 
 ## Notas-âncora
 
@@ -44,6 +44,8 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Mudanças recentes (últimos 7 dias)
 
+- [2026-07-18] ingestão | **Ascensão — sessão 1 de leitura (Títulos I-II, obra pp. 9-98)**: leitura integral no MD v2 (notas incluídas) com dupla fonte — confronto mecânico com o texto embebido do PDF (folhas 4-93), 13 adjudicações por imagem a 300 dpi com segunda leitura cega E2 e 9 spot-checks posicionais (3 por unidade), todos coincidentes; extracção ancorada no reservatório (nn. 1-46: ordem/prudência, facto jurídico, instituições, quatro ordens normativas, imperatividade, fontes, sanções em tipologia funcional, valores negativos com a tese «a invalidade não é sanção», coercibilidade com definição própria, tutela e justiça privada, direito e moral); 6 entradas novas na ERRATA-MD do exemplar; ganchos de Eixo B registados (ASC cita BM p. 33 n. 18 e CN *Unidade* pp. 95-96 n. 39; convergência textual do art. 1º CPC com BM p. 130); dúvidas com etiologia (art. «20» da Constituição no impresso — por confrontar com a CRP; Ac. STJ 12-10-1973 BMJ 210 em relato); R2 (integração): 10 achados verificados e aplicados; **R1 (conteúdo): 28 achados EM TRIAGEM (pausa ordenada pelo Telmo — lista no log; sobretudo âncoras ±1 nos nn. 27-46)**; segue-se, na retoma: triagem R1 → pontos-chave + mapa de propagação → ok → Fase 4.
+
 - [2026-07-18] auditoria | **Fecho da conversa 9 concluído (conversa 10): verificador mecânico global FECHADO.** Reconstrução com os três níveis mecânicos + fragmentos com elipses + token-match ≥85% + fora-de-escopo justificadas; hashes 4/4 (PDF/MD de ambas as obras; PDF do Ascensão conferido na pasta local). Retrato final: 2423 no escopo → 2239 mecânicas · 183 justificadas · 105 institucionais · 1 por padrão documentado (A2) · **0 falhas**. Triagem completa das candidatas (as 33 da conversa 9 contidas nas 80 da reconstrução): **7 entradas novas na ERRATA-MD do BM (189-195**, E2 a 300 dpi em 8 folhas: Z1TTELMANN p. 195; art. 12º nas pp. 242/250-251 com ponto espúrio do impresso na p. 242; SECÇÃO II p. 252; «Ora, quem» p. 304; «participada» p. 326 com traço espúrio do impresso; «Du Contrat Social» p. 340**)** + células das entradas 36 e 169 reparadas (byte-fidelidade/disciplina) + 2 correcções na wiki com registo + nota de adjudicação p. 326. Pendência nova: letra do art. 3º/1 CC vs export DRE (fetch indisponível). PAINEL e este resumo regenerados.
 - [2026-07-17] Dúvida resolvida | DRE fechado via Chrome: arts. 8º-13º, 297º e 895º CC (consolidado oficial; redacção de 1966; art. 297º tem TRÊS números — o n.º 3 fora do recorte de BM, nota própria em [[Conceitos/Aplicação da Lei no Tempo]]) + art. 223º CRP-1976 originária («Conselho Superior da Magistratura» — «Judiciário» na p. 140 de BM é lapso do exemplar, errata fechada). Propagado a 5 páginas + PAINEL.
 - [2026-07-17] ingestão | **Ascensão — Fase 0 integral** (gate): referência fixada pelo rosto; hash_raw; triagem técnica; paginação própria por âncoras; lacuna material registada; `raw/` povoado (MD v2 + relatórios + adjudicações + mantidos + ERRATA vazia); página de fonte com Situação.
@@ -53,7 +55,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-18 — regeneração (nona, no fecho da conversa 9 executado na conversa 10; segue a sessão 1 de leitura do Ascensão).
+2026-07-18 — regeneração (décima, após a sessão 1 de leitura do Ascensão na conversa 10; segue-se a propagação com o ok do Telmo e, depois, a sessão 2 — Título III).
 
 ---
 
