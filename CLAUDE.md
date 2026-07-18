@@ -1,8 +1,8 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.13
+versao: 6.14
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
-ultima_actualizacao: 2026-07-17
+ultima_actualizacao: 2026-07-18
 ---
 
 # CLAUDE.md — Segundo Cérebro Jurídico Académico (memória-charter)

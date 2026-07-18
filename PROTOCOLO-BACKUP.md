@@ -16,6 +16,14 @@ O vault é texto: o git é o instrumento natural. Recomendado desde o primeiro d
 - **Tags de versão**: a cada versão do schema (frontmatter do `CLAUDE.md`), uma tag — `v6.8`, `v6.9` — no commit que a fecha; o estado do cofre em qualquer versão recupera-se por nome.
 - **Consulta ao passado como instrumento**: «como estava esta página quando emiti o parecer de Março» responde-se com `git log -- <página>` e `git show <tag|data>:<caminho>` — no cofre profissional, é a base material da coerência decisória; o agente pode consultar o histórico, nunca reescrevê-lo.
 
+## Espelho local de trabalho (pasta ligada)
+
+O cofre vive numa pasta local do aluno (`cofre/` — o vault com git — ao lado de `projecto/` — materiais de circulação — e de um LEIA-ME com o contrato). A conversa liga a pasta à sessão; o arranque faz *staging* do cofre e confirma HEAD e árvore limpa contra o doc de estado; o fecho escreve de volta o estado completo. O zip testado mantém-se como fallback de mobilidade e camada de salvaguarda, gerado no fecho. A edição manual na pasta continua fora do rasto (vault-janela-de-leitura). (Decisão de 2026-07-17.)
+
+O exemplar cuja dimensão inviabilize o git vive fora do repositório, em `projecto/exemplares/` da pasta local, com o `hash_raw` da página de fonte como âncora de integridade que o passe mecânico confere — contra a pasta local quando o desktop está ligado, e contra a cópia de trabalho da sessão —; o zip de fallback não o transporta. (Decisão de 2026-07-17.)
+
+Transporte entre a pasta e o workspace: por arquivo com hash conferido nos dois lados, em partes — ≤ 64 MB no *staging* para a sessão, ≤ 20 MB na escrita de volta (limites correntes do canal; conferem-se quando o canal mudar) —; os paths do bridge chegam em Unicode NFD e tratam-se por glob no shell, nunca por NFC escrito à mão. (Prática de 2026-07-17/18.)
+
 ## Camada 2 — Replicação remota (off-site)
 
 O git local protege contra o erro; não contra a perda do disco. Uma cópia remota é indispensável.
