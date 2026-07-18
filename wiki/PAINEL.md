@@ -2,38 +2,41 @@
 tipo: painel
 titulo: "Painel de ritmo vivo"
 estado_verificacao: em-aberto
-ultima_regeneracao: 2026-07-16
+ultima_regeneracao: 2026-07-18
 ---
 
 # Painel de ritmo vivo
 
 > **Reescrito a cada regeneração** (`PROTOCOLO-PAINEL.md`). Retrato do agora, não histórico — derivado do estado do cofre, nada aqui é fonte original.
 
-## Revisão espaçada (regime opt-in — Decisão de 2026-07-10)
+## Revisão espaçada (regime opt-in — Decisão de 2026-07-10, codificada na 6.13 (v))
 
-Nenhuma página em revisão marcada. O ciclo automático foi desligado por decisão do Telmo: página nova nasce **fora do ciclo**, e entra quando (a) o Telmo a marcar — «quero rever X» ou «vou estudar {matéria}» — ou (b) um exame ou frequência se aproximar no calendário da vista, caso em que este painel propõe as páginas dessa matéria por urgência. Registo: «revi {página}: bem | mal». As 16 páginas antigas mantêm os campos `revisao_*` como retrato até à codificação formal (item (h) — no pacote de delta 6.13 entregue ao Telmo a 2026-07-16, para o cowork de evolução); [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] nasceram sem campos, já no regime novo. Sem calendário de avaliações nas vistas, o gatilho (b) está dormente.
+Nenhuma página em revisão marcada. Página nova nasce **fora do ciclo** e entra quando (a) o Telmo a marcar — «quero rever X» ou «vou estudar {matéria}» — ou (b) um exame ou frequência se aproximar no calendário da vista, caso em que este painel propõe as páginas dessa matéria por urgência. Registo: «revi {página}: bem | mal». As 16 páginas antigas mantêm os campos `revisao_*` como retrato até à primeira revisão real; [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] nasceram já no regime novo, sem campos. Sem calendário de avaliações nas vistas, o gatilho (b) está dormente.
 
 ## Em curso
 
-- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador**: **OBRA FECHADA (2026-07-16)** — caps. I-XI lidos, verificados e propagados (pp. 7-375); fecho da obra completo nos cinco passos: (1) ✔ releitura selectiva + «Tese central»; (2) ✔ revisão total (global VERDE 942/0; 22 assimetrias fechadas; 10 correcções de fidelidade; MELHORIA passagem 1); (3) ✔ ida à Oficina preparada (relatório de 14 padrões + errata de 186; a entrega é do Telmo); (4) ✔ bugs (a)-(k) decididos («avança com cada»; delta 6.13 entregue para o cowork de evolução); (5) ✔ Ascensão decidido (ASC-01: entrada confirmada à cabeça da fila; ASC-02: exemplar de leitura definido na ronda do Telmo com a Oficina — re-convertido se barato, o actual se caro). Nenhuma ingestão em curso; a próxima abre com o exemplar do Ascensão anexado.
+- **Oliveira Ascensão, *O Direito — Introdução e Teoria Geral* (10.ª ed., 1997)** — **EM LEITURA**: Fase 0 integral e **Fase 1 aberta** a 2026-07-17, com **mapa de tratamento APROVADO**, agenda de 14 perguntas e bloco panorâmico na página de fonte. **Sessão 1 = Títulos I-II (obra pp. 9-96 = folhas 4-91; núcleo)** — arranca na conversa 10 após o ok do Telmo; 10 sessões previstas; equipas R1∥R2 no fecho de cada capítulo. Dupla fonte: o PDF (605 MB) vive fora do git na pasta local (`projecto/exemplares/`); `hash_raw` `e24d8b58…` conferido a 2026-07-18 (pasta local) e MD v2 `63985c…` conferido no cofre. Lacuna material do exemplar: pp. 5-8 e 622-646 (registada). Zonas fracas dos Títulos I-II: sublinhados de leitor (folhas 8-35, 51-94) e margens direitas cortadas (folhas 31, 37, 61 e as dos MANTIDOS).
+- **Baptista Machado, Introdução ao Direito e ao Discurso Legitimador** — **OBRA FECHADA (2026-07-16)**, caps. I-XI lidos, verificados e propagados; cinco passos do fecho completos. Entrega à Oficina (relatório de 14 padrões + errata consolidada) preparada — a entrega é do Telmo.
+
+## Verificador mecânico global — FECHADO (2026-07-18, fecho da conversa 9)
+
+2423 citações no escopo (20 Conceitos + páginas de fonte BM e Ascensão): **2239 mecânicas** (1856 exactas · 183 por errata · 172 por padrão documentado · 26 fragmentos com elipses · 2 token-match ≥85% na janela da âncora) · **183 fora-de-escopo justificadas** ([sic]/gralhas do impresso 92 · fonte primária própria 30 · registo de errata/adjudicação 18 · aparato Fase 0 13 · remissões internas 20 · citações de programa em página de obra 10) · **105 institucionais** (fichas/guias, âncora própria) · **1 adjudicada por padrão documentado** (A2 «participa,n» por «participam», exemplo textual do relatório da Oficina) · **0 falhas por resolver**. Hashes 4/4 ✓. ERRATA-MD do BM: **195 entradas** (novas 189-195, adjudicadas com E2 a 300 dpi em 8 folhas; células das entradas 36 e 169 reparadas por byte-fidelidade). Duas correcções na wiki com registo (aspas singularizadas degradadas a paráfrase em [[Conceitos/Aplicação da Lei no Tempo]]; «pro-ferição» → «pro-ferida» no mapa do cap. X).
 
 ## Lacunas em aberto
 
-- Castanheira Neves, «ob. cit., pp. 353 e 359» (BM, p. 36) — hipótese principal: *As Fontes do Direito e o problema da positividade jurídica*, BFD Coimbra, vol. LI (1975), pp. 115 e sgs. (nota da p. 159; a bibliografia geral da obra, p. 377, grafa «*As Fontes **de** Direito…*» — variação interna); quinta menção no XI (p. 371: «*Unidade*, cit., p. 14») e bloco das cinco obras de CN na bibliografia — reforço sem fecho. [BLOQUEADA: à espera do vol. LI do BFD — inacessível em linha; verificação em biblioteca]
-- **«§ 442 BGB»** (BM, p. 311, nota — Wieacker apud Larenz, *RR*, p. 87): assim no impresso (300 dpi); o contexto de cláusula geral aponta para o § 242 (*Treu und Glauben*). Citação por verificar contra Larenz, *Richtiges Recht*, p. 87. [BLOQUEADA: à espera de acesso à obra de Larenz]
-- [BLOQUEADA: à espera de ficha completa da Católica Porto] ano curricular, semestre, regência, bibliografia e avaliação da UC.
-- [BLOQUEADA: à espera de ficha oficial da FDUL] ano, semestre, ECTS, avaliação; programa de IED II.
-- [BLOQUEADA: à espera de ficha NOVA do ano corrente] o guia capturado é de 2021; desalinhamento da aplicação no espaço confirmado (2026-07-11) e anotado na vista; os pontos 2 e 9 fecharam com o cap. X com ressalva do recorte FA.
-- [BLOQUEADA: à espera de ficha Católica Lisboa do ano corrente] a ingerida é de 2023/2024.
-- Recensões e dados biográficos de Baptista Machado por verificar (Situação da fonte).
-- FDUL ponto 7 e sub-recorte do ponto 10 (fontes de Direito da União; primado): pré-adesão em BM — pedem fonte moderna. FDUL ponto 11 (formas de publicação; rectificações): ausente da fonte. FDUL ponto 16: tipologia formais/materiais dos princípios em falta (lacuna expressa na vista).
-- Católica Lisboa pontos 14-15: vertente histórica da controvérsia e «dignidade da pessoa humana» com corolários — não estão na fonte (lacunas expressas na vista; pedem as leituras próprias do programa).
+- Castanheira Neves, «ob. cit., pp. 353 e 359» (BM, p. 36) — hipótese principal: *As Fontes do Direito e o problema da positividade jurídica*, BFD Coimbra, vol. LI (1975), pp. 115 e sgs. [BLOQUEADA: vol. LI do BFD — verificação em biblioteca]
+- «§ 442 BGB» (BM, p. 311, nota): assim no impresso (300 dpi); o contexto de cláusula geral aponta para o § 242. Citação por verificar contra Larenz, *Richtiges Recht*, p. 87. [BLOQUEADA: acesso à obra]
+- **art. 3º/1 do CC** — a letra citada na página de fonte BM («Os usos que não forem contrários aos princípios da boa fé…», p. 158) tem convergência interna (BM p. 158, MD; Ascensão n.º 128, folha 262), mas a confirmação contra o export consolidado do DRE ficou **em aberto** na conversa 10 (DRE e PGDL inacessíveis por fetch; fechar na próxima passagem DRE/Chrome).
+- [BLOQUEADA: ficha completa da Católica Porto] · [BLOQUEADA: ficha oficial da FDUL + programa de IED II] · [BLOQUEADA: ficha NOVA do ano corrente — o guia capturado é de 2021] · [BLOQUEADA: ficha Católica Lisboa do ano corrente — a ingerida é de 2023/2024]
+- Recensões e dados biográficos de BM por verificar; recensões do Ascensão por localizar; Situação do Ascensão com duas verificações menores em aberto (licenciatura 1955 — Wikipédia, terciária; Comissão de Divulgação do CC 1966-67).
+- Alcance do «lote 2» da Oficina por esclarecer (pendência externa, não bloqueante — cobertura afirma-se sempre «do exemplar digitalizado»).
+- FDUL pontos 7 e 11 (e sub-recortes de 10/16) e Católica Lisboa pontos 14-15: lacunas expressas nas vistas — pedem fontes modernas ou as leituras próprias do programa.
 
 ## Fila de ingestão
 
-1. **Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*** — entrada confirmada (ASC-01, 2026-07-16), pela **Fase 0** (gate de admissão; a edição do exemplar fixa-se no gate — a referência no cofre é a citada por BM, bibliografia do cap. VIII, p. 219: Lisboa 1978). Abre quando (a) a ronda do Telmo com a Oficina fechar o exemplar de leitura (ASC-02: re-convertido se a re-passagem for barata, o actual se cara) e (b) o exemplar (PDF + MD) for anexado — está fora do cofre. Eixo B inaugura-se na propagação; ganchos registados: querela do art. 9º (BM, p. 173); lei interpretativa (BM, p. 247 vs *O Direito*, p. 260).
+1. **Oliveira Ascensão** — em leitura (sessão 1: Títulos I-II, nesta conversa).
 2. Manuais seguintes, pela ordem do plano do Telmo: Teixeira de Sousa → Amaral → Bronze → Santos Justo; específicos: Cordeiro e Romano Martinez (FDUL), Nogueira de Brito e Anotação de Maria João Fernandes (Católica Lisboa).
 
 ## Cobertura dos programas (monocamada BM, caps. I-XI)
 
-FDUP **25/28** · NOVA **14/21** (2 e 9 com ressalva FA) · Católica Porto **Partes I-VII** (programa enumerado completo) · Católica Lisboa **11/15** (14-15 com lacunas expressas; **leitura prescrita do BM integralmente coberta**) · FDUL **14/19** (10 e 16 com lacunas expressas). Contadores inalterados pelo XI (nenhum programa o convoca directamente).
+FDUP **25/28** · NOVA **14/21** (2 e 9 com ressalva FA) · Católica Porto **Partes I-VII** · Católica Lisboa **11/15** (leitura prescrita do BM integralmente coberta) · FDUL **14/19**. O mapa aprovado do Ascensão aponta para fechar, na leitura: FDUL 1-2/7/11 (e parte de 10/16-17), NOVA 1/3-8, FDUP 26, Católica Lisboa 14 (parcial).
