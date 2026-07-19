@@ -1,8 +1,8 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.15
+versao: 6.16
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
-ultima_actualizacao: 2026-07-18
+ultima_actualizacao: 2026-07-19
 ---
 
 # CLAUDE.md — Segundo Cérebro Jurídico Académico (memória-charter)
@@ -229,6 +229,6 @@ A intuição forense e a memória institucional (como esta Relação decide na p
 
 ## Versionamento deste schema
 
-Este schema é vivo e co-evolui. O agente nunca o auto-edita — só propõe, com texto novo, texto antigo e justificação; só o aluno aprova, por aprovação explícita, não por silêncio. Aprovada, a alteração regista-se no `log.md` com prefixo `Arquitectura` e o campo `versao: N.M` (major.minor) no frontmatter deste ficheiro bumpa-se. A entrada de log indica o tipo: **aditiva** (não obriga migração), **correctiva** (obriga migração das notas afectadas, com passe de auditoria dedicado), ou **redefinitória** (revisão sistemática, rara, decisão expressa do aluno).
+Este schema é vivo e co-evolui. O agente nunca o auto-edita — só propõe, com texto novo, texto antigo e justificação; só o aluno aprova, por aprovação explícita, não por silêncio. Aprovada, a alteração regista-se no `log.md` com prefixo `Arquitectura` e o campo `versao: N.M` (major.minor) no frontmatter deste ficheiro bumpa-se. A entrada de log indica o tipo: **aditiva** (não obriga migração), **correctiva** (obriga migração das notas afectadas, com passe de auditoria dedicado), ou **redefinitória** (revisão sistemática, rara, decisão expressa do aluno). A evolução corre nesta instância: a lei vive nos protocolos, a história no `CHANGELOG.md` e nas tags git, a fundamentação no `log.md`; não corre em projecto externo — os docs `claude/` do projecto claude.ai são registo de continuidade, não sede da lei (Decisão de 2026-07-19). Alteração estrutural despacha-se em bloco próprio de conversa, nunca a meio de sessão de leitura; defeito de schema que trave uma sessão em curso trata-se por `Excepção` registada com o ok, e o delta segue para bloco próprio. Correcção trivial — gralha, lapso sem efeito normativo — lista-se no fecho, aplica-se só com o ok e regista-se no log sem bump de versão; o que toque regra é delta, nunca correcção trivial. Para deltas pesados, salvaguarda opcional: advogado do diabo cego sobre a proposta antes da decisão.
 
 Histórico: registo integral, da 1.0 à corrente, em `CHANGELOG.md`, na raiz do cofre.

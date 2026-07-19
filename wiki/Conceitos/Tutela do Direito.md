@@ -69,7 +69,7 @@ As duas fontes cortam a matéria por planos distintos que se compõem: BM dá o 
 
 A tutela do Direito (garantia da ordem objectiva) distingue-se da tutela dos direitos (garantia das posições subjectivas), entrelaçando-se ambas nos mesmos meios (BM, pp. 131-132; ver [[Conceitos/Direito Objectivo e Direito Subjectivo]]). A coercibilidade é a qualidade da norma que o aparelho de tutela assegura — o fundamento do nexo entre juridicidade e coacção vive em [[Conceitos/Coercibilidade]] *(concretiza)*. A sanção — noção, tipologia funcional e o conflito sobre a invalidade — vive em [[Conceitos/Sanção]] *(concretiza)*; a sua articulação com a estrutura da norma, em [[Conceitos/Norma Jurídica]]. A espécie judiciária da heterotutela — os tribunais, a sua legitimidade e a função jurisdicional — desenvolve-se em [[Conceitos/Jurisdição]] *(concretiza)*.
 
-O quadro da segurança e da certeza que a tutela serve vive em [[Conceitos/Segurança Jurídica]].
+O quadro da segurança e da certeza que a tutela serve vive em [[Conceitos/Segurança Jurídica]]. O lugar da reacção da ordem na própria noção de Direito — a auto-referência do sistema, contra o elemento coactivo como essência (BM, pp. 133-134) — vive em [[Conceitos/Noção de Direito]], que aponta a esta página o quadro dos meios.
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. V, pp. 125-151 (leitura integral; confronto com o PDF em todas as folhas; verificações primárias: CRP-1976 arts. 21º/91º, parlamento.pt; art. 85º Tratado CEE, EUR-Lex CELEX 11957E085).
