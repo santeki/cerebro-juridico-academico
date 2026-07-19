@@ -4,16 +4,17 @@ titulo: "Segurança Jurídica"
 categoria: [Conceito, Princípio]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+estado_comparativo: aguarda-comparativo
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Segurança Jurídica
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. II, § 4º (pp. 55-59). A categoria «Princípio» regista a classificação funcional que a fonte lhe dá (exigência feita ao Direito, missão contida na ideia de Direito — BM, p. 55); outras fontes afinarão a classificação.
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. II, § 4º (pp. 55-59), e gancho de Oliveira Ascensão (sessão 1; `aguarda-comparativo` — v. secção própria no fim). A categoria «Princípio» regista a classificação funcional que a fonte lhe dá (exigência feita ao Direito, missão contida na ideia de Direito — BM, p. 55); outras fontes afinarão a classificação.
 
 ## Definição
 
@@ -43,5 +44,10 @@ A segurança jurídica não se confunde com a estabilidade institucional genéri
 
 O contributo das técnicas legislativas (definições legais, presunções, partes gerais) para a certeza vive em [[Conceitos/Codificação e Técnicas Legislativas]].
 
+## Gancho de coexistência (sessão 1 do Ascensão)
+
+ASC dá a segurança, ao lado da justiça, como valor cuja prossecução a ordem jurídica visa (ASC, p. 36, adjudicado por imagem) e condição do bem comum — «Não há bem comum se não se instaurar numa sociedade a justiça e a segurança» (p. 96) —, remetendo a posição exacta dos dois valores para o seu Título IV, por ler; o comparativo formal com a tensão dialéctica de BM corre nessa leitura (`aguarda-comparativo`).
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 4º, pp. 55-59; cap. VI, pp. 165 e 171; cap. VII, pp. 176 e 202; cap. VIII, pp. 225-226, 229 e 250-251; cap. IX, pp. 261-262; cap. XI, p. 366 (leitura integral; citações conferidas no PDF).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — pp. 36 e 96-97 (sessão 1; gancho, âncoras conferidas na triagem de 2026-07-19).

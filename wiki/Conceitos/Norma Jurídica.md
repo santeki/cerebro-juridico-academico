@@ -4,16 +4,17 @@ titulo: "Norma Jurídica"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+estado_comparativo: aguarda-comparativo
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Norma Jurídica
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. IV, Secção I (pp. 79-98). Os artigos citados são os da redacção de 1982, conferidos no PDF do exemplar; nenhum se converte para a numeração vigente sem confronto com DRE.
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. IV, Secção I (pp. 79-98), e primeira coexistência de Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, nn. 16 e 20 (integração da sessão 1; o comparativo formal corre quando a teoria da regra de ASC — nn. 286 e segs. — for lida: `aguarda-comparativo`). Os artigos citados são os da redacção de 1982, conferidos no PDF do exemplar; nenhum se converte para a numeração vigente sem confronto com DRE.
 
 ## Estrutura: previsão e estatuição
 
@@ -22,6 +23,10 @@ A ordem jurídica decompõe-se em unidades normativas que a exprimem, concretiza
 ## A previsão como *facti-species*
 
 A previsão (hipótese, tipo legal) refere a situação típica da vida cuja verificação desencadeia a consequência (BM, p. 80). Machado previne contra a ambiguidade de «facto»: na hipótese figuram também dados normativos («coisa alheia», «credor», «sócio»), resultado da aplicação de outras normas; e, com excepção dos conceitos numéricos, todos os conceitos da lei são «análogos» e «funcionais» — sofrem «deformação "teleológica"» ao entrar no sistema, podendo abranger realidades distantes da significação originária (ácidos corrosivos no conceito de «arma perigosa»; energia eléctrica no de «coisa») (BM, pp. 80-81, com nota a Arthur Kaufmann, *Analogie und "Natur der Sache"*, Karlsruhe, 1965, p. 24). A tese forte: a *facti-species* **jurisdiciza** os factos — é ela que fornece o óculo pelo qual se «in-specciona» a realidade, configurando o facto *sub specie iuris*; a «questão de facto» nunca é constatação neutra (BM, pp. 81-82). Consequência sistemática: a descoberta de lacunas «bem lá no fundo» não se distingue da determinação do alcance de um preceito expresso (BM, p. 82). O cap. VII dá à tese o remate hermenêutico: os enunciados das *facti-species* têm valor «instrumental» — referentes imediatos são as situações da vida, mas o *referente fundamental* é o Direito, a concepção de justiça que o legislador comunica através deles ([[Conceitos/Interpretação da Lei]]; BM, pp. 206-207). E a estrutura previsão/estatuição sustenta o argumento *a contrario*: só tem força plena quando entre hipótese e estatuição haja *implicação intensiva* (ou *replicação*) — a consequência produz-se quando se verifica a hipótese e *só* então, como nas enumerações taxativas (BM, pp. 187-188).
+
+## Posição de Oliveira Ascensão (estrutura e factispécie; sessão 1)
+
+ASC dá a mesma estrutura com terminologia própria: **previsão/estatuição** («antecedente»/«consequente» são menos expressivos), com a estatuição como efeito jurídico associado (obrigação de indemnizar ↔ danificação de coisa alheia) e a possibilidade de ordem inversa nos textos (o exemplo do autor: art. 88.º do CPC brasileiro) (ASC, pp. 44-45). À previsão chama *factispécie* — figura ou modelo dum «facto» (nota 41: a teoria dos modelos de Miguel Reale, *O Direito como Experiência*, em relato) —, discutindo a terminologia: «tipo legal» é equívoco, «hipótese normativa» de difícil generalização; do par *Tatbestand*/*fattispecie* e do latim medieval *factispecies* aportuguesa **factispécie** (p. 45). Na imperatividade, ASC afirma-a como «exigência incondicionada ou categórica de aplicação» de toda a ordem ética (p. 37), mas situa-a na ordem no seu conjunto, não em cada regra tomada por si (p. 39, com remissão ao n.º 286) — ponto de contacto com a dúvida de BM sobre a norma-imperativo (pp. 91-92, abaixo), em planos distintos (a ordem em ASC, a norma legislada em BM); a articulação fina fica para o comparativo, com a teoria da regra de ASC por ler.
 
 ## Imperatividade, generalidade, abstracção
 
@@ -43,7 +48,7 @@ O cap. X traça a fronteira de cima: os princípios jurídicos gerais «não sã
 
 ## Norma e sanção
 
-O cap. V da fonte articula a estrutura da norma com a reacção do sistema à sua violação: a sanção jurídica — «reacção da ordem jurídica à inobservância ou à violação das suas normas» — situa-se a dois níveis, conforme o tipo de norma violada: nas normas que fixam os pressupostos dos actos de exercício eficaz (válido) de um poder ou competência, ou proíbem certos actos jurídico-constitutivos ou normativos, a sanção é a recusa (total ou parcial) de eficácia jurídica; nas restantes, o desencadeamento de efeitos jurídicos — constitutivos, modificativos, extintivos, «inibidores» ou impeditivos (BM, p. 133). A tipologia das *leges* pela sanção (plus quam perfectae, perfectae, minus quam perfectae, imperfectae — acima) ganha assim um enquadramento sistémico: mesmo a *lex imperfecta* põe o problema de saber se há norma jurídica onde não há reacção alguma do sistema (BM, pp. 95-96 e 133-134; o quadro dos meios de tutela vive em [[Conceitos/Tutela do Direito]] *(concretiza)*).
+O cap. V da fonte articula a estrutura da norma com a reacção do sistema à sua violação: a sanção jurídica — «reacção da ordem jurídica à inobservância ou à violação das suas normas» — situa-se a dois níveis, conforme o tipo de norma violada: nas normas que fixam os pressupostos dos actos de exercício eficaz (válido) de um poder ou competência, ou proíbem certos actos jurídico-constitutivos ou normativos, a sanção é a recusa (total ou parcial) de eficácia jurídica; nas restantes, o desencadeamento de efeitos jurídicos — constitutivos, modificativos, extintivos, «inibidores» ou impeditivos (BM, p. 133). A tipologia das *leges* pela sanção (plus quam perfectae, perfectae, minus quam perfectae, imperfectae — acima) ganha assim um enquadramento sistémico: mesmo a *lex imperfecta* põe o problema de saber se há norma jurídica onde não há reacção alguma do sistema (BM, pp. 95-96 e 133-134; o quadro dos meios de tutela vive em [[Conceitos/Tutela do Direito]] *(concretiza)*). Do lado de ASC, a sanção é estatuição de uma **regra sancionatória** cuja previsão é a violação de outra regra, e a regra sancionatória pode ser por sua vez sancionada (ASC, p. 58; Thon em relato) — a noção, a tipologia funcional e o conflito entre as duas fontes sobre a natureza sancionatória da invalidade vivem em [[Conceitos/Sanção]] *(concretiza)*.
 
 ## Distinção de figuras próximas
 
@@ -53,3 +58,4 @@ A aplicação da norma pelo julgador — vinculação à lei, instância de cont
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. IV, Secção I, pp. 79-98; cap. V, pp. 133-134; cap. VI, pp. 166-171; cap. VII, pp. 187-188, 206-207 e 217-218; cap. VIII, pp. 225, 231 e 252 (leitura integral; artigos e citações conferidos no PDF).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — nn. 16 e 20, pp. 37-39 e 44-45; n. 28, p. 58 (sessão 1; âncoras conferidas na triagem de 2026-07-19).

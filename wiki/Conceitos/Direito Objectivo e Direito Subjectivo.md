@@ -4,16 +4,17 @@ titulo: "Direito Objectivo e Direito Subjectivo"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+estado_comparativo: aguarda-comparativo
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-10
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Direito Objectivo e Direito Subjectivo
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. III, 2 (p. 64). Tratamento compacto na fonte — BM remete a classificação dos direitos subjectivos para adiante na obra; a página expande-se quando esse desenvolvimento e outras fontes entrarem.
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. III, 2 (p. 64), e primeira coexistência de Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, n.º 17 (integração da sessão 1; comparativo formal quando a matéria do direito subjectivo de ASC — remetida por ele à Teoria Geral — for lida: `aguarda-comparativo`). BM remete a classificação dos direitos subjectivos para adiante na obra; a página expande-se quando esse desenvolvimento e outras fontes entrarem.
 
 ## Definição
 
@@ -26,6 +27,10 @@ Direito objectivo é «o corpo ou complexo de regras gerais e abstractas que org
 ## Espécies de direitos subjectivos (BM, cap. IV, pp. 88-90)
 
 Direitos de *domínio* — sobre coisas materiais (propriedade), sobre a empresa como universalidade, e os direitos de propriedade intelectual (autor; propriedade industrial: patente, marca), estes como direitos de monopólio ou exclusivo; todos absolutos, tutelados contra a intromissão de qualquer terceiro (BM, pp. 88-89). Direitos de *crédito* — relativos: poder de exigir de outrem (o devedor) uma prestação, positiva ou negativa, de facto ou de coisa; em princípio não violáveis por terceiros — com a zona mista do locatário, a quem cabem meios de defesa da posse contra locador e terceiros (art. 1037º do Código Civil, na redacção de 1982, conferido no PDF), condicionados pela posse obtida e mantida (BM, p. 89). Direitos *potestativos* — poder de, por declaração unilateral (ou acção judicial), modificar ou extinguir relações preexistentes ou constituir um direito que limita o de outrem (servidão); exemplos: anulação, denúncia, resolução, revogação; em nota, «poderes "jurídico-modeladores"» (BM, pp. 89-90; ver o estado de sujeição em [[Conceitos/Facto Jurídico]]). «Direitos de direcção» — não já direitos subjectivos típicos: o poder paternal como «direito-dever ou direito-função» exercido no interesse do filho, e o poder de direcção do empresário, ligados ao *status* e ao *officium*, exercidos segundo o estatuto da função e não no interesse subjectivo do titular; cabem ainda na noção ampla de direito subjectivo como poder de vontade para satisfação de interesses próprios ou alheios juridicamente protegidos (BM, p. 90).
+
+## Posição de Oliveira Ascensão (sessão 1)
+
+Postas de lado as acepções espúrias (os «direitos» de autor como quantias; a mercadoria «passada aos direitos»), a distinção fundamental corre entre «Direito das Sucessões» — realidade objectiva, ordenação da vida social — e «direito de suceder» — realidade subjectiva, posição favorável de um sujeito: Joaquim tem direito de suceder; não se diz que tenha Direito das Sucessões (ASC, pp. 39-40). A ambiguidade é da língua (o inglês distingue *law*/*right*; o chinês *fa* designa só o objectivo), e a grafia adoptada pelo autor — seguida pelo cofre nas páginas que o citam — é *Direito* objectivo / *direito* subjectivo (p. 40). Há prioridade ao menos lógica do objectivo, com derivação do subjectivo (nota 31: a prioridade foi invertida pelo jusracionalismo — em relato); o direito subjectivo é situação concreta resultante da aplicação de previsão normativa genérica (nota 32: o exemplo da propriedade), com a matéria deixada à Teoria Geral do Direito Civil (p. 41). Convergência com BM no essencial da distinção e da derivação por aplicação; o confronto fino espera o desenvolvimento de ambas as obras.
 
 ## Garantia e tutela
 
@@ -43,3 +48,4 @@ A titularidade e a capacidade que os direitos subjectivos pressupõem vivem em [
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. III, 2, p. 64; cap. IV, pp. 84 e 88-90; cap. V, pp. 125 e 131-132 (confrontado no PDF).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — n.º 17, pp. 39-41 (sessão 1; âncoras conferidas na triagem de 2026-07-19).

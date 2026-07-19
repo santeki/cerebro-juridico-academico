@@ -2,7 +2,7 @@
 tipo: estado-resumo
 titulo: "Resumo de estado (fotografia podada do conhecimento)"
 estado_verificacao: verificado
-ultima_actualizacao: 2026-07-18
+ultima_actualizacao: 2026-07-19
 ---
 
 # Resumo de estado
@@ -24,25 +24,27 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 20 | teoria do Direito (BM caps. I-XI); tudo `verificado` |
-| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16; verificador global FECHADO 2026-07-18)** + **Ascensão (EM LEITURA: sessão 1, Títulos I-II, extraída a 2026-07-18; propagação pendente do ok)** |
+| Conceitos | 21 | teoria do Direito; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo`; tudo `verificado` |
+| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessão 1 extraída, triada e propagada — Eixo B inaugurado; sessão 2 = Título III, cap. I)** |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## As duas obras
 
 - **[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]** — reservatório completo (caps. I-XI); obra fechada nos cinco passos (2026-07-16); ERRATA-MD com **195 entradas**; verificador mecânico global fechado a 2026-07-18 (2423 citações no escopo, 0 falhas por resolver; retrato integral no PAINEL). Dossiers em aberto: CN «ob. cit.» (vol. LI BFD) e «§ 442 BGB» (Larenz, *RR*, p. 87) [BLOQUEADOS]; letra do art. 3º/1 CC vs export DRE em aberto (conversa 10, fetch indisponível).
-- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD com **6 entradas** (sessão 1). **Sessão 1 (Títulos I-II, pp. 9-98) extraída a 2026-07-18; R1 em triagem (28 achados); propagação pendente; sessão 2 = Título III.** Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
+- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD com **7 entradas** (sessão 1 + triagem). **Sessão 1 (Títulos I-II, pp. 9-98) fechada de ponta a ponta: extraída (2026-07-18), triada (2026-07-19: R1 28/28, zero falsos positivos) e propagada (Eixo B inaugurado: 7 comparativas + 5 integrações); sessão 2 = Título III, cap. I (pp. 99-107).** Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
 
 ## Notas-âncora
 
 - [[Conceitos/Direito Justo]] e [[Conceitos/Discurso Legitimador]] — o par do cap. X de BM (valer/vigorar, *pacta sunt servanda*, mediação, círculo hermenêutico, analogia como espinha dorsal) — a tese que dá título à obra.
 - [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]] — o par do cap. VIII (direito transitório: arts. 12º/13º/297º; regras de conflitos como normas sobre normas); gancho de Eixo B da lei interpretativa BM p. 247 vs *O Direito* (na 10.ª ed.: nn. 327-329).
 - [[Conceitos/Interpretação da Lei]] e [[Conceitos/Integração da Lei]] — o par do cap. VII (hermenêutica e lacunas; arts. 8º-11º e 13º CC, redacção de 1966 confirmada no DRE a 2026-07-17).
-- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; positivação); alvo principal do Eixo B na leitura do Ascensão (com Tutela e Sanção).
+- [[Conceitos/Noção de Direito]] e [[Conceitos/Coercibilidade]] — o par que estrutura o arco caps. II-VII (sentido/coacção; positivação); primeiras comparativas do Eixo B (compatíveis; distintas), com [[Conceitos/Tutela do Direito]] (complementares) e [[Conceitos/Sanção]] (em conflito — a invalidade como sanção: BM afirma, ASC nega, fundamentos expressos dos dois lados).
 - [[Conceitos/Fontes de Direito]] e [[Conceitos/Vigência das Normas]] — o par do cap. VI (produção do Direito; dinâmica temporal e hierárquica).
 - [[Conceitos/Tutela do Direito]] — porta de entrada da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
+
+- [2026-07-19] ingestão + Comparativos + Decisão | **Ascensão — sessão 1: triagem R1 fechada e Fase 4 propagada (conversa 11).** Triagem: 28/28 achados verificados contra MD/PDF, zero falsos positivos; terceira ronda E2 em lote (folhas 31, 45, 54): «V - A ordem jurídica … os valor[es] cuja prossecução visa são a justiça e a segurança» (p. 36; ERRATA-MD 7), máximas latinas da p. 50 em redondo no impresso, remissão «n.ºs 32-A e seguintes» confirmada no impresso (sem correspondência na numeração da edição — Erratas identificadas). Propagação com o ok do Telmo: **Eixo B inaugurado** — 7 comparativas (Noção de Direito e Instituição compatíveis; Tutela complementares; Coercibilidade, Facto Jurídico e Fontes de Direito distintas; **Sanção em conflito**, promovida a página própria por decisão do aluno) + 5 integrações `aguarda-comparativo` (Norma Jurídica, Direito Objectivo/Subjectivo, Jurisdição, Direito Justo, Segurança Jurídica); verificador global VERDE pós-propagação (2770 → 2570 mecânicas · 2 adjudicadas documentadas · 0 falhas); crivo estrutural VERDE (540 wikilinks). **Decisão (governação)**: o cowork de evolução deixa de se usar — a evolução corre nesta instância, com aprovação expressa, bloco próprio de despacho e CHANGELOG + tag; deltas 6.14/6.15 ficam como registo histórico.
 
 - [2026-07-18] ingestão | **Ascensão — sessão 1 de leitura (Títulos I-II, obra pp. 9-98)**: leitura integral no MD v2 (notas incluídas) com dupla fonte — confronto mecânico com o texto embebido do PDF (folhas 4-93), 13 adjudicações por imagem a 300 dpi com segunda leitura cega E2 e 9 spot-checks posicionais (3 por unidade), todos coincidentes; extracção ancorada no reservatório (nn. 1-46: ordem/prudência, facto jurídico, instituições, quatro ordens normativas, imperatividade, fontes, sanções em tipologia funcional, valores negativos com a tese «a invalidade não é sanção», coercibilidade com definição própria, tutela e justiça privada, direito e moral); 6 entradas novas na ERRATA-MD do exemplar; ganchos de Eixo B registados (ASC cita BM p. 33 n. 18 e CN *Unidade* pp. 95-96 n. 39; convergência textual do art. 1º CPC com BM p. 130); dúvidas com etiologia (art. «20» da Constituição no impresso — por confrontar com a CRP; Ac. STJ 12-10-1973 BMJ 210 em relato); R2 (integração): 10 achados verificados e aplicados; **R1 (conteúdo): 28 achados EM TRIAGEM (pausa ordenada pelo Telmo — lista no log; sobretudo âncoras ±1 nos nn. 27-46)**; segue-se, na retoma: triagem R1 → pontos-chave + mapa de propagação → ok → Fase 4.
 
@@ -50,12 +52,10 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 - [2026-07-17] Dúvida resolvida | DRE fechado via Chrome: arts. 8º-13º, 297º e 895º CC (consolidado oficial; redacção de 1966; art. 297º tem TRÊS números — o n.º 3 fora do recorte de BM, nota própria em [[Conceitos/Aplicação da Lei no Tempo]]) + art. 223º CRP-1976 originária («Conselho Superior da Magistratura» — «Judiciário» na p. 140 de BM é lapso do exemplar, errata fechada). Propagado a 5 páginas + PAINEL.
 - [2026-07-17] ingestão | **Ascensão — Fase 0 integral** (gate): referência fixada pelo rosto; hash_raw; triagem técnica; paginação própria por âncoras; lacuna material registada; `raw/` povoado (MD v2 + relatórios + adjudicações + mantidos + ERRATA vazia); página de fonte com Situação.
 - [2026-07-17] Decisão | Gate do Ascensão decidido pelo Telmo: PDF pesado fora do git (pasta local, hash-âncora; codificação proposta para a 6.14); lacuna material segue registada; lote 1/2 por esclarecer (não bloqueante); **Fase 1 aberta** — agenda, panorâmico e mapa de tratamento APROVADO.
-- [2026-07-11] auditoria | Revisão total do fecho do BM (passo 2): 4 planos + coerência dos derivados; verificador global VERDE (942, 0 falhas); 10 infidelidades de citação repostas; 22 assimetrias fechadas; erratas 155-186; MELHORIA inaugurado.
-- [2026-07-11] ingestão | BM caps. IX-XI lidos, verificados e propagados (X núcleo: Direito Justo + Discurso Legitimador criados; XI periferia: arco rematado pela ciência jurídica); obra lida por inteiro a 2026-07-11 e fechada a 2026-07-16.
 
 ## Última passagem completa
 
-2026-07-18 — regeneração (décima, após a sessão 1 de leitura do Ascensão na conversa 10; segue-se a propagação com o ok do Telmo e, depois, a sessão 2 — Título III).
+2026-07-19 — regeneração (décima primeira, após a triagem R1 e a propagação da sessão 1 do Ascensão na conversa 11; segue-se a sessão 2 — Título III, cap. I, pp. 99-107 — em conversa própria).
 
 ---
 

@@ -4,16 +4,17 @@ titulo: "Jurisdição"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+estado_comparativo: aguarda-comparativo
 revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Jurisdição
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. V, § 4º (pp. 139-151). Todo o quadro normativo é o de 1976/1982 — CRP pré-revisões, Estatuto dos Magistrados Judiciais e Lei Orgânica dos Tribunais Judiciais da época, organização judiciária e alçadas de 1982: as remissões citam-se datadas e nenhuma entra em uso actual sem confronto com a redacção vigente.
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. V, § 4º (pp. 139-151), e primeiro gancho de Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, n.º 41 (sessão 1): o Estado tende historicamente a chamar a si a jurisdição — «dizer o direito», a que outros acrescentam a função de executar ou tornar efectivo esse direito (ASC, p. 83) —, com o monopólio estatal da coerção como meta «prestes a consumar-se», não consumada (ASC, p. 86; a génese histórica vive em [[Conceitos/Tutela do Direito]]); comparativo formal quando o Título III de ASC (ciências que estudam o direito) e os desenvolvimentos posteriores entrarem: `aguarda-comparativo`. Todo o quadro normativo é o de 1976/1982 — CRP pré-revisões, Estatuto dos Magistrados Judiciais e Lei Orgânica dos Tribunais Judiciais da época, organização judiciária e alçadas de 1982: as remissões citam-se datadas e nenhuma entra em uso actual sem confronto com a redacção vigente.
 
 ## Noção e posição constitucional
 
@@ -61,3 +62,4 @@ Os postulados hermenêuticos que o julgador aplica na interpretação vivem em [
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. V, § 4º, pp. 139-151; cap. VI, pp. 160-163; cap. VII, pp. 194, 199 e 202-204; cap. IX, pp. 260-264; cap. XI, pp. 365 e 370-371 (leitura integral; confronto com o PDF em todas as folhas; art. 85º do Tratado CEE confirmado em EUR-Lex, CELEX 11957E085).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — n.º 41, pp. 83 e 86 (sessão 1; âncoras conferidas na triagem de 2026-07-19).

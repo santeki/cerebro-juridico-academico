@@ -4,13 +4,14 @@ titulo: "Direito Justo"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+estado_comparativo: aguarda-comparativo
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Direito Justo
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. X, Secção II (pp. 286-307), com a antecâmara do cap. IX, § 6 (pp. 264-268) e a ilustração da Secção I. «Direito Justo» é o termo primário da fonte; «surge-nos aqui — de uma maneira quase indutiva — o problema do *Direito Justo*, também designado por problema do *Direito Natural*» (BM, p. 287). Construção doutrinária de BM, não regime normativo: tudo o que segue é posição da fonte, em parte com apoio expresso em Larenz, Hayek, D'Entrèves e Ellscheid (em relato).
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. X, Secção II (pp. 286-307), com a antecâmara do cap. IX, § 6 (pp. 264-268) e a ilustração da Secção I, e gancho de Oliveira Ascensão (sessão 1; `aguarda-comparativo` — v. secção própria no fim). «Direito Justo» é o termo primário da fonte; «surge-nos aqui — de uma maneira quase indutiva — o problema do *Direito Justo*, também designado por problema do *Direito Natural*» (BM, p. 287). Construção doutrinária de BM, não regime normativo: tudo o que segue é posição da fonte, em parte com apoio expresso em Larenz, Hayek, D'Entrèves e Ellscheid (em relato).
 
 ## O problema
 
@@ -48,5 +49,10 @@ Nos programas mapeados: FDUP ponto 6 («O problema do Direito Natural»); Catól
 
 A crítica ao fundamento factual da validade, no plano da produção do Direito, vive em [[Conceitos/Fontes de Direito]].
 
+## Gancho de coexistência (sessão 1 do Ascensão)
+
+ASC dá a justiça, ao lado da segurança, como valor cuja prossecução a ordem jurídica visa (ASC, p. 36, adjudicado por imagem) e fá-la condição do **bem comum**: «Não há bem comum se não se instaurar numa sociedade a justiça e a segurança» (p. 96), remetendo a posição exacta dos dois valores para o seu Título IV, por ler — o comparativo formal com a construção de BM corre nessa leitura (`aguarda-comparativo`).
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. X, Secção II (pp. 286-307), com o cap. IX, § 6 (pp. 264-268) e a Secção I do cap. X (leitura integral; confronto com o PDF em todas as folhas; adjudicações a 300 dpi — v. página de fonte).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — pp. 36 e 96-97 (sessão 1; gancho, âncoras conferidas na triagem de 2026-07-19).

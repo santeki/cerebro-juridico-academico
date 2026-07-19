@@ -4,16 +4,18 @@ titulo: "Fontes de Direito"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+relacao: distintas
+estado_comparativo: comparativa
 revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-19
 ---
 
 # Fontes de Direito
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VI, §§ 1-8 (pp. 153-164). O quadro normativo da fonte é o de 1976/1982 — CRP pré-revisões (Conselho da Revolução), Código Civil com normas corporativas e assentos (art. 2º entretanto revogado), CEE pré-adesão: as remissões citam-se datadas e nenhuma entra em uso actual sem confronto com a redacção vigente. A segunda metade do capítulo — entrada em vigor, cessação, hierarquia e conflitos — vive em [[Conceitos/Vigência das Normas]].
+Página comparativa (duas fontes): Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VI, §§ 1-8 (pp. 153-164), e Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, nn. 21-22 (pp. 46-50 — a noção; a doutrina das fontes de ASC corre no Título VI da obra, por ler: o comparativo abaixo cobre só o que está ingerido e reabre nessa leitura). O quadro normativo da fonte é o de 1976/1982 — CRP pré-revisões (Conselho da Revolução), Código Civil com normas corporativas e assentos (art. 2º entretanto revogado), CEE pré-adesão: as remissões citam-se datadas e nenhuma entra em uso actual sem confronto com a redacção vigente. A segunda metade do capítulo — entrada em vigor, cessação, hierarquia e conflitos — vive em [[Conceitos/Vigência das Normas]].
 
 ## Noção e problema
 
@@ -55,6 +57,14 @@ Os *princípios fundamentais de direito*: exigências feitas a todo e qualquer o
 
 Sendo o problema das fontes um problema que transcende a vontade do legislador — insusceptível de resposta através de uma decisão legislativa —, o não reconhecimento do costume pelo legislador «não tem carácter decisivo», e o mesmo se poderá porventura dizer da jurisprudência e da doutrina: «tudo dependerá das conclusões a que formos conduzidos pela teoria das fontes» (BM, p. 159, com remissão em nota para Castanheira Neves, *As Fontes do Direito e o problema da positividade jurídica*, BFD Coimbra, vol. LI, 1975, pp. 115 e sgs. — primeira referência completa da obra no exemplar; v. página de fonte). E, mais fundo: não parece admissível que a lei voluntariamente posta (pelo menos a lei ordinária) tenha «legitimidade para excluir a juridicidade de normas consuetudinárias nascidas directamente da comunidade social» (BM, pp. 161-162).
 
+## Posição de Oliveira Ascensão (a noção; sessão 1)
+
+«Fonte» tem cinco sentidos: histórico (o Direito Romano como fonte do nosso), instrumental (Tábuas da Lei, Ordenações, jornais oficiais — *fontes iuris cognoscendi* vs *iuris essendi*: o desaparecimento dos exemplares não atinge a regra), orgânico (os órgãos produtores; ambiguidade inútil), **técnico-jurídico ou dogmático** — «modos de formação e revelação das regras jurídicas», «expressão que fez carreira» — e sociológico ou material (o circunstancialismo social; preferíveis «causas», «antecedentes», *occasio legis*; relevará na interpretação) (ASC, pp. 46-47). «Fonte do Direito» é expressão imprópria — tomada à letra abrangeria instituições e até contratos («Tudo isso também é Direito») — que se usa por corrente, com ressalva (pp. 47-48). No sentido dogmático, a doutrina divide-se: para Cabral de Moncada as fontes são modos de **revelação** («modos como o Direito aparece» — *Lições*, I, n.º 14, em relato de ASC); no pólo oposto, os que só vêem **factos normativos** (nota 44: orientação de Dias Marques, em relato), com a tendência de o privatista atender à revelação e o publicista à formação (pp. 48-49). A opção de ASC é pragmática, dada a coexistência da disciplina com a Teoria Geral do Estado: fonte como modo de **revelação** — «A fonte será o elemento que contém a regra. É a interpretação (…) que permite extrair a regra desse dado» (p. 49) —, sem erro no outro sentido (nota 46: até o CC português assenta o negócio jurídico na *declaração* negocial — modo de revelação, não de formação; pp. 49-50).
+
+## Comparativo BM ↔ ASC (relação: distintas)
+
+Sobre a mesma noção, as duas fontes tomam pólos diferentes da divisão que ambas registam: BM entra pelo problema da **positivação** — a questão das fontes como «questão jurística» que transcende o sistema posto, com as fontes formais definidas como *factos normativos* (pp. 153-154) — o pólo da formação; ASC opta expressamente pelo pólo da **revelação**, por razão pragmática declarada, reconhecendo que «nada tem de errado o outro sentido» (ASC, p. 49). A divergência de pólo é expressa mas não oposicional: ASC regista a divisão doutrinária sem excluir a formação (pp. 48-49), e BM formula a definição tradicional com os dois termos («modos de formação ou de revelação», p. 154) — distintas, portanto, com a função da diferença identificada: em ASC, arrumação didáctico-sistemática (a formação fica à Teoria Geral do Estado); em BM, a porta para a tese do fundamento (a validade não se funda em factos). Fundamentos expressos de parte a parte (Comparativo 3 selectiva): a razão pragmática de ASC (p. 49) e a natureza jurística da questão em BM (p. 153). Consequências (Comparativo 4): nas fontes registadas não se identificou caso em que a opção altere resultados; releva na arrumação da matéria e no papel da interpretação como extractora da regra (ASC, p. 49). Na tradição (Comparativo 5): o mapa é dado pelo próprio ASC — Moncada num pólo, Dias Marques no outro, em relato —; e as duas fontes do corpo confrontam-se directamente, em relato de BM, na questão vizinha do valor preceptivo das regras legais de interpretação — Betti e Oliveira Ascensão pela afirmativa, Castanheira Neves pela negativa, no relato de BM (p. 173; sede em [[Conceitos/Interpretação da Lei]]; a leitura do Título VII de ASC confirmará a posição pela própria obra). Síntese (Comparativo 6): mesma noção, pólos opostos da mesma divisão registada por ambos, sem conflito — o comparativo reabre quando o Título VI de ASC entrar, com reclassificação possível.
+
 ## Distinção de figuras próximas
 
 O problema das fontes é o problema da positivação — a incarnação da validade na realidade social-histórica —, continuação directa da articulação ser/dever-ser da noção de Direito ([[Conceitos/Noção de Direito]] *(concretiza)*). A dinâmica temporal e hierárquica das normas postas — entrada em vigor, cessação, hierarquia, conflitos — vive em [[Conceitos/Vigência das Normas]] *(concretiza)*. A estrutura e classificação da norma que as fontes produzem tratam-se em [[Conceitos/Norma Jurídica]]. O lugar dos tribunais no sistema das fontes (assentos; «legislador complementar») articula-se com [[Conceitos/Jurisdição]]. A interpretação autêntica e as leis interpretativas fazem ponte com [[Conceitos/Interpretação da Lei]]. A juridificação das estruturas ordenadoras sociais que subjaz à positivação vem de [[Conceitos/Instituição]].
@@ -65,3 +75,4 @@ Matéria nuclear dos cinco programas mapeados: FDUP VI (ponto 17 — modalidades
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. VI, §§ 1-8, pp. 153-164 (leitura integral; confronto com o PDF em todas as folhas; verificações primárias na página de fonte: CC arts. 1º-4º e 7º contra o export consolidado do DRE; regime dos assentos contra o CPC na redacção de 1967).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — nn. 21-22, pp. 46-50 (sessão 1; âncoras conferidas na triagem de 2026-07-19; a doutrina das fontes da obra corre no Título VI, por ler).
