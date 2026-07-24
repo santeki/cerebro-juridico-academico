@@ -4,7 +4,7 @@ titulo: "FDUP — Direito"
 faculdade: "Faculdade de Direito da Universidade do Porto"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-24
 ---
 
 # FDUP — Direito
@@ -66,11 +66,11 @@ ultima_actualizacao: 2026-07-11
   25. O princípio da não retroatividade da lei e a sua expressão no ordenamento jurídico português — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (arts. 12º, 13º e 297º do CC; teoria do facto passado e correcções de BM).
 
   IX. O sistema jurídico
-  26. Os sistemas jurídicos do mundo: principais famílias jurídicas e convergências entre elas — por cobrir.
+  26. Os sistemas jurídicos do mundo: principais famílias jurídicas e convergências entre elas — [[Conceitos/Sistemas e Famílias Jurídicas]] — monocamada (ASC, Título III, cap. III, nn. 80-96, pp. 135-162, em tratamento de núcleo, fechado em 2026-07-24: o Direito Comparado e as suas duas tarefas; o critério das civilizações, adoptado contra a classificação de René David; a partição primitivos/civilizados; o sistema ocidental e os subsistemas romanístico e anglo-americano, com a *equity*, a regra do precedente e a função auxiliar dos *statutes*; direitos tradicionais africanos; sistema soviético e Direito Chinês). **Nota de alcance**: o sub-recorte «convergências entre elas» está coberto pelo próprio autor, mas por via negativa — ASC trata a convergência como esbatimento de contornos e diz que «Fala-se numa convergência de civilizações, mas a expressão é eufemística» (p. 143). ⚠ **Retrato de 1997**: o mapa dos sistemas é o da data desta edição — o sistema soviético entra datado por determinação expressa do autor («referido ao que foi, e não ao que é», p. 146), e a apreciação de vitalidade das civilizações chinesa, hindu e muçulmana é juízo seu à data. Uma fonte moderna é necessária para o retrato actual: por cobrir.
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 25 de 28 pontos em monocamada (pontos 1-25 — BM, caps. I-VIII e X, fechados em 2026-07-09/10/11); 3 «por cobrir» (26-28: famílias jurídicas e princípios fundamentais do direito privado e do direito público, fora da fonte). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 26 de 28 pontos em monocamada (pontos 1-25 — BM, caps. I-VIII e X, fechados em 2026-07-09/10/11; ponto 26 — ASC, Título III, cap. III, fechado em 2026-07-24, com a ressalva de datação de 1997); 2 «por cobrir» (27-28: princípios fundamentais do direito privado e do direito público, fora das duas fontes). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

@@ -4,7 +4,7 @@ titulo: "FDUL — Direito"
 faculdade: "Faculdade de Direito da Universidade de Lisboa"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-24
 ---
 
 # FDUL — Direito
@@ -25,7 +25,7 @@ ultima_actualizacao: 2026-07-11
 - **Programa** (pp. 1-5; transcrição ponto a ponto — a numeração de capítulos e secções do original preserva-se, incluindo as repetições [sic]) → páginas de conhecimento:
 
   Capítulo I — Direito e ordem jurídica
-  1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir (o sub-recorte «as disciplinas que estudam o Direito» tem cobertura ASC desde 2026-07-24: [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I; «acepções» e «ordem social» têm base ASC da sessão 1 nas páginas do corpo; a conversão do estado do ponto corre no fecho do estudo da obra).
+  1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir (o sub-recorte «as disciplinas que estudam o Direito» tem cobertura ASC desde 2026-07-24: [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I, a que se junta, desde 2026-07-24, o Direito Comparado como mais uma dessas disciplinas, delimitada pelo método e distinguida da História do Direito no cap. III ([[Conceitos/Sistemas e Famílias Jurídicas]]); «acepções» e «ordem social» têm base ASC da sessão 1 nas páginas do corpo; a conversão do estado do ponto corre no fecho do estudo da obra).
   2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — por cobrir.
   3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º e nº 9: tipologia dos meios e sanção como reacção do sistema).
   4. Coacção e coercibilidade — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).

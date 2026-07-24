@@ -7,7 +7,7 @@ estado_verificacao: verificado
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
 ultima_actualizacao: 2026-07-24
 ---
 
@@ -41,6 +41,12 @@ Direito Civil — o direito privado *comum* ou *direito-regra*, tronco de que se
 
 Registos e Notariado (Códigos do Registo Civil, Predial e do Notariado); Direito de Autor — «um ramo do Direito Civil», com Código próprio, exclusivos de exploração e direitos morais; Direito Agrário; Direito do Trabalho — a caracterização como público ou privado «parece inviável», e «há quem diga», no texto de BM, que não é um nem outro, «mas "direito social"» (BM, p. 74); Direito de Segurança Social em sistematização; Direito Económico, de autonomia «muito discutível» (BM, p. 74); Direito Canónico — direito não estadual da sociedade eclesial, de influência decisiva na evolução da ciência jurídica, com repercussões no direito interno por força da Concordata de 1940 e de normas como os arts. 1599º, 1625º e 1626º do Código Civil (BM, p. 75) — ⚠ quadro de 1982: o regime concordatário e as normas citadas confrontam-se com o vigente antes de qualquer uso actual. Direito Comunitário — o direito da então CEE, «conjunto de entes supranacionais com poderes normativos, administrativos e judiciários», derrogação ao princípio do exclusivismo estatal; finalidade fixada no art. 2º do Tratado de Roma, assinado a 25 de Março de 1957 (a obra imprime «25.4.1957» — errata da edição, corrigida contra EUR-Lex, CELEX 11957E); fontes: regulamentos directamente vinculantes — na leitura de BM, prevalecendo sobre a lei interna mesmo posterior e situando-se «no vértice» da hierarquia, «em posição paralela à das normas constitucionais» —, directivas que vinculam os Estados quanto ao escopo, e decisões; Tribunal da Comunidade com reenvio interpretativo e sem vinculação a precedentes (BM, pp. 75-77). ⚠ Retrato pré-adesão de Portugal: vale como construção histórica da fonte; o quadro actual do Direito da União Europeia não se afirma a partir daqui.
 
+## Posição de Oliveira Ascensão (*O Direito*, 10.ª ed., 1997)
+
+A obra não trata os ramos em sede própria neste ponto — a matéria corre no Título VI, cap. II, por ler —, mas o capítulo dos sistemas actuais dá uma proposição que condiciona toda a arrumação: **as divisões do Direito não são universais**. Ao caracterizar a separação técnica entre os dois subsistemas do sistema ocidental, ASC regista que «também os ramos ou divisões do Direito não são idênticos» e que «as grandes divisões da ordem jurídica podem sofrer arrumações muito diversas» (p. 154, em paráfrase pela letra visível — passo sob sublinhados densos). No mesmo lugar, a consequência mais forte: há institutos inteiros sem correspondente de um lado ao outro — o *trust*, «pelo qual alguém transmite a outrem uma verdadeira propriedade, mas para que este a aplique a uma função no interesse alheio», é desconhecido entre nós; «a distinção entre *ownership e property* não corresponde às nossas concepções»; e «o *copyright* não é o mesmo que o nosso Direito de Autor, e assim por diante» (p. 154).
+
+O alcance disto para esta página é de método, não de conteúdo: a *summa divisio* e o elenco de ramos que Baptista Machado expõe são a arrumação do subsistema romanístico, e não um dado universal do jurídico. O quadro comparativo em que a proposição se insere vive em [[Conceitos/Sistemas e Famílias Jurídicas]].
+
 ## Distinção de figuras próximas
 
 O ramo (subconjunto normativo por matéria) não se confunde com a classificação das normas por fontes formais ou por classes, vias alternativas de arrumação que BM aponta (p. 64), nem com as disciplinas curriculares, a que só «no geral» corresponde (p. 65). A unidade que os atravessa é o sistema — as páginas de instituto que forem nascendo ligam de volta a esta. Ver [[Conceitos/Direito Objectivo e Direito Subjectivo]] *(concretiza)* e [[Conceitos/Noção de Direito]].
@@ -49,3 +55,4 @@ A arquitectura dos códigos e a técnica legislativa que servem a divisão por r
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. III, pp. 63-77 (leitura integral confrontada no PDF; errata da edição na data do Tratado de Roma verificada em EUR-Lex).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — Título III, cap. III, n.º 92 III, p. 154 (sessão 4, 2026-07-24; a não-universalidade das divisões do Direito e os institutos sem correspondente). Os ramos em sede própria correm no Título VI, cap. II, por ler.

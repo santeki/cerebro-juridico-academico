@@ -7,7 +7,7 @@ estado_verificacao: verificado
 revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
 ultima_actualizacao: 2026-07-24
 ---
 
@@ -75,5 +75,8 @@ Nos programas mapeados: FDUP VII (ponto 22 — integração de lacunas); NOVA bl
 
 O fundamento suprapositivo da analogia — a igualdade como exigência do direito justo — desenvolve-se em [[Conceitos/Direito Justo]].
 
+> **Contraponto comparativo (ASC, Título III, cap. III, sessão 4):** a integração de lacunas é o exemplo que Ascensão toma por elucidativo da diferença entre sistemas. Nos direitos ocidentais vão-se buscar ao próprio sistema jurídico os princípios gerais que permitem a solução nova; «Mas no sistema soviético segue-se expressamente uma orientação diversa. As lacunas devem ser integradas de harmonia com os princípios gerais do direito e com os princípios da política» — «O fim do direito tem assim um papel activo e condutor, que é desconhecido nas ordens jurídicas ocidentais.» (ASC, p. 158; retrato de 1997, datado pelo próprio autor). O contraste ilumina por fora o que o art. 10º, 3, do Código Civil fecha por dentro: a norma *ad hoc* forma-se «dentro do espírito do sistema», não de uma directriz política externa a ele. Quadro comparativo em [[Conceitos/Sistemas e Famílias Jurídicas]].
+
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. VII, Secção III, pp. 192-205, e cap. X, Secção III, § 2.º, pp. 326-332 (leitura integral; confronto com o PDF em todas as folhas; arts. 8º, 10º e 11º do CC conferidos contra consolidações convergentes e, a 2026-07-17, o consolidado oficial do DRE; dígitos do cap. X conferidos a 300 dpi — v. página de fonte).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — Título III, cap. III, n.º 94, p. 158 (sessão 4, 2026-07-24; a integração de lacunas como exemplo do contraste entre sistemas). A doutrina da integração do autor corre no Título VII, cap. III, por ler.

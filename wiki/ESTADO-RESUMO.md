@@ -24,8 +24,8 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 22 | teoria do Direito; **todas na arquitectura 6.18-6.19 (Noção pela voz do cofre · posições por autor · relação nas comparativas — migração de 2026-07-24)**; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo` + 1 integração de fonte única ASC (Ciências que Estudam o Direito, nova 2026-07-24); tudo `verificado` |
-| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessões 1 a 3 fechadas de ponta a ponta; segue-se o Título III, cap. III — Sistemas actuais, núcleo)** |
+| Conceitos | 23 | teoria do Direito; **todas na arquitectura 6.18-6.19 (Noção pela voz do cofre · posições por autor · relação nas comparativas — migração de 2026-07-24)**; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo` + 1 integração de fonte única ASC (Ciências que Estudam o Direito, nova 2026-07-24); tudo `verificado` |
+| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessões 1 a 4 fechadas de ponta a ponta; segue-se o Título III, cap. IV — Filosofia do Direito, periferia)** |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## As duas obras
@@ -43,6 +43,9 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 - [[Conceitos/Tutela do Direito]] — porta de entrada da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
+
+- **[2026-07-24] ingestão | Ascensão — sessão 4 (Título III, cap. III, «Sistemas actuais de Direito», nn. 80-96, pp. 135-162; núcleo)** — conversa 17, de ponta a ponta. Recorte corrigido de pp. 135-160 para pp. 135-162 (terceira ocorrência do padrão: o mapa media aberturas de número), com o offset conferido folha a folha por 26 dos 28 cabeçalhos correntes e segunda âncora no catálogo da 13.ª ed. Zona fraca nova, de outra etiologia: sublinhados densos de leitor, ruído que a imagem resolve, contra a margem cortada do cap. II, que é perda física. Duas rondas E2 (15 folhas a 300 dpi) e dois A1 cegos; ERRATA-MD 20→28. Triagem R1∥R2: a R1 apanhou quatro âncoras de página erradas do maestro e três erratas novas; a R2 descobriu o ponto 5 da Católica Lisboa. Fase 4 com ok: página nova [[Conceitos/Sistemas e Famílias Jurídicas]], oitavo comparativo em [[Conceitos/Fontes de Direito]] (regra do precedente, BM ↔ ASC, compatíveis), cinco retornos, e os primeiros contadores movidos desde a sessão 1 — FDUP 26 e Católica Lisboa 5 para monocamada. Pendência dirigida fechada por catálogo: a 13.ª ed. não repõe os nn. 68-79.
+- **[2026-07-24] ingestão | Ascensão — sessão 3 (Título III, cap. II, «História do Direito», nn. 52-67 + Secção III «Omissis», pp. 109-133; contexto)** — conversa 16, de ponta a ponta *(entrada em falta na regeneração anterior, reposta aqui)*. Recorte corrigido de pp. 109-131 para pp. 109-133; o «Omissis» declarado no corpo por nota editorial (p. 133); achado de método — a camada OCR normaliza em silêncio, e onde a letra pese decide a imagem; propagação mínima na página irmã, dois ganchos de Eixo B adiados, notas de alcance na vista da Católica Lisboa com contadores intocados.
 
 - [2026-07-24] Arquitectura | **6.19 — «Noção» em lugar de «Ideia» na página de conceito** (mandato expresso do aluno na mesma conversa, pós-despacho; escolha do termo delegada e adjudicada: «Noção», o termo canónico da função, que unifica com a «Noção» do modelo-instituto). Renomeação mecânica nos dois modelos, nos Comparativos 0/6, na Fase 4 passo 2 e nas 22 páginas; conteúdo intocado; verificadores VERDES nos mesmos números. Bump 6.18→6.19, tag `v6.19`.
 
@@ -65,7 +68,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-24 — regeneração (décima sétima, no fecho da sessão 3 de leitura do Ascensão, conversa 16 — Título III, cap. II, História do Direito, contexto, pp. 109-133: recorte corrigido pelos cabeçalhos impressos; o «Omissis» dos nn. 68-79 declarado no corpo por nota editorial (p. 133), o que fixa a omissão como decisão assumida e mantém em aberto o porquê; achado de método — a camada OCR normaliza em silêncio, e onde a letra pese decide a imagem; propagação mínima na página irmã, dois ganchos de Eixo B adiados por decisão, notas de alcance na vista da Católica Lisboa com contadores intocados; index reposto do atraso que arrastava desde a sessão 1). Regeneração anterior: décima sexta, no fecho do despacho da conversa 15 — pacote 6.18 + 6.19 «Noção»; segue-se a sessão 3 de leitura do Ascensão — Título III, cap. II, História do Direito, contexto — na conversa 16, sobre páginas já migradas).
+2026-07-24 — regeneração (**décima oitava**, no fecho da sessão 4 de leitura do Ascensão, conversa 17 — Título III, cap. III, «Sistemas actuais de Direito», núcleo, pp. 135-162: recorte corrigido pelos cabeçalhos impressos e confirmado pelo catálogo da 13.ª ed.; critério das civilizações adoptado contra René David; datação do sistema soviético determinada pelo próprio autor; página nova de Sistemas e Famílias Jurídicas; oitavo comparativo do Eixo B na regra do precedente; primeiros contadores movidos desde a sessão 1 — FDUP 26 e Católica Lisboa 5; a revisão dupla apanhou quatro âncoras de página erradas do maestro, que o mapeamento mecânico confirmou). Regeneração anterior: décima sétima, no fecho da sessão 3 (conversa 16), cuja entrada em «Mudanças recentes» ficara por escrever e é reposta nesta passagem.
 
 ---
 
