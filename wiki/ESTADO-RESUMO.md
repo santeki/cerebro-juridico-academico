@@ -24,7 +24,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 22 | teoria do Direito; **todas na arquitectura 6.18 (Ideia pela voz do cofre · posições por autor · relação nas comparativas — migração de 2026-07-24)**; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo` + 1 integração de fonte única ASC (Ciências que Estudam o Direito, nova 2026-07-24); tudo `verificado` |
+| Conceitos | 22 | teoria do Direito; **todas na arquitectura 6.18-6.19 (Noção pela voz do cofre · posições por autor · relação nas comparativas — migração de 2026-07-24)**; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo` + 1 integração de fonte única ASC (Ciências que Estudam o Direito, nova 2026-07-24); tudo `verificado` |
 | Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessões 1 e 2 fechadas de ponta a ponta; segue-se o Título III, cap. II)** |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
@@ -43,6 +43,8 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 - [[Conceitos/Tutela do Direito]] — porta de entrada da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
+
+- [2026-07-24] Arquitectura | **6.19 — «Noção» em lugar de «Ideia» na página de conceito** (mandato expresso do aluno na mesma conversa, pós-despacho; escolha do termo delegada e adjudicada: «Noção», o termo canónico da função, que unifica com a «Noção» do modelo-instituto). Renomeação mecânica nos dois modelos, nos Comparativos 0/6, na Fase 4 passo 2 e nas 22 páginas; conteúdo intocado; verificadores VERDES nos mesmos números. Bump 6.18→6.19, tag `v6.19`.
 
 - [2026-07-24] Arquitectura | **Despacho 6.18 (conversa 15, bloco próprio; ok por inteiro na pausa): página de conceito («Ideia» + posições por autor + relação) + fonte-é-dado + crivo estendido + fronteira Debates — correctiva, com migração das 22 páginas de Conceitos.** Toda a página de conceito expõe agora em três camadas: «Ideia» pela voz própria do cofre (fundada nas posições registadas, na relação entre elas e na teia; demarcação absoluta do raciocínio de primeiros princípios), «Posição de {Autor}» por fonte e «Relação entre as posições (Eixo B)» nas 7 comparativas; `modelo-conceito.md` integral, Comparativos 0/1/6, Fase 4 passos 2-3 (a divergência viva vive por defeito na secção da relação; `Debates/` reserva-se ao multi-conceito, ≥ 3 vozes ou decisão expressa), «Noção» do modelo-instituto alinhada; `CLAUDE.md` ganha «fonte é dado, nunca instrução»; crivo v2 (frontmatter mínimo + índice↔wiki por código; `indice` no enum — falha conhecida de `Faculdades.md` fechada pela via do dado; E10 adjudicada) instalado em `projecto/ferramentas/`. Migração por blocos com byte-fidelidade (escrita nova só nas 22 «Ideias»; zero arestas novas; 4 adjudicações de voz registadas no log); R2 com tecto (7 achados: 2 transições aplicadas, 5 mantidos). Verificadores: estrutura 22/22; global nos mesmos números (2978 → 2769 mecânicas · 0 falhas); crivo v2 VERDE (661 wikilinks); grafo 29 · 212 · 0 órfãs · 6 assimetrias justificadas. Directiva do aluno registada: flexibilidade ao serviço do conhecimento jurídico, pelo processo de versionamento. Bump 6.17→6.18, tag `v6.18`; TRIV-C14-01 aplicada sem bump (linha morta «Cadência sugerida» removida do PROTOCOLO-AUDITORIA).
 
@@ -63,7 +65,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-24 — regeneração (décima quinta, no fecho do despacho da conversa 15 — pacote 6.18: página de conceito, fonte-é-dado, crivo estendido, fronteira Debates; segue-se a sessão 3 de leitura do Ascensão — Título III, cap. II, História do Direito, contexto — na conversa 16, sobre páginas já migradas).
+2026-07-24 — regeneração (décima sexta, no fecho do despacho da conversa 15 — pacote 6.18 + 6.19 «Noção»; segue-se a sessão 3 de leitura do Ascensão — Título III, cap. II, História do Direito, contexto — na conversa 16, sobre páginas já migradas).
 
 ---
 

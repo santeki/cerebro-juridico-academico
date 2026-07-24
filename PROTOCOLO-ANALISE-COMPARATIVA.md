@@ -57,7 +57,7 @@ Aplicar por ordem ao caso doutrinário; para o caso jurisprudencial sem AFJ, ir 
 
 Cada transição gera entrada de log com prefixo `Comparativo`; o `estado_comparativo` actualiza-se na mesma operação.
 
-**Comparativo 0 — Inventário e classificação.** Listar todas as páginas de fonte que tocam o conceito. Atribuir a categoria geral em `relacao:`. Sub-classificar se «Em Conflito». Decidir a arquitectura da nota (por defeito, em página de conceito, a do `modelos/modelo-conceito.md` — Ideia · Posição por autor · Relação entre as posições; nos casos especiais: uma página com equivalências; duas com remissão; nota com sub-secção *Desalinhamento*). *Feito*: inventário registado + classificação atribuída + arquitectura definida.
+**Comparativo 0 — Inventário e classificação.** Listar todas as páginas de fonte que tocam o conceito. Atribuir a categoria geral em `relacao:`. Sub-classificar se «Em Conflito». Decidir a arquitectura da nota (por defeito, em página de conceito, a do `modelos/modelo-conceito.md` — Noção · Posição por autor · Relação entre as posições; nos casos especiais: uma página com equivalências; duas com remissão; nota com sub-secção *Desalinhamento*). *Feito*: inventário registado + classificação atribuída + arquitectura definida.
 
 **Comparativo 1 — Reposicionamento focado.** Cada fonte ganha um resumo articulado no conceito (não no capítulo onde aparece). Para cada, re-extrair da página de fonte a secção *Posição de [Autor]* da página de conceito (`modelos/modelo-conceito.md`), com citações verificáveis e paginação, e remissão para a leitura. *Feito*: cada fonte com posição articulada e referenciável.
 
@@ -69,7 +69,7 @@ Cada transição gera entrada de log com prefixo `Comparativo`; o `estado_compar
 
 **Comparativo 5 — Posição na tradição.** Como a relação vive na literatura mais ampla: quem segue quem (quando conhecido), existência de terceira via, linhas de tradição (escola de Coimbra, de Lisboa, influências alemãs). Em wiki jovem, cresce com o tempo. *Feito*: material disponível registado; lacunas marcadas.
 
-**Comparativo 6 — Síntese comparativa.** Articular a relação como um todo, em forma utilizável: parágrafo articulado — não duas páginas — que integra os Comparativos 2 a 5 e respeita a classificação do 0. *Feito*: síntese produzida na secção da relação + *Ideia* da página revista à sua luz + remissões internas para o detalhe.
+**Comparativo 6 — Síntese comparativa.** Articular a relação como um todo, em forma utilizável: parágrafo articulado — não duas páginas — que integra os Comparativos 2 a 5 e respeita a classificação do 0. *Feito*: síntese produzida na secção da relação + *Noção* da página revista à sua luz + remissões internas para o detalhe.
 
 ---
 

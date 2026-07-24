@@ -17,7 +17,7 @@ ultima_actualizacao: AAAA-MM-DD
 ## Bloco I — Construção dogmática (a lente do professor)
 
 ### Noção
-{A definição e exposição do instituto pela voz própria do cofre, nos termos da *Ideia* do `modelo-conceito.md`: fundada nas posições das fontes (secção *Posições doutrinárias*, abaixo), na relação entre elas quando o justifique e na interrelação jurídica com os demais conceitos e institutos (wikilinks). Delimitação negativa (o que NÃO é). Distinguir definição legal de doutrinária. Cada afirmação ancorada.}
+{A definição e exposição do instituto pela voz própria do cofre, nos termos da *Noção* do `modelo-conceito.md`: fundada nas posições das fontes (secção *Posições doutrinárias*, abaixo), na relação entre elas quando o justifique e na interrelação jurídica com os demais conceitos e institutos (wikilinks). Delimitação negativa (o que NÃO é). Distinguir definição legal de doutrinária. Cada afirmação ancorada.}
 
 ### Função e problema
 {Que problema o instituto resolve, por que mecanismo, com que consequências, que alternativas existiam. Vem das fontes; quando formulada pelo agente por estas não a trabalharem, entra marcada como derivada, nunca como tese atribuída a uma fonte.}

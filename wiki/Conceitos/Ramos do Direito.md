@@ -15,7 +15,7 @@ ultima_actualizacao: 2026-07-24
 
 Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. III (pp. 63-77) — capítulo expressamente panorâmico («noção sumária e aproximada... só com vista a fornecer uma panorâmica geral ao aluno», p. 66). O retrato dos ramos é o de 1982; as datações relevantes vão marcadas frase a frase.
 
-## Ideia
+## Noção
 
 Os ramos do direito são os subconjuntos normativos que se organizam em torno de princípios comuns e de técnicas regulamentadoras próprias, correspondendo no geral às disciplinas do curso (Baptista Machado, pp. 64-65). A divisão suprema tradicional separa Direito Público e Direito Privado — distinção polémica, sem critério absolutamente satisfatório, que a fonte opera pelo critério da posição dos sujeitos: público o direito das relações em que se exerce um poder de autoridade, com o ente público no seu *imperium*; privado o das relações em posição de paridade, ainda quando nelas entre um ente público despido de autoridade (BM, pp. 65-66). Sobre essa *summa divisio* arruma-se o catálogo — Constitucional, Administrativo, Penal, Fiscal, Processual e Internacional Público de um lado; Civil como direito-regra, Comercial e Internacional Privado do outro; com os ramos novos e a zona rebelde do Trabalho, que há quem diga não ser público nem privado mas direito social (BM, pp. 66-77, retrato de 1982 nas concretizações). A unidade que os atravessa é o sistema: o desdobramento objectivo/subjectivo vive em [[Conceitos/Direito Objectivo e Direito Subjectivo]], a noção que os funda em [[Conceitos/Noção de Direito]] e a técnica que os arquitecta em [[Conceitos/Codificação e Técnicas Legislativas]].
 

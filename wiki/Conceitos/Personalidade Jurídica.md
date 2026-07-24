@@ -15,7 +15,7 @@ ultima_actualizacao: 2026-07-24
 
 Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. IV, Secção I, § 1º, 4 (pp. 86-88). Quadro introdutório; expande-se com a Teoria Geral.
 
-## Ideia
+## Noção
 
 A personalidade jurídica é, na fórmula da fonte, um centro de imputação de efeitos jurídicos — mais do que a capacidade de ser titular de direitos e obrigações, porque o direito objectivo imputa às pessoas também qualidades e *status* que não são direitos nem obrigações (Baptista Machado, pp. 86-87). Compete hoje a todos os seres humanos — nem sempre assim foi — e implica desde logo a titularidade dos direitos de personalidade: nome, integridade física, imagem, honra, reserva da intimidade da vida privada — direitos absolutos e em regra indisponíveis (BM, pp. 87-88). Da aptidão-base distinguem-se as capacidades: de gozo, de exercício — suprida pela representação quando falta — e delitual, com pressupostos próprios (BM, p. 87). E a personalidade não é exclusiva das pessoas singulares: a lei personifica substratos organizacionais — associações, sociedades, fundações — para a prossecução mais eficiente de interesses, actuando a pessoa colectiva pelos seus órgãos ([[Conceitos/Instituição]]; BM, pp. 87-88). Os concretos direitos de que se pode ser titular vivem em [[Conceitos/Direito Objectivo e Direito Subjectivo]]; o facto que os desencadeia, em [[Conceitos/Facto Jurídico]].
 

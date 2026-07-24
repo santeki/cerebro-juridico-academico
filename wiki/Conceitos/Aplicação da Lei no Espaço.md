@@ -12,7 +12,7 @@ ultima_actualizacao: 2026-07-24
 
 Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VIII, Secção II (p. 252) — tratamento deliberadamente breve na fonte, que remete a matéria para a disciplina autónoma de Direito Internacional Privado. A página existe pelo recorte próprio nos programas mapeados; o desenvolvimento aguarda fonte dedicada.
 
-## Ideia
+## Noção
 
 Também o espaço limita a eficácia das normas: nenhum ordenamento pode pretender regular factos sem conexão com o Estado que as edita, e a situação que entra em contacto com mais de um ordenamento — pela nacionalidade ou domicílio das partes, pelo lugar do facto, da coisa ou dos efeitos — gera um conflito de leis no espaço (Baptista Machado, p. 252). Dirimem-no as regras de conflitos: normas sobre normas, da mesma natureza de segundo grau das de direito transitório ([[Conceitos/Norma Jurídica]]; o paralelo estrutural em [[Conceitos/Aplicação da Lei no Tempo]]), que não regulam a situação — determinam qual das leis em contacto é competente para a reger. No direito português vivem nos arts. 14º a 65º do Código Civil e constituem o objecto próprio do Direito Internacional Privado, para onde a fonte remete o desenvolvimento (BM, p. 252); a delimitação espacial articula-se com a dimensão da vigência tratada em [[Conceitos/Vigência das Normas]].
 

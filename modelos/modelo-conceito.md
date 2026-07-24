@@ -13,7 +13,7 @@ ultima_actualizacao: AAAA-MM-DD
 
 # {Conceito}
 
-## Ideia
+## Noção
 {A definição e exposição do conceito pela voz própria do cofre — com as suas
 próprias palavras, no melhor e mais equilibrado discurso jurídico (registo do
 CLAUDE.md; prosa contínua das CONVENCOES.md) — fundada em três apoios: as
