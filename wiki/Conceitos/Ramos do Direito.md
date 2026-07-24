@@ -4,6 +4,8 @@ titulo: "Ramos do Direito"
 categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
+relacao: distintas
+estado_comparativo: comparativa
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
@@ -13,11 +15,18 @@ ultima_actualizacao: 2026-07-24
 
 # Ramos do Direito
 
-Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. III (pp. 63-77) — capítulo expressamente panorâmico («noção sumária e aproximada... só com vista a fornecer uma panorâmica geral ao aluno», p. 66). O retrato dos ramos é o de 1982; as datações relevantes vão marcadas frase a frase.
+Página com duas vozes em planos distintos: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. III (pp. 63-77), que expõe a arrumação — capítulo expressamente panorâmico («noção sumária e aproximada... só com vista a fornecer uma panorâmica geral ao aluno», p. 66) —, e José de Oliveira Ascensão, *O Direito*, 10.ª ed., 1997, Título III, cap. III, n.º 92 III, p. 154, que lhe fixa o alcance ao negar universalidade às divisões do Direito. O retrato dos ramos é o de 1982; as datações relevantes vão marcadas frase a frase. Os ramos em sede própria de ASC correm no Título VI, cap. II, por ler.
 
 ## Noção
+As normas que regulam as diferentes matérias, ou que se reportam às diferentes áreas institucionalizadas da vida social, tendem a constituir subconjuntos organizados em torno de princípios comuns e de técnicas regulamentadoras que lhes conferem relativa especificidade: são os ramos do direito, e no geral correspondem às disciplinas do curso (Baptista Machado, pp. 64-65). O advérbio é da fonte e vale a pena retê-lo — a correspondência é tendencial, não necessária, e a arrumação curricular não decide a arrumação dogmática.
 
-Os ramos do direito são os subconjuntos normativos que se organizam em torno de princípios comuns e de técnicas regulamentadoras próprias, correspondendo no geral às disciplinas do curso (Baptista Machado, pp. 64-65). A divisão suprema tradicional separa Direito Público e Direito Privado — distinção polémica, sem critério absolutamente satisfatório, que a fonte opera pelo critério da posição dos sujeitos: público o direito das relações em que se exerce um poder de autoridade, com o ente público no seu *imperium*; privado o das relações em posição de paridade, ainda quando nelas entre um ente público despido de autoridade (BM, pp. 65-66). Sobre essa *summa divisio* arruma-se o catálogo — Constitucional, Administrativo, Penal, Fiscal, Processual e Internacional Público de um lado; Civil como direito-regra, Comercial e Internacional Privado do outro; com os ramos novos e a zona rebelde do Trabalho, que há quem diga não ser público nem privado mas direito social (BM, pp. 66-77, retrato de 1982 nas concretizações). A unidade que os atravessa é o sistema: o desdobramento objectivo/subjectivo vive em [[Conceitos/Direito Objectivo e Direito Subjectivo]], a noção que os funda em [[Conceitos/Noção de Direito]] e a técnica que os arquitecta em [[Conceitos/Codificação e Técnicas Legislativas]].
+A divisão suprema tradicional separa Direito Público de Direito Privado, e a página regista-a com a reserva com que a própria fonte a apresenta: distinção «para a qual não foi achado até hoje um critério absolutamente satisfatório» e «que continua a ser polémica», com autores a atribuir-lhe fundamentos «ideológicos» e, noutra linha, com quem aponte para uma divisão pluralista em que matérias como o «Direito Social» não cabem em nenhuma das categorias (BM, p. 65). Dentre os critérios propostos, a fonte adopta o da **posição dos sujeitos**, por mais divulgado e praticável: público o direito das relações em que se exerce um poder de autoridade, com o ente público no seu *imperium*; privado o das relações em posição de paridade, ainda quando nelas entre um ente público despido de autoridade — o Estado que arrenda um prédio para instalar uma escola contrata sob direito privado (BM, pp. 65-66). Sobre esta base arruma-se o catálogo: Constitucional, Administrativo, Penal, Fiscal, Processual e Internacional Público de um lado; Civil como direito-regra de que se destacam os privados especiais, Comercial e Internacional Privado do outro; e, à margem, os ramos em autonomização e a zona que resiste — do Direito do Trabalho a fonte diz que a caracterização como público ou privado «parece inviável», registando que «há quem diga» que não é um nem outro, mas «direito social» (BM, pp. 66-77, com o retrato de 1982 nas concretizações).
+
+O que a segunda voz acrescenta não é outro catálogo: é o **estatuto** deste. Ao caracterizar a separação técnica entre os subsistemas romanístico e anglo-americano, Oliveira Ascensão regista que também os ramos ou divisões do Direito não são idênticos e que as grandes divisões da ordem jurídica podem sofrer arrumações muito diversas — leitura em paráfrase pela letra visível, porque o passo está sob sublinhados densos —, com institutos inteiros sem correspondente de um lado ao outro — o *trust*, o par *ownership*/*property*, o *copyright* face ao nosso Direito de Autor (ASC, p. 154). Daqui decorre, e é a proposição que esta página fixa, que a *summa divisio* e o elenco que a antecedem valem **dentro** do subsistema romanístico e não como critério de identificação do jurídico: um sistema pode ser plenamente jurídico e desconhecer a divisão. As duas vozes não colidem — trabalham em planos diferentes, uma a arrumar, a outra a delimitar o alcance da arrumação —, e a composição das duas é o que nenhuma dá sozinha: a divisão em ramos é instrumento de conhecimento de uma tradição, útil e operativo onde vigora, e não propriedade do Direito enquanto tal ([[Conceitos/Sistemas e Famílias Jurídicas]] *(excepciona)*, onde o quadro comparativo vive).
+
+Duas consequências que esta página assume como suas. A primeira é de método de estudo: perante um instituto estrangeiro, a pergunta não pode ser «a que ramo nosso pertence», mas «que função cumpre no seu sistema» — porque a arrumação de chegada pode não ter casa para ele. A segunda é de cautela dogmática: argumentar a partir da natureza pública ou privada de um ramo é argumentar dentro de uma classificação que a própria fonte diz sem critério absolutamente satisfatório, o que aconselha a que o argumento nunca seja o único. Nenhuma das duas está escrita nas fontes; ambas se seguem do que nelas está, e registam-se como construção.
+
+A unidade que atravessa os ramos é o sistema, e é aí que esta página se liga ao resto: a noção que os funda em [[Conceitos/Noção de Direito]], o desdobramento objectivo/subjectivo que os percorre em [[Conceitos/Direito Objectivo e Direito Subjectivo]], e a técnica que arquitecta os códigos por onde a divisão se materializa em [[Conceitos/Codificação e Técnicas Legislativas]] *(concretiza)*.
 
 ## Posição de Baptista Machado
 
@@ -47,11 +56,21 @@ A obra não trata os ramos em sede própria neste ponto — a matéria corre no 
 
 O alcance disto para esta página é de método, não de conteúdo: a *summa divisio* e o elenco de ramos que Baptista Machado expõe são a arrumação do subsistema romanístico, e não um dado universal do jurídico. O quadro comparativo em que a proposição se insere vive em [[Conceitos/Sistemas e Famílias Jurídicas]].
 
+## Relação entre as posições (Eixo B)
+
+**Distintas** (Comparativo 0, 2026-07-24). As duas fontes não se opõem: diferem em plano e em âmbito. BM expõe a arrumação por ramos como panorama de uma ordem jurídica concreta, a portuguesa de 1982, e adverte-a como polémica no critério; ASC não arruma ramos neste lugar — trata os sistemas do mundo e, ao compará-los, nega que a arrumação seja universal. Não há proposição de um que o outro contradiga: BM não afirma universalidade, ASC não nega utilidade.
+
+O mapeamento substancial (Comparativo 2) mostra a repartição: de BM vem o critério (posição dos sujeitos), o catálogo e as noções sumárias de cada ramo; de ASC vem o limite de alcance e a prova por institutos sem correspondente (*trust*, *ownership*/*property*, *copyright*, ASC p. 154). A investigação do porquê (Comparativo 3) corre em modo selectivo, como a classificação `distintas` admite: a diferença explica-se pelo propósito de cada obra — uma introduz ao ordenamento português, a outra situa-o entre os sistemas do mundo — e não por divergência doutrinária, pelo que não se regista hipótese de fundamento.
+
+Consequência operativa (Comparativo 4): a composição altera o modo de usar a divisão em argumento. Dentro do sistema romanístico, a *summa divisio* opera e o catálogo serve; fora dele, nem uma nem outro identificam o jurídico, e o raciocínio que os tome por universais falha. Na tradição (Comparativo 5), o material disponível é escasso nas duas obras e a lacuna fica marcada: nenhuma delas discute a genealogia da distinção público/privado para lá da nota de BM à p. 66 (Núñez Encabo, em relato).
+
+Síntese (Comparativo 6): a divisão em ramos é arrumação de uma tradição jurídica, não dado do jurídico — proposição que resulta das duas fontes juntas e de nenhuma isolada, e que a Noção desta página adopta. **Reabre-se** quando o Título VI, cap. II, de ASC for lido: aí o autor arruma ramos em sede própria, e a relação passará a ter dois catálogos a comparar, não um catálogo e um limite.
+
 ## Distinção de figuras próximas
 
 O ramo (subconjunto normativo por matéria) não se confunde com a classificação das normas por fontes formais ou por classes, vias alternativas de arrumação que BM aponta (p. 64), nem com as disciplinas curriculares, a que só «no geral» corresponde (p. 65). A unidade que os atravessa é o sistema — as páginas de instituto que forem nascendo ligam de volta a esta. Ver [[Conceitos/Direito Objectivo e Direito Subjectivo]] *(concretiza)* e [[Conceitos/Noção de Direito]].
 
-A arquitectura dos códigos e a técnica legislativa que servem a divisão por ramos vivem em [[Conceitos/Codificação e Técnicas Legislativas]].
+A arquitectura dos códigos e a técnica legislativa que servem a divisão por ramos vivem em [[Conceitos/Codificação e Técnicas Legislativas]]. A delimitação espacial da competência das leis, que o Direito Internacional Privado trata como ramo próprio, vive em [[Conceitos/Aplicação da Lei no Espaço]].
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. III, pp. 63-77 (leitura integral confrontada no PDF; errata da edição na data do Tratado de Roma verificada em EUR-Lex).
