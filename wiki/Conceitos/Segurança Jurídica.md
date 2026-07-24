@@ -46,7 +46,7 @@ O cap. X inverte o ónus clássico: sendo a aplicação analógica exigência do
 
 ## Distinção de figuras próximas
 
-A segurança jurídica não se confunde com a estabilidade institucional genérica ([[Conceitos/Instituição]] *(concretiza)*): é o incremento específico que o Direito lhe acrescenta (BM, p. 55). Articula-se com a vigência e a eficácia — dimensões de existência do Direito — tratadas em [[Conceitos/Noção de Direito]] *(concretiza)*, e com a coercibilidade que garante a ordem ([[Conceitos/Coercibilidade]]).
+A segurança jurídica não se confunde com a estabilidade institucional genérica ([[Conceitos/Instituição]] *(concretiza)*): é o incremento específico que o Direito lhe acrescenta (BM, p. 55). Articula-se com a vigência e a eficácia — dimensões de existência do Direito — tratadas em [[Conceitos/Noção de Direito]] *(concretiza)*, e com a coercibilidade que garante a ordem ([[Conceitos/Coercibilidade]]). A tensão entre segurança e justiça reaparece, do lado do fundamento, em [[Conceitos/Direito Justo]] *(contraria)*: a propósito da lei injusta e do direito de rebelião, Ascensão identifica-a como a causa da imprecisão das soluções — «trata-se de um dos pontos em que a justiça e a segurança têm exigências de sentido oposto» (ASC, p. 169, Título III, cap. IV, sessão 5) —, o que dá a este ponto o mesmo eixo que BM trabalha na tensão dialéctica acima, por via distinta.
 
 O contributo das técnicas legislativas (definições legais, presunções, partes gerais) para a certeza vive em [[Conceitos/Codificação e Técnicas Legislativas]].
 
@@ -56,4 +56,4 @@ ASC dá a segurança, ao lado da justiça, como valor cuja prossecução a ordem
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. II, § 4º, pp. 55-59; cap. VI, pp. 165 e 171; cap. VII, pp. 176 e 202; cap. VIII, pp. 225-226, 229 e 250-251; cap. IX, pp. 261-262; cap. XI, p. 366 (leitura integral; citações conferidas no PDF).
-- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — pp. 36 e 96-97 (sessão 1; gancho, âncoras conferidas na triagem de 2026-07-19).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — pp. 36 e 96-97 (sessão 1; gancho, âncoras conferidas na triagem de 2026-07-19) e p. 169 (sessão 5, Título III, cap. IV; a tensão justiça/segurança na lei injusta).
