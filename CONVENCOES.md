@@ -127,7 +127,7 @@ A aplicação de um conceito a um ramo concreto (`boa-fé contratual`) é págin
 
 ```yaml
 ---
-tipo: instituto | conceito | doutrina | jurisprudencia | legislacao | fonte | tema | debate | revisao | sebenta | distincao | linha-jurisprudencial | cronologia | mapa-conceptual | caso-pratico | fonte-avaliacao | captura | voz | painel | gatilhos | melhoria | lista-supressao | glossario | estado-resumo | vista-faculdade
+tipo: instituto | conceito | doutrina | jurisprudencia | legislacao | fonte | tema | debate | revisao | sebenta | distincao | linha-jurisprudencial | cronologia | mapa-conceptual | caso-pratico | fonte-avaliacao | captura | voz | painel | gatilhos | melhoria | lista-supressao | glossario | estado-resumo | vista-faculdade | indice
 titulo: "Título canónico com acentos"
 categoria: [Princípio, Instituto, ...]   # classificação(ões) que as fontes dão; plural, mutável
 ramo: [civil, comercial, ...]

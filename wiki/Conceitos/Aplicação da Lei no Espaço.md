@@ -5,18 +5,24 @@ categoria: [Conceito]
 ramo: [teoria-do-direito, direito-internacional-privado]
 estado_verificacao: verificado
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-24
 ---
 
 # Aplicação da Lei no Espaço
 
 Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VIII, Secção II (p. 252) — tratamento deliberadamente breve na fonte, que remete a matéria para a disciplina autónoma de Direito Internacional Privado. A página existe pelo recorte próprio nos programas mapeados; o desenvolvimento aguarda fonte dedicada.
 
-## Definição
+## Ideia
+
+Também o espaço limita a eficácia das normas: nenhum ordenamento pode pretender regular factos sem conexão com o Estado que as edita, e a situação que entra em contacto com mais de um ordenamento — pela nacionalidade ou domicílio das partes, pelo lugar do facto, da coisa ou dos efeitos — gera um conflito de leis no espaço (Baptista Machado, p. 252). Dirimem-no as regras de conflitos: normas sobre normas, da mesma natureza de segundo grau das de direito transitório ([[Conceitos/Norma Jurídica]]; o paralelo estrutural em [[Conceitos/Aplicação da Lei no Tempo]]), que não regulam a situação — determinam qual das leis em contacto é competente para a reger. No direito português vivem nos arts. 14º a 65º do Código Civil e constituem o objecto próprio do Direito Internacional Privado, para onde a fonte remete o desenvolvimento (BM, p. 252); a delimitação espacial articula-se com a dimensão da vigência tratada em [[Conceitos/Vigência das Normas]].
+
+## Posição de Baptista Machado
+
+### Definição
 
 Assim como a fronteira temporal limita a eficácia das normas (não podem regular factos anteriores à sua entrada em vigor), também o **espaço** representa uma fronteira: as normas jurídicas não podem ter a pretensão de regular factos «sem qualquer contacto (conexão) com o Estado que as edita» — «seria pretensão irrealista submeter à lei material portuguesa, p. ex., o casamento de dois japoneses no Japão» (BM, p. 252). Há situações jurídicas que, logo na constituição ou posteriormente (mudança de nacionalidade ou de domicílio, mudança de situação da coisa, da sede da pessoa colectiva), entram em contacto com mais de um ordenamento estadual — pela nacionalidade ou domicílio das partes, pelo lugar da prática do facto constitutivo, pelo lugar da situação do objecto, pelo lugar da produção dos efeitos. Surgem então os **conflitos de leis no espaço** (BM, p. 252).
 
-## Regras de conflitos
+### Regras de conflitos
 
 Os conflitos de leis no espaço são normalmente dirimidos mediante **regras de conflitos**, cuja função é determinar qual, de entre as leis em contacto com a situação, é competente para a reger. São ainda *normas sobre normas* — a mesma natureza de segundo grau das normas de direito transitório —, estão contidas nos arts. 14º a 65º do Código Civil e constituem o principal objecto do **Direito Internacional Privado**, disciplina autónoma do plano de curso da licenciatura, razão por que a fonte as não desenvolve (BM, p. 252, com remissão, em nota, para as *Lições de Direito Internacional Privado* do próprio autor, cap. I, e para Oliveira Ascensão, *O Direito*, cit., pp. 447 e sgs., sobretudo 450 e sgs. — fontes externas invocadas, não consultadas).
 

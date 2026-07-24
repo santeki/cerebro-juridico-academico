@@ -8,26 +8,32 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-24
 ---
 
 # Vigência das Normas
 
 Página monocamada: Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. VI, §§ 9-12 (pp. 164-171): entrada em vigor, cessação da vigência, hierarquia e conflitos de normas. O quadro normativo da fonte é o de 1976/1982 — a legislação especial sobre a vigência era a Lei 3/76, entretanto substituída (hoje a matéria vive na lei-formulário); a CRP citada é a de 1976 pré-revisões (Conselho da Revolução, Macau): as remissões citam-se datadas e nenhuma entra em uso actual sem confronto com a redacção vigente. O problema das fontes que produz as normas cuja vigência aqui se trata vive em [[Conceitos/Fontes de Direito]].
 
-## Entrada em vigor e *vacatio legis*
+## Ideia
+
+A vigência das normas é a sua existência formal no ordenamento: começa, cessa e ordena-se hierarquicamente. A entrada em vigor corre do art. 5º do CC, com a *vacatio legis* destinada a possibilitar o conhecimento da lei — instituto ao serviço da certeza ([[Conceitos/Segurança Jurídica]]; Baptista Machado, p. 165). A cessação opera por caducidade ou revogação — expressa ou tácita, total ou parcial —, sem repristinação automática da lei revogada e com o desuso excluído, coerentemente com a recusa do costume como fonte imediata ([[Conceitos/Fontes de Direito]]; BM, pp. 165-166). A hierarquia das normas segue a das fontes: leis constitucionais acima das ordinárias — com a inconstitucionalidade orgânica, formal e material como sanção do desnível —, princípios fundamentais acima da própria Constituição e, nas ordinárias, o escalonamento de leis, regulamentos e normas autónomas por esferas de competência (BM, pp. 166-170). Os conflitos dirimem-se pelos três critérios — superioridade, posteridade, especialidade —; a antinomia que lhes resista converte-se em lacuna de colisão, porque a unidade da ordem jurídica não tolera contradições, e muda de regime ([[Conceitos/Integração da Lei]]; BM, pp. 170-171). Desta vigência formal distingue-se a vigência como eficácia social, dimensão da própria juridicidade ([[Conceitos/Noção de Direito]]); os conflitos no tempo e no espaço, resolvidos por normas de segundo grau, vivem em [[Conceitos/Aplicação da Lei no Tempo]] e [[Conceitos/Aplicação da Lei no Espaço]].
+
+## Posição de Baptista Machado
+
+### Entrada em vigor e *vacatio legis*
 
 Sede no art. 5º do Código Civil (BM, p. 165). O n.º 2 determina que entre a publicação e a vigência da lei decorrerá o tempo que a própria lei fixar ou, na falta de fixação, o determinado em legislação especial (o exemplar imprime «entre a *aplicação* e a vigência» — errata da edição verificada contra o export consolidado do DRE: a lei diz «Entre a publicação e a vigência»; a frase seguinte do próprio BM usa «publicação»). A esse tempo chama-se *vacatio legis*, destinada a possibilitar o conhecimento da lei pelos seus destinatários (BM, p. 165) — instituto ao serviço da certeza jurídica ([[Conceitos/Segurança Jurídica]]).
 
 A legislação especial de então: Lei n.º 3/76, de 10 de Setembro, alterada pela Lei n.º 8/77, de 1 de Fevereiro — «a data do diploma é a da sua publicação» (art. 1º); na falta de fixação, entrada em vigor no continente no quinto dia após a publicação, nos Açores e Madeira no décimo, em Macau e no estrangeiro no trigésimo, não se contando o dia da publicação (art. 2º); a *vacatio* das Regiões Autónomas foi «recentemente» alargada para 15 dias — BM não identifica o diploma alterador (BM, p. 165). Regime integralmente datado: cita-se como retrato de 1982.
 
-## Cessação da vigência
+### Cessação da vigência
 
 Como modo de cessação da vigência da lei, o art. 7º do CC prevê apenas a *caducidade* e a *revogação* — o desuso e o costume contrário ficaram de fora, coerente com a recusa do costume como fonte imediata ([[Conceitos/Fontes de Direito]]) (BM, p. 165; o exemplar abre o § com «Com modo» [sic]). Caducidade *stricto sensu*: por superveniência de um facto previsto pela própria lei (lei de vigência temporária) ou pelo desaparecimento definitivo da realidade que a lei se destina a regular; a lei que preveja a sua revisão dentro de certo prazo não caduca passado ele sem revisão — continua em vigor até à substituição (BM, p. 165).
 
 A revogação pressupõe a entrada em vigor de uma lei nova. Pode ser *expressa* (declaração na lei posterior: «*fica revogado*…») ou *tácita* (incompatibilidade entre as disposições novas e as antigas, ou regulação de toda a matéria da lei anterior — substituição global, art. 7º, 2); *total* (ab-rogação) ou *parcial* (derrogação) (BM, pp. 165-166). A lei geral posterior não revoga a lei especial anterior, salvo «outra for a intenção inequívoca do legislador» (art. 7º, 3) — donde a prática de o legislador declarar expressamente a prevalência do diploma novo sobre disposições especiais em contrário quando pretende regras uniformes (nota da p. 166, com os exemplos do DL 165/82 e do DL 166/82, ambos de 10/5) (BM, p. 166). E a revogação da lei revogatória não importa *de per si* a *repristinação* — o renascimento da lei anteriormente revogada (art. 7º, 4; o exemplar remete segunda vez para o «art. 7.º, 3» — errata da edição verificada contra o export consolidado do DRE); salvo se o legislador repõe a lei em vigor, «como já tem sucedido entre nós»: verdadeira repristinação, total ou parcial (BM, p. 166).
 
-## Hierarquia das fontes e das normas
+### Hierarquia das fontes e das normas
 
 Em caso de conflito, as normas de hierarquia superior prevalecem sobre as de hierarquia inferior; a hierarquia das normas depende da hierarquia das fontes de que promanam (BM, p. 166). A grande distinção: *leis constitucionais* e *leis ordinárias* — as normas ordinárias que contrariem as constitucionais padecem de *inconstitucionalidade*, e não devem ser aplicadas pelos tribunais nem por outros órgãos aplicadores; *orgânica ou formal*, se o próprio acto está viciado nos pressupostos (p. ex., incompetência em razão da matéria) ou no processo de formação (preterição de trâmites ou formalidades constitucionais); *material* (substancial ou doutrinária), se o vício afecta o conteúdo da norma (BM, p. 166).
 
@@ -37,7 +43,7 @@ Nas leis ordinárias, a hierarquia de 1982: 1º Leis da AR e decretos-leis do Go
 
 Regras finas (BM, p. 169): os assentos têm a posição hierárquica das leis que interpretam ou integram; entre lei e decreto-lei não existe relação de hierarquia — o DL em matéria reservada à AR padece de inconstitucionalidade orgânica, e nas matérias de competência conjunta prevalece a lei posterior, podendo um decreto-lei revogar uma lei e inversamente (nota da p. 170: a lei da AR que ratifica um DL nos termos da alínea c) do art. 165º da CRP-1976 vale, no conteúdo ratificado, como *lex posterior*); o decreto regulamentar ou decreto simples não pode violar lei ou decreto-lei — só regula *secundum* ou *praeter legem*, sob pena de *ilegalidade*; portarias e despachos normativos subordinam-se-lhes; as normas regulamentares de uma autarquia (incluindo regimentais) subordinam-se às suas normas estatutárias. Entre o direito regional e o estadual não há hierarquia — esferas de competência próprias, delimitadas em razão da matéria; os conflitos com o direito de Macau assumem a forma de conflitos de leis no espaço (inter-territoriais) (BM, pp. 169-170).
 
-## Conflitos de normas
+### Conflitos de normas
 
 Três critérios de resolução (BM, p. 170): *superioridade* (*lex superior derogat legi inferiori*), *posteridade* (*lex posterior derogat legi priori*, por força do art. 7º) e *especialidade* (*lex specialis derogat legi generali* — a lei especial prevalece ainda que a geral seja posterior, excepto intenção inequívoca em contrário). Aplicados os critérios, restam três tipos de conflitos possíveis: o conflito de leis no *tempo* (situações de vida e efeitos que perduram, reconduzíveis a normas que se sucedem — [[Conceitos/Aplicação da Lei no Tempo]] *(concretiza)*: é o «conflito extra-sistemático», a resolver *antes* da aplicação das leis aos factos, que a revogação não elimina, BM, p. 220; a máxima *lex posterior* reaparece aí como o mecanismo que evita o conflito intra-sistemático — arco pp. 170↔220, com oscilação de grafia do exemplar, «derogat»/«derrogat»); o conflito de leis no *espaço* (facto com atinências com dois ou mais ordenamentos de esferas territoriais diferentes — [[Conceitos/Aplicação da Lei no Espaço]], regras de conflitos dos arts. 14º a 65º do CC, objecto do Direito Internacional Privado); e os verdadeiros conflitos «internos» de normas — o mesmo facto abrangido pelas hipóteses de normas simultaneamente vigentes no mesmo ordenamento cuja aplicação simultânea implica contradição (BM, pp. 170-171).
 
