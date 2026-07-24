@@ -2,7 +2,7 @@
 tipo: estado-resumo
 titulo: "Resumo de estado (fotografia podada do conhecimento)"
 estado_verificacao: verificado
-ultima_actualizacao: 2026-07-19
+ultima_actualizacao: 2026-07-24
 ---
 
 # Resumo de estado
@@ -24,14 +24,14 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 | Categoria | Páginas | Nota |
 |---|---|---|
 | Vistas de faculdade | 5 | NOVA, FDUP, Católica Porto, Católica Lisboa, FDUL — todas monocamada BM |
-| Conceitos | 21 | teoria do Direito; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo`; tudo `verificado` |
-| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessão 1 extraída, triada e propagada — Eixo B inaugurado; sessão 2 = Título III, cap. I)** |
+| Conceitos | 22 | teoria do Direito; 7 comparativas BM↔ASC (estreia do Eixo B, 2026-07-19; Sanção nova) + 5 `aguarda-comparativo` + 1 integração de fonte única ASC (Ciências que Estudam o Direito, nova 2026-07-24); tudo `verificado` |
+| Fontes ingeridas | 7 | 5 fichas institucionais + **BM (obra fechada, 2026-07-16)** + **Ascensão (EM LEITURA: sessões 1 e 2 fechadas de ponta a ponta; segue-se o Título III, cap. II)** |
 | Institutos · Doutrina · Jurisprudência · Legislação · Temas · Debates · Avaliação | 0 | por abrir |
 
 ## As duas obras
 
 - **[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]** — reservatório completo (caps. I-XI); obra fechada nos cinco passos (2026-07-16); ERRATA-MD com **195 entradas**; verificador mecânico global fechado a 2026-07-18 (2423 citações no escopo, 0 falhas por resolver; retrato integral no PAINEL). Dossiers em aberto: CN «ob. cit.» (vol. LI BFD) e «§ 442 BGB» (Larenz, *RR*, p. 87) [BLOQUEADOS]; letra do art. 3º/1 CC vs export DRE em aberto (conversa 10, fetch indisponível).
-- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD com **7 entradas** (sessão 1 + triagem). **Sessão 1 (Títulos I-II, pp. 9-98) fechada de ponta a ponta: extraída (2026-07-18), triada (2026-07-19: R1 28/28, zero falsos positivos) e propagada (Eixo B inaugurado: 7 comparativas + 5 integrações); sessão 2 = Título III, cap. I (pp. 99-107).** Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
+- **[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]** — 10.ª ed. revista, Almedina, 1997 (referência fixada pelo rosto; PORBASE ISBN 972-40-1051-1; ≠ 1.ª ed. 1978 citada por BM). `hash_raw` `e24d8b58…` (PDF de 605 MB fora do git, em `projecto/exemplares/` da pasta local); MD v2 `63985c…` com 331 adjudicações + 53 mantidos como pool adjudicado; ERRATA-MD com **13 entradas** (6 da sessão 1 + 1 da triagem + 6 da sessão 2). **Sessão 1 (Títulos I-II, pp. 9-98) fechada de ponta a ponta (2026-07-18/19: extracção, triagem R1 28/28, propagação com Eixo B inaugurado — 7 comparativas + 5 integrações). Sessão 2 (Título III, cap. I, nn. 47-51, pp. 99-108) fechada de ponta a ponta a 2026-07-24: dupla fonte com E2 em lote (4 folhas, 3 A1 cegos convergentes), triagem R1∥R2 (18 achados verificados), Fase 4 com ok — página nova [[Conceitos/Ciências que Estudam o Direito]], sem par BM. Zona fraca nova: margens direitas cortadas na digitalização em todas as páginas pares do cap. I (pp. 100-108) — três palavras espúrias do conversor identificadas e registadas (padrão a vigiar).** Paginação própria: miolo folha+5 (pp. 9-621); Índice Geral folha+29 (pp. 647-658). Lacuna material: pp. 5-8 e 622-646. Mapa de tratamento aprovado (núcleo: Tít. I, II, III.I, III.III, IV, V, VI.I, VII, VIII, IX · periferia: III.IV, VI.II-III · contexto: III.II e segmentos brasileiros); agenda de 14 perguntas; 10 sessões previstas.
 
 ## Notas-âncora
 
@@ -43,6 +43,8 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 - [[Conceitos/Tutela do Direito]] — porta de entrada da tutela; ligada por 5 conceitos e 5 vistas.
 
 ## Mudanças recentes (últimos 7 dias)
+
+- [2026-07-24] ingestão | **Ascensão — sessão 2 completa numa conversa (Título III, cap. I, «Noções Gerais», nn. 47-51, pp. 99-108; conversa 13).** Leitura integral com dupla fonte (segmento novo folhas 92-105; confronto mecânico folha a folha 0,96-0,99; 5 spot-checks; ronda E2 única em lote — folhas 94/96/99/103 a 300 dpi com 3 adjudicações cegas A1 convergentes). Fronteira confirmada: o capítulo corre até à p. 108. **Zona fraca nova**: margens direitas cortadas na digitalização nas páginas pares do capítulo (pp. 100-108; perda física de 1-3 caracteres) — dela nasceram três palavras espúrias do conversor («correcção», «intelectual», «observação»), todas identificadas e registadas (**ERRATA-MD 7 → 13 entradas**). Triagem R1∥R2 num só acto (12+6 achados, todos verificados pelo maestro; 3 bloqueantes corrigidos — aspas sobre reconstruções em fins de linha cortados; num caso a verificação inverteu a sugestão do revisor). Dúvida etiquetada: «ao limite a constituir» (p. 102, letra convergente; contexto sugere «direito» — por imagem se for usado). **Fase 4 com ok expresso**: página nova [[Conceitos/Ciências que Estudam o Direito]] (fonte única, sem par BM; nenhum comparativo aberto; as 5 `aguarda-comparativo` intocadas); retornos em Noção de Direito e Fontes de Direito; notas de alcance nas vistas FDUL 1 (sub-recorte «disciplinas») e NOVA 8 (parcial; Economia fora); contadores intocados. Próxima leitura: Título III, cap. II (contexto), em conversa própria.
 
 - [2026-07-19] Arquitectura + auditoria | **Despacho 6.16 (conversa 12, bloco próprio): codificação da governação da evolução.** `CLAUDE.md` § Versionamento codifica a Decisão de 2026-07-19 (evolução nesta instância; bloco próprio de despacho; `Excepção` para encravamento a meio de sessão; correcções triviais no fecho, só com ok e sem bump; advogado do diabo cego opcional em delta pesado); bump 6.15→6.16, tag `v6.16`, CHANGELOG. Origem: análise do OpenWiki (langchain-ai) confrontada com os protocolos — sete candidatos mortos no confronto; três deltas propostos e não aprovados nesta passagem (passe do grafo; crivo estendido; fonte-é-dado), re-proponíveis. Cross-linking: 2 correcções com ok expresso (lista «alimenta» do BM ganhou a Sanção; Tutela devolve o link à Noção de Direito); 6 assimetrias ASC→páginas futuras justificadas (mapa de sessões).
 
@@ -57,7 +59,7 @@ A separação espelha a do sistema da Augusta — lá, o estado completo cresce 
 
 ## Última passagem completa
 
-2026-07-19 — regeneração (décima segunda, após o despacho 6.16 na conversa 12; segue-se a sessão 2 de leitura do Ascensão — Título III, cap. I, pp. 99-107 — em conversa própria).
+2026-07-24 — regeneração (décima terceira, no fecho da sessão 2 de leitura do Ascensão na conversa 13; segue-se a sessão 3 — Título III, cap. II, História do Direito, contexto — em conversa própria).
 
 ---
 

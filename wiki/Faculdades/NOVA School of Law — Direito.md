@@ -33,7 +33,7 @@ ultima_actualizacao: 2026-07-11
   5. Direito, Religião e Moral (FA, cap. 4) — por cobrir.
   6. Direito, Justiça e Equidade (FA, cap. 5) — por cobrir (a componente Justiça está substantivamente tratada no cap. X de BM — [[Conceitos/Direito Justo]] —, mas a equidade, central no recorte, só aparece na fonte como remissão ao art. 4º CC: o ponto aguarda o Freitas do Amaral).
   7. Direito, Usos Sociais, Normas técnicas e Profissionais (FA, cap. 6) — por cobrir.
-  8. Direito, Economia, Sociologia e Política (FA, cap. 7) — por cobrir.
+  8. Direito, Economia, Sociologia e Política (FA, cap. 7) — por cobrir (cobertura parcial ASC desde 2026-07-24: Sociologia do Direito com profundidade, Política Legislativa e Etnologia Jurídica em [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I; a componente Economia fica fora — ASC remete-a a menções remissivas, n.º 2, p. 12 — e o referencial do guia é FA, cap. 7; a conversão do estado do ponto corre no fecho do estudo da obra).
   9. Direito Natural e Positivismo (FA, cap. 8) — [[Conceitos/Direito Justo]] — monocamada com ressalva (a Secção II do cap. X de BM trata directamente a matéria — jusnaturalismo ontológico, positivismo «metafísica antimetafísica», concepção hodierna, validade do DP fundada no DN; o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar; marcado em 2026-07-11).
 
   II — Ramos do Direito
