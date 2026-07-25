@@ -139,6 +139,7 @@ estado_comparativo: aguarda-comparativo | comparativo-n-em-curso | comparativa  
 revisao_ultima: AAAA-MM-DD          # para institutos e conceitos: revisão espaçada (PROTOCOLO-PAINEL.md)
 revisao_intervalo: 1                 # dias até à próxima revisão; expande com o sucesso (1→3→7→16→35)
 revisao_proxima: AAAA-MM-DD          # = revisao_ultima + revisao_intervalo; o painel lê este campo
+vigencia_conferida: AAAA-MM-DD       # opcional — data do último confronto das normas citadas na página contra o consolidado oficial (DRE/EUR-Lex); o crivo relata as páginas de conceito que citam norma sem este carimbo e valida o formato quando presente (6.22)
 fontes: ["[[Fontes/...]]", ...]
 ultima_actualizacao: AAAA-MM-DD
 ---

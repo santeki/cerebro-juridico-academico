@@ -5,6 +5,7 @@ categoria: [Conceito]
 ramo: []
 instituto_mae: "[[Institutos/...]]"
 estado_verificacao: verificado | parcial | em-aberto
+vigencia_conferida: AAAA-MM-DD # opcional — data do último confronto das normas citadas contra o consolidado (DRE/EUR-Lex); formato validado pelo crivo v3
 relacao:                # quando ≥ 2 fontes tratam o conceito (Eixo B)
 estado_comparativo: aguarda-comparativo | comparativo-n-em-curso | comparativa
 fontes: []

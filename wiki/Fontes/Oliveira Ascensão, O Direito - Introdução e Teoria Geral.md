@@ -118,7 +118,7 @@ Re-corte de 2026-07-18 (regra 6.15 — sessão por capítulo, ≈ ≤ 50 pp.): a
 
 ## Pontos relevantes
 
-As leituras de sessão vivem em sub-páginas próprias (cisão de 2026-07-25, ao abrigo do orçamento de 40 KB das CONVENCOES) — cada uma com os blocos por número de margem, a separação (a)-(d), o mapa de conceitos, as adjudicações da dupla fonte, as dúvidas etiquetadas e, onde exista, a lista de citações literais da sessão:
+As leituras de sessão vivem em sub-páginas próprias (cisão de 2026-07-25, ao abrigo do orçamento de 40 KB das CONVENCOES) — cada uma com os blocos por número de margem, a separação (a)-(d), o mapa de conceitos, as adjudicações da dupla fonte, as dúvidas etiquetadas e, onde exista, a lista de citações literais da sessão; a página-mãe e os registos das sessões 1, 4 e 6 excedem o limite mole — excedente adjudicado, nos termos do ciclo capitular (o registo de sessão é unidade indivisível):
 
 - [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 1]] — Sessão 1 (2026-07-18) — Títulos I e II (obra pp. 9-98; MD [p. 4]-[p. 93]); tratamento: núcleo
 - [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 2]] — Sessão 2 (2026-07-24) — Título III, Capítulo I (obra pp. 99-108; MD [p. 94]-[p. 103]); tratamento: núcleo
