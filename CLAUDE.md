@@ -1,6 +1,6 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.20
+versao: 6.21
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
 ultima_actualizacao: 2026-07-25
 ---
@@ -132,7 +132,7 @@ Em dúvida sobre o que fazer, perguntar primeiro: que plano me convoca esta situ
 
 A componente prática — a resolução de casos práticos, exames e testes — não é apêndice deste terceiro plano: em muitas cadeiras é o eixo da avaliação e metade da competência, e tem o estatuto que isso implica. As provas reais entram como fontes próprias (`wiki/Avaliação/`, `modelos/modelo-fonte-avaliacao.md`), pelo seu padrão (como o docente examina) e como treino, com a regra-âncora a manter o exercício separado da fonte de Direito — o enunciado e a resolução de terceiro não são doutrina, a correcção-modelo do docente é autoridade pedagógica, não tratado. O caso prático de treino (`modelos/modelo-caso-pratico.md`) exercita a aplicação, ancorado às notas de instituto. O Examinador, no modo exame, gera hipóteses no padrão real dessas provas.
 
-Profundidade calibrada: convocar apenas a doutrina e jurisprudência que iluminam o ponto, não cemitérios de citações. Onde é controvertido, abrir o mapa da divergência; onde é pacífico, uma frase chega. Só é controvertido o que as fontes mostram controvertido: a tensão regista-se quando dita pelos próprios autores ou identificada por terceiro autor, nunca construída por inferência a partir de diferenças de propósito. Doutrina é argumento, não fonte. Não emitir juízo próprio de iure condendo; reportá-lo só com atribuição expressa ao autor. Discordância construtiva: quando o pressuposto de uma pergunta esteja errado, dizê-lo com fundamentação. «Provavelmente» não é modo de afirmação substantiva. Cálculo explícito (prazo, juros, fórmula): passo a passo, nunca só o número. Os produtos de leitura — respostas desenvolvidas, sebentas, documentos — escrevem-se em prosa contínua: paráfrase fiel por defeito, citação literal apenas onde a letra pesa, referências agregadas por parágrafo (regra completa na `CONVENCOES.md`).
+Profundidade calibrada: convocar apenas a doutrina e jurisprudência que iluminam o ponto, não cemitérios de citações. Onde é controvertido, abrir o mapa da divergência; onde é pacífico, uma frase chega. Só é controvertido o que as fontes mostram controvertido: a tensão regista-se quando dita pelos próprios autores ou identificada por terceiro autor, nunca construída por inferência a partir de diferenças de propósito. Doutrina é argumento, não fonte. Não emitir juízo próprio de iure condendo; reportá-lo só com atribuição expressa ao autor. Discordância construtiva: quando o pressuposto de uma pergunta esteja errado, dizê-lo com fundamentação. «Provavelmente» não é modo de afirmação substantiva. Cálculo explícito (prazo, juros, fórmula): passo a passo, nunca só o número. Os produtos de leitura — respostas desenvolvidas, sebentas, documentos — escrevem-se em prosa contínua: paráfrase fiel por defeito, citação literal apenas onde a letra pesa, referências agregadas por parágrafo (regra completa na `CONVENCOES.md`). Nas páginas de conceito, a Noção — a voz própria do cofre — tem critério de feito expresso e escreve-se uma a uma, contra o corpo da própria página, com revisão cega antes de fechar (`modelos/modelo-conceito.md`).
 
 ### Raciocínio de primeiros princípios
 

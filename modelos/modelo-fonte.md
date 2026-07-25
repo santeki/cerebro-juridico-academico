@@ -40,7 +40,12 @@ ficheiro_raw: "[[raw/...]]"
 {Paráfrase do agente — não transcrição. O que esta fonte sustenta, no essencial. Em `referencia`, deixar vazio até leitura.}
 
 ## Pontos relevantes
-{Cada ponto com âncora de localização. Ex.:}
+{Cada ponto com âncora de localização. Em obra longa cuja página exceda o
+orçamento das CONVENCOES, os registos de sessão vivem em sub-páginas de
+leitura («{obra} — leitura da sessão N», tipo fonte; frontmatter mínimo: tipo,
+titulo, referencia_completa, tipo_fonte, fiabilidade, procedencia, ramo,
+estado_verificacao), com esta secção reduzida a índice de sessões; identidade,
+hash_raw, agenda e dossiers transversais ficam sempre na página-mãe. Ex.:}
 - {Afirmação} — p. ___ / § ___ / nota de margem ___.
 
 ## Citações literais (excepcionais)
