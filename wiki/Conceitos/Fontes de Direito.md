@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # Fontes de Direito
@@ -83,6 +83,10 @@ A matéria das fontes reaparece, antes do Título VI, pelo ângulo comparativo: 
 No **anglo-americano**, a inversão: «Pelo contrário, no sistema anglo-saxão a jurisprudência ocupa uma posição predominante. As decisões judiciais formam nestes países a base de toda a ordem jurídica.» — «E isto porque no sistema anglo-saxão funciona a regra do precedente *(precedent rule)*, que leva a resultados diametralmente opostos. O precedente fixado pelos órgãos judiciários superiores é vinculativo para os inferiores: terão de decidir os casos futuros da mesma maneira.» (ASC, pp. 150-151). O que vincula não é a decisão nem uma declaração abstracta: «O que interessa é a *ratio decidendi*, ou o princípio de direito que está ínsito naquela decisão» — «Da *ratio decidendi* se distinguem os *obiter dicta*, que são considerações que não fundam directamente a decisão.» (ASC, p. 152). E a regra tem história: máxima rigidez do *stare decisis* no século XIX, com a Câmara dos Lordes autovinculada, e libertação em 1966 (ASC, p. 152); fora da vinculação estrita, «Podemos dizer que vinculam, excepto se se encontrar uma boa razão em contrário» (ASC, p. 152).
 
 O ponto que interessa ao sistema de fontes português por contraste é o **lugar da lei**: «também o sistema anglo-americano assiste à proliferação das leis (*statutes*). Mas aí, ao contrário do que se passa no sistema romanístico, a lei tem uma função auxiliar — completa e esclarece o sistema do Direito comum como que do exterior, não representando ela própria a base do sistema.» — e o direito comum «continua a representar o sistema geral que se aplicará sempre que uma lei não regular especialmente uma situação. Ao contrário do que acontece no sistema romanístico, em que os princípios gerais se vão procurar antes de mais nas leis.» (ASC, p. 153; nota 153: «Portanto, a lei resolve categorias específicas de casos, mas os princípios gerais resultam do *common law*.»). O quadro comparativo completo, com o critério que sustenta a divisão em subsistemas, vive em [[Conceitos/Sistemas e Famílias Jurídicas]].
+
+### O Direito natural não tem fontes (Título IV, sessão 6)
+
+Da construção de fundamento do Título IV entra nesta página uma proposição sobre o sistema de fontes, com a letra da nota 240: «Não há porém fontes do Direito natural, no sentido restrito em que delas falámos atrás. O dever ser natural só pode resultar de uma valoração da ordem natural no seu conjunto, sem ter apoio em modos concretos de formação e revelação.» (ASC, p. 200) — e o seu reverso: «Se surgem fontes que contrariam os imperativos do Direito natural as regras nelas contidas são inválidas.» (ASC, p. 201; a construção vive em [[Conceitos/Direito Justo]] *(concretiza)*). O lugar sistemático é duplo: limite negativo do conceito de fonte (nem toda a ordem que vincula se revela por fontes) e limite de validade do que as fontes produzem.
 
 ## Relação entre as posições (Eixo B)
 

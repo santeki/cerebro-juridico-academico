@@ -4,7 +4,7 @@ titulo: "Católica Porto — Direito"
 faculdade: "Universidade Católica Portuguesa — Faculdade de Direito (Porto)"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-25
 ---
 
 # Católica Porto — Direito
@@ -24,7 +24,7 @@ ultima_actualizacao: 2026-07-11
 - **Caracterização** (página, p. 1): 7.5 ECTS · semestral · português.
 - **Programa** (página, p. 2; transcrição ponto a ponto — as Partes I, II e IV surgem só com título, sem sub-pontos; a lista não se completa além do que a fonte dá) → páginas de conhecimento:
 
-  Parte I — Introdução. Aproximação a uma ideia de Direito — [[Conceitos/Noção de Direito]] · [[Conceitos/Instituição]] — monocamada (BM, caps. I-II).
+  Parte I — Introdução. Aproximação a uma ideia de Direito — [[Conceitos/Noção de Direito]] · [[Conceitos/Instituição]] — monocamada (BM, caps. I-II). **Nota de alcance ASC (2026-07-25)**: a definição integral do n.º 122 e a caracterização da ordem jurídica do Título IV entraram em [[Conceitos/Noção de Direito]]; registo de alcance sem conversão a bicamada, por decisão de recorte (candidata apresentada e não convertida a 2026-07-25).
 
   Parte II — A Macroestrutura do Direito — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, «Macroestrutura: as grandes divisões do Direito»).
 

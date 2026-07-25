@@ -5,7 +5,7 @@ categoria: [Conceito]
 ramo: [teoria-do-direito, direito-internacional-privado]
 estado_verificacao: verificado
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # Aplicação da Lei no Espaço
@@ -21,7 +21,7 @@ No direito português vivem nos arts. 14º a 65º do Código Civil e constituem 
 
 O que o paralelo com a dimensão temporal ensina, e que nenhuma das duas páginas diz sozinha, é que a competência normativa tem sempre três coordenadas — matéria, tempo e espaço — e que as duas últimas se resolvem pela mesma técnica de segundo grau, ao passo que a primeira se resolve pela interpretação. Quem domine a estrutura de uma domina a da outra: em ambas se pergunta primeiro qual a lei competente e só depois o que ela dispõe, e em ambas a inversão dessa ordem produz o mesmo erro. A delimitação espacial articula-se com a dimensão da vigência tratada em [[Conceitos/Vigência das Normas]].
 
-Página de fonte única e de tratamento sumário na própria obra: o conceito está fixado, o regime não, e a segunda voz entra quando o Título VIII de Oliveira Ascensão, que trata a aplicação da lei no espaço, for lido.
+Página de fonte única e de tratamento sumário na própria obra: o conceito está fixado, o regime não, e a segunda voz entra quando o Título VIII de Oliveira Ascensão, que trata a aplicação da lei no espaço, for lido. Gancho da sessão 6, registado sem comparativo: sobre o conhecimento do Direito estrangeiro que a remissão convoca, ASC antecipa que interpretá-lo exige conhecer a ordem social em que se integra e que «a remissão da lei se faz para o Direito vigente, e não para o Direito válido. Só a nossa própria ordem pode ser considerada à luz da categoria da validade.» (ASC, p. 226, n.º 133; desenvolvimento em [[Conceitos/Ciência do Direito]]).
 
 ## Posição de Baptista Machado
 

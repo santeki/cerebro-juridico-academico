@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # Tutela do Direito
@@ -38,7 +38,7 @@ A coercibilidade que distingue as normas jurídicas das morais, de cortesia e da
 
 Cinco espécies percorrem o § 2º da fonte (BM, pp. 126-131):
 
-(a) *Tutela preventiva* — medidas que impedem ou evitam a violação: fiscalização, condicionamento e autorização prévia de actividades (as várias polícias), inabilitação profissional de condenados, medidas de segurança para agentes perigosos (BM, pp. 126-127).
+(a) *Tutela preventiva* — medidas que impedem ou evitam a violação: fiscalização, condicionamento e autorização prévia de actividades (as várias polícias), inabilitação profissional de condenados, medidas de segurança para agentes perigosos (BM, pp. 126-127). Convergência da sessão 6: também ASC dá aos órgãos policiais, entre os órgãos que vivem «para o direito», a função genericamente «preventiva» — «asseguram preventivamente a realização do direito» (ASC, p. 216, n.º 127; [[Conceitos/Jurisdição]] para os órgãos).
 
 (b) *Medidas compulsivas* — constrangem o infractor ao comportamento devido: os exemplos históricos da prisão compulsória do CPC (arts. 904º e 854º, redacções anteriores, alterados pelo DL 368/77, de 3 de Setembro), a prisão por não pagamento de alimentos a menores (art. 190º do DL 314/78, de 24 de Outubro), e, no plano privado, a excepção de não cumprimento, o direito de retenção e a cláusula penal; no direito comparado, a *astreinte* francesa e o *contempt of court* inglês (BM, pp. 127-128). Não há prisão por dívidas nos sistemas contemporâneos (BM, p. 127).
 

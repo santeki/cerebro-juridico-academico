@@ -4,7 +4,7 @@ titulo: "NOVA School of Law — Direito"
 faculdade: "NOVA School of Law"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-11
+ultima_actualizacao: 2026-07-25
 ---
 
 # NOVA School of Law — Direito
@@ -26,15 +26,15 @@ ultima_actualizacao: 2026-07-11
 - **Programa** (guia 2021, pp. 5-6; transcrição ponto a ponto, com as remissões do original — FA: Freitas do Amaral; BM: Baptista Machado) → páginas de conhecimento:
 
   I — Conceito de Direito
-  1. Direito e Sociedade (FA, cap. 1) — por cobrir.
+  1. Direito e Sociedade (FA, cap. 1) — por cobrir. **Nota de alcance ASC (2026-07-25)**: o Título IV dá tratamento directo à relação — «não pode haver direito independente de uma concreta sociedade» (p. 195) e «Onde há ordem social há direito.» (p. 226) —, nas páginas de [[Conceitos/Noção de Direito]] e [[Conceitos/Direito Justo]]; sem conversão (ressalva FA: o recorte do guia remete ao Freitas do Amaral, por ingerir).
   2. Direito, Natureza e Cultura (FA, cap. 1) — [[Conceitos/Discurso Legitimador]] — monocamada com ressalva (a Secção IV do cap. X de BM — «O Direito, o Homem e a Cultura»: unidade originária direito-cultura, concepção culturalista vs materialista, operadores semânticos natureza/cultura — trata directamente a matéria; o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar; marcado em 2026-07-11).
-  3. Definição de Direito (FA, cap. 2) — por cobrir.
-  4. Características do Direito (FA, cap. 3) — por cobrir.
+  3. Definição de Direito (FA, cap. 2) — por cobrir. **Nota de alcance ASC (2026-07-25)**: a definição integral do n.º 122 (p. 207) entrou em [[Conceitos/Noção de Direito]]; sem conversão (mesma ressalva FA).
+  4. Características do Direito (FA, cap. 3) — por cobrir. **Nota de alcance ASC (2026-07-25)**: a caracterização da ordem jurídica do Título IV (valor, função, tríade eficácia/vigência/validade) vive em [[Conceitos/Noção de Direito]] e [[Conceitos/Direito Justo]]; sem conversão (mesma ressalva FA).
   5. Direito, Religião e Moral (FA, cap. 4) — por cobrir.
-  6. Direito, Justiça e Equidade (FA, cap. 5) — por cobrir (a componente Justiça está substantivamente tratada no cap. X de BM — [[Conceitos/Direito Justo]] —, mas a equidade, central no recorte, só aparece na fonte como remissão ao art. 4º CC: o ponto aguarda o Freitas do Amaral).
+  6. Direito, Justiça e Equidade (FA, cap. 5) — por cobrir (a componente Justiça está substantivamente tratada no cap. X de BM e, **desde 2026-07-25, no Título IV, cap. I, de ASC** — as especificações aristotélicas e a tensão com a segurança, [[Conceitos/Direito Justo]] e [[Conceitos/Segurança Jurídica]] —, mas a equidade, central no recorte, continua fora: ASC anuncia-a como primeira matéria da Teoria Geral (n.º 134 II, p. 227) e trata-a no Título V, por ler na sessão 7; o ponto aguarda essa leitura e o Freitas do Amaral).
   7. Direito, Usos Sociais, Normas técnicas e Profissionais (FA, cap. 6) — por cobrir.
   8. Direito, Economia, Sociologia e Política (FA, cap. 7) — por cobrir (cobertura parcial ASC desde 2026-07-24: Sociologia do Direito com profundidade, Política Legislativa e Etnologia Jurídica em [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I; a componente Economia fica fora — ASC remete-a a menções remissivas, n.º 2, p. 12 — e o referencial do guia é FA, cap. 7; a conversão do estado do ponto corre no fecho do estudo da obra).
-  9. Direito Natural e Positivismo (FA, cap. 8) — [[Conceitos/Direito Justo]] — **bicamada com ressalva** (a Secção II do cap. X de BM trata directamente a matéria — jusnaturalismo ontológico, positivismo «metafísica antimetafísica», concepção hodierna, validade do DP fundada no DN; marcado em 2026-07-11. **Segunda camada ASC desde 2026-07-24** — Título III, cap. IV, nn. 97-109, pp. 163-184, tratamento de periferia: o par exacto do ponto é o eixo do capítulo, com a génese do positivismo em quatro fases a partir do jusracionalismo e a crítica cruzada às duas posições. A ressalva mantém-se intacta: o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar).
+  9. Direito Natural e Positivismo (FA, cap. 8) — [[Conceitos/Direito Justo]] — **bicamada com ressalva** (a Secção II do cap. X de BM trata directamente a matéria — jusnaturalismo ontológico, positivismo «metafísica antimetafísica», concepção hodierna, validade do DP fundada no DN; marcado em 2026-07-11. **Segunda camada ASC desde 2026-07-24** — Título III, cap. IV, nn. 97-109, pp. 163-184, tratamento de periferia: o par exacto do ponto é o eixo do capítulo, com a génese do positivismo em quatro fases a partir do jusracionalismo e a crítica cruzada às duas posições. A ressalva mantém-se intacta: o recorte do guia remete ao Freitas do Amaral, por ingerir — a conferir quando entrar. **Terceira peça desde 2026-07-25**: a construção própria de ASC entrou com o Título IV, cap. I (sessão 6) e a comparativa formal fechou em [[Conceitos/Direito Justo]] — em conflito, com os cinco pares mapeados).
 
   II — Ramos do Direito
   10. Ramos do Direito (BM, cap. III, 1-6) — [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III).

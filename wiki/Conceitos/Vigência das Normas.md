@@ -8,7 +8,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # Vigência das Normas
@@ -63,6 +63,10 @@ A vigência aqui tratada — a dinâmica temporal e hierárquica da norma posta 
 ## Relevância
 
 Matéria nuclear dos programas: FDUP VI (pontos 18-19 — vigência; hierarquia e conflitos); NOVA bloco III (ponto 12, que o guia remete a «BM, cap. VI, 9-12»); Católica Lisboa Secção IV (dinâmica da lei) e Secção VI, § 1º (antinomias — hierarquia, lei especial e lei posterior); FDUL cap. III (vicissitudes: entrada em vigor, *vacatio*, cessação) e cap. II Secção IV (hierarquia). O sub-recorte actual do primado do Direito da União não se cobre por esta fonte (pré-adesão).
+
+## Nota de coexistência (Título IV do Ascensão, sessão 6)
+
+O n.º 122 de Oliveira Ascensão dá ao par vigência/validade formulação própria, com os dois exemplos canónicos: «Uma lei pode ser válida sem ser vigente, como a lei devidamente aprovada que ainda não entrou em vigor. E pode ser vigente sem ser válida: assim, a lei cuja inconstitucionalidade não foi ainda declarada com força obrigatória geral.» (ASC, p. 207; sessão 6) — e acrescenta, da sua construção de fundamento, que «também não é válida a lei contrária à ordem natural», com a validade substantiva a exprimir-se pela legitimidade (ASC, pp. 207-208; a construção vive em [[Conceitos/Direito Justo]] e a definição integral em [[Conceitos/Noção de Direito]]). Coexistência registada sem comparativo: a teoria das fontes e da vigência de ASC corre no Título VI, e é aí que o Eixo B desta página abre.
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. VI, §§ 9-12, pp. 164-171 (leitura integral; confronto com o PDF em todas as folhas; verificações primárias na página de fonte: arts. 5º/2 e 7º/3-4 do CC contra o export consolidado do DRE — duas erratas da edição; Lei 3/76 confirmada em parlamento.pt).

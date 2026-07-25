@@ -4,7 +4,7 @@ titulo: "FDUP — Direito"
 faculdade: "Faculdade de Direito da Universidade do Porto"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # FDUP — Direito
@@ -26,11 +26,11 @@ ultima_actualizacao: 2026-07-24
 
   I. Noção e Sentido do Direito
   1. O Ser Humano, a sociedade e o Direito — [[Conceitos/Instituição]] — monocamada (BM, cap. I).
-  2. O Direito como ordem normativa e como sistema institucional: confronto com outras ordens normativas — [[Conceitos/Noção de Direito]] — monocamada (BM, caps. I-II).
+  2. O Direito como ordem normativa e como sistema institucional: confronto com outras ordens normativas — [[Conceitos/Noção de Direito]] — monocamada (BM, caps. I-II). **Nota de alcance ASC (2026-07-25)**: a definição integral do n.º 122 (ordem existente com o sentido de um dever ser, fundada na dialéctica facto/norma/valor, p. 207) entrou na página do conceito; sem conversão — o confronto com as outras ordens normativas é matéria BM já coberta.
   3. Direito em sentido objetivo e direito(s) em sentido subjetivo — [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III, 2).
   4. O Direito, a autoridade e o poder: a problemática da coação — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
-  5. A relação entre Direito, justiça e segurança — [[Conceitos/Segurança Jurídica]] — monocamada (BM, cap. II, § 4º). **Nota de alcance ASC (2026-07-24)**: o Título III, cap. IV, toca o ponto sem o cobrir — a propósito da lei injusta, ASC identifica-o como «um dos pontos em que a justiça e a segurança têm exigências de sentido oposto» (p. 169), o que dá o eixo da tensão mas não a desenvolve; o tratamento dos dois valores é remetido pelo autor para o Título IV, por ler. Sem conversão de estado.
-  6. O problema do Direito Natural — [[Conceitos/Direito Justo]] — **bicamada** (BM, cap. X, Secção II: o problema, modelo ontológico vs positivismo vs pragmática universal, valer/vigorar, *pacta sunt servanda*, concepção hodierna da indisponibilidade, validade do Direito Positivo fundada no Direito Natural, fechado em 2026-07-11; **segunda camada ASC desde 2026-07-24** — Título III, cap. IV, nn. 97-109, pp. 163-184, em tratamento de periferia: a história das posições sobre o fundamento do direito, com o «eterno regresso» do Direito natural, a distinção entre Direito natural primário e secundário, a separação nítida entre jusnaturalismo e jusracionalismo, a tese do positivismo como metamorfose e não antítese do jusracionalismo, e a revivescência do pós-guerra. Onde BM constrói sistematicamente, ASC percorre historicamente e critica — a camada que faltava ao ponto. A comparativa formal entre as duas não corre ainda: ASC remete a sua própria construção para o Título IV, por ler).
+  5. A relação entre Direito, justiça e segurança — [[Conceitos/Segurança Jurídica]] — **bicamada desde 2026-07-25** (BM, cap. II, § 4º; **segunda camada ASC** — Título IV, cap. I, nn. 111-113, pp. 187-191, sessão 6, tratamento de núcleo: os dois valores próprios do direito, as especificações da justiça, a segurança como valor «menos nobre» mas indispensável e a confrontação repetida resolvida pela Política caso a caso, com a «carapaça da força» como extremo — exactamente o tratamento que a nota de alcance de 2026-07-24 dava como remetido para o Título IV. Comparativa fechada na página: compatíveis, com reforço mútuo).
+  6. O problema do Direito Natural — [[Conceitos/Direito Justo]] — **bicamada** (BM, cap. X, Secção II: o problema, modelo ontológico vs positivismo vs pragmática universal, valer/vigorar, *pacta sunt servanda*, concepção hodierna da indisponibilidade, validade do Direito Positivo fundada no Direito Natural, fechado em 2026-07-11; **segunda camada ASC desde 2026-07-24** — Título III, cap. IV, nn. 97-109, pp. 163-184, em tratamento de periferia: a história das posições sobre o fundamento do direito, com o «eterno regresso» do Direito natural, a distinção entre Direito natural primário e secundário, a separação nítida entre jusnaturalismo e jusracionalismo, a tese do positivismo como metamorfose e não antítese do jusracionalismo, e a revivescência do pós-guerra. Onde BM constrói sistematicamente, ASC percorre historicamente e critica. **Terceira peça desde 2026-07-25**: a construção própria de ASC entrou com o Título IV, cap. I (nn. 110-121, pp. 185-205, sessão 6) e a **comparativa formal está fechada** na página — em conflito, com os cinco pares mapeados: o Direito natural como direito positivo contra o *prius* suprapositivo, a variabilidade essencial contra a validade intemporal, e a recusa expressa da moldura «teoria do direito justo» (ASC, p. 195, nota 230) contra o nome do próprio problema em BM).
 
   II. Os ramos do Direito
   7. A *summa divisio* estrutural: Direito Público e Direito Privado — [[Conceitos/Ramos do Direito]] — monocamada (BM, cap. III, 4).
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-24
   19. Hierarquia e conflitos de normas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 11-12).
 
   VII. A efetivação do Direito
-  20. O método jurídico — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII: querela dos métodos, posição do CC e postulados hermenêuticos; a reserva de BM ao esquema subsuntivo em [[Conceitos/Integração da Lei]]).
+  20. O método jurídico — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII: querela dos métodos, posição do CC e postulados hermenêuticos; a reserva de BM ao esquema subsuntivo em [[Conceitos/Integração da Lei]]). **Nota de alcance ASC (2026-07-25)**: o n.º 128 caracteriza a Ciência do Direito pelo método jurídico e remete expressamente a querela para o n.º 273 e segs., por ler ([[Conceitos/Ciência do Direito]]); sem conversão.
   21. Interpretação da lei: fins, elementos e resultados — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII, Secções I-II e IV).
   22. Integração de lacunas — [[Conceitos/Integração da Lei]] — monocamada (BM, cap. VII, Secção III).
 
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-24
   27. Princípios fundamentais do direito privado português — por cobrir.
   28. Princípios fundamentais do direito público português — por cobrir.
 
-- **Cobertura do programa**: 26 de 28 pontos cobertos, dos quais **1 em bicamada** (ponto 6 — BM cap. X + ASC Título III, cap. IV, desde 2026-07-24) e 25 em monocamada (pontos 1-5 e 7-25 — BM, caps. I-VIII e X, fechados em 2026-07-09/10/11; ponto 26 — ASC, Título III, cap. III, fechado em 2026-07-24, com a ressalva de datação de 1997); nota de alcance sem conversão no ponto 5 (2026-07-24); 2 «por cobrir» (27-28: princípios fundamentais do direito privado e do direito público, fora das duas fontes). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 26 de 28 pontos cobertos, dos quais **2 em bicamada** (ponto 6 — BM cap. X + ASC Títulos III-IV, comparativa fechada a 2026-07-25; ponto 5 — BM cap. II, § 4º + ASC Título IV, cap. I, desde 2026-07-25) e 24 em monocamada (pontos 1-4 e 7-25 — BM, caps. I-VIII e X, fechados em 2026-07-09/10/11; ponto 26 — ASC, Título III, cap. III, fechado em 2026-07-24, com a ressalva de datação de 1997); notas de alcance sem conversão nos pontos 2 e 20 (2026-07-25); 2 «por cobrir» (27-28: princípios fundamentais do direito privado e do direito público, fora das duas fontes). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

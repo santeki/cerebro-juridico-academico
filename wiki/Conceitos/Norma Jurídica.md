@@ -9,12 +9,12 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # Norma Jurídica
 
-Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. IV, Secção I (pp. 79-98), e primeira coexistência de Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, nn. 16 e 20 (integração da sessão 1; o comparativo formal corre quando a teoria da regra de ASC — nn. 286 e segs. — for lida: `aguarda-comparativo`). Os artigos citados são os da redacção de 1982, conferidos no PDF do exemplar; nenhum se converte para a numeração vigente sem confronto com DRE.
+Página com fonte principal Baptista Machado, *Introdução ao Direito e ao Discurso Legitimador*, 13.ª reimp., Almedina, 2002, cap. IV, Secção I (pp. 79-98), e primeira coexistência de Oliveira Ascensão, *O Direito — Introdução e Teoria Geral*, 10.ª ed., 1997, nn. 16 e 20 (integração da sessão 1; o comparativo formal corre quando a teoria da regra de ASC — nn. 286 e segs. — for lida: `aguarda-comparativo`; entretanto o n.º 135 V, sessão 6, anuncia a posição terminológica: «norma» está solidamente assente nas ciências jurídicas brasileira e portuguesa, seria «mais adequado falar em regra jurídica», «Mas a referência à norma está tão generalizada que falaremos em sinonímia de normas jurídicas ou de regras jurídicas.», ASC, p. 228). Os artigos citados são os da redacção de 1982, conferidos no PDF do exemplar; nenhum se converte para a numeração vigente sem confronto com DRE.
 
 ## Noção
 A ordem jurídica não se apresenta como bloco: decompõe-se em unidades, e a norma é essa unidade — módulo lógico que associa a uma **previsão**, a factispécie ou modelo do facto, uma **estatuição**, o efeito jurídico que a sua verificação desencadeia (Baptista Machado, pp. 79-80; Oliveira Ascensão, pp. 44-45, com terminologia própria). A estrutura condicional não é ornamento formal: é o que permite que a mesma regra sirva casos que ninguém previu individualmente, e é por isso que a norma é o instrumento de uma ordem que quer valer para o futuro.

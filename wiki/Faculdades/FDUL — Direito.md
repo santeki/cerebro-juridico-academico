@@ -4,7 +4,7 @@ titulo: "FDUL — Direito"
 faculdade: "Faculdade de Direito da Universidade de Lisboa"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-25
 ---
 
 # FDUL — Direito
@@ -25,8 +25,8 @@ ultima_actualizacao: 2026-07-24
 - **Programa** (pp. 1-5; transcrição ponto a ponto — a numeração de capítulos e secções do original preserva-se, incluindo as repetições [sic]) → páginas de conhecimento:
 
   Capítulo I — Direito e ordem jurídica
-  1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir (o sub-recorte «as disciplinas que estudam o Direito» tem cobertura ASC desde 2026-07-24: [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I, a que se junta, desde 2026-07-24, o Direito Comparado como mais uma dessas disciplinas, delimitada pelo método e distinguida da História do Direito no cap. III ([[Conceitos/Sistemas e Famílias Jurídicas]]); «acepções» e «ordem social» têm base ASC da sessão 1 nas páginas do corpo; e, **desde 2026-07-24 (sessão 5), acresce a Filosofia do Direito como a quarta e última dessas disciplinas** — o Título III, cap. IV, delimita-a face à Ciência do Direito pelo objecto e pelo fim, não pelo método, e regista a variação histórica do seu objecto ([[Conceitos/Ciências que Estudam o Direito]]); a conversão do estado do ponto corre no fecho do estudo da obra).
-  2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — por cobrir.
+  1. As várias acepções do Direito; a ordem social e o Direito; as disciplinas que estudam o Direito; o Direito enquanto objecto da ciência jurídica — por cobrir (o sub-recorte «as disciplinas que estudam o Direito» tem cobertura ASC desde 2026-07-24: [[Conceitos/Ciências que Estudam o Direito]], Título III, cap. I, a que se junta, desde 2026-07-24, o Direito Comparado como mais uma dessas disciplinas, delimitada pelo método e distinguida da História do Direito no cap. III ([[Conceitos/Sistemas e Famílias Jurídicas]]); «acepções» e «ordem social» têm base ASC da sessão 1 nas páginas do corpo; e, **desde 2026-07-24 (sessão 5), acresce a Filosofia do Direito como a quarta e última dessas disciplinas** — o Título III, cap. IV, delimita-a face à Ciência do Direito pelo objecto e pelo fim, não pelo método, e regista a variação histórica do seu objecto ([[Conceitos/Ciências que Estudam o Direito]]); **desde 2026-07-25 (sessão 6), o último sub-recorte — «o Direito enquanto objecto da ciência jurídica» — tem página própria: [[Conceitos/Ciência do Direito]]**, com a caracterização pelo método e a comparativa contra o cap. XI de BM; nos termos desta vista, a conversão do estado do ponto continua a correr no fecho do estudo da obra, agora sem sub-recorte descoberto).
+  2. Ordem jurídica e Direito; características da Ordem jurídica; ordem jurídica e imperatividade — [[Conceitos/Noção de Direito]] · [[Conceitos/Direito Justo]] — **monocamada desde 2026-07-25** (ASC, Título IV — «Caracterização da Ordem Jurídica», nn. 110-135, pp. 185-228, sessão 6, tratamento de núcleo: o valor da ordem jurídica, a função com a definição integral — onde a imperatividade entra pela «exigência absoluta de observância» — e a tríade eficácia/vigência/validade, a legitimidade e a Ciência do Direito; as bases da sessão 1 — ordem social e ordem normativa, Títulos I-II — já estavam nas páginas do corpo).
   3. O desvalor dos actos contrários ao Direito imperativo; as sanções: noção, fins e classificações — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º e nº 9: tipologia dos meios e sanção como reacção do sistema).
   4. Coacção e coercibilidade — [[Conceitos/Coercibilidade]] — monocamada (BM, cap. II, § 1º).
   5. Ordem jurídica e tutela; heterotutela e autotutela; situações legais de autotutela: acção directa, legítima defesa e estado de necessidade — [[Conceitos/Tutela do Direito]] — monocamada (BM, cap. V, § 2º, 6-7).
@@ -49,13 +49,13 @@ ultima_actualizacao: 2026-07-24
   16. «Secção IV» [sic] (Norma jurídica e princípio jurídico): princípios jurídicos — formulação; formais e materiais; princípio e norma — [[Conceitos/Norma Jurídica]] · [[Conceitos/Discurso Legitimador]] — monocamada com lacuna expressa (BM, cap. X, Secção III, § 1.º: princípio vs norma — os princípios «não são normas», carecem de concretização por subprincípios; a tipologia «formais e materiais» e a «formulação» como recorte autónomo não estão na fonte; fechado com esta ressalva em 2026-07-11).
 
   «Capítulo IV» [sic] — O sistema jurídico
-  17. Definição; sistema externo e interno; funcionamento; características; a importância dos princípios para a construção do sistema — por cobrir.
+  17. Definição; sistema externo e interno; funcionamento; características; a importância dos princípios para a construção do sistema — por cobrir. **Nota de alcance ASC (2026-07-25)**: o n.º 131 V toca o ponto de raspão — «O sistema existe por natureza, porque corresponde ao sistema social.» (p. 222), com a elaboração do sistema como elaboração crítica ([[Conceitos/Ciência do Direito]]); sem conversão.
 
   Capítulo V — A sucessão das fontes de Direito no tempo
   18. Sucessão de leis no tempo; Direito transitório; vigência para o futuro e proibições de retroactividade; aplicação imediata, sobrevigência da lei antiga e retroatividade da lei nova — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (BM, cap. VIII, Secção I: todos os sub-tópicos do ponto têm sede na fonte, incluindo a «sobrevigência» da lei antiga e a sua reformulação como lex transit in contractum).
   19. O art. 12º do CC: interpretação (nº 1 e nº 2); a lei interpretativa e o art. 13º do CC — [[Conceitos/Aplicação da Lei no Tempo]] — monocamada (as duas partes do n.º 2 e a presunção do n.º 1; requisitos e limites da lei interpretativa; letra do art. 13º/1 conferida pelo Ac. STJ 96B112).
 
-- **Cobertura do programa**: 14 de 19 pontos em monocamada (pontos 3-6, 8-10, 12-16 e 18-19 — BM, caps. II, IV, V, VI, VIII e X, fechados em 2026-07-09/10/11; o 10 com lacuna expressa no sub-recorte do primado do Direito da União; o 16 com lacuna expressa na tipologia formais/materiais); 5 «por cobrir». O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: **15 de 19 pontos em monocamada** (pontos 3-6, 8-10, 12-16 e 18-19 — BM, caps. II, IV, V, VI, VIII e X, fechados em 2026-07-09/10/11; ponto 2 — ASC, Título IV, fechado em 2026-07-25; o 10 com lacuna expressa no sub-recorte do primado do Direito da União; o 16 com lacuna expressa na tipologia formais/materiais); 4 «por cobrir» (pontos 1 — conversão remetida ao fecho da obra, sem sub-recorte descoberto desde 2026-07-25 —, 7, 11 e 17, este com nota de alcance). O Baptista Machado em ingestão (complementar nesta turma) serve os Capítulos II-V do programa; actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUL)
