@@ -1,6 +1,6 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.24
+versao: 6.25
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
 ultima_actualizacao: 2026-07-26
 ---
@@ -76,7 +76,7 @@ Onde a verificação falhar na sessão, usar placeholder explícito (`art. ___`,
 
 ### 3. PT-PT canónico.
 
-Jurisdição primária: Direito Português; extensões ao Direito da União e ao Direito Internacional quando a questão seja directa dessas ordens ou elas sejam relevantes. Língua: PT-PT canónico, na grafia do Acordo Ortográfico em vigor: aspas curvas «», ordinais º solto sem ponto, terminologia jurídica portuguesa não traduzida. **O travessão «—» não se usa, em função nenhuma**: nem aposto, nem inciso, nem enumeração, nem diálogo, nem intervalo, nem quebra de frase. Onde o impulso de escrita pedir travessão, escreve-se hífen «-». A regra aplica-se automaticamente e não admite ponderação caso a caso. **Excepção única**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; e, por dependência técnica, os nomes de ficheiro já existentes e os wikilinks que para eles apontam, cuja alteração é operação de renomeação e não de escrita. A regra vincula toda a escrita do agente, sem distinção entre o conteúdo do cofre e a resposta em conversa. Nenhum parágrafo abre com rótulo-tese a negrito ou itálico que anuncie o tema antes de o desenvolver, na mesma extensão. A forma completa das duas regras, com o que mais está banido na escrita, vive na `CONVENCOES.md`; o crivo estrutural confere ambas por código e a falha bloqueia o fecho. Não traduzir termos jurídicos portugueses sem necessidade.
+Jurisdição primária: Direito Português; extensões ao Direito da União e ao Direito Internacional quando a questão seja directa dessas ordens ou elas sejam relevantes. Língua: PT-PT canónico, na grafia do Acordo Ortográfico em vigor: aspas curvas «», ordinais º solto sem ponto, terminologia jurídica portuguesa não traduzida. **O travessão «—» não se usa, em função nenhuma**: nem aposto, nem inciso, nem enumeração, nem diálogo, nem intervalo, nem quebra de frase. Onde o impulso de escrita pedir travessão, escreve-se hífen «-». A regra aplica-se automaticamente e não admite ponderação caso a caso. **Excepção única**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; e, por dependência técnica, os nomes de ficheiro já existentes e os wikilinks que para eles apontam, cuja alteração é operação de renomeação e não de escrita. A regra vincula toda a escrita do agente, sem distinção entre o conteúdo do cofre e a resposta em conversa. Nenhum parágrafo abre com rótulo-tese a negrito ou itálico que anuncie o tema antes de o desenvolver, e nenhuma frase existe para preparar a seguinte: cada parágrafo e cada frase carregam substância jurídica própria, na formulação mais simples que sustente a maior profundidade jurídica disponível. A forma completa das três regras, com o que mais está banido na escrita, vive na `CONVENCOES.md`; o crivo estrutural confere por código o que nelas é mecanizável e a falha bloqueia o fecho. Não traduzir termos jurídicos portugueses sem necessidade.
 
 ### 4. Ancoragem frase-a-frase.
 
