@@ -10,7 +10,7 @@ ocr_motor: ""                        # opcional — motor e versão, quando houv
 ocr_data:                            # opcional — data ISO do OCR
 progresso: ""                        # opcional — «Cap. N de M, p. X» em fontes longas que atravessam sessões
 cobertura: integral                  # invariante: toda a fonte ingerida é lida do início ao fim (PROTOCOLO-INGESTAO)
-tratamento_nucleo: "{secções tratadas a fundo: citações com página, nota própria, Eixo B}"
+tratamento_nucleo: "{secções tratadas a fundo: citação literal onde a letra pesa + paráfrase ancorada, nota própria, Eixo B}"
 tratamento_periferia: "{secções em sumário fiel e mapa de conceitos}"
 tratamento_contexto: "{secções em sumário curto}"
 ramo: []
@@ -22,7 +22,7 @@ ficheiro_raw: "[[raw/...]]"
 
 # {Autor, Título}
 
-> **Cobertura sempre integral**: a fonte foi lida do início ao fim (notas de rodapé incluídas). Uma fonte não integralmente lida não é fonte ingerida — é consulta, um acto de pesquisa pontual que não gera página de fonte coberta como esta. O que se gradua é o **tratamento** por secção: núcleo (citações com página, nota própria, Eixo B) · periferia relevante (sumário fiel e mapa) · contexto (sumário curto). A graduação poupa extracção, nunca cobertura nem verificação. Ver `PROTOCOLO-INGESTAO.md`.
+> **Cobertura sempre integral**: a fonte foi lida do início ao fim (notas de rodapé incluídas). Uma fonte não integralmente lida não é fonte ingerida — é consulta, um acto de pesquisa pontual que não gera página de fonte coberta como esta. O que se gradua é o **tratamento** por secção: núcleo (citação literal onde a letra pesa + paráfrase ancorada, nota própria, Eixo B) · periferia relevante (sumário fiel e mapa) · contexto (sumário curto). A graduação poupa extracção, nunca cobertura nem verificação. Ver `PROTOCOLO-INGESTAO.md`.
 
 ## Referência
 {Referência completa. Para obra: autor, título, edição, editora, ano. Para legislação: diploma, data, número, versão consolidada e respectiva fonte (DRE/EUR-Lex). Para jurisprudência: tribunal, secção, data, processo, ECLI, relator.}

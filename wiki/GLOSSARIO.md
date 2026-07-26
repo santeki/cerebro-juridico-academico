@@ -12,7 +12,7 @@ ultima_actualizacao: 2026-06-28
 ## Ingestão e tratamento
 - **Cobertura integral** — invariante: toda a fonte que entra na wiki lê-se do início ao fim, sem amostragem (`PROTOCOLO-INGESTAO.md`). Uma fonte parcialmente lida não foi ingerida.
 - **Consulta** — leitura dirigida a um ponto isolado de uma fonte; acto de pesquisa legítimo, mas **não** é ingestão: não gera página de fonte coberta, e o que dela se aproveita marca-se como vindo de fonte não ingerida.
-- **Tratamento (núcleo / periferia / contexto)** — graduação do esforço de extracção por secção de uma fonte integralmente lida. Núcleo: citações com página, promoção a nota, Eixo B. Periferia relevante: sumário fiel e mapa de conceitos. Contexto: sumário curto. Gradua a extracção, nunca a cobertura nem a verificação.
+- **Tratamento (núcleo / periferia / contexto)** — graduação do esforço de extracção por secção de uma fonte integralmente lida. Núcleo: citação literal onde a letra pesa e paráfrase ancorada no restante, promoção a nota, Eixo B. Periferia relevante: sumário fiel e mapa de conceitos. Contexto: sumário curto. Gradua a extracção, nunca a cobertura nem a verificação.
 - **Eixo A** — processo de estudo de uma fonte (`PROTOCOLO-INGESTAO.md`).
 - **Eixo B** — análise comparativa de um conceito tratado por várias fontes (`PROTOCOLO-ANALISE-COMPARATIVA.md`).
 - **Leitura / página de fonte** — ficheiro em `wiki/Fontes/` que digere uma fonte com fidelidade máxima e âncora; **reservatório** das notas. As notas extraem da leitura, nunca do PDF.

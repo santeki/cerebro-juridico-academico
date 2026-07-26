@@ -1,8 +1,8 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.22
+versao: 6.23
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # CLAUDE.md — Segundo Cérebro Jurídico Académico (memória-charter)
@@ -40,6 +40,8 @@ As palavras que afirmam consolidação só se escrevem com a base que as sustent
 ### Disciplina de execução
 
 Edições cirúrgicas: cada linha alterada traça-se directamente ao pedido — sem melhorar parágrafos adjacentes por hábito, sem refactorizar o que não foi pedido, mantendo o estilo da página mesmo quando se faria diferente; os órfãos que a alteração criar (remissão que deixou de fazer sentido, citação cortada) limpam-se na mesma operação, e os pré-existentes sinalizam-se sem se tocar. Excepção única: o cross-linking obrigatório — acrescentar o link de retorno numa página pré-existente intimamente relacionada é completar a operação atómica de criar página nova, não mexer no que não foi pedido; a excepção autoriza o link, na secção de conexões, e nada mais. E toda a tarefa se transforma em objectivo verificável antes de começar — «resume o acórdão» é «factos · questão · decisão · *ratio* · *obiter*»; «pesquisa X» é «norma aplicável + jurisprudência mais recente + posição dominante, com fonte» — porque um critério de feito forte permite iterar sozinho, e um critério fraco obriga a adivinhar.
+
+Eficiência como princípio (mandato expresso de 2026-07-26): o processo corre o mais rápido possível sem comprometer nem pôr em causa o conhecimento adquirido. Operativamente: o custo fixo de ritual amortiza-se com carga útil, dentro dos tectos da INGESTAO; o que é mecanizável mecaniza-se; a descoberta converte-se em mapa antes da leitura (pré-passe do exemplar — regra e cautelas na INGESTAO); os despachos encadeiam-se sem rondas em série desnecessárias (EQUIPA, equipas de despacho activas). A eficiência não é regra da hierarquia: decide apenas entre caminhos que cumpram igualmente todas as regras — em colisão com qualquer regra, de qualquer nível da hierarquia de precedência, perde sempre, sem ponderação. E passo de protocolo não se corta em sessão por eficiência: corta-se por delta aprovado ou, havendo defeito de schema que trave a sessão em curso, desvia-se por `Excepção` registada com o ok do aluno (§ Versionamento).
 
 ---
 
