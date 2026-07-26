@@ -7,7 +7,7 @@ estado_verificacao: verificado
 relacao: em-conflito
 estado_comparativo: comparativa
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Direito Justo
@@ -33,7 +33,7 @@ A posição constrói-se do problema do fundamento até à tese da validade: o p
 
 ## Posição de Oliveira Ascensão
 
-A posição percorre dois arcos. O histórico (Título III, cap. IV): o fundamento como tema nuclear e o «eterno regresso» do Direito natural, o Direito natural primário e o secundário, a lei injusta com justiça e segurança em exigências opostas, a crítica ao jusracionalismo e a tese minimalista, o positivismo como metamorfose do jusracionalismo, a escola histórica, as correntes do século e a ponte anunciada. E a construção própria (Título IV, cap. I): dos valores ao critério suprapositivo, o Direito natural como direito positivo, objectividade, variabilidade e núcleo permanente, e as consequências — invalidade, minimalismo, mal menor. A construção detalhada, com as citações ancoradas, vive em [[Conceitos/Direito Justo — posição de Oliveira Ascensão]] (fissão de 2026-07-25); a súmula comparada está na secção da relação, abaixo.
+A posição percorre dois arcos. O histórico (Título III, cap. IV): o fundamento como tema nuclear e o «eterno regresso» do Direito natural, o Direito natural primário e o secundário, a lei injusta com justiça e segurança em exigências opostas, a crítica ao jusracionalismo e a tese minimalista, o positivismo como metamorfose do jusracionalismo, a escola histórica, as correntes do século e a ponte anunciada. E a construção própria (Título IV, cap. I): dos valores ao critério suprapositivo, o Direito natural como direito positivo, objectividade, variabilidade e núcleo permanente, e as consequências — invalidade, minimalismo, mal menor. Da sessão 7 acresce a aplicação do par justiça/segurança à solução do caso — a justiça legal como justiça formal e o juízo de que o excesso de individualização «redunda em maior injustiça» (Título V, pp. 237-238 e 241; o terreno vive em [[Conceitos/Equidade]]). A construção detalhada, com as citações ancoradas, vive em [[Conceitos/Direito Justo — posição de Oliveira Ascensão]] (fissão de 2026-07-25); a súmula comparada está na secção da relação, abaixo.
 
 ## Relação entre as posições (Eixo B — Comparativos 0-6, fechados a 2026-07-25)
 

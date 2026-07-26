@@ -5,7 +5,7 @@ categoria: [Conceito]
 ramo: [teoria-do-direito]
 estado_verificacao: verificado
 fontes: ["[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Direito Justo — posição de Oliveira Ascensão
@@ -63,3 +63,5 @@ Contra os argumentos «dos sofistas aos positivistas»: a variabilidade dos dire
 ### Consequências: invalidade, minimalismo, mal menor
 
 A ordem natural «não paira indiferente sobre as opções humanas»: exprime directamente um dever ser, e «Se surgem fontes que contrariam os imperativos do Direito natural as regras nelas contidas são inválidas.» — no limite, a ordenação jurídica de uma estrutura social globalmente desviada «deve ser considerada inválida» (p. 201). Donde a distinção: «Nem todo o "Direito" vigente é Direito (positivo); não o será, se contrariar o Direito natural.» — a lei que o viola é «mera aparência fundada na força» (p. 201). O alcance é assumidamente restrito («a tendência "minimalista" que professamos», p. 201), e o exemplo é deliberadamente sectorial: a citação longa contra o art. 10/1 da Convenção de Berna (revisão de Bruxelas, 1948), em nome de «um direito primário à comunicação e ao debate das ideias», com o direito de autor «subordinado a um princípio mais alto, da livre comunicação de ideias» (pp. 201-202). E a aplicação é prudencial: é necessário «atender sempre ao princípio do mal menor» [a frase atravessa a quebra pp. 202-203; o fragmento citado é contíguo na p. 203], a conformidade ao Direito natural não dita imposição imediata nem a desconformidade abolição imediata, e a fundamentação jusnaturalista «não é incompatível com a preferência por uma evolução gradual» (pp. 202-203); o Direito natural «não é revolucionário nem conservador», é, quando muito, «um fermento de transformação constante» (p. 203).
+
+**Aplicação do par justiça/segurança à solução do caso (Título V, sessão 7, 2026-07-26).** A construção ganha terreno operativo no conflito entre as tendências generalizadora e individualizadora: a solução generalizadora tem a escudá-la a «justiça legal», mas esta é «uma justiça formal» (p. 237) — a lei, por natureza genérica, não desce à diversificação dos casos, e «Uma solução fundada unicamente na lei é assim, por outro lado, uma solução relativamente injusta, qualquer que seja o seu conteúdo.», com o «carácter dramático da vida jurídica — simbolizado pela justiça de olhos vendados» (p. 238). E o juízo de política do direito fecha no mesmo eixo do valor: avançou-se demasiado «na mira da determinação da justiça mas em detrimento da certeza, e que isso, afinal de contas, redunda em maior injustiça» — «sem atender à segurança, também a justiça se não obtém» (p. 241). O terreno vive em [[Conceitos/Equidade]] e [[Conceitos/Segurança Jurídica]]; regista-se aqui porque é a justiça — as suas especificações e o seu primado hierárquico — que faz o critério.

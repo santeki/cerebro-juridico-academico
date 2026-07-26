@@ -7,8 +7,9 @@ estado_verificacao: verificado
 revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
+estado_comparativo: aguarda-comparativo
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-26
 ---
 
 # Integração da Lei
@@ -73,6 +74,10 @@ O cap. X eleva o fundamento: «A aplicação analógica das normas jurídicas é
 Anexos ao argumento *a contrario* (BM, pp. 328-330): o «argumento de inversão», fundado na analogia entre dois casos e no silêncio da lei (*a silentio legis*), é «extremamente falível» — exemplo da fonte: do paralelismo entre a caducidade da acção de resolução do arrendamento (art. 1094º CC) e a da acção de divórcio (art. 1786º, 2), e da alteração só do segundo pelo DL 496/77, de 25 de Novembro, pretendeu inferir-se solução oposta para o primeiro; mas o legislador quis deliberadamente abster-se (n.º 10 do Preâmbulo), «pelo que uma tal omissão não é *significativa* (não é um *silêncio que fale*)». Ao princípio da igualdade acresce o **princípio da coerência legislativa**: onde a lei fixa pressupostos do válido exercício da autonomia privada, o tratamento diferente de situações análogas pode não ofender a justiça material — o *a contrario* é aí menos exigente; em face da regra da liberdade de forma, as normas de forma podem ter-se por excepcionais (art. 219º), e a aparente incoerência pode justificar-se por interesses antepostos (contrato-promessa: art. 410º). As presunções «da vida» e o esquema regra-excepção operam como distribuição do ónus da argumentação — as «excepções» tratam-se «repressivamente», exigindo esforço argumentativo muito superior (art. 926º para a presunção legal; BM, pp. 329-330). E a transposição analógica só se exclui quando o legislador formulou a regulamentação deliberadamente em termos rigorosos e «fechados» (BM, p. 330).
 
 No plano do método, o cap. X dá à analogia a dignidade de estrutura do próprio pensamento jurídico — com Kaufmann (citado por BM, p. 330): «todo o conhecimento jurídico, toda a *descoberta do direito* (heurística jurídica) e até toda a assim chamada 'subsunção' mostra a estrutura da analogia» —, e o instrumento fino do **tipo como estrutura relacional**: quando as denotações da hipótese apontam para um complexo unitário não redutível à soma dos elementos, esse «tipo» é reencontrável em quadrantes jurídicos diferentes e sugere a *extensão teleológica* da norma («não confundir com "interpretação extensiva"») a situações em que se recorta «a mesma *estrutura relacional* e idêntico conflito de interesses» (BM, pp. 331-332); a comparação da fonte é a melodia de Bihler — recognoscível quando transposta para outra tonalidade —, e o exemplo é a convalidação do arrendamento de prédio indiviso (art. 1024º, 2) por analogia com a venda de bens alheios (art. 895º), confortada pelo art. 939º (BM, pp. 331-332, notas). O «faro para a analogia» é o verdadeiro «faro jurídico» (BM, p. 331). O quadro do discurso que tudo isto serve — mediação, concretização, círculo hermenêutico — vive em [[Conceitos/Discurso Legitimador]].
+
+## Posição de Oliveira Ascensão (antecipações do Título V; sede por ler)
+
+A doutrina da integração do autor corre no Título VII, cap. III (nn. 248-270), por ler; do Título V (sessão 7) ficam duas antecipações com valor próprio. Primeira, a tese sobre o lugar da equidade na integração, anunciada na nota 278: o n.º 253 acentuará «que a equidade é muito mais que um método de integração de lacunas» (ASC, p. 234, firmada por imagem) — a equidade não se esgota na função integradora que o elenco tradicional lhe reserva ([[Conceitos/Equidade]] *(concretiza)*). Segunda, a delimitação negativa que já vale para esta página: o ajustamento da regra ao caso não é, para ASC, juízo de equidade — a aplicação é intra-sistemática, pelas valorações ínsitas no próprio tipo (ASC, p. 236) —, o que converge, por caminho próprio, com a recusa de BM em remeter o julgador do art. 10º/3 para juízos de equidade (BM, pp. 202-203, acima). O comparativo formal abre quando a sede for lida; `estado_comparativo: aguarda-comparativo`.
 
 ## Distinção de figuras próximas
 

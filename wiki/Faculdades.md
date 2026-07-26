@@ -14,7 +14,7 @@ ultima_actualizacao: 2026-07-25
 
 ## Faculdades (vistas)
 <!-- Uma linha por faculdade, link para a vista em wiki/Faculdades/. Acrescentar à medida que entram. -->
-- [[Faculdades/NOVA School of Law — Direito]] — NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 14 cobertos — 1 em bicamada e 13 em monocamada, via BM e ASC).
+- [[Faculdades/NOVA School of Law — Direito]] — NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 15 cobertos — 1 em bicamada e 14 em monocamada, via BM e ASC).
 - [[Faculdades/FDUP — Direito]] — Faculdade de Direito da Universidade do Porto, Direito. «Introdução ao Direito» 2025/2026 mapeada (28 pontos; 26 cobertos — 2 em bicamada e 24 em monocamada, via BM e ASC).
 - [[Faculdades/Católica Porto — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Porto), Direito. «Introdução ao Estudo do Direito» mapeada (7 Partes; Partes I-VII em monocamada via BM caps. I-VIII).
 - [[Faculdades/Católica Lisboa — Direito]] — Universidade Católica Portuguesa, Faculdade de Direito (Lisboa), Direito. «Introdução ao Estudo do Direito» 2023/2024 mapeada (15 pontos; 14 cobertos — 1 em bicamada e 13 em monocamada, via BM e ASC).

@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Fontes de Direito
@@ -87,6 +87,10 @@ O ponto que interessa ao sistema de fontes português por contraste é o **lugar
 ### O Direito natural não tem fontes (Título IV, sessão 6)
 
 Da construção de fundamento do Título IV entra nesta página uma proposição sobre o sistema de fontes, com a letra da nota 240: «Não há porém fontes do Direito natural, no sentido restrito em que delas falámos atrás. O dever ser natural só pode resultar de uma valoração da ordem natural no seu conjunto, sem ter apoio em modos concretos de formação e revelação.» (ASC, p. 200) — e o seu reverso: «Se surgem fontes que contrariam os imperativos do Direito natural as regras nelas contidas são inválidas.» (ASC, p. 201; a construção vive em [[Conceitos/Direito Justo]] *(concretiza)*). O lugar sistemático é duplo: limite negativo do conceito de fonte (nem toda a ordem que vincula se revela por fontes) e limite de validade do que as fontes produzem.
+
+### A ordem individual e a equidade no limiar das fontes (Título V, sessão 7)
+
+O Título V acrescenta duas peças ao limite negativo do conceito. Primeiro, a ordem individual: «A ordem não é fonte do direito, pois dela não resultam regras, com a sua característica generalidade; mas é fonte de situações jurídicas, que são juridicamente válidas mesmo que contrariem a lei.» (ASC, p. 231) — a generalidade da regra como crivo do que é fonte, com a solução do caso singular a correr fora de toda a mediação normativa. Segundo, a equidade: o corpo do n.º 139 II regista a tese de que o ajustamento da regra ao caso seria função da equidade, e a nota 281 atribui-a, em relato, a Espínola (*Introdução*, págs. 245-250), «acentuando, contra Serpa Lopes, que por isso a equidade é fonte do direito; e em *Portugal*, Castanheira Neves» [sem obra citada pelo mediador]; ASC recusa — a aplicação é intra-sistemática, e «não podemos confundir equidade e individualização» (ASC, p. 236) — e o índice do Título VI, cap. I, põe a questão em título próprio: «147. A equidade é fonte do direito?» — a sede onde a frente se decide, por ler. A página do conceito é [[Conceitos/Equidade]] *(concretiza)*, onde o Eixo B desta frente está aberto contra o quadro legal registado acima (fonte mediata; os três casos do art. 4º, BM, pp. 158-159).
 
 ## Relação entre as posições (Eixo B)
 

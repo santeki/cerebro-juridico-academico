@@ -11,7 +11,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Interpretação da Lei
@@ -80,6 +80,8 @@ Os postulados hermenêuticos do cap. VII recebem no cap. X a moldura geral. A in
 A doutrina da interpretação do autor corre no Título VII, por ler; do capítulo dos sistemas actuais vem, porém, uma proposição sobre o **objecto** do trabalho interpretativo que vale como contraponto. No sistema do precedente, o que se interpreta não é um texto com a autoridade do texto legal: «A fórmula não tem o significado que corresponde no sistema romanístico ao texto da lei; pode mesmo ser corrigida em decisões posteriores, procurando-se assim consagrar com maior felicidade o princípio que lhe está subjacente.» (ASC, p. 153; adjudicado por imagem). Os juízes «Buscam mais o princípio que anima a decisão que a fórmula por que se exprimiu» (ASC, p. 153), e o precedente, «como regra, é inseparável do caso concreto em que foi emitido» — há que «"abstrair" essa regra com base na decisão, como fonte, de cada vez que estiver em causa» (ASC, p. 152).
 
 A utilidade para esta página é de contraste: a vinculação ao texto que a interpretação da lei pressupõe entre nós — e que o art. 9º do CC codifica — não é um dado necessário do trabalho jurídico, mas um traço do subsistema romanístico. O quadro completo vive em [[Conceitos/Sistemas e Famílias Jurídicas]].
+
+**Camada do Título V (sessão 7, 2026-07-26) — aplicação intra-sistemática, não equidade.** Contra a tese de que o ajustamento da regra ao caso seria função da equidade (relatada na nota 281 — Espínola e, em Portugal, Castanheira Neves; v. [[Conceitos/Equidade]] *(concretiza)*), ASC delimita o que a aplicação é: as circunstâncias relevantes não são todas as do caso concreto — a *factispécie* limita por natureza o círculo a que é dado recorrer — e a solução encontra-se «à luz das valorações ínsitas no próprio tipo», não do valor Justiça como critério único; «esta aplicação é intra-sistemática» (ASC, p. 236). O mesmo vale para as cláusulas gerais: o critério é o fixado na própria cláusula, «e não directamente à luz da Justiça» (ASC, p. 237). Na aplicação da regra «não se pode resolver tudo em sede de interpretação; há um *plus* que, na quase universalidade dos casos, se tem de ir buscar à própria análise da situação real» (ASC, p. 236). Sedes anunciadas pelo Título V e por ler: o trecho aristotélico da equidade no n.º 353 (nota 273, p. 233) e as reservas à correcção da lei nos nn. 364-365 (notas 275 e 279).
 
 ## Relação entre as posições (Eixo B)
 

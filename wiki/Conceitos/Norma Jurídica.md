@@ -9,7 +9,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Norma Jurídica
@@ -68,6 +68,8 @@ O cap. V da fonte articula a estrutura da norma com a reacção do sistema à su
 ASC dá a mesma estrutura com terminologia própria: **previsão/estatuição** («antecedente»/«consequente» são menos expressivos), com a estatuição como efeito jurídico associado (obrigação de indemnizar ↔ danificação de coisa alheia) e a possibilidade de ordem inversa nos textos (o exemplo do autor: art. 88.º do CPC brasileiro) (ASC, pp. 44-45). À previsão chama *factispécie* — figura ou modelo dum «facto» (nota 41: a teoria dos modelos de Miguel Reale, *O Direito como Experiência*, em relato) —, discutindo a terminologia: «tipo legal» é equívoco, «hipótese normativa» de difícil generalização; do par *Tatbestand*/*fattispecie* e do latim medieval *factispecies* aportuguesa **factispécie** (p. 45). Na imperatividade, ASC afirma-a como «exigência incondicionada ou categórica de aplicação» de toda a ordem ética (p. 37), mas situa-a na ordem no seu conjunto, não em cada regra tomada por si (p. 39, com remissão ao n.º 286) — ponto de contacto com a dúvida de BM sobre a norma-imperativo (pp. 91-92, acima), em planos distintos (a ordem em ASC, a norma legislada em BM); a articulação fina fica para o comparativo, com a teoria da regra de ASC por ler.
 
 Do lado de ASC, a sanção é estatuição de uma **regra sancionatória** cuja previsão é a violação de outra regra, e a regra sancionatória pode ser por sua vez sancionada (ASC, p. 58; Thon em relato) — a noção, a tipologia funcional e o conflito entre as duas fontes sobre a natureza sancionatória da invalidade vivem em [[Conceitos/Sanção]] *(concretiza)*.
+
+**Camada do Título V (sessão 7, 2026-07-26) — a regra como régua rígida e o preço da generalidade.** A norma é «uma régua rígida, que abstrai das circunstâncias por ela não consideradas relevantes» — contraposta à régua maleável da equidade (ASC, p. 233; zona fraca, firmada por imagem na leitura do maestro e acrescentada ao grupo de citações da sessão 7 na triagem da revisão cega; [[Conceitos/Equidade]] *(concretiza)*); e a *factispécie* — a figura desta página — é justamente o que «limita por natureza o círculo de circunstâncias a que é dado recorrer» na aplicação (ASC, p. 236). O preço da generalidade fica dito sem rodeio: a lei, «por natureza genérica, não pode descer à infinita diversificação dos casos da vida», e «Uma solução fundada unicamente na lei é assim, por outro lado, uma solução relativamente injusta, qualquer que seja o seu conteúdo.» (ASC, p. 238) — é a função da regra jurídica como regra de conduta, com a sua previsibilidade, que a crítica de ASC às regras «cada vez mais elásticas» defende (ASC, p. 240; a tensão com a certeza vive em [[Conceitos/Segurança Jurídica]]).
 
 ## Distinção de figuras próximas
 

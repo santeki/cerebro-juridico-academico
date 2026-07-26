@@ -9,7 +9,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Jurisdição
@@ -73,6 +73,10 @@ A independência que a secção anterior trata pelo lado do estatuto tem, no cap
 
 Isto ilumina, por contraste, o caso-limite que esta página já registava: os *assentos* eram a excepção portuguesa à proposição de ASC — decisões que vinculavam para além do caso julgado —, e é por isso que BM tinha de os distinguir da «regra do precedente vinculante» em vez de os identificar com ela (BM, pp. 160-162). O quadro comparativo vive em [[Conceitos/Sistemas e Famílias Jurídicas]]; o regime de fontes em [[Conceitos/Fontes de Direito]].
 
+## Posição de Oliveira Ascensão (Título V, sessão 7)
+
+Quatro peças novas, todas do terreno da solução do caso. (1) O **tribunal arbitral**: o acordo das partes pode prever, para os litígios de uma relação disponível, a constituição de um tribunal arbitral, «que resolve o litígio fora da orgânica judiciária oficial; e a esse tribunal pode caber o poder de julgar segundo a equidade» (ASC, p. 235, firmada por imagem) — jurisdição convencionada fora da orgânica estadual, com o regime e os limites em [[Conceitos/Equidade]] *(concretiza)*. (2) A **discricionaridade** como solução não normativa: quando há poder discricionário «há solução do caso sem haver aplicação da regra», à luz do fim legal, e por isso «a actuação discricionária não é judicialmente controlável na sua totalidade, pois não há uma solução que se possa considerar a única imposta por lei» — quer na previsão, quer na estatuição (ASC, p. 232). (3) A **fixação judicial da consequência**: a sujeição à condenação só se transforma em sujeição à pena pela intervenção do órgão judicial, que doseia a pena às condições do infractor; o mesmo vale para as decisões constitutivas, em que o efeito só é obtenível em juízo (ASC, p. 239). (4) O **lugar do momento judicial**: «O momento judicial é normalmente, nomeadamente no Direito privado, um momento patológico da vida do direito, que quanto possível deve ser evitado» — «O templo do direito não é o Palácio da Justiça; é a praça pública onde os cidadãos pacificamente convivem.» (ASC, p. 241); e, do lado administrativo, a multiplicação das intervenções discricionárias oscila «entre o arbítrio e a asfixia burocrática» (ASC, p. 242). [Sinalização estrutural, sem mexer: as duas camadas ASC anteriores desta página — a independência como traço de sistema (sessão 4, acima) e a nota de coexistência do Título IV (abaixo) — vivem onde foram registadas; a consolidação numa única secção fica para o comparativo, na sede própria.]
+
 ## Distinção de figuras próximas
 
 Jurisdição e Administração distinguem-se orgânica e materialmente: a imparcialidade (terceiro *supra partes*) e o ponto de vista exclusivamente jurídico separam a decisão jurisdicional da administrativa, ainda quando esta é definitiva e inapelável (BM, pp. 145-146). A tutela judiciária é espécie da heterotutela — o quadro geral dos meios vive em [[Conceitos/Tutela do Direito]] *(concretiza)*. O juiz como «poder neutro» ao serviço da segurança face ao poder político articula-se com o Estado de Direito em [[Conceitos/Segurança Jurídica]]. Os poderes de discrição judicial (conceitos indeterminados, cláusulas gerais, *ius aequum*) vêm do cap. IV da fonte — [[Conceitos/Norma Jurídica]] e [[Conceitos/Codificação e Técnicas Legislativas]]. O lugar dos tribunais no sistema das fontes — os assentos como fonte mediata e a jurisprudência como «legislador complementar» — vive em [[Conceitos/Fontes de Direito]]. A obrigação de julgar, a norma *ad hoc* e a *political restraint* concretizam-se em [[Conceitos/Integração da Lei]] *(concretiza)*.
@@ -85,5 +89,4 @@ O n.º 127 dá o enquadramento orgânico pelo lado do Estado: o Estado vive **em
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] — cap. V, § 4º, pp. 139-151; cap. VI, pp. 160-163; cap. VII, pp. 194, 199 e 202-204; cap. IX, pp. 260-264; cap. XI, pp. 365 e 370-371 (leitura integral; confronto com o PDF em todas as folhas; art. 85º do Tratado CEE confirmado em EUR-Lex, CELEX 11957E085).
-- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — n.º 41, pp. 83 e 86 (sessão 1; âncoras conferidas na triagem de 2026-07-19).
-- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — Título III, cap. III, nn. 91-92, pp. 150-151 (sessão 4, 2026-07-24; a independência do juiz como traço do subsistema romanístico, adjudicada por imagem).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] — n.º 41, pp. 83 e 86 (sessão 1; âncoras conferidas na triagem de 2026-07-19); Título III, cap. III, nn. 91-92, pp. 150-151 (sessão 4, 2026-07-24; a independência do juiz como traço do subsistema romanístico, adjudicada por imagem); Título IV, nn. 123 e 127, pp. 209-216 (sessão 6); Título V, pp. 232, 235, 239 e 241-242 (sessão 7 — [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 7]]).

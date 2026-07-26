@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Noção de Direito
@@ -75,6 +75,8 @@ ASC converge frontalmente: «O Direito é uma ordem da sociedade, e não uma sec
 ### A definição integral (Título IV, n.º 122): facto, norma e valor
 
 O adiamento da p. 98 cumpre-se no Título IV (sessão 6): percorrido o valor da ordem jurídica, ASC dá a noção como resultado de «uma dialéctica, no sentido próprio desta noção» — «O ser ou facto, o dever ser ou norma e o valor ou fundamento concorrem para ela, não como aspectos que se excluem, mas como momentos de realização da ideia, que sucessivamente se vai enriquecendo.» (p. 207). E formula a **definição integral**, em itálico no impresso e firmada por imagem: «o direito é uma *ordem existente com o sentido de um dever ser, em cada sociedade, destinada a estabelecer os aspectos fundamentais da convivência e a criar condições para a realização das pessoas, e que se funda em regras com exigência absoluta de observância*» (p. 207). Às três dimensões correspondem, «no sentido mais aproximado possível» e nunca com correspondência perfeita, a eficácia, a validade formal e a legitimidade (pp. 207-208) — com as precisões de que vigência e validade não se confundem («Uma lei pode ser válida sem ser vigente, como a lei devidamente aprovada que ainda não entrou em vigor. E pode ser vigente sem ser válida: assim, a lei cuja inconstitucionalidade não foi ainda declarada com força obrigatória geral.», p. 207) e de que «também não é válida a lei contrária à ordem natural» (p. 207; o fundamento vive em [[Conceitos/Direito Justo]]; a distinção vigência/validade toca [[Conceitos/Vigência das Normas]]). O contraste que o próprio autor marca: no tridimensionalismo de Miguel Reale, em relato, «é a norma que ocupa o primeiro lugar: não a ordem ou o ordenamento global, ao contrário do que a nós se apresentou» — em ASC, facto e valor são camadas ônticas do próprio direito, não «momentos de um processo» (pp. 208-209, notas 249-250).
+
+**Camada do Título V (sessão 7, 2026-07-26)** — a entrada pela ordem ganha a sua formulação mais directa no fecho da crítica às tendências individualizadoras: contra a impressão de que «a deformação técnica de quem faz a lei» conduz a encarar o direito «como uma ordem dos profissionais do direito», a resposta é seca — «Mas não é assim: o direito é uma ordem da vida.» —, com o momento judicial como momento normalmente patológico da vida do direito e o remate «O templo do direito não é o Palácio da Justiça; é a praça pública onde os cidadãos pacificamente convivem.» (ASC, p. 241; o terreno da crítica vive em [[Conceitos/Equidade]] e [[Conceitos/Segurança Jurídica]]). É a mesma noção-ordem do n.º 122, agora como critério de política do direito.
 
 ## Relação entre as posições (Eixo B)
 

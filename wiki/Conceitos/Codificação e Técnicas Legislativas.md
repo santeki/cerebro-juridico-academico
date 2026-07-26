@@ -7,8 +7,9 @@ estado_verificacao: verificado
 revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
-fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-24
+estado_comparativo: aguarda-comparativo
+fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
+ultima_actualizacao: 2026-07-26
 ---
 
 # Codificação e Técnicas Legislativas
@@ -49,6 +50,10 @@ O ordenamento combina conceitos «determinados» (as «estruturas arquitectónic
 ### Sistematicidade e o trabalho do jurista
 
 O ordenamento concebe-se como *sistema aberto* (em nota, Ludwig von «BARTALANFFY» [sic], *General System Theory*, N.Y., 1968, p. 39; Javier Aracil, *Introducción a la dinámica de sistemas*, Madrid, 1978, pp. 15 e 40) (BM, p. 121). Para o projectista de leis: documentação histórica, jurisprudencial e comparada; atenção às ligações sistemáticas, remissões e ressalvas; rigor terminológico («rescisão», «revogação», «denúncia» ou «resolução»?); disposições transitórias (BM, pp. 121-122). Para o jurista-intérprete, o trabalho é «codificação-descodificação»: penetrar no «código genético» do sistema para o fazer concluso com vista ao caso — actividade *constitutiva*, não mera dedução —, servindo-se dos lugares paralelos e da localização sistemática (com a ressalva das normas «mal colocadas»), na convicção de que «a cada caso se "aplica" o sistema todo inteiro»; os juristas como «especialistas da clareza» (Bernard Gournay, *L'Administration*, Paris, 1967, p. 37, em nota) (BM, pp. 122-123).
+
+## Posição de Oliveira Ascensão (Título V, sessão 7 — cláusulas gerais e individualização)
+
+Primeira entrada desta fonte na página, pelo ângulo da solução do caso. As cláusulas gerais e os preceitos indeterminados são, em ASC, o primeiro dos processos de individualização na aplicação da norma: «Cada vez mais aparecem nas leis regras cujo conteúdo não é imediatamente apreensível, antes exige o confronto com categorias da vida social» — na terminologia anglo-americana, «são os *standarts* (padrões)» [sic — assim o impresso, adjudicado por imagem; o inglês corrente é *standards*] (ASC, p. 238); o exemplo maior é a boa fé do art. 762/2 do CC (na remissão da fonte), com a ponderação caso a caso a afastar «uma fixação inicial rígida dos deveres e direitos das partes», e «A possibilidade de fixação de caso para caso confere ao direito aquela maleabilidade que uma determinação completa pela lei por natureza excluiria.» (ASC, pp. 238-239). Duas delimitações articulam esta camada com o corpo BM da página: o preenchimento da cláusula geral não é juízo de equidade — o critério é o valorativo fixado na própria cláusula, «e não directamente à luz da Justiça» (ASC, p. 237) —, e a discricionaridade é outra coisa: solução não normativa à luz do fim legal, «preenchendo os espaços que as regras deixaram em branco», não controlável judicialmente na totalidade (ASC, p. 232). O reverso crítico — o perigo da «evasão nas cláusulas gerais» (Hedemann, em relato através de Orlando Gomes, nota 291) e a degradação da certeza — vive em [[Conceitos/Segurança Jurídica]] e em [[Conceitos/Equidade]] *(concretiza)*. A frente comparativa contra a distinção estrutural de BM (legalidade *vs* oportunidade, pp. 114-116, acima) está aberta na página da Equidade; `estado_comparativo: aguarda-comparativo`.
 
 ## Distinção de figuras próximas
 
