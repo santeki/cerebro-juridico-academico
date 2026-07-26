@@ -40,7 +40,7 @@ ultima_actualizacao: 2026-07-25
   10. Ramos do Direito (BM, cap. III, 1-6) — [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] — monocamada (BM, cap. III).
 
   III — Fontes do Direito
-  11. Fontes do Direito (BM, cap. VI, 1-8) — [[Conceitos/Fontes de Direito]] — monocamada (a remissão do guia corresponde exactamente aos §§ 1-8 do capítulo).
+  11. Fontes do Direito (BM, cap. VI, 1-8) — [[Conceitos/Fontes de Direito]] — monocamada (a remissão do guia corresponde exactamente aos §§ 1-8 do capítulo). **Nota de alcance ASC (2026-07-26, sessão 8 — Título VI, cap. I, parte 1)**: os nn. 143-168 dão a segunda voz sobre o mesmo recorte. **Candidato a bicamada, proposto e a aguardar autorização.**
   12. Vigência das Normas, hierarquia e conflito entre as normas (BM, cap. VI, 9-12) — [[Conceitos/Vigência das Normas]] — monocamada (a remissão do guia corresponde exactamente aos §§ 9-12 do capítulo).
 
   IV — A Norma Jurídica
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-25
   V — A tutela do Direito
   21. A tutela do Direito (BM, cap. V) — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V).
 
-- **Cobertura do programa**: 14 de 21 pontos cobertos, dos quais **1 em bicamada** (ponto 9 — BM cap. X + ASC Título III, cap. IV, desde 2026-07-24) e 13 em monocamada (pontos 2 e 10-21 — BM, caps. III-VIII e X, fechados em 2026-07-09/10/11; os pontos 2 e 9 com ressalva expressa: matéria coberta pelo cap. X de BM, recorte do guia — Freitas do Amaral — a conferir quando o FA entrar); 7 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
+- **Cobertura do programa**: **15 de 21 pontos cobertos** (correcção de coerência a 2026-07-26: a conversão do ponto 6 a monocamada, autorizada pelo aluno na sessão 7, tinha entrado no ponto e no PAINEL mas não neste somatório), dos quais **1 em bicamada** (ponto 9 — BM cap. X + ASC Título III, cap. IV, desde 2026-07-24) e 14 em monocamada (pontos 2, 6 e 10-21 — BM, caps. III-VIII e X, fechados em 2026-07-09/10/11; os pontos 2 e 9 com ressalva expressa: matéria coberta pelo cap. X de BM, recorte do guia — Freitas do Amaral — a conferir quando o FA entrar); 6 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)

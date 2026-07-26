@@ -51,7 +51,7 @@ ultima_actualizacao: 2026-07-25
   16. Modalidades de tutela quanto aos entes — [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] — monocamada (BM, cap. V: heterotutela/autotutela, §§ 2º-4º).
 
   VI. Fontes de Direito e Vigência das normas
-  17. Modalidades das fontes de Direito — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 1-8: problema, elenco, classificações, fontes em espécie).
+  17. Modalidades das fontes de Direito — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 1-8: problema, elenco, classificações, fontes em espécie). **Nota de alcance ASC (2026-07-26, sessão 8 — Título VI, cap. I, parte 1)**: a epígrafe do ponto coincide com a do capítulo lido («CAPÍTULO I — MODALIDADES»), e os nn. 143-168 cobrem-no de frente: noção de fonte, classificação genética, fontes comunitárias, equidade e doutrina como pretensas fontes, costume, usos e lei. **Candidato a bicamada, proposto e a aguardar autorização.** Os pontos 18-19 (vigência; hierarquia) esperam a sessão 9 e o Título VIII.
   18. Vigência das normas jurídicas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 9-10: entrada em vigor, *vacatio legis*, cessação; regime especial de 1976/1982, citado datado).
   19. Hierarquia e conflitos de normas — [[Conceitos/Vigência das Normas]] — monocamada (BM, cap. VI, §§ 11-12).
 

@@ -78,6 +78,10 @@ As duas fontes cortam a matéria por planos distintos que se compõem: BM dá o 
 
 A matéria vive agora em página própria — [[Conceitos/Sanção]] *(concretiza)* —, promovida a 2026-07-19 com a entrada da tipologia funcional de Oliveira Ascensão (decisão do aluno; registo no log). Lá se guardam a noção sistémica de BM («reacção da ordem jurídica», dois níveis, auto-referência do sistema — BM, pp. 133-134), a tipologia funcional de ASC (compulsórias, reconstitutivas, compensatórias, preventivas, punitivas — ASC, pp. 56-69) e o conflito documentado sobre a natureza sancionatória da invalidade.
 
+## Nota de coexistência (Título VI, cap. I do Ascensão, sessão 8)
+
+O capítulo das fontes dá o caso-limite desta página: o direito que subsiste sem tutela. Podendo o Estado vedar licitamente aos seus órgãos a aplicação de certos costumes, «os costumes não deixam de fundar regras da vida social, mas o Estado lhes recusa aplicação coactiva» — e o paralelo é o do pretor romano que dava ou denegava acção: «O costume subsiste, mas os beneficiários não podem fazer funcionar em seu proveito as engrenagens do poder público.» (ASC, p. 266). A dissociação entre a regra e a sua garantia é a mesma que sustenta a tese da não essencialidade da coercibilidade ([[Conceitos/Coercibilidade]]), e o desenvolvimento vive em [[Conceitos/Fontes de Direito]] *(concretiza)*.
+
 ## Distinção de figuras próximas
 
 A tutela do Direito (garantia da ordem objectiva) distingue-se da tutela dos direitos (garantia das posições subjectivas), entrelaçando-se ambas nos mesmos meios (BM, pp. 131-132; ver [[Conceitos/Direito Objectivo e Direito Subjectivo]]). A coercibilidade é a qualidade da norma que o aparelho de tutela assegura — o fundamento do nexo entre juridicidade e coacção vive em [[Conceitos/Coercibilidade]] *(concretiza)*. A sanção — noção, tipologia funcional e o conflito sobre a invalidade — vive em [[Conceitos/Sanção]] *(concretiza)*; a sua articulação com a estrutura da norma, em [[Conceitos/Norma Jurídica]]. A espécie judiciária da heterotutela — os tribunais, a sua legitimidade e a função jurisdicional — desenvolve-se em [[Conceitos/Jurisdição]] *(concretiza)*.

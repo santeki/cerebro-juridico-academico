@@ -39,7 +39,7 @@ ultima_actualizacao: 2026-07-25
 
   Parte V — Fontes do Direito
   6. O problema — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, § 1: positivação, «questão jurística», crítica ao fundamento factual da validade).
-  7. A Lei, as normas corporativas, a jurisprudência, a doutrina, o costume, os usos, os princípios fundamentais de Direito — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 2-8; a vigência e a hierarquia, fora do recorte desta Parte, em [[Conceitos/Vigência das Normas]]).
+  7. A Lei, as normas corporativas, a jurisprudência, a doutrina, o costume, os usos, os princípios fundamentais de Direito — [[Conceitos/Fontes de Direito]] — monocamada (BM, cap. VI, §§ 2-8; a vigência e a hierarquia, fora do recorte desta Parte, em [[Conceitos/Vigência das Normas]]). **Nota de alcance ASC (2026-07-26, sessão 8 — Título VI, cap. I, parte 1)**: cinco dos sete itens do recorte ficam cobertos por ASC — lei (nn. 157-165), normas corporativas e entes intermediários (n.º 160), doutrina (n.º 148), costume (nn. 149-156) e usos (n.º 156). A jurisprudência corre nos nn. 178-185 (sessão 9) e os princípios fundamentais não têm sede própria neste capítulo. **Candidato a bicamada parcial, proposto e a aguardar autorização.**
 
   Parte VI — Interpretação e integração da lei
   8. Interpretação: noção; modalidades; objectivos; elementos de interpretação; resultados de interpretação — [[Conceitos/Interpretação da Lei]] — monocamada (BM, cap. VII, Secções I-II e IV).
