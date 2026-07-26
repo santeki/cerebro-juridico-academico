@@ -1,4 +1,4 @@
-# VOZ-EVOLUCAO.md — evolução do fingerprint
+# VOZ-EVOLUCAO.md - evolução do fingerprint
 
 Registo append-only das actualizações aprovadas à voz (`PROTOCOLO-VOZ.md`, Evolução do fingerprint).
 

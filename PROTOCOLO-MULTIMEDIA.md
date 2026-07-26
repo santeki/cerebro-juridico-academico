@@ -1,6 +1,6 @@
-# PROTOCOLO-MULTIMEDIA.md — ingestão de áudio, vídeo e web
+# PROTOCOLO-MULTIMEDIA.md - ingestão de áudio, vídeo e web
 
-A maior parte das fontes é texto, mas nem toda: uma aula gravada, uma conferência académica, uma audição parlamentar, um post de blog jurídico. Estas fontes não se ingerem como um PDF, e tratá-las à pressa abre uma porta de erro — uma transcrição automática troca um nome de tribunal, confunde um latinismo, perde uma negação. Este sub-fluxo, importado dos cuidados de domínio do schema Nomos (§9), define como entram, sem baixar o rigor da cobertura integral nem da proveniência.
+A maior parte das fontes é texto, mas nem toda: uma aula gravada, uma conferência académica, uma audição parlamentar, um post de blog jurídico. Estas fontes não se ingerem como um PDF, e tratá-las à pressa abre uma porta de erro - uma transcrição automática troca um nome de tribunal, confunde um latinismo, perde uma negação. Este sub-fluxo, importado dos cuidados de domínio do schema Nomos (§9), define como entram, sem baixar o rigor da cobertura integral nem da proveniência.
 
 A regra de fundo não muda: a cobertura é sempre integral (a transcrição inteira lê-se, do início ao fim), o tratamento gradua-se por secção, e nenhuma afirmação se faz sem âncora. O que este protocolo acrescenta é o cuidado próprio de cada formato antes de a fonte poder ser tratada como reservatório fiel.
 
@@ -10,7 +10,7 @@ Nunca se ingere a partir do áudio ou do vídeo bruto. Ingere-se a partir de uma
 
 Geração da transcrição:
 1. Transcrever por motor ASR de qualidade (Whisper ou equivalente).
-2. Revisão humana mínima por amostragem: pelo menos 5% do texto cotejado contra o áudio, distribuído pelo corpo da gravação (não só o início), com correcção dirigida dos termos técnicos jurídicos — nomes de tribunais, designações de diplomas, latinismos, nomes de autores. É aqui que o ASR mais falha, e é o que mais custa caro numa nota.
+2. Revisão humana mínima por amostragem: pelo menos 5% do texto cotejado contra o áudio, distribuído pelo corpo da gravação (não só o início), com correcção dirigida dos termos técnicos jurídicos - nomes de tribunais, designações de diplomas, latinismos, nomes de autores. É aqui que o ASR mais falha, e é o que mais custa caro numa nota.
 3. Registar no frontmatter da transcrição: `transcricao_motor` (nome e versão), `transcricao_data` (data ISO), `transcricao_revisao_humana` (percentagem cotejada e responsável).
 
 Estatuto da transcrição, em paralelo com o tratamento de OCR não verificado:
@@ -19,7 +19,7 @@ Estatuto da transcrição, em paralelo com o tratamento de OCR não verificado:
 
 ## Web
 
-Uma página web é instável — muda, desaparece, perde-se. Não se ingere o URL: arquiva-se um **PDF impresso** da página em `raw/Multimédia/Web/`, e no frontmatter da leitura registam-se o URL e a data de captura. A fonte passa a ser o arquivo estável, não a página viva.
+Uma página web é instável - muda, desaparece, perde-se. Não se ingere o URL: arquiva-se um **PDF impresso** da página em `raw/Multimédia/Web/`, e no frontmatter da leitura registam-se o URL e a data de captura. A fonte passa a ser o arquivo estável, não a página viva.
 
 ## E-pub e outros formatos
 

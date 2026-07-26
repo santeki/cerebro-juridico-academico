@@ -1,4 +1,4 @@
-# Playbook — Professor
+# Playbook - Professor
 
 Fluxos de quem ensina. O agente lê este playbook, nunca o altera.
 
@@ -8,7 +8,7 @@ Fluxos de quem ensina. O agente lê este playbook, nunca o altera.
 2. Cartografar a matéria: listar os institutos que a compõem e mandá-los criar/actualizar como páginas de instituto. A cartografia é o esqueleto do programa.
 3. Para cada instituto, identificar os núcleos de divergência que merecem ir a aula e abrir páginas de debate.
 4. Construir a lista de leitura: o agente propõe, com patamar de confirmação por obra; o professor valida. Obras não confirmadas ficam marcadas, não entram como leitura obrigatória sem confirmação.
-5. Pedir ao agente um mapa de articulação inter-ramo da cadeira — onde a matéria toca outros ramos — para preparar as pontes que a aula deve fazer.
+5. Pedir ao agente um mapa de articulação inter-ramo da cadeira - onde a matéria toca outros ramos - para preparar as pontes que a aula deve fazer.
 
 ## Construir enunciados de exame
 

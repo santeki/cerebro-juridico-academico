@@ -29,10 +29,10 @@ ultima_actualizacao: AAAA-MM-DD
 {O critério ou facto que decidiria entre elas. Tensão genuína, não certeza fingida.}
 
 ## Fundamento da divergência (Comparativo 3)
-{Porque divergem: situação de cada autor, escola, método declarado. Hipótese marcada como tal — `> **Hipótese de fundamento doutrinário:** ...` — até validação. Não inferir posicionamento não declarado.}
+{Porque divergem: situação de cada autor, escola, método declarado. Hipótese marcada como tal - `> **Hipótese de fundamento doutrinário:** ...` - até validação. Não inferir posicionamento não declarado.}
 
 ## Consequências operativas (Comparativo 4)
 {Tipologia de casos onde a divergência altera o resultado.}
 
 ## Estado na jurisprudência
-{Como os tribunais têm decidido, se há decisões. Ancorado em DGSI. Se há desalinhamento doutrina ↔ jurisprudência (sub-tipo V), explicitá-lo — sinala o que cada parte invoca.}
+{Como os tribunais têm decidido, se há decisões. Ancorado em DGSI. Se há desalinhamento doutrina ↔ jurisprudência (sub-tipo V), explicitá-lo - sinala o que cada parte invoca.}

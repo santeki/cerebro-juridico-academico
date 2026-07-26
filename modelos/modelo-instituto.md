@@ -12,9 +12,9 @@ ultima_actualizacao: AAAA-MM-DD
 
 # {Instituto jurídico}
 
-> Estrutura em três blocos, espelhando as três lentes (`CLAUDE.md`). Os três blocos estão visíveis desde o nascimento da nota, mesmo com fonte única. O bloco que a fonte de origem não toca recebe entrada explícita — `> **Lacuna conhecida:** a fonte <X> não desce a este nível; aguarda fonte adicional` —; não se omitem blocos, para que a chegada de nova fonte preencha lugares pré-existentes em vez de reorganizar a nota.
+> Estrutura em três blocos, espelhando as três lentes (`CLAUDE.md`). Os três blocos estão visíveis desde o nascimento da nota, mesmo com fonte única. O bloco que a fonte de origem não toca recebe entrada explícita - `> **Lacuna conhecida:** a fonte <X> não desce a este nível; aguarda fonte adicional` -; não se omitem blocos, para que a chegada de nova fonte preencha lugares pré-existentes em vez de reorganizar a nota.
 
-## Bloco I — Construção dogmática (a lente do professor)
+## Bloco I - Construção dogmática (a lente do professor)
 
 ### Noção
 {A definição e exposição do instituto pela voz própria do cofre, nos termos da *Noção* do `modelo-conceito.md`: fundada nas posições das fontes (secção *Posições doutrinárias*, abaixo), na relação entre elas quando o justifique e na interrelação jurídica com os demais conceitos e institutos (wikilinks). Delimitação negativa (o que NÃO é). Distinguir definição legal de doutrinária. Cada afirmação ancorada.}
@@ -32,12 +32,12 @@ ultima_actualizacao: AAAA-MM-DD
 {Constituição, efeitos, modificação, extinção. Norma aplicável com referência completa (diploma, artigo, n.º, alínea) e versão vigente.}
 
 ### Evolução histórica
-{Origem romanística / ius commune / BGB / Code Civil / Código de Seabra / CC actual. Só quando a fonte a tocar — não inventar.}
+{Origem romanística / ius commune / BGB / Code Civil / Código de Seabra / CC actual. Só quando a fonte a tocar - não inventar.}
 
 ### Posições doutrinárias
 {Obrigatório quando ≥ 2 fontes divergem: posição maioritária · minoritária(s) · zonas de dissídio · consequências práticas de cada leitura. Patamar N1/N2 explícito. Síntese comparativa do Eixo B vive aqui.}
 
-## Bloco II — Aplicação no exercício (a lente do advogado)
+## Bloco II - Aplicação no exercício (a lente do advogado)
 
 ### Pressupostos a provar
 {O que cabe à parte demonstrar.}
@@ -54,13 +54,13 @@ ultima_actualizacao: AAAA-MM-DD
 ### Checklists para peças
 {Matéria a verificar antes de articular um pedido, contestar, recorrer.}
 
-## Bloco III — Critério de decisão (a lente do juiz)
+## Bloco III - Critério de decisão (a lente do juiz)
 
 ### Linha jurisprudencial
 {Padrão seguido pelos tribunais: AFJ se houver, linha do STJ/TC, divergências entre Relações, TJUE/TEDH quando aplicável. Narrativa, não lista bruta. Distinguir ratio de obiter.}
 
 ### Desalinhamento doutrina / jurisprudência (se existir)
-{Ex.: «doutrina maioritária defende X; STJ uniforme decide não-X». Um dos outputs mais valiosos — sinala o que cada parte invocaria. Sub-tipo (V) do Eixo B.}
+{Ex.: «doutrina maioritária defende X; STJ uniforme decide não-X». Um dos outputs mais valiosos - sinala o que cada parte invocaria. Sub-tipo (V) do Eixo B.}
 
 ### Jurisprudência-chave
 {Lista de acórdãos com nota própria. Wikilinks para [[Jurisprudência/...]].}
@@ -68,10 +68,10 @@ ultima_actualizacao: AAAA-MM-DD
 ## Articulação transversal (obrigatória)
 
 {Onde este instituto ressoa noutros ramos. O Direito é sistema. Wikilinks:}
-- *Espelho em*: [[...]] — ligação curta.
-- *Contrasta com*: [[...]] — mesmo nome, regime diferente (cuidado com homonímia).
-- *Pressupõe*: [[...]] — conceito de Introdução ao Direito / TGDC em que assenta.
-- *É pressuposto por*: [[...]] — conceitos que dele dependem.
+- *Espelho em*: [[...]] - ligação curta.
+- *Contrasta com*: [[...]] - mesmo nome, regime diferente (cuidado com homonímia).
+- *Pressupõe*: [[...]] - conceito de Introdução ao Direito / TGDC em que assenta.
+- *É pressuposto por*: [[...]] - conceitos que dele dependem.
 
 ## Dúvidas registadas em aberto
 {Bloco com as duas etiologias (conteúdo / scan), conforme o protocolo de ingestão. Cada dúvida visível enquanto não resolvida.}

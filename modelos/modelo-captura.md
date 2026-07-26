@@ -11,7 +11,7 @@ data: AAAA-MM-DD
 
 > Nota fugaz. Provisória, não citável, não verificada. Existe para não se perder antes da triagem (`PROTOCOLO-CAPTURA.md`). Fricção mínima: basta o pensamento e, se houver, a origem.
 
-{O pensamento, tal como ocorreu. Uma dúvida, uma intuição, uma ligação, um lembrete de fonte a ler. Sem obrigação de ancoragem neste momento — isso é trabalho da triagem.}
+{O pensamento, tal como ocorreu. Uma dúvida, uma intuição, uma ligação, um lembrete de fonte a ler. Sem obrigação de ancoragem neste momento - isso é trabalho da triagem.}
 
 ---
 *Triagem*: promover a permanente · pergunta de estudo · tarefa de ingestão · descartar.

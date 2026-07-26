@@ -10,7 +10,7 @@ data_entrada_vigor:                 # vacatio legis
 em_vigor: true                      # false enquanto em vacatio; converte na data de entrada em vigor
 estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD
-legislacao_verificada_em: AAAA-MM-DD   # última confirmação no DRE/EUR-Lex — a consulta e a auditoria vigiam a idade
+legislacao_verificada_em: AAAA-MM-DD   # última confirmação no DRE/EUR-Lex - a consulta e a auditoria vigiam a idade
 ---
 
 # {Diploma}

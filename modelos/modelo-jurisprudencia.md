@@ -29,7 +29,7 @@ Tribunal: ___ · Secção: ___ · Data: ___ · Processo: ___ · ECLI: ___ · Rel
 {O critério de decisão. Distinguir ratio de obiter; na dúvida, `> **Ratio/obiter incerto:** {fundamentação}`.}
 
 ## Declarações de voto
-{Quando existam: dissensão dentro do colectivo, não obiter — posição de cada voto; liga ao Eixo B quando toque instituto com página.}
+{Quando existam: dissensão dentro do colectivo, não obiter - posição de cada voto; liga ao Eixo B quando toque instituto com página.}
 
 ## Institutos convocados
 {Wikilinks para [[Institutos/...]].}

@@ -1,15 +1,15 @@
 ---
 tipo: linha-jurisprudencial
-titulo: "Linha jurisprudencial — {Questão}"
+titulo: "Linha jurisprudencial - {Questão}"
 instituto: "[[Institutos/...]]"
 ramo: []
 estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD
 ---
 
-# Linha jurisprudencial — {Questão}
+# Linha jurisprudencial - {Questão}
 
-> Evolução da posição dos tribunais sobre uma questão, ao longo do tempo. Narrativa, não lista bruta. Cada acórdão com tribunal, secção, data, processo, ECLI (quando exista), relator quando útil — confirmados em DGSI, nunca reconstruídos de memória. Distinguir *ratio* de *obiter*.
+> Evolução da posição dos tribunais sobre uma questão, ao longo do tempo. Narrativa, não lista bruta. Cada acórdão com tribunal, secção, data, processo, ECLI (quando exista), relator quando útil - confirmados em DGSI, nunca reconstruídos de memória. Distinguir *ratio* de *obiter*.
 
 ## Questão
 {O ponto de Direito sobre o qual a linha se forma.}
@@ -18,8 +18,8 @@ ultima_actualizacao: AAAA-MM-DD
 {A posição hoje: uniforme, dividida, com AFJ, em viragem. Numa frase.}
 
 ## Evolução
-- **{Acórdão 1}** — {tribunal, data, processo, ECLI} — {ratio, numa frase ancorada}. [[Jurisprudência/...]]
-- **{Acórdão 2}** — {...} — {confirma / inflecte / contraria o anterior}.
+- **{Acórdão 1}** - {tribunal, data, processo, ECLI} - {ratio, numa frase ancorada}. [[Jurisprudência/...]]
+- **{Acórdão 2}** - {...} - {confirma / inflecte / contraria o anterior}.
 - {...}
 
 ## Divergências por nível

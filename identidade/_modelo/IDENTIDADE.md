@@ -4,7 +4,7 @@ instituicao: "{Nome}"
 instalada_em: AAAA-MM-DD
 ---
 
-# Identidade — {Instituição}
+# Identidade - {Instituição}
 
 > Manifesto da identidade visual. Cada valor com a sua origem (exemplar, manual de normas, medição) ou a marca «assumido». A regra-âncora visual aplica-se (`PROTOCOLO-PRODUCAO.md`): nada se aproxima a olho.
 
@@ -32,7 +32,7 @@ instalada_em: AAAA-MM-DD
 {O que muda entre parecer/memorando, sebenta, apresentação, carta.}
 
 ## Assumidos
-{Lista datada do que foi assumido sem material que o mostre — a afinar na primeira produção de cada tipo.}
+{Lista datada do que foi assumido sem material que o mostre - a afinar na primeira produção de cada tipo.}
 
 ## Exemplares
 {Os ficheiros de `exemplares/` usados na extracção e no probe.}

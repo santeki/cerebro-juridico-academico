@@ -14,8 +14,8 @@ cerebro-juridico-academico/
 ├── PROTOCOLO-PRODUCAO.md           # do conteúdo ao produto (documentos com identidade)
 ├── PROTOCOLO-EMPACOTAMENTO.md      # da instância de referência à edição distribuída
 ├── EDICAO.md                       # rótulo da edição distribuída (preenchido na origem)
-├── PROTOCOLO-INGESTAO.md           # Eixo A — estudo de fonte
-├── PROTOCOLO-ANALISE-COMPARATIVA.md # Eixo B — comparação de fontes sobre um conceito
+├── PROTOCOLO-INGESTAO.md           # Eixo A - estudo de fonte
+├── PROTOCOLO-ANALISE-COMPARATIVA.md # Eixo B - comparação de fontes sobre um conceito
 ├── PROTOCOLO-CONSULTA.md           # responder a partir da wiki
 ├── PROTOCOLO-AUDITORIA.md          # verificação de saúde em quatro planos
 ├── PROTOCOLO-CAPTURA.md            # captura rápida (inbox)
@@ -90,7 +90,7 @@ cerebro-juridico-academico/
 └── archive/                        # histórico rotacionado
 ```
 
-As pastas curriculares criam-se quando o material entra — não se criam vazias. Regra de arrumação em `raw/`: o material da cadeira (programa, slides, sebentas, textos distribuídos pelo docente, enunciados e correcções, casos práticos) vive na pasta da cadeira; a obra ou fonte que sirva mais do que uma cadeira vive na `Biblioteca/`; em dúvida, entra na cadeira que motivou a entrada — a página de fonte na wiki regista o caminho, e mover mais tarde é legítimo desde que a página se actualize.
+As pastas curriculares criam-se quando o material entra - não se criam vazias. Regra de arrumação em `raw/`: o material da cadeira (programa, slides, sebentas, textos distribuídos pelo docente, enunciados e correcções, casos práticos) vive na pasta da cadeira; a obra ou fonte que sirva mais do que uma cadeira vive na `Biblioteca/`; em dúvida, entra na cadeira que motivou a entrada - a página de fonte na wiki regista o caminho, e mover mais tarde é legítimo desde que a página se actualize.
 
 ## Regras de path
 
@@ -102,26 +102,30 @@ As pastas curriculares criam-se quando o material entra — não se criam vazias
 
 ## Notas transversais vs aplicações de ramo (o Direito é sistema)
 
-Princípios, institutos e conceitos transversais (boa-fé atravessa Civil, Comercial, Administrativo; proporcionalidade atravessa Constitucional, Administrativo, Penal) vivem como página canónica única na categoria respectiva de `wiki/` — uma e só uma página por conceito. A categoria (princípio, instituto, conceito) vive no frontmatter, é plural e mutável: a classificação que cada fonte dá regista-se, sem mover o ficheiro.
+Princípios, institutos e conceitos transversais (boa-fé atravessa Civil, Comercial, Administrativo; proporcionalidade atravessa Constitucional, Administrativo, Penal) vivem como página canónica única na categoria respectiva de `wiki/` - uma e só uma página por conceito. A categoria (princípio, instituto, conceito) vive no frontmatter, é plural e mutável: a classificação que cada fonte dá regista-se, sem mover o ficheiro.
 
 A aplicação de um conceito a um ramo concreto (`boa-fé contratual`) é página própria que liga de volta à transversal. Teste: trata «o que é X» → página transversal; trata «como X opera no ramo Y» → página de aplicação. Promoção de aplicação a transversal quando o conteúdo cita ≥ 2 ramos ou duplica outras aplicações do mesmo conceito.
 
-**Homonímia inter-ramo.** Dois conceitos diferentes com o mesmo nome (dolo civil vs dolo penal) desambiguam-se com sufixo entre parêntesis — p. ex., `Dolo (Civil).md`, `Dolo (Penal).md`, e uma página `Dolo.md` de desambiguação com contraste sintético. Cross-linking obrigatório entre as três.
+### Homonímia inter-ramo
+
+Dois conceitos diferentes com o mesmo nome (dolo civil vs dolo penal) desambiguam-se com sufixo entre parêntesis - p. ex., `Dolo (Civil).md`, `Dolo (Penal).md`, e uma página `Dolo.md` de desambiguação com contraste sintético. Cross-linking obrigatório entre as três.
 
 ## Nomenclatura de páginas
 
-- Pastas e ficheiros de conteúdo — em `raw/` e em `wiki/` — usam capitalização natural portuguesa, com espaços e acentos preservados. Ex.: `wiki/Institutos/Princípio da Proporcionalidade.md`, `raw/Biblioteca/Jurisprudência/Supremo Tribunal de Justiça/`.
+- Pastas e ficheiros de conteúdo - em `raw/` e em `wiki/` - usam capitalização natural portuguesa, com espaços e acentos preservados. Ex.: `wiki/Institutos/Princípio da Proporcionalidade.md`, `raw/Biblioteca/Jurisprudência/Supremo Tribunal de Justiça/`.
 - Ficheiros de máquina mantêm nome técnico e não se naturalizam: `CLAUDE.md`, `CONVENCOES.md`, `PROTOCOLO-*.md`, `modelos/`, `playbooks/`, `index.md`, `log.md`, os ficheiros de serviço em maiúsculas (`GLOSSARIO.md`, `PAINEL.md`, `ESTADO-RESUMO.md`, `MELHORIA.md`, `GATILHOS.md`, `SUPRESSAO-LIST.md`, `VOZ-FINGERPRINT.md`) e o sufixo funcional `-RESUMO`.
 - Doutrina (página de autor): nome completo natural. Ex.: `wiki/Doutrina/José de Oliveira Ascensão.md`.
 - Jurisprudência: `Acórdão <Tribunal> n.º <n>-<ano>, de <data por extenso>.md`. Ex.: `wiki/Jurisprudência/Acórdão TC n.º 353-2012, de 5 de Julho de 2012.md`. O número de processo usa hífen no lugar da barra.
 - Legislação: pelo nome natural do diploma ou do artigo. Ex.: `wiki/Legislação/Código Civil.md`, `wiki/Legislação/Artigo 483.º CC.md`.
 - Vista de faculdade: `<Faculdade> — <Curso>.md` em `wiki/Faculdades/`. Ex.: `NOVA School of Law — Direito.md`.
 - Fonte de avaliação: `<Cadeira> — <Docente> — <Ano> — <Tipo>.md` em `wiki/Avaliação/`. Ex.: `Direito Civil II — {Docente} — 2024 — Exame de Recurso.md`. O docente entra no nome porque o padrão de avaliação é por docente.
-- Caracteres proibidos em nomes de ficheiro: `/ \ : * ? " < > |` — substituem-se por hífen; vírgulas, pontos ordinais (º), travessões e acentos são permitidos e desejados quando naturais.
-- Os valores de `tipo:` e dos demais campos de frontmatter são vocabulário de máquina — minúsculas, hífenes, sem acentos (`fonte-avaliacao`, `linha-jurisprudencial`) — e não se naturalizam: a naturalização vale para nomes de pastas e de ficheiros de conteúdo, não para o schema.
+- Caracteres proibidos em nomes de ficheiro: `/ \ : * ? " < > |` - substituem-se por hífen; vírgulas, pontos ordinais (º), travessões e acentos são permitidos e desejados quando naturais.
+- Os valores de `tipo:` e dos demais campos de frontmatter são vocabulário de máquina - minúsculas, hífenes, sem acentos (`fonte-avaliacao`, `linha-jurisprudencial`) - e não se naturalizam: a naturalização vale para nomes de pastas e de ficheiros de conteúdo, não para o schema.
 
 
-**Separação corpo / vista (multi-faculdade).** As páginas de conhecimento — instituto, conceito, doutrina, fonte — são o corpo, e nomeiam-se sempre pelo instituto ou conceito jurídico, **nunca** pela cadeira ou pela faculdade. O nome da cadeira, a terminologia local, o ano e o docente são atributos da vista (`wiki/Faculdades/<Faculdade>.md`), não da página. O mapeamento cadeira↔páginas é de muitos-para-muitos: a mesma página de «Abuso do Direito» pode ser apontada pela cadeira agregadora de uma faculdade e pela cadeira mais estreita de outra, via wikilink, sem que a página saiba quantas vistas a invocam. Servir mais faculdades é acrescentar vistas, nunca duplicar o corpo.
+### Separação corpo / vista (multi-faculdade)
+
+As páginas de conhecimento - instituto, conceito, doutrina, fonte - são o corpo, e nomeiam-se sempre pelo instituto ou conceito jurídico, **nunca** pela cadeira ou pela faculdade. O nome da cadeira, a terminologia local, o ano e o docente são atributos da vista (`wiki/Faculdades/<Faculdade>.md`), não da página. O mapeamento cadeira↔páginas é de muitos-para-muitos: a mesma página de «Abuso do Direito» pode ser apontada pela cadeira agregadora de uma faculdade e pela cadeira mais estreita de outra, via wikilink, sem que a página saiba quantas vistas a invocam. Servir mais faculdades é acrescentar vistas, nunca duplicar o corpo.
 
 ## Frontmatter (YAML) obrigatório por página
 
@@ -135,25 +139,31 @@ estado_verificacao: verificado | parcial | em-aberto
 cobertura: integral   # invariante: fonte ingerida é lida do início ao fim; o tratamento por secção (núcleo/periferia/contexto) regista-se na página de fonte
 relacao: complementares | compativeis | distintas | em-conflito   # quando ≥ 2 fontes tratam o conceito (Eixo B)
 estado_comparativo: aguarda-comparativo | comparativo-n-em-curso | comparativa   # ciclo do Eixo B
-# os três campos revisao_* seguintes são opcionais (presentes apenas em páginas dentro do ciclo — regime opt-in, PROTOCOLO-PAINEL.md)
+# os três campos revisao_* seguintes são opcionais (presentes apenas em páginas dentro do ciclo - regime opt-in, PROTOCOLO-PAINEL.md)
 revisao_ultima: AAAA-MM-DD          # para institutos e conceitos: revisão espaçada (PROTOCOLO-PAINEL.md)
 revisao_intervalo: 1                 # dias até à próxima revisão; expande com o sucesso (1→3→7→16→35)
 revisao_proxima: AAAA-MM-DD          # = revisao_ultima + revisao_intervalo; o painel lê este campo
-vigencia_conferida: AAAA-MM-DD       # opcional — data do último confronto das normas citadas na página contra o consolidado oficial (DRE/EUR-Lex); o crivo relata as páginas de conceito que citam norma sem este carimbo e valida o formato quando presente (6.22)
+vigencia_conferida: AAAA-MM-DD       # opcional - data do último confronto das normas citadas na página contra o consolidado oficial (DRE/EUR-Lex); o crivo relata as páginas de conceito que citam norma sem este carimbo e valida o formato quando presente (6.22)
 fontes: ["[[Fontes/...]]", ...]
 ultima_actualizacao: AAAA-MM-DD
 ---
 ```
 
-Campos só presentes quando aplicáveis (`relacao`, `estado_comparativo` em notas tocadas por mais de uma fonte). Páginas de legislação acrescentam os campos de vigência/vacatio (ver `modelos/modelo-legislacao.md`). Páginas de fonte acrescentam `fiabilidade:` (primaria-oficial | doutrina-verificada | institucional | apontamento-proprio) e `procedencia:` (edicao | local) — ver `modelos/modelo-fonte.md`. Campo transversal opcional em qualquer página: `triangulacao_pendente:` — fonte primária por obter, na citação por fonte secundária inacessível (`PROTOCOLO-INGESTAO.md`).
+Campos só presentes quando aplicáveis (`relacao`, `estado_comparativo` em notas tocadas por mais de uma fonte). Páginas de legislação acrescentam os campos de vigência/vacatio (ver `modelos/modelo-legislacao.md`). Páginas de fonte acrescentam `fiabilidade:` (primaria-oficial | doutrina-verificada | institucional | apontamento-proprio) e `procedencia:` (edicao | local) - ver `modelos/modelo-fonte.md`. Campo transversal opcional em qualquer página: `triangulacao_pendente:` - fonte primária por obter, na citação por fonte secundária inacessível (`PROTOCOLO-INGESTAO.md`).
 
-**Granularidade das páginas — quando nasce página própria.** Um conceito ganha página própria quando tem operação jurídica autónoma — jurisprudência dedicada, doutrina dedicada, regime próprio, ou atravessa ramos; sim a qualquer destas → página. Quando a sua existência se esgota como tipologia interna de outra (elementos, modalidades, classificações), vive como secção dessa página, nunca como página-satélite rala. E entre o instituto canónico e a página de aplicação de ramo, a fronteira é de conteúdo, com promoção regulada: a aplicação trata «como X opera no ramo Y» e remete ao canónico; quando passa a citar material de ≥ 2 ramos, ou a duplicar o que já vive noutra aplicação do mesmo conceito, o conteúdo desligado do ramo sobe ao instituto canónico — migra-se o transversal, reescreve-se a aplicação para o estritamente ramificado, actualizam-se as ligações, e a operação regista-se no log.
+### Granularidade das páginas - quando nasce página própria
 
-**Relações tipadas mínimas.** Nos blocos de conexões das páginas de instituto e de debate, o wikilink cuja natureza importe leva o tipo entre parênteses, de vocabulário fechado a três: *(contraria)*, *(concretiza)*, *(excepciona)* — p. ex., «[[Institutos/Abuso do Direito]] *(excepciona)*». Fora destes dois tipos de página, e sempre que a natureza nada acrescente, o link fica nu. A taxonomia completa de relações foi avaliada e recusada como peso morto; estes três existem porque no Direito a natureza do vínculo decide o argumento — contrariar, concretizar e excepcionar são movimentos diferentes com consequências diferentes.
+Um conceito ganha página própria quando tem operação jurídica autónoma - jurisprudência dedicada, doutrina dedicada, regime próprio, ou atravessa ramos; sim a qualquer destas → página. Quando a sua existência se esgota como tipologia interna de outra (elementos, modalidades, classificações), vive como secção dessa página, nunca como página-satélite rala. E entre o instituto canónico e a página de aplicação de ramo, a fronteira é de conteúdo, com promoção regulada: a aplicação trata «como X opera no ramo Y» e remete ao canónico; quando passa a citar material de ≥ 2 ramos, ou a duplicar o que já vive noutra aplicação do mesmo conceito, o conteúdo desligado do ramo sobe ao instituto canónico - migra-se o transversal, reescreve-se a aplicação para o estritamente ramificado, actualizam-se as ligações, e a operação regista-se no log.
 
-**Arquitectura de sedes.** Cada regra do sistema tem uma única definição canónica — no `CLAUDE.md` se é lei de comportamento, nas `CONVENCOES.md` se é forma, no protocolo próprio se é procedimento. Os demais ficheiros usam-na com remissão nomeada («regra 5 do `CLAUDE.md`») e acrescentam apenas o delta operativo do seu contexto; modelos e glossário podem legendar em miniatura, porque a legenda inline é função do template, não segunda definição. Re-explicar uma regra onde ela se aplica é o começo da deriva: quando duas formulações da mesma regra divergirem, a canónica vence e a outra corrige-se ou converte-se em remissão. `estado_verificacao`: `verificado` exige cada afirmação ancorada; `parcial` sinaliza blocos por confirmar; `em-aberto` marca página de trabalho não citável.
+### Relações tipadas mínimas
 
-Campo opcional em qualquer página: `revisto_pelo_aluno: AAAA-MM-DD` — regista a revisão humana. Página revista: as atribuições e classificações nela contidas tratam-se, em sessões futuras, como confirmadas pelo aluno à data indicada; alterações posteriores reabrem a revisão. A ausência do campo não rebaixa a página — a revisão é selectiva; a auditoria pode listar páginas nucleares nunca revistas, como informação, não como falha.
+Nos blocos de conexões das páginas de instituto e de debate, o wikilink cuja natureza importe leva o tipo entre parênteses, de vocabulário fechado a três: *(contraria)*, *(concretiza)*, *(excepciona)* - p. ex., «[[Institutos/Abuso do Direito]] *(excepciona)*». Fora destes dois tipos de página, e sempre que a natureza nada acrescente, o link fica nu. A taxonomia completa de relações foi avaliada e recusada como peso morto; estes três existem porque no Direito a natureza do vínculo decide o argumento - contrariar, concretizar e excepcionar são movimentos diferentes com consequências diferentes.
+
+### Arquitectura de sedes
+
+Cada regra do sistema tem uma única definição canónica - no `CLAUDE.md` se é lei de comportamento, nas `CONVENCOES.md` se é forma, no protocolo próprio se é procedimento. Os demais ficheiros usam-na com remissão nomeada («regra 5 do `CLAUDE.md`») e acrescentam apenas o delta operativo do seu contexto; modelos e glossário podem legendar em miniatura, porque a legenda inline é função do template, não segunda definição. Re-explicar uma regra onde ela se aplica é o começo da deriva: quando duas formulações da mesma regra divergirem, a canónica vence e a outra corrige-se ou converte-se em remissão. `estado_verificacao`: `verificado` exige cada afirmação ancorada; `parcial` sinaliza blocos por confirmar; `em-aberto` marca página de trabalho não citável.
+
+Campo opcional em qualquer página: `revisto_pelo_aluno: AAAA-MM-DD` - regista a revisão humana. Página revista: as atribuições e classificações nela contidas tratam-se, em sessões futuras, como confirmadas pelo aluno à data indicada; alterações posteriores reabrem a revisão. A ausência do campo não rebaixa a página - a revisão é selectiva; a auditoria pode listar páginas nucleares nunca revistas, como informação, não como falha.
 
 ## Convenção tipográfica (house style)
 
@@ -161,31 +171,41 @@ PT-PT canónico, em toda a wiki:
 - Aspas curvas «...» para citação literal breve em português.
 - Itálico para termos ou expressões em língua estrangeira ou latim (*ratio decidendi*, *Drittwirkung*).
 - Citação literal em língua estrangeira: aspas curvas e itálico cumulativamente, ou bloco `>` quando longo.
-- Travessões com espaços ( — ) para incisos. Hífenes para palavras compostas. (Ao contrário do sistema da Augusta Labs, aqui os travessões são correctos e esperados — pontuação canónica do PT-PT.)
+- **O travessão «—» não se usa, em função nenhuma.** O substituto permanente é o hífen «-», sem excepção de função: aposto, inciso, enumeração, diálogo, intervalo, quebra de frase. A regra aplica-se automaticamente e não admite ponderação caso a caso. Vale em toda a escrita do sistema, sem distinção entre o conteúdo do cofre e a resposta em conversa. **Excepção única de substância**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; o travessão preserva-se, então, dentro das aspas curvas, do bloco `>` e do trecho em código. **Excepção técnica**: os nomes de ficheiro que já contêm «—» e os wikilinks que para eles apontam, cuja alteração é renomeação com migração de ligações, não escrita; a nomenclatura nova não os usa. Hífenes para palavras compostas, como sempre.
 - Ordinais º/ª solto, sem ponto: «art. 483º», «3.ª edição».
 - O leitor distingue instantaneamente texto da fonte (citação) de texto do agente (paráfrase/síntese).
 
-**Prosa contínua nos produtos de leitura.** Respostas desenvolvidas, sebentas e documentos escrevem-se em prosa corrida, para leitura fluida por estudante, docente ou profissional. A paráfrase fiel, por palavras próprias, é a forma por defeito da exposição; a citação literal «...» reserva-se para as fórmulas em que a letra pesa — definições canónicas, formulações que o exame recompensa palavra a palavra. As referências de página agregam-se no fim do parágrafo ou da unidade de sentido — (Autor, pp. X-Y) —, nunca intercaladas cláusula a cláusula: texto costurado de fragmentos citados com âncora a cada oração é mosaico, não prosa. A ancoragem fina, frase a frase, mantém-se integral na camada de conhecimento — páginas de fonte e notas —, que é onde a verificação vive; o produto de leitura remete para ela, não a transporta toda. Nada disto afrouxa a regra-âncora: a fidelidade garante-se pela verificação contra a fonte, não pela transcrição em mosaico.
+### Sem rótulo-tese a abrir parágrafo
 
-Pareceres de órgãos com função consultiva ou para-jurisdicional — Comissão Constitucional, Procuradoria-Geral da República, entidades reguladoras — têm peso quasi-primário: a página segue a ficha de jurisprudência adaptada (`modelos/modelo-jurisprudencia.md` — órgão, n.º e data do parecer, relator quando exista, declarações de voto), com tipo `jurisprudencia`, não a página de autor. Em `raw/`, o arquivo pode manter-se em `Doutrina/Pareceres/`.
+Nenhum parágrafo, em página do cofre ou em resposta, abre com rótulo a negrito ou itálico que anuncie o tema antes de o desenvolver («**Duas camadas.**», «**Eixo subjectivo.**», «**Sanção:**», «**Por que X falha.**»). O parágrafo começa pela afirmação substantiva. Uma enumeração admite numeração nua, como (a), (b), (c), mas não título temático antes de cada item. Distinguem-se do rótulo-tese, e mantêm-se: os cabeçalhos de secção em `#`, que são estrutura do documento e não abertura de parágrafo; o negrito **dentro** de um parágrafo para destacar o termo que o parágrafo define; e as linhas de lista de um inventário, onde o item nomeado é o próprio dado. A regra é a mesma para o cofre e para a conversa, porque o vício é o mesmo: sinalizar a estrutura em vez de a construir, e conduzir um leitor que não precisa de ser conduzido.
+
+### Sinais de escrita automática banidos
+
+Em lista exemplificativa e não exaustiva, banem-se o molde contrastivo em série («não é X, é Y», «mais do que X, trata-se de Y»); as tríades rituais (três adjectivos, três exemplos, três orações paralelas em cadência previsível); o negrito, os títulos e a estrutura em lista onde a prosa corrida serviria; os conectores mecânicos a abrir parágrafos consecutivos («além disso», «por outro lado», «em suma»); o fecho-resumo que repete o que acabou de ser dito; e a reformulação da pergunta a abrir a resposta. Parágrafos sucessivos não abrem com a mesma fórmula introdutória nem com molduras de transição («quanto a X», «no que respeita a Y», «importa notar que», «reduzido ao essencial», «em suma»): o recurso pontual é legítimo, o vício é a repetição do molde. O texto lê-se como prosa de jurista culto, com frases de comprimento desigual, parágrafos de dimensão irregular e conectores variados, sem molde constante que fixe uma assinatura reconhecível.
+
+### Prosa contínua nos produtos de leitura
+
+Respostas desenvolvidas, sebentas e documentos escrevem-se em prosa corrida, para leitura fluida por estudante, docente ou profissional. A paráfrase fiel, por palavras próprias, é a forma por defeito da exposição; a citação literal «...» reserva-se para as fórmulas em que a letra pesa - definições canónicas, formulações que o exame recompensa palavra a palavra. As referências de página agregam-se no fim do parágrafo ou da unidade de sentido - (Autor, pp. X-Y) -, nunca intercaladas cláusula a cláusula: texto costurado de fragmentos citados com âncora a cada oração é mosaico, não prosa. A ancoragem fina, frase a frase, mantém-se integral na camada de conhecimento - páginas de fonte e notas -, que é onde a verificação vive; o produto de leitura remete para ela, não a transporta toda. Nada disto afrouxa a regra-âncora: a fidelidade garante-se pela verificação contra a fonte, não pela transcrição em mosaico.
+
+Pareceres de órgãos com função consultiva ou para-jurisdicional - Comissão Constitucional, Procuradoria-Geral da República, entidades reguladoras - têm peso quasi-primário: a página segue a ficha de jurisprudência adaptada (`modelos/modelo-jurisprudencia.md` - órgão, n.º e data do parecer, relator quando exista, declarações de voto), com tipo `jurisprudencia`, não a página de autor. Em `raw/`, o arquivo pode manter-se em `Doutrina/Pareceres/`.
 
 ## Ficheiros de navegação
 
 - `index.md`: catálogo por categoria, cada página com link e uma linha de resumo. Actualizado a cada ingestão.
 - `log.md`: cronológico, append-only. Prefixo canónico parseável: `## [AAAA-MM-DD] Tipo | descrição`. Tipos em `wiki/log.md`.
-- `ESTADO-RESUMO.md`: fotografia podada do conhecimento (contagens por categoria, notas-âncora, deltas recentes), regenerada a cada passagem com tecto ≤ 30 KB. Fonte de leitura à entrada de consultas **à escala** — quando `index.md` ultrapassa o seu orçamento; enquanto a wiki é pequena, fica vazio e lê-se o índice directamente. Destila `index.md` + `log.md`, nunca os modifica. Distinto do painel (acção) e do índice (catálogo completo).
+- `ESTADO-RESUMO.md`: fotografia podada do conhecimento (contagens por categoria, notas-âncora, deltas recentes), regenerada a cada passagem com tecto ≤ 30 KB. Fonte de leitura à entrada de consultas **à escala** - quando `index.md` ultrapassa o seu orçamento; enquanto a wiki é pequena, fica vazio e lê-se o índice directamente. Destila `index.md` + `log.md`, nunca os modifica. Distinto do painel (acção) e do índice (catálogo completo).
 
 ## Sufixos funcionais de nomenclatura
 
-Importado da convenção da Augusta, onde o nome do ficheiro codifica o seu comportamento — útil para o agente saber, só pelo nome, como tratar um ficheiro. Os ficheiros de serviço do cofre seguem-na:
+Importado da convenção da Augusta, onde o nome do ficheiro codifica o seu comportamento - útil para o agente saber, só pelo nome, como tratar um ficheiro. Os ficheiros de serviço do cofre seguem-na:
 
-- **`-LOG`** / `log.md` — append-only; nunca se reescreve, só se acrescenta (`log.md`).
-- **`-QUEUE`** — máquina de estados com coluna de estado; cada linha percorre estados (não há ficheiros `-QUEUE` no académico; o conceito vive no inbox de captura).
-- **`-LIST`** — registo cumulativo filtrável (`SUPRESSAO-LIST.md`).
-- **`-TRACKER`** / painel — estado corrente, reescrito a cada passagem (`PAINEL.md`, `MELHORIA.md` na vertente tracker).
-- **`-RESUMO`** — destilação podada de uma fonte que cresce, reescrita por inteiro a cada passagem e sujeita a tecto de tamanho (`ESTADO-RESUMO.md`, regenerado de `index.md` + `log.md`). Difere de `-TRACKER` por destilar à escala com aparo por tamanho; difere de `-LOG` por não acumular.
-- **`-PLAYBOOK`** / `playbooks/` — regras curadas por humano; o agente lê, nunca reescreve sem aprovação.
-- Páginas de conhecimento (instituto, conceito, fonte, etc.) não levam sufixo funcional — o `tipo` no frontmatter cumpre esse papel.
+- **`-LOG`** / `log.md` - append-only; nunca se reescreve, só se acrescenta (`log.md`).
+- **`-QUEUE`** - máquina de estados com coluna de estado; cada linha percorre estados (não há ficheiros `-QUEUE` no académico; o conceito vive no inbox de captura).
+- **`-LIST`** - registo cumulativo filtrável (`SUPRESSAO-LIST.md`).
+- **`-TRACKER`** / painel - estado corrente, reescrito a cada passagem (`PAINEL.md`, `MELHORIA.md` na vertente tracker).
+- **`-RESUMO`** - destilação podada de uma fonte que cresce, reescrita por inteiro a cada passagem e sujeita a tecto de tamanho (`ESTADO-RESUMO.md`, regenerado de `index.md` + `log.md`). Difere de `-TRACKER` por destilar à escala com aparo por tamanho; difere de `-LOG` por não acumular.
+- **`-PLAYBOOK`** / `playbooks/` - regras curadas por humano; o agente lê, nunca reescreve sem aprovação.
+- Páginas de conhecimento (instituto, conceito, fonte, etc.) não levam sufixo funcional - o `tipo` no frontmatter cumpre esse papel.
 
 Um nome canónico por conceito; não coexistem dois ficheiros para a mesma coisa.
 

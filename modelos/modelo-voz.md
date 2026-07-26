@@ -1,13 +1,13 @@
 ---
 tipo: voz
-titulo: "Fingerprint de estilo — {nome}"
+titulo: "Fingerprint de estilo - {nome}"
 estado_verificacao: verificado | parcial | em-aberto
 sujeito_a_aprovacao: true            # alterações à voz passam pela aprovação do utilizador
 ultima_actualizacao: AAAA-MM-DD
 corpo_amostras: "{que textos foram lidos para construir isto}"
 ---
 
-# Fingerprint de estilo — {nome}
+# Fingerprint de estilo - {nome}
 
 > Voz canónica de quem escreve. Cada produto de trabalho com texto corrido segue este fingerprint. Deriva de amostras reais (`corpo_amostras`), nunca de invenção; molda a forma, nunca a substância (a proveniência e o rigor mantêm-se intactos). As alterações passam pela aprovação do utilizador. Ver `PROTOCOLO-VOZ.md`.
 
@@ -39,7 +39,7 @@ corpo_amostras: "{que textos foram lidos para construir isto}"
 {Qualifica em vez de diagnosticar? Constrói a tese adversa na forma forte? Padrão observado.}
 
 ## Assinatura da escrita a evitar fixar
-{Traços que, repetidos, criariam um molde reconhecível — e que portanto se variam entre textos (arquitectura, ritmo de abertura e fecho), mantendo as invariantes de rigor.}
+{Traços que, repetidos, criariam um molde reconhecível - e que portanto se variam entre textos (arquitectura, ritmo de abertura e fecho), mantendo as invariantes de rigor.}
 
 ## Checklist antes de fechar um produto de trabalho
 1. Registo correcto para o destinatário.

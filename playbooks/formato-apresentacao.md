@@ -1,6 +1,6 @@
-# Playbook — Formato de apresentação para decisão
+# Playbook - Formato de apresentação para decisão
 
-Quando o agente te apresenta vários itens para decidires — sugestões do Examinador, resultados da triagem do inbox, fontes candidatas a ingestão, lacunas a atacar —, a forma importa. Um muro de texto com uma lista numerada obriga-te a triar tudo num só bloco e a responder «o 1, o 3 e o 5»; é fricção. Esta peça é importada do formato de aprovação da Augusta, cuja regra é universal: *qualquer mensagem com mais do que um item recebe uma âncora e um bloco por item*, para reagires um a um.
+Quando o agente te apresenta vários itens para decidires - sugestões do Examinador, resultados da triagem do inbox, fontes candidatas a ingestão, lacunas a atacar -, a forma importa. Um muro de texto com uma lista numerada obriga-te a triar tudo num só bloco e a responder «o 1, o 3 e o 5»; é fricção. Esta peça é importada do formato de aprovação da Augusta, cuja regra é universal: *qualquer mensagem com mais do que um item recebe uma âncora e um bloco por item*, para reagires um a um.
 
 ## A regra
 
@@ -9,7 +9,7 @@ Um item → mensagem simples. Vários itens → uma âncora seguida de um bloco 
 A **âncora** abre, dá o âmbito e o total, e lembra o vocabulário: «N sugestões abaixo. ✅ para avançar · ⏸ para deixar para depois · ❌ para nunca mais propor.»
 
 Cada **item** é um bloco separado, conciso (uma ideia, poucas linhas), com:
-- um **identificador estável** — um código curto que não muda entre passagens (ex.: `EXAM-2026-06-28-03`, `INGEST-HESPANHA-02`), para te referires a ele sem ambiguidade e para o agente o seguir;
+- um **identificador estável** - um código curto que não muda entre passagens (ex.: `EXAM-2026-06-28-03`, `INGEST-HESPANHA-02`), para te referires a ele sem ambiguidade e para o agente o seguir;
 - uma linha do que é e do que acontece se avançares;
 - o essencial para decidires, sem o resto. Se precisa de mais contexto, remete (link para a página), não despeja.
 
