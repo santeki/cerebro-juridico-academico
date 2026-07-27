@@ -5,7 +5,7 @@ categoria: [Conceito]
 ramo: [teoria-do-direito, introducao-ao-direito]
 estado_verificacao: verificado
 fontes: ["[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Ciências que Estudam o Direito
@@ -82,6 +82,14 @@ O último capítulo do Título desenvolve a ciência que o n.º 47 situara fora 
 O objecto da disciplina não foi o mesmo através dos tempos, e a variação é ela própria matéria do capítulo: predomínio do fundamento da ordem jurídica após a meditação grega; hipertrofia do campo com a escola racionalista do Direito natural, «à custa da subordinação do cientista do direito às suas conclusões sobre as leis naturais»; redução radical com o positivismo, que a concentra «praticamente na Epistemologia, na mesma situação que a Filosofia de qualquer outra ciência»; centragem nos pressupostos da Ciência Jurídica com o neo-kantismo; e, com a Filosofia dos Valores, a passagem do núcleo para «a discussão e determinação dos valores, muito em particular da justiça, e a crítica da realidade vigente à luz desses valores» (ASC, pp. 163-164). ASC regista ainda a Lógica Jurídica e a teoria da linguagem jurídica, esta «uma espécie de tema da moda em certos meios jusfilosóficos», e nota que não existe entre os autores consenso quanto à divisão fundamental da disciplina (p. 164).
 
 Para esta página, o que o capítulo acrescenta é o fecho da tripla partição do cap. I pelo lado que faltava: das ciências gerais que versam o direito como capítulos seus, a Filosofia do Direito é a que o autor trata com desenvolvimento, e trata-a sem lhe aplicar o corte de método que aplicou à História e ao Direito Comparado - porque aqui o critério é o do tema, e o tema nuclear é o fundamento do direito, «porque pela posição adoptada em relação a ele se caracterizam as épocas históricas» (p. 165). Em juízo próprio, e em nota, ASC lamenta que a disciplina «não se insere frequentemente entre as disciplinas que integram os currículos oficiais de direito, o que dissemos já que representa uma grave lacuna» (nota 172, p. 163) - afirmação de 1997 sobre o estado dos currículos, que o cofre regista como dado da fonte e não converte em dado próprio. O conteúdo substantivo do capítulo - a história do jusnaturalismo e do positivismo, a tese do positivismo como metamorfose do jusracionalismo e a ponte anunciada para o Título IV - vive em [[Conceitos/Direito Justo]], que é a sede da controvérsia no cofre.
+
+## Camada do Título VI, cap. I (sessão 9) - a demarcação em operação
+
+Esta página regista, pelo n.º 49, a doutrina do autor sobre a fronteira entre o enunciado sociológico e o enunciado normativo. O n.º 176 mostra-a a operar sobre o próprio texto dele, duas vezes e em sentidos diferentes, e é por isso material desta página e não apenas da vigência.
+
+A primeira demarcação separa explicação de justificação. Depois de reconstituir historicamente a diminuição da valia efectiva da lei no Brasil - as importações legislativas jusracionalistas, a inadequação, a inobservância passiva -, o autor corta: «Esta situação tem pois uma explicação sociológica. Mas isso não equivale à sua justificação. É anómalo que num país a lei seja apenas uma alternativa possível, e haja discrepância entre a lei e a prática» (ASC, p. 309). A causa explica o que é; não legitima o que deve ser.
+
+A segunda demarcação delimita o alcance probatório do que acabou de dizer, e faz o autor abandonar expressamente um argumento que lhe seria favorável. Tendo correlacionado a idade dos códigos com a pressão pela criação jurisprudencial - códigos velhos em França e na Alemanha, tema quase despercebido na Itália de códigos novos -, escreve: «Tudo isto são, porém, considerações sociológicas, e não normativas. Fechado o parêntese, devemos agora verificar qual é, normativamente, o papel da jurisprudência - sejam velhos ou novos os códigos vigentes. Pois os princípios permanecem, e só varia a intensidade da sua revelação prática» (ASC, p. 315). A observação sociológica descreve intensidade de revelação; não decide o estatuto normativo da fonte. É a distinção que esta página descreve, aplicada pelo autor contra a tentação de usar o dado sociológico como argumento dogmático ([[Conceitos/Fontes de Direito]]).
 
 ## Distinção de figuras próximas
 

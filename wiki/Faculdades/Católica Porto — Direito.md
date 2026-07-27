@@ -4,7 +4,7 @@ titulo: "Católica Porto - Direito"
 faculdade: "Universidade Católica Portuguesa - Faculdade de Direito (Porto)"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-26
 ---
 
 # Católica Porto - Direito
@@ -38,8 +38,8 @@ ultima_actualizacao: 2026-07-25
   Parte IV - A tutela do Direito - [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] - monocamada (BM, cap. V).
 
   Parte V - Fontes do Direito
-  6. O problema - [[Conceitos/Fontes de Direito]] - monocamada (BM, cap. VI, § 1: positivação, «questão jurística», crítica ao fundamento factual da validade).
-  7. A Lei, as normas corporativas, a jurisprudência, a doutrina, o costume, os usos, os princípios fundamentais de Direito - [[Conceitos/Fontes de Direito]] - monocamada (BM, cap. VI, §§ 2-8; a vigência e a hierarquia, fora do recorte desta Parte, em [[Conceitos/Vigência das Normas]]). **Nota de alcance ASC (2026-07-26, sessão 8 - Título VI, cap. I, parte 1)**: cinco dos sete itens do recorte ficam cobertos por ASC - lei (nn. 157-165), normas corporativas e entes intermediários (n.º 160), doutrina (n.º 148), costume (nn. 149-156) e usos (n.º 156). A jurisprudência corre nos nn. 178-185 (sessão 9) e os princípios fundamentais não têm sede própria neste capítulo. **Candidato a bicamada parcial, proposto e a aguardar autorização.**
+  6. O problema - [[Conceitos/Fontes de Direito]] - monocamada (BM, cap. VI, § 1: positivação, «questão jurística», crítica ao fundamento factual da validade). **Nota de alcance ASC (2026-07-26, sessão 8), sem conversão**: o problema das fontes é tratado de frente por ASC no n.º 143 - «verdadeira fonte do direito é sempre e só a ordem social; só desta deriva afinal a juridicidade de qualquer regra» (p. 243) - e no n.º 144, e o material vive em [[Conceitos/Fontes de Direito]] em eixo próprio contra a construção da positivação de BM. **Conversão a bicamada proposta, a aguardar autorização do aluno.**
+  7. A Lei, as normas corporativas, a jurisprudência, a doutrina, o costume, os usos, os princípios fundamentais de Direito - [[Conceitos/Fontes de Direito]] - monocamada (BM, cap. VI, §§ 2-8; a vigência e a hierarquia, fora do recorte desta Parte, em [[Conceitos/Vigência das Normas]]). **Nota de alcance ASC (2026-07-26, sessão 8 - Título VI, cap. I, parte 1)**: cinco dos sete itens do recorte ficam cobertos por ASC - lei (nn. 157-165), normas corporativas e entes intermediários (n.º 160), doutrina (n.º 148), costume (nn. 149-156) e usos (n.º 156). A jurisprudência corre nos nn. 178-185 (sessão 9) e os princípios fundamentais não têm sede própria neste capítulo. **Alteração de 2026-07-26 (sessão 9)**: com os nn. 178-185, a **jurisprudência** passa a estar coberta pela segunda voz, e o ponto sobe a **seis dos sete itens em bicamada**, ficando de fora apenas os **princípios fundamentais de Direito**, que o capítulo I do Título VI não trata em sede própria. Conversão a bicamada parcial autorizada pelo aluno em 2026-07-26.
 
   Parte VI - Interpretação e integração da lei
   8. Interpretação: noção; modalidades; objectivos; elementos de interpretação; resultados de interpretação - [[Conceitos/Interpretação da Lei]] - monocamada (BM, cap. VII, Secções I-II e IV).
@@ -49,7 +49,7 @@ ultima_actualizacao: 2026-07-25
   10. Aplicação da lei no tempo: o problema; o direito transitório; o princípio da não retroactividade da lei; critérios especiais; as leis interpretativas e as leis confirmativas - [[Conceitos/Aplicação da Lei no Tempo]] - monocamada (BM, cap. VIII, Secção I: todos os sub-tópicos enumerados têm sede na fonte, incluindo as leis confirmativas do § 2º, 6).
   11. A aplicação da lei no espaço (referência) - [[Conceitos/Aplicação da Lei no Espaço]] - monocamada (BM, cap. VIII, Secção II - o carácter de mera referência do programa coincide com o tratamento da fonte, p. 252).
 
-- **Cobertura do programa**: Partes I-VII em monocamada (BM, caps. I-VIII, fechadas em 2026-07-09/10/11) - **o programa enumerado está integralmente coberto em monocamada BM**: primeira vista do cofre nesta condição; a bicamada aguarda os manuais seguintes da fila. Actualiza-se no fecho de cada estudo.
+- **Cobertura do programa**: Partes I-VII cobertas (BM, caps. I-VIII, fechadas em 2026-07-09/10/11) - **o programa enumerado está integralmente coberto**, e o **ponto 7 da Parte V** passa a **bicamada parcial em 2026-07-26**, por autorização do aluno: dele, seis dos sete itens têm segunda voz com o Título VI, cap. I de ASC (a lei, as normas corporativas, a jurisprudência, a doutrina, o costume e os usos), ficando de fora os **princípios fundamentais de Direito**, que o capítulo não trata em sede própria. As restantes Partes mantêm-se em monocamada BM; a bicamada dessas aguarda os manuais seguintes da fila. Actualiza-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (Católica Porto)

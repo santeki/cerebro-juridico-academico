@@ -83,3 +83,33 @@
 | 77 | p. 292 ([p. 287]) | «168. Rectiflcações» | «168. Rectificações» [título do número, com a ligadura «fi» lida como «fl»; o A1 cego contou no grupo duas hastes e um pingo e comparou a geometria com um «f» isolado da mesma página, 2026-07-26] |
 | 78 | p. 287 ([p. 282]) | «368 Não se pense que há uma incoerência» | «368 Não se pense que há uma incoerência» [**não é erro de letra**: a continuação da nota 368 aparece intercalada no corpo da folha, sem o rótulo de bloco de notas que o conversor insere nas demais folhas - defeito de estrutura do MD, da mesma classe da nota 234 da sessão 6; a letra confere nos dois derivados e a nota lê-se por inteiro] |
 | 79 | p. 276 ([p. 271]) | «O Código referia-se formalmente às f entes próprias do sistema corporativo» | «O Código referia-se formalmente às fontes próprias do sistema corporativo» [o MD lê «f entes» e a camada de texto do PDF lê «fentes»: **os dois derivados convergem no mesmo erro** (corrupção de causa comum), e a forma correcta resulta do sentido, não de derivado nem de imagem - etiologia corrigida na triagem R1, 2026-07-26. A folha não entrou na ronda E2; a passagem é usada na wiki em citação literal com esta ressalva, e a letra firma-se por imagem se algum uso derivado o exigir]
+| 80 | p. 323 ([p. 318]) | «os arts. 728/3 e 763íque previam» | «os arts. 728/3 e 763, que previam» [A1 cego 300 dpi, 2026-07-26; o «í» funde a vírgula com «que»] |
+| 81 | p. 323 ([p. 318]) | «fofam abolidos» | «foram abolidos» [A1 cego 300 dpi, 2026-07-26] |
+| 82 | p. 322 ([p. 317]) | «(LTr, 4111033)» | «(LTr, 41/ 1033)» [A1 cego 300 dpi, 2026-07-26; espaço depois da barra assim no papel] |
+| 83 | p. 322 ([p. 317]) | «Lei n. 0 55184, de» | «Lei n.º 55/84, de» [A1 cego 300 dpi, 2026-07-26; a incoerência do ano 1970 é do impresso] |
+| 84 | p. 316 ([p. 311]) | «181. O costume jurisprudenciál» | «181. O costume jurisprudencial» [A1 cego 300 dpi, 2026-07-26; o acento é mancha de digitalização] |
+| 85 | p. 316 ([p. 311]) | «A própria decisão, do caso concreto» | «A própria decisão do caso concreto» [A1 cego 300 dpi, 2026-07-26; a vírgula é mancha de digitalização] |
+| 86 | p. 316 ([p. 311]) | «a transf armação da juris-prudência» | «a transformação da jurisprudência» [A1 cego 300 dpi, 2026-07-26] |
+| 87 | p. 316 ([p. 311]) | «ao estudar o direito anglo-aÍneri-cano» | «ao estudar o direito anglo-americano» [A1 cego 300 dpi, 2026-07-26] |
+| 88 | p. 316 ([p. 311]) | «Li-mongi França, *Manual*» | «Limongi França, *Manual*» [A1 cego 300 dpi, 2026-07-26; nota 428] |
+| 89 | p. 316 ([p. 311]) | «nos direitos brasileiro e pbrtuguês» | «nos direitos brasileiro e português» [A1 cego 300 dpi, 2026-07-26] |
+| 90 | p. 311 ([p. 306]) | «só e~~epcio--- nalmenJe\_ se \_podendo remeter» | «só excepcionalmente se podendo remeter» [A1 cego 300 dpi, 2026-07-26; zona fraca por sublinhado denso] |
+| 91 | p. 311 ([p. 306]) | «\_Ma~ \_\_ a \_\_ de\_çLs\_ão\_b\_ªseia-se» | «Mas a decisão baseia-se» [A1 cego 300 dpi, 2026-07-26; zona fraca] |
+| 92 | p. 311 ([p. 306]) | «pode-ser e xplicitado» | «pode ser explicitado» [A1 cego 300 dpi, 2026-07-26; zona fraca] |
+| 93 | p. 301 ([p. 296]) | «porque a revaga- ~ não re\_presenta a destmiçãa da lei anterior» | «porque a revogação não representa a destruição da lei anterior» [A1 cego 300 dpi, 2026-07-26] |
+| 94 | p. 301 ([p. 296]) | «Cessam os seus.-efeitos, mas-.§alvam-se e\_m princípio» | «Cessam os seus efeitos, mas salvam-se em princípio» [A1 cego 300 dpi, 2026-07-26] |
+| 95 | p. 301 ([p. 296]) | «Esta-tui expressamente» | «Estatui expressamente» [A1 cego 300 dpi, 2026-07-26] |
+| 96 | p. 301 ([p. 296]) | «Dec.-Lei português n.º l l3n4, de 18 de Março» | «Dec.-Lei português n.º 113/74, de 18 de Março» [A1 cego 300 dpi, 2026-07-26; nota 402] |
+| 97 | p. 302 ([p. 297]) | «a relacionação da~ e~ecial» | «a relacionação da lei geral e da lei especial» [A1 cego 300 dpi, 2026-07-26] |
+| 98 | p. 302 ([p. 297]) | «só poderá ser estiiaada m-a1s arde;-quando eiaminarmos» | «só poderá ser estudada mais tarde, quando examinarmos» [A1 cego 300 dpi, 2026-07-26] |
+| 99 | p. 306 ([p. 301]) | «!:!!\_!! código é uma lei» | «Um código é uma lei» [A1 cego 300 dpi, 2026-07-26] |
+| 100 | p. 306 ([p. 301]) | «que examinaremosêm- füeve;-não atinge» | «que examinaremos em breve, não atinge» [A1 cego 300 dpi, 2026-07-26] |
+| 101 | p. 310 ([p. 305]) | «resolvem independemente dela» | «resolvem independentemente dela» [A1 cego 300 dpi, 2026-07-26] |
+| 102 | p. 313 ([p. 308]) | «vai f armando o ambiente» | «vai formando o ambiente» [A1 cego 300 dpi, 2026-07-26] |
+| 103 | p. 317 ([p. 312]) | «só há éostume jurisprudencial» | «só há costume jurisprudencial» [A1 cego 300 dpi, 2026-07-26] |
+| 104 | p. 317 ([p. 312]) | «se não identifica com *ajurisprudência constante*» | «se não identifica com a *jurisprudência constante*» [A1 cego 300 dpi, 2026-07-26] |
+| 105 | p. 318 ([p. 313]) | «\_ O acórdão não pode po~ém ter força» | «O acórdão não pode porém ter força» [A1 cego 300 dpi, 2026-07-26] |
+| 106 | p. 319 ([p. 314]) | «s\_poderá objecto de súmula» | «será objecto de súmula» [A1 cego 300 dpi, 2026-07-26; art. 479 do CPC brasileiro] |
+| 107 | p. 320 ([p. 315]) | «corresponde ef ectivamente a essas fontes» | «corresponde efectivamente a essas fontes» [A1 cego 300 dpi, 2026-07-26] |
+| 108 | p. 321 ([p. 316]) | «por uma *conununis opinio*» | «por uma *communis opinio*» [A1 cego 300 dpi, 2026-07-26] |
+| 109 | p. 325 ([p. 320]) | «mantendo por isso in!~ira utilidade» | «mantendo por isso inteira utilidade» [A1 cego 300 dpi, 2026-07-26] |

@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-26
 ---
 
 # Coercibilidade
@@ -67,6 +67,14 @@ Nas conclusões nucleares, as fontes convergem: a coercibilidade não é o crit�
 As duas fontes definem com extensões distintas. Para BM, coercibilidade é a susceptibilidade de a inobservância da norma acarretar uma sanção socialmente organizada - a ameaça de aplicação coactiva por uma instância instituída (BM, pp. 32, 36); distingue-se da coacção efectiva: é a predisposição de sanções e dos meios da sua aplicação, com um poder social organizado por detrás (nas sociedades contemporâneas, o poder do Estado) (BM, p. 36). Para ASC, é insuficiente defini-la como susceptibilidade de aplicação coactiva **da regra** - frequentemente a regra violada já não pode ser aplicada nem coercivamente (não se devolve a vida a um morto, no exemplo do autor; só as sanções compulsórias conduzem à aplicação futura da regra), e quando a sanção actua automaticamente (o dever de indemnizar; a perda de direitos políticos) seria deslocado falar de coercibilidade (ASC, p. 76); a definição própria restringe: «a coercibilidade consiste, não na susceptibilidade de aplicação coactiva da regra, mas na *susceptibilidade de aplicação coactiva de sanções com expressão física*, se a regra for violada» (ASC, p. 77, adjudicada por imagem). Comum às duas: coercibilidade não é coacção - em ASC, com o argumento regressivo «Teríamos então de perguntar: quem coage o coactor?», e a observação de que na esmagadora maioria dos casos a observância é voluntária, «porque o homem tende naturalmente para a ordem» (ASC, p. 75; nota 85: Ehrlich, e «Marx Weber» [sic] - o impresso grafa assim o autor de *Economia y sociedad* -, em relato).
 
 A denegação de acção como técnica do Estado, e o lugar dos tribunais nela, tratam-se em [[Conceitos/Jurisdição]] e [[Conceitos/Tutela do Direito]] *(concretiza)*.
+
+## Camada do Título VI, cap. I (sessão 9) - a regra que vincula sem alcançar coactivamente o destinatário
+
+A estrutura que a sessão 8 registou a propósito do costume a que o Estado recusa aplicação coactiva reaparece no n.º 177 em terreno inteiramente diverso, e a repetição é o que a torna interessante para esta página.
+
+A instrução produz regra e é dada como fonte do direito, mas o particular a quem o seu efeito chega não está sujeito ao vínculo que a sustenta: «como ele não está vinculado por aquela cadeia hierárquica, não terá de se conformar com a referida instrução. Se considerar que ela viola os seus direitos poderá recorrer para o superior hierárquico, ou para os órgãos judiciais. Estes, como não estão vinculados pela instrução, resolvem independentemente dela. Sinal de que o particular só reflexamente é atingido pela instrução» (ASC, p. 310, adjudicada por imagem). Há regra, há autoridade que a emite, há efeito prático sobre quem não é seu destinatário - e não há vinculação daquele que sofre o efeito.
+
+O paralelo com o costume sem acção é de estrutura e não de conteúdo: ali a regra existe e o Estado nega-lhe as engrenagens do poder público; aqui a regra existe e os órgãos judiciais decidem sem a considerar. Nos dois casos a juridicidade da regra não depende de o aparelho coactivo a fazer valer perante todos, o que é a proposição desta página. Registo de convergência estrutural, não afirmação do autor: ele não estabelece o paralelo, e a aproximação é construção do cofre ([[Conceitos/Fontes de Direito]], [[Conceitos/Norma Jurídica]]).
 
 ## Distinção de figuras próximas
 

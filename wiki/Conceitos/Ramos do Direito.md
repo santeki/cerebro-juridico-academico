@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-26
 ---
 
 # Ramos do Direito
@@ -65,6 +65,16 @@ O mapeamento substancial (Comparativo 2) mostra a repartição: de BM vem o crit
 Consequência operativa (Comparativo 4): a composição altera o modo de usar a divisão em argumento. Dentro do sistema romanístico, a *summa divisio* opera e o catálogo serve; fora dele, nem uma nem outro identificam o jurídico, e o raciocínio que os tome por universais falha. Na tradição (Comparativo 5), o material disponível é escasso nas duas obras e a lacuna fica marcada: nenhuma delas discute a genealogia da distinção público/privado para lá da nota de BM à p. 66 (Núñez Encabo, em relato).
 
 Síntese (Comparativo 6): a divisão em ramos é arrumação de uma tradição jurídica, não dado do jurídico - proposição que resulta das duas fontes juntas e de nenhuma isolada, e que a Noção desta página adopta. **Reabre-se** quando o Título VI, cap. II, de ASC for lido: aí o autor arruma ramos em sede própria, e a relação passará a ter dois catálogos a comparar, não um catálogo e um limite.
+
+## Camada do Título VI, cap. I (sessão 9) - o ramo como unidade operativa de revogação
+
+A *summa divisio* que esta página trabalha como arrumação teórica aparece no Título VI a decidir consequências, e é o uso que interessa registar. Três lugares mostram o ramo do direito a funcionar como unidade de medida do efeito revogatório.
+
+O primeiro é a **revogação exaustiva**, que o autor define pelo alvo: pelo prisma do objecto, a revogação pode ter por alvo um preceito determinado, uma fonte, um instituto jurídico ou um ramo do direito, e neste último caso «a revogação alcança a extensão máxima. É toda a disciplina preexistente de um ramo do direito que é afastada» (ASC, p. 305). O ramo é aqui a maior unidade que uma cláusula revogatória pode tomar, e a raridade da figura tem causa técnica declarada: «pela dificuldade de prever o universo que atingiria».
+
+O segundo é a cláusula revogatória dos códigos civis, e mostra a divisão público/privado a recortar o alcance de um preceito concreto: a fórmula «só abrange a legislação civil: permanecem em vigor os preceitos respeitantes a matérias de direito público, por exemplo, ainda que tivessem estado integrados na antiga lei civil» (ASC, p. 306). A localização de um preceito num diploma de direito privado não o torna preceito de direito privado para efeitos de revogação; o que conta é a matéria.
+
+O terceiro é a revogação operada por constituição nova, que o autor qualifica como «uma revogação por ramo de direito», por «a pretensão de toda a constituição» ser «a de compendiar exaustivamente o Direito Constitucional do país» (ASC, p. 307). E é justamente a divisão por ramos que explica a subsistência residual: os preceitos que substancialmente pertencem ao Direito Administrativo ou a outro ramo não são atingidos pela revogação global, e sobrevivem desconstitucionalizados ([[Conceitos/Codificação e Técnicas Legislativas]]). O critério de pertença a um ramo, que esta página discute como problema dogmático, tem aqui consequência directa sobre a vigência de normas concretas ([[Conceitos/Vigência das Normas]]).
 
 ## Distinção de figuras próximas
 

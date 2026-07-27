@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-24
+ultima_actualizacao: 2026-07-26
 ---
 
 # Instituição
@@ -61,6 +61,12 @@ A visão institucional de Ascensão dá, no capítulo das fontes, o seu rendimen
 ## Relação entre as posições (Eixo B)
 
 Convergência substantiva com reforço mútuo. O centro é o duplo relato de Hauriou: BM dá a instituição como «uma ideia de obra ou de empresa que se realiza e dura num ambiente social» (BM, p. 16) e ASC como «uma ideia de obra ou empreendimento que vive e perdura no meio social» (ASC, p. 29) - duas traduções da mesma definição, cada uma com o seu mediador e a sua âncora, que se registam sem fundir. Convergem também a transcendência e objectividade supra-individual (BM, pp. 16-17, com Burdeau e Durkheim em relato ↔ ASC, pp. 28-29) e o papel fundacional face ao Direito - as instituições como dado prévio (BM, p. 28, com Henkel em relato; a fórmula de Hauriou em BM, p. 29: «São as instituições que criam as normas jurídicas, e não as normas jurídicas que criam as instituições!») compõe-se com a exigência de ASC: as regras «devem corresponder às instituições sociais» (ASC, p. 29). Cada fonte acrescenta o seu ângulo: BM, o panorama sociológico (Rocher, Eisenstadt, Parsons, Luhmann, Berger/Luckmann, em relato) e a juridificação; ASC, a evolução social e a dispensa de regra escrita. A investigação de fundamento dispensa-se, nos termos do Comparativo 3, por não haver divergência a explicar (nota de dispensa expressa); consequências (Comparativo 4): nada muda - reforço recíproco. Na tradição (Comparativo 5): a linha institucionalista tem em Hauriou a origem - principalmente ele, escreve ASC (p. 29) - e em Renard, Delos e Santi Romano os adeptos (ASC, em relato), com a recepção sociológica registada por BM. Síntese (Comparativo 6): compatíveis - a mesma teoria da instituição vista da sociologia (BM) e da fundação da ordem social (ASC), com Hauriou como ponto de encontro documentado.
+
+## Camada do Título VI, cap. I (sessão 9) - a normatividade que vincula só para dentro
+
+Aos centros jurígenos autónomos que a sessão 8 registou pelo n.º 160 acresce, pelo n.º 177, uma normatividade de natureza diferente e igualmente institucional: as **instruções**, que produzem «regras que apenas vinculam no interior duma dada hierarquia» (ASC, p. 309), com eficácia «necessariamente intra-institucional» (p. 310).
+
+A diferença face aos centros jurígenos do n.º 160 é de fundamento e não de âmbito. Os entes infra-estatais são fonte porque o grupo elabora direito próprio, que o reconhecimento estatal não absorve; a instrução é fonte porque de si deriva uma regra, mas o poder que a sustenta é o vínculo hierárquico dentro da instituição, não a autonomia normativa do grupo. O autor mantém-nas ambas no elenco das fontes intencionais: «Ambas são fontes do direito, pois de ambas derivam regras; ambas são fontes intencionais e supõem poderes de autoridade em quem as emite» (ASC, p. 310). A instituição gera, portanto, normatividade por duas vias distintas, e só uma delas produz direito oponível fora dela ([[Conceitos/Fontes de Direito]]).
 
 ## Distinção de figuras próximas
 
