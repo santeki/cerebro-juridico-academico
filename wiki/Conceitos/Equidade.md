@@ -7,7 +7,7 @@ estado_verificacao: parcial
 relacao: distintas
 estado_comparativo: comparativo-n-em-curso
 fontes: ["[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]", "[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Equidade
@@ -78,6 +78,22 @@ Comparativos 3 a 6: corridos na frente 2 (acima), que era a única com divergên
 ## Relevância
 
 Opera onde a lei remete o julgamento para a equidade (na leitura das fontes: art. 4º do CC; arts. 400, 1407 e 72/2 na remissão de ASC - letra vigente por confrontar com o consolidado), na arbitragem com julgamento *ex aequo et bono* convencionado em relações disponíveis ([[Conceitos/Jurisdição]] *(concretiza)*) e na medida da consequência jurídica ([[Conceitos/Sanção]]). Na integração das lacunas o seu alcance é justamente o disputado: a posição registada recusa-a como critério do art. 10º/3 e a nota 278 de ASC anuncia que ela «é muito mais que um método de integração de lacunas» ([[Conceitos/Integração da Lei]] - sede ASC por ler). Nos programas: fecha a componente equidade do ponto 6 da NOVA e completa o ponto 6 da Católica Lisboa (Secção II).
+
+## Camada do Título VII, cap. III (sessão 12) - a sede da integração, que fecha a cobertura
+
+Os nn. 253-255 fecham o que a leitura desta página tinha em aberto e dão à equidade o seu lugar exacto na integração das lacunas, que não é o que o elenco tradicional lhe reserva.
+
+A arrumação vem primeiro. A equidade é um dos três processos **extra-sistemáticos** de integração, ao lado do normativo e do discricionário, e o que os define é não serem caracterizados pelo dado objectivamente controlável da conformidade ao sistema, ficando por isso comprometidas «a unidade e objectividade das soluções e a possibilidade da sua previsão pelas partes» (ASC, p. 439). Dentro desse grupo, a equidade é o «mais significativo processo extra-sistemático de integração de lacunas» (ASC, p. 441, adjudicado por imagem).
+
+Duas delimitações confirmam o que a página já registava do Título V. A equidade não é processo exclusivamente judiciário: se a lei manda resolver por equidade a demarcação de terrenos contíguos com títulos inconcludentes, não estabelece processo só actuável em juízo, porque podem as partes ceder reciprocamente o necessário para que a demarcação se perfaça com justiça (ASC, p. 441). E a equidade não está vinculada à integração: funciona também quando há norma, seja por substituição da determinação legal por ajuste equitativo, seja pelo espaço de adequação que a aplicação da norma deixe, como na fixação do montante da indemnização (ASC, p. 441) - o que confirma a antecipação da nota 278, de que a equidade «é muito mais que um método de integração de lacunas».
+
+A conclusão para o direito vigente é negativa e vem em letra: **«Não podemos por isso considerar a equidade um processo normal de integração. Só o poderíamos fazer se isso resultasse das disposições gerais sobre esta matéria»** (ASC, p. 443, adjudicado por imagem). O fundamento é positivo antes de ser dogmático - o art. 127 do Código de Processo Civil brasileiro e o art. 4 do Código Civil português reservam a decisão por equidade aos casos previstos na lei, com «acento restritivo» na admissão desses casos, e só muito secundariamente cabem lá hipóteses de integração (ASC, pp. 442-443). E a razão de fundo é a que interessa ao instituto: semelhante regime nada contribuiria para a definição da ordem jurídica, porque após a solução de um caso litigioso tudo estaria na mesma e cada novo caso teria de ser decidido só pelas suas particulares circunstâncias, postergando-se a certeza do direito e a preocupação generalizadora do legislador (ASC, pp. 443-444; [[Conceitos/Segurança Jurídica]]).
+
+A distinção face à norma que o intérprete criaria fica firmada pela nota 632, e desfaz uma confusão que a proximidade das fórmulas convida a fazer. O art. 114 do antigo Código de Processo Civil brasileiro mandava o juiz, quando autorizado a decidir pela equidade, aplicar a norma que estabeleceria se fosse legislador; o preceito foi suprimido, mas o seu parentesco com o art. 10/3 português poderia levar a confundir os dois processos. A hipótese é repudiada: a definição do art. 114 «era equivocada, e por isso foi muito justamente suprimida», e a razão é que quem decide segundo a equidade não decide segundo uma norma mas segundo as características do caso concreto (ASC, p. 443; paráfrase, por o derivado corromper a passagem e a nota não ter sido adjudicada por imagem) - não abstrai procurando solução adequada a todas as hipóteses daquela índole, considera o caso nas suas particularidades à luz do valor Justiça, e a referência à procura de uma norma indiciaria solução generalizadora que frustraria os objectivos do recurso legal à equidade (ASC, p. 443). É a demarcação recíproca da que [[Conceitos/Integração da Lei]] regista do lado do art. 10/3, cuja «intenção generalizadora e não individualizadora» (ASC, p. 462) é o seu exacto oposto.
+
+Um último ponto salva a equidade da acusação de arbítrio, e vem do n.º 270. Mesmo quando o recurso tem por objecto decisão proferida no exercício da equidade, «não há uma revisão discricionária duma decisão discricionária. O juízo de equidade funda-se num critério objectivo - a justiça, que ilumina o circunstancialismo do caso concreto. Não há regra, mas há um critério reconhecível e uma aplicação objectivamente controlável pelo órgão jurisdicional» (ASC, p. 467). A equidade é extra-sistemática quanto ao critério de decisão e continua intra-jurisdicional quanto ao controlo, e é essa a diferença que a separa da discricionariedade ([[Conceitos/Jurisdição]] *(concretiza)*).
+
+Com estes números, e com o n.º 147 já lido, a cobertura da equidade nesta obra fica **integral quanto à integração**; ficam por ler os nn. 364-365, sobre a correcção da lei na aplicação, que correm no Título IX.
 
 ## Fontes
 

@@ -279,7 +279,7 @@ A contradição aparente supera-se distinguindo o que respeita ao *agente* do qu
 
 O espírito do sistema corresponde aos «juízos de valor legais» do art. 4/2 do Estatuto dos Magistrados Judiciais português, mas aperfeiçoado, e o aperfeiçoamento tem alcance dogmático próprio: já não se limita aos juízos de valor legais, antes busca os que são próprios de todo o sistema jurídico «e portanto, também os impostos pela ordem natural» (p. 464). Donde, mesmo quando os princípios substanciais ínsitos no sistema jurídico não permitem encontrar solução, pode e deve recorrer-se aos princípios formais, ou juízos de valor, para por meio deles integrar a lacuna, fornecendo o sistema ainda o ponto de partida objectivo.
 
-O critério decisivo desta última fase é «*a conformidade ao sistema* de uma norma que o intérprete deve determinar» (p. 464), e o autor propõe a fórmula equivalente que simplifica o preceito: «Na falta de caso análogo a situação é resolvida segundo a norma que corresponder ao espírito do sistema» (p. 464).
+O critério decisivo desta última fase é a conformidade ao sistema de uma norma que o intérprete deve determinar (p. 464; paráfrase, por o derivado corromper duas palavras da passagem e ela não ter sido adjudicada por imagem), e o autor propõe a fórmula equivalente que simplifica o preceito: «Na falta de caso análogo a situação é resolvida segundo a norma que corresponder ao espírito do sistema» (p. 464).
 
 #### n.º 269 - A chamada «plenitude do ordenamento jurídico» (pp. 465-466), **fórmula com valor de exame**
 
@@ -339,7 +339,7 @@ O balanço é restritivo: as possibilidades de utilização do argumento *a cont
 
 Método é o caminho a seguir para atingir um objecto, e o que se foi dizendo sobre a determinação das regras integra-se no método jurídico; agora considera-se o método por si, atendendo ao debate das escolas (p. 473). «A determinação do método é um momento constitutivo de toda a ciência» (p. 473), mas no direito a problemática tem sido empolada, com sectores que se refugiam numa auto-contemplação em que o objecto passa a ser o método por si, e a abstracção excessiva leva para além da Ciência do Direito e faz cair na gnoseologia, longe da aplicação prática. O argumento de autoridade que o autor escolhe é histórico: «Os melhores juristas do mundo, que foram os romanos, não deram a menor abertura a uma metodologia dissociada da aplicação prática do direito» (p. 473), e por isso as considerações *ex professo* sobre o tema reduzem-se ao mínimo.
 
-A pergunta que organiza o capítulo é para que serve a dogmática. Tem uma finalidade de teor, permitindo a apreensão e exposição do material jurídico, subtraindo-o a um empirismo insuficiente; a jurisprudência dos conceitos, tradução literal de *Begriffsjurisprudenz*, supõe que a função não se limita a isso: «O sistema traz a totalidade das soluções jurídicas; bastará atender às ligações existentes para encontrar o que for necessário para a vida», extraindo o jurista dele sempre, por processos lógicos, a regra adequada para regular uma situação, porque no fundo toda a regra estará ao menos implícita no sistema (pp. 473-474).
+A pergunta que organiza o capítulo é para que serve a dogmática. Tem uma finalidade de teor, permitindo a apreensão e exposição do material jurídico, subtraindo-o a um empirismo insuficiente; a jurisprudência dos conceitos, tradução literal de *Begriffsjurisprudenz*, supõe que a função não se limita a isso: «O sistema traz a totalidade das soluções jurídicas; bastará atender às ligações existentes para encontrar o que for necessário» para a vida (p. 473; o remate da frase atravessa a quebra de página e fica fora das aspas), extraindo o jurista dele sempre, por processos lógicos, a regra adequada para regular uma situação, porque no fundo toda a regra estará ao menos implícita no sistema (pp. 473-474).
 
 O positivismo jurídico veio dar forte apoio a esta corrente, mas as duas orientações não se confundem, porque há positivistas que seguem outras tendências metodológicas e partidários da jurisprudência dos conceitos que não são positivistas (p. 474). A escola incorreu em franco desfavor e é normalmente apresentada de modo tão carregado que autor nenhum contemporâneo se sentirá incluído na descrição; mas o autor acrescenta a observação que impede o desfavor de ser tranquilizador: «como há hábitos mentais profundamente arreigados, bem pode acontecer que aqueles mesmos que condenam a jurisprudência dos conceitos cedam aqui e além à tentação de utilizar os seus processos» (p. 474).
 
@@ -427,7 +427,7 @@ Spot-checks posicionais propostos ao aluno (três, de trinta segundos cada): abr
 
 Nenhuma. As passagens que a leitura estranhou resolveram-se todas como defeito de conversão ou de camada de OCR, não como gralha do impresso. Regista-se, para memória, que «de teor» (pp. 473, 476 e 484) é grafia do autor e recorre em três lugares independentes, pelo que não se trata de gralha por «de teoria».
 
-#### Entradas novas de ERRATA-MD (conversão): 133 → 146
+#### Entradas novas de ERRATA-MD (conversão): 133 → 149
 
 | p. | Defeito do MD | Letra da fonte (por imagem) |
 |---|---|---|

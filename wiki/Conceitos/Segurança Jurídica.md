@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Segurança Jurídica
@@ -85,6 +85,18 @@ A camada do Título V, entrada a 2026-07-26 na sessão 7, reforça a classifica�
 ## Nota de percurso (gancho fechado)
 
 O gancho da sessão 1 - a segurança como valor da ordem jurídica e condição do bem comum (ASC, pp. 36 e 96-97), posição exacta remetida ao Título IV - fechou a 2026-07-25 com a sessão 6; a camada entrou na secção de posição de ASC e a comparativa correu.
+
+## Camada do Título VII, cap. III (sessão 12) - a certeza do direito como argumento contra a equidade integradora
+
+O capítulo da integração dá a esta página o seu argumento mais concreto, porque o formula não em abstracto mas como razão para excluir um processo que a tradição admitia.
+
+Os processos extra-sistemáticos de integração - normativo, discricionário e equitativo - partilham uma consequência que o autor fixa antes de os examinar: não sendo o processo caracterizado pelo dado objectivamente controlável da conformidade ao sistema, «a unidade e objectividade das soluções e a possibilidade da sua previsão pelas partes ficam comprometidas», procurando o método justificar-se em contrapartida por maior adequação à situação histórica (ASC, p. 439). A previsibilidade não é aqui um valor acrescentado ao regime: é o que o critério de conformidade ao sistema serve.
+
+Contra o processo normativo, o argumento é o mesmo: entregar a regra faltosa a órgão legislativo caso a caso deixaria toda a vida jurídica dependente dessa criação e impediria os interessados de «saber antecipadamente com o que poderiam contar» (ASC, p. 440). E contra a equidade como processo normal de integração, a razão decisiva é de definição da ordem: semelhante regime em nada contribuiria para a definição da ordem jurídica (ASC, p. 443; paráfrase, por o derivado estar corrompido no ponto e a passagem não ter sido adjudicada por imagem), porque após a solução de um caso litigioso tudo estaria na mesma e cada novo caso teria de ser decidido só pelas suas particulares circunstâncias, «Assim posterga-se a certeza do direito» (ASC, p. 443), esquecendo-se a preocupação generalizadora que o legislador manifesta ([[Conceitos/Equidade]]).
+
+O que esta camada acrescenta ao quadro da página é a articulação entre certeza e *generalização*. A certeza não se obtém aqui por vinculação a um texto - que na lacuna, por hipótese, falta - mas por a solução se dar sob a forma de regra para uma categoria de casos e não de decisão para o caso: é a «intenção generalizadora e não individualizadora» do art. 10/3 (ASC, p. 462) que faz da integração uma operação previsível. Baptista Machado dá a mesma razão a propósito do primado da analogia, ao fundá-lo na coerência normativa e na certeza do direito, por ser mais fácil obter uniformidade de julgados aplicando a norma de casos análogos do que remetendo o julgador para a equidade ou princípios gerais (BM, p. 202): as duas vozes convergem em que a certeza se compra com generalidade, e não com literalidade.
+
+O reverso está registado do lado da analogia, e é a única vez em que a segurança joga contra a justiça material: toda a proibição de aplicação analógica se paga em desigualdade de tratamento, e «só poderá encontrar-se numa necessidade premente de *segurança jurídica*» a sua justificação (BM, p. 326; [[Conceitos/Analogia]] *(excepciona)*). Nas normas incriminadoras, na tipicidade e nas enumerações taxativas, é a segurança que vence; fora delas, a proibição carece de fundamento próprio e não o tem.
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] - cap. II, § 4º, pp. 55-59; cap. VI, pp. 165 e 171; cap. VII, pp. 176 e 202; cap. VIII, pp. 225-226, 229 e 250-251; cap. IX, pp. 261-262; cap. XI, p. 366 (leitura integral; citações conferidas no PDF).

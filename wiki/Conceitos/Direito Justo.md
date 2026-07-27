@@ -7,7 +7,7 @@ estado_verificacao: verificado
 relacao: em-conflito
 estado_comparativo: comparativa
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Direito Justo
@@ -82,6 +82,18 @@ A crítica ao fundamento factual da validade, no plano da produção do Direito,
 ## Nota de percurso (gancho fechado)
 
 O gancho aberto na sessão 1 - a justiça como valor da ordem jurídica e condição do bem comum (ASC, pp. 36 e 96-97), com a posição exacta remetida para o Título IV - fechou a 2026-07-25 com a leitura desse Título (sessão 6): a construção entrou na secção de posição de ASC e a comparativa correu (Comparativos 0-6, acima).
+
+## Camada do Título VII, cap. III (sessão 12) - a ordem natural por dentro do mecanismo da integração
+
+O critério suprapositivo que esta página regista reaparece na integração, e reaparece num lugar que a sessão 11 não permitia antecipar: não como excepção rara, mas como componente ordinária do critério de determinação da regra.
+
+Ao interpretar o «espírito do sistema» do art. 10/3 do Código Civil, Ascensão diz que ele corresponde aos «juízos de valor legais» do art. 4/2 do Estatuto dos Magistrados Judiciais português, «mas aperfeiçoada»: «já se não limita aos juízos de valor legais, antes busca os que são próprios de todo o sistema jurídico e portanto, também os impostos pela ordem natural» (ASC, p. 464). E a consequência é operativa: «mesmo quando os princípios substanciais de solução, ínsitos no sistema jurídico, não permitem encontrar uma solução para o caso, podemos e devemos recorrer aos princípios formais, ou juízos de valor, para por meio deles integrar afinal a lacuna» (ASC, p. 464).
+
+Isto obriga a rever a leitura que a sessão 11 tinha deixado em hipótese. Ali registara-se a excepção da ordem natural do n.º 244 IV - o sentido da fonte contrário à ordem natural cede perante ela, «hipótese evidentemente rara» - como o único ponto em que um critério de valor supralegal opera na ordem portuguesa depois de fixado o sentido. O cap. III mostra que há um segundo lugar, e não é raro: sempre que se integra uma lacuna sem princípio material disponível, o intérprete busca juízos de valor que incluem os impostos pela ordem natural. A diferença entre os dois lugares é que no primeiro há fonte cujo sentido se afasta, e no segundo não há fonte alguma - e é por isso que a recusa da interpretação correctiva convive, sem contradição, com o recurso à ordem natural na integração ([[Conceitos/Integração da Lei]]).
+
+Os princípios que exprimem a ordem natural mantêm, aqui, o estatuto que o Título IV lhes deu: são direito vigente. Mas o cap. III acrescenta a delimitação que impede o recurso de ser fácil, e é uma delimitação de escala. As regras de Direito natural «possuem grande generalidade» e abrangem as matérias de maior relevância social (ASC, p. 460), ao passo que as lacunas «respeitam normalmente a especificações e casos raros, quando não a meros pormenores técnicos destituídos de qualquer conteúdo ético» (ASC, p. 460); daí ser «impossível pensar que as lacunas sejam preenchidas através do recurso a regras de Direito natural». O Direito natural entra na integração pelos princípios *formais* e pelos juízos de valor, não por regras materiais que resolvam o caso.
+
+A censura que acompanha o ponto é dirigida aos positivistas e vale por si. Algumas legislações mandaram integrar as lacunas pelo Direito natural - o Código Civil austríaco e o art. 16 do Código Civil português de 1867 -, e a reacção dos positivistas perante elas é apontada como curiosa: só prestando vassalagem à lei, não podem admitir o Direito natural, e com isso acabam por desrespeitar a lei, lendo «princípios gerais do direito» onde está escrito «princípios de Direito Natural», que não é o que a lei determina (ASC, p. 460; paráfrase, por o derivado estar corrompido no ponto e a passagem não ter sido adjudicada por imagem). O positivismo, levado ao fim, não consegue ser fiel ao texto que diz venerar.
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] - cap. X, Secção II (pp. 286-307), com o cap. IX, § 6 (pp. 264-268) e a Secção I do cap. X (leitura integral; confronto com o PDF em todas as folhas; adjudicações a 300 dpi - v. página de fonte).
