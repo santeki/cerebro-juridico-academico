@@ -450,11 +450,11 @@ Página promovida da secção de Tutela por decisão do aluno (2026-07-19). BM (
 
 ## [2026-07-19] Comparativo | Facto Jurídico - Comparativos 0-6
 
-BM (cap. IV, § 1º, 3) ↔ ASC (nn. 4-5). Classificação: **distintas** - núcleo quase textualmente convergente («elemento dinâmico/dinamizador»; produção de efeitos de direito), recortes de extensão identificáveis: ASC inclui os actos públicos normativos e decisórios no acto jurídico (pp. 14-15), BM deixa os actos normativos à margem (p. 83); tipologias de profundidade diversa. Função expositiva das diferenças; sem oposição afirmada. Comparativo 3 dispensado com nota. `comparativa`.
+BM (cap. IV, § 1º, 3) ↔ ASC (nn. 4-5). Classificação: **distintas** - núcleo quase textualmente convergente (BM «elemento dinâmico», p. 83; ASC «elemento dinamizador», p. 14 - ambos adjudicados por imagem; produção de efeitos de direito), recortes de extensão identificáveis: ASC inclui os actos públicos normativos e decisórios no acto jurídico (pp. 14-15), BM deixa os actos normativos à margem (p. 83); tipologias de profundidade diversa. Função expositiva das diferenças; sem oposição afirmada. Comparativo 3 dispensado com nota. `comparativa`.
 
 ## [2026-07-19] Comparativo | Fontes de Direito - Comparativos 0-6 (parcial: só a noção de ASC está lida)
 
-BM (cap. VI, §§ 1-8) ↔ ASC (nn. 21-22). Classificação: **distintas** - pólos opostos da divisão que ambos registam: positivação/factos normativos (BM, pp. 153-154) vs opção pragmática pela revelação («A fonte será o elemento que contém a regra», ASC p. 49), sem exclusão recíproca (ASC: «nada de errado no outro sentido»). Comparativo 5: mapa dado pelo próprio ASC (Moncada vs Dias Marques, em relato); confronto directo BM↔ASC em relato de BM na questão vizinha do art. 9º (p. 173; sede na Interpretação). Nota expressa: o comparativo reabre quando o Título VI de ASC entrar - reclassificação possível. `comparativa`.
+BM (cap. VI, §§ 1-8) ↔ ASC (nn. 21-22). Classificação: **distintas** - pólos opostos da divisão que ambos registam: positivação/factos normativos (BM, pp. 153-154) vs opção pragmática pela revelação («A fonte será o elemento que contém a regra», ASC p. 49), sem exclusão recíproca (ASC: «que nada tem de errado o outro sentido», p. 49, adjudicado por imagem). Comparativo 5: mapa dado pelo próprio ASC (Moncada vs Dias Marques, em relato); confronto directo BM↔ASC em relato de BM na questão vizinha do art. 9º (p. 173; sede na Interpretação). Nota expressa: o comparativo reabre quando o Título VI de ASC entrar - reclassificação possível. `comparativa`.
 
 ## [2026-07-19] Comparativo | Instituição - Comparativos 0-6
 
