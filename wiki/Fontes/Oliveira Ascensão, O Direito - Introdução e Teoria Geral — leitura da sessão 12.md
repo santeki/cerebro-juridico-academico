@@ -444,8 +444,11 @@ Nenhuma. As passagens que a leitura estranhou resolveram-se todas como defeito d
 | 447 | «é semp-re ê·-só átravés de uma valoração» | «é sempre e só através de uma valoração» |
 | 470 | «t~mando como ponto3J~-parti a A. regrª- g\_\_ue a mterprefâçijo \_\_ revelou» | «tomando como ponto de partida a regra que a interpretação revelou» |
 | 475 | «contraposição a Sãvigny», «Jheçi!!g», «função meramente r~çognit\_iva» | «contraposição a Savigny», «Jhering», «função meramente recognitiva» |
+| 447 | «--0 que quer dizer que é semp-re ê·-só átravés de uma valoração» | «O que quer dizer que é sempre e só através de uma valoração» |
+| 460 | «não como princí-* . *princípios materiais» | «não como princípios materiais» |
+| 475 | «do século passado, Jheçi!!g,\_ que aqui» | «do século passado, Jhering, que aqui» |
 
-O total fixa-se por contagem mecânica no fecho, contra o ficheiro.
+São dezasseis entradas novas, contadas por código contra o ficheiro, o que leva a ERRATA-MD do Ascensão de 133 a 149. Cinco concentram-se nas pp. 446-447, que são das zonas fracas declaradas nesta sessão.
 
 ### Dúvidas da sessão 12 (etiologia marcada)
 
@@ -459,4 +462,4 @@ O total fixa-se por contagem mecânica no fecho, contra o ficheiro.
 
 ### Métricas da sessão 12
 
-Folhas do recorte: 54 (todas com texto). Páginas da obra: 431-484. Números lidos: 31 (nn. 248-278). Confronto mecânico: mínimo 0,9794, mediana 0,99680, máximo 1,0000; zero folhas abaixo do limiar. Formas só-MD: 284 em 53 folhas, todas explicadas por fragmentação do PDF-texto. Fins de linha sem correspondência lexical: 24, das quais 3 corrupções verdadeiras. Rondas E2: 1, com 8 adjudicadores cegos mais 5 adjudicações directas do maestro (três no rastreio dos fins de linha, duas em correcção apanhada pelo verificador de citações antes da escrita). Zonas fracas novas declaradas: 5 (pp. 446, 447, 448, 460 e 475). Instrumentos mecânicos construídos e reprovados no controlo positivo: 4. Citações literais novas: contagem mecânica no fecho. Entradas novas de ERRATA-MD: contagem mecânica no fecho. Erratas da obra: 0.
+Folhas do recorte: 54 (todas com texto). Páginas da obra: 431-484. Números lidos: 31 (nn. 248-278). Confronto mecânico: mínimo 0,9794, mediana 0,99680, máximo 1,0000; zero folhas abaixo do limiar. Formas só-MD: 284 em 53 folhas, todas explicadas por fragmentação do PDF-texto. Fins de linha sem correspondência lexical: 24, das quais 3 corrupções verdadeiras. Rondas E2: 1, com 8 adjudicadores cegos mais 5 adjudicações directas do maestro (três no rastreio dos fins de linha, duas em correcção apanhada pelo verificador de citações antes da escrita). Zonas fracas novas declaradas: 5 (pp. 446, 447, 448, 460 e 475). Instrumentos mecânicos construídos e reprovados no controlo positivo: 4. Citações literais novas: 123 nesta sub-página e 45 na página nova [[Conceitos/Analogia]], contadas por código. Entradas novas de ERRATA-MD: 16 (133 → 149), contadas por código. Erratas da obra: 0. Citações corrigidas pelo verificador antes de entrarem no cofre: 13.

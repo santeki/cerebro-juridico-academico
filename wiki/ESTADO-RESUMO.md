@@ -65,7 +65,7 @@ A separação espelha a do sistema da Augusta - lá, o estado completo cresce ap
 
 ## Última passagem completa
 
-2026-07-27 - regeneração (**vigésima oitava**, no fecho da sessão 12 do Ascensão, conversa 27, com a poda das «Mudanças recentes» corrida pela regra 3 até abaixo do tecto de 25 KB; a vigésima sétima foi (**vigésima sétima**, no fecho do bloco correctivo 6.25 da conversa 23, sobre a vigésima sexta do bloco 6.24 - disciplina tipográfica e discursiva da escrita, com os dois checks novos do crivo v4 a fechar a porta; maestro Opus 5). A vigésima quinta correu no fecho do bloco 6.23 da conversa 21.
+2026-07-27 - regeneração (**vigésima oitava**), no fecho da sessão 12 do Ascensão, conversa 27, com a poda das «Mudanças recentes» corrida pela regra 3 do próprio ficheiro até abaixo do tecto de 25 KB: treze entradas aparadas, do mais antigo para o mais recente, com o histórico integral a viver em `log.md`. Maestro Opus 5. A vigésima sétima correu no fecho do bloco correctivo 6.25 da conversa 23; a vigésima sexta no do bloco 6.24, e a vigésima quinta no do bloco 6.23 da conversa 21.
 
 ## Regras de regeneração
 
