@@ -4,7 +4,7 @@ titulo: "NOVA School of Law - Direito"
 faculdade: "NOVA School of Law"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # NOVA School of Law - Direito
@@ -37,7 +37,7 @@ ultima_actualizacao: 2026-07-26
   9. Direito Natural e Positivismo (FA, cap. 8) - [[Conceitos/Direito Justo]] - **bicamada com ressalva** (a Secção II do cap. X de BM trata directamente a matéria - jusnaturalismo ontológico, positivismo «metafísica antimetafísica», concepção hodierna, validade do DP fundada no DN; marcado em 2026-07-11. **Segunda camada ASC desde 2026-07-24** - Título III, cap. IV, nn. 97-109, pp. 163-184, tratamento de periferia: o par exacto do ponto é o eixo do capítulo, com a génese do positivismo em quatro fases a partir do jusracionalismo e a crítica cruzada às duas posições. A ressalva mantém-se intacta: o recorte do guia remete ao Freitas do Amaral, por ingerir - a conferir quando entrar. **Terceira peça desde 2026-07-25**: a construção própria de ASC entrou com o Título IV, cap. I (sessão 6) e a comparativa formal fechou em [[Conceitos/Direito Justo]] - em conflito, com os cinco pares mapeados).
 
   II - Ramos do Direito
-  10. Ramos do Direito (BM, cap. III, 1-6) - [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] - monocamada (BM, cap. III).
+  10. Ramos do Direito (BM, cap. III, 1-6) - [[Conceitos/Ramos do Direito]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] - monocamada (BM, cap. III). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. II, nn. 186-207, pp. 329-355, sede própria dos ramos: o critério da posição dos sujeitos adoptado, o catálogo, o segundo critério do direito comum e do direito institucional, e os dois ramos fora da dicotomia). **Bicamada.** A relação passou a `em-conflito` (III) com a leitura, por divergência de catálogo sobre o mesmo critério.
 
   III - Fontes do Direito
   11. Fontes do Direito (BM, cap. VI, 1-8) - [[Conceitos/Fontes de Direito]] - monocamada (a remissão do guia corresponde exactamente aos §§ 1-8 do capítulo). **Nota de alcance ASC (2026-07-26, sessões 8 e 9 - Título VI, cap. I, integral)**: os nn. 143-168 dão a segunda voz sobre o recorte dos §§ 1-8 de BM, e os nn. 177-185 (sessão 9) acrescentam as instruções e toda a matéria da jurisprudência. **Convertido a bicamada parcial em 2026-07-26, por autorização do aluno, com lacuna expressa**: o § 8 do capítulo de BM, que a remissão do guia inclui, trata os **princípios fundamentais de Direito**, e estes não têm sede própria no capítulo I do Título VI de ASC - mesmo achado registado nas vistas da Católica Porto e da FDUP sobre o mesmo material.
@@ -46,7 +46,7 @@ ultima_actualizacao: 2026-07-26
   IV - A Norma Jurídica
   13. Estrutura da Norma Jurídica (BM, cap. IV, sessão I, § 1) - [[Conceitos/Norma Jurídica]] · [[Conceitos/Facto Jurídico]] · [[Conceitos/Personalidade Jurídica]] - monocamada.
   14. Classificação da Norma Jurídica (BM, cap. IV, sessão I, § 2) - [[Conceitos/Norma Jurídica]] - monocamada.
-  15. Codificação e técnicas legislativas (BM, cap. IV, sessão II) - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada.
+  15. Codificação e técnicas legislativas (BM, cap. IV, sessão II) - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada. **Segunda camada ASC desde 2026-07-27** (Título VI, cap. III, nn. 208-215, pp. 357-373, sede própria da codificação: noção de código, características do código moderno, compilação e consolidação, causas, conveniência e rigidez, disciplina fundamental e hierarquia, códigos em sentido formal e material, estatuto). **Bicamada.** Comparativa fechada como `complementares`.
   16. Interpretação da lei (BM, cap. VII, seções I e II) - [[Conceitos/Interpretação da Lei]] - monocamada (a remissão do guia coincide com o exemplar; a Secção IV, postulados hermenêuticos, entra pela remissão do ponto 17).
   17. Integração da lei (BM, cap. VII, seções III e IV) - [[Conceitos/Integração da Lei]] - monocamada (a Secção III é a integração; a Secção IV, que o guia lhe agrega, são os postulados hermenêuticos, tratados em [[Conceitos/Interpretação da Lei]] e [[Conceitos/Noção de Direito]]).
   18. Aplicação da lei no tempo (BM, cap. VIII, seção I, § 1) - [[Conceitos/Aplicação da Lei no Tempo]] - monocamada (a remissão do guia coincide com o exemplar).
@@ -56,7 +56,7 @@ ultima_actualizacao: 2026-07-26
   V - A tutela do Direito
   21. A tutela do Direito (BM, cap. V) - [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] - monocamada (BM, cap. V).
 
-- **Cobertura do programa**: **15 de 21 pontos cobertos** (correcção de coerência a 2026-07-26: a conversão do ponto 6 a monocamada, autorizada pelo aluno na sessão 7, tinha entrado no ponto e no PAINEL mas não neste somatório), dos quais **2 em bicamada** (ponto 9 - BM cap. X + ASC Título III, cap. IV, desde 2026-07-24; **ponto 11 - BM cap. VI, §§ 1-8 + ASC Título VI, cap. I integral, convertido em 2026-07-26 a bicamada parcial, com lacuna expressa nos princípios fundamentais de Direito**) e 13 em monocamada (pontos 2, 6 e 10-21 - BM, caps. III-VIII e X, fechados em 2026-07-09/10/11; os pontos 2 e 9 com ressalva expressa: matéria coberta pelo cap. X de BM, recorte do guia - Freitas do Amaral - a conferir quando o FA entrar); 6 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
+- **Cobertura do programa**: **15 de 21 pontos cobertos** (correcção de coerência a 2026-07-26: a conversão do ponto 6 a monocamada, autorizada pelo aluno na sessão 7, tinha entrado no ponto e no PAINEL mas não neste somatório), dos quais **4 em bicamada** (ponto 9 - BM cap. X + ASC Título III, cap. IV, desde 2026-07-24; **ponto 11 - BM cap. VI, §§ 1-8 + ASC Título VI, cap. I integral, convertido em 2026-07-26 a bicamada parcial, com lacuna expressa nos princípios fundamentais de Direito, cuja sede ASC identifica no Direito Constitucional sem a tratar, p. 337**; **ponto 10 - BM cap. III + ASC Título VI, cap. II, convertido em 2026-07-27**; **ponto 15 - BM cap. IV, Secção II + ASC Título VI, cap. III, convertido em 2026-07-27**) e 11 em monocamada (pontos 2, 6 e 10-21 - BM, caps. III-VIII e X, fechados em 2026-07-09/10/11; os pontos 2 e 9 com ressalva expressa: matéria coberta pelo cap. X de BM, recorte do guia - Freitas do Amaral - a conferir quando o FA entrar); 6 «por cobrir». O programa remete capítulo a capítulo para o Baptista Machado nos blocos II a V (12 dos 21 pontos, todos fechados em monocamada); o bloco I pede o Freitas do Amaral, ainda não entrado. Nota do ponto 20: remissão do guia desalinhada face ao exemplar (v. ponto).
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (NOVA)

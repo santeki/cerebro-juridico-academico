@@ -10,7 +10,7 @@ revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
 relacao: distintas
 estado_comparativo: comparativo-n-em-curso
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Vigência das Normas
@@ -156,6 +156,16 @@ Comparativos 2 a 6: podem correr sobre a entrada em vigor, a cessação e a revo
 ## Distinção de figuras próximas
 
 A vigência aqui tratada - a dinâmica temporal e hierárquica da norma posta - distingue-se da *vigência* como dimensão essencial da juridicidade (eficácia social do Direito), tratada em [[Conceitos/Noção de Direito]] *(concretiza)*: a segunda é pressuposto da primeira. A produção das normas cuja vigência se regula vive em [[Conceitos/Fontes de Direito]] *(concretiza)*. A estrutura da norma e as suas classificações, em [[Conceitos/Norma Jurídica]]. A técnica do diploma que a vigência pressupõe - unidade de conteúdo, divisão em artigos independentes, numeração dos parágrafos - vive em [[Conceitos/Codificação e Técnicas Legislativas]]. A *vacatio legis* e a proibição de contradições servem a certeza - [[Conceitos/Segurança Jurídica]]. A antinomia irresolúvel converte-se em lacuna de colisão e muda de regime - [[Conceitos/Integração da Lei]] *(concretiza)*. A sucessão de leis no tempo - em que a lei nova revoga a antiga mas o conflito intertemporal subsiste e se resolve por normas de segundo grau (arts. 12º, 13º e 297º do CC) - vive em [[Conceitos/Aplicação da Lei no Tempo]] *(concretiza)*; a delimitação espacial da competência das leis, em [[Conceitos/Aplicação da Lei no Espaço]].
+
+## Camada do Título VI, cap. III (sessão 10) - a força do código é a da lei que o porta
+
+O capítulo da codificação fecha, do lado da vigência, a matéria que o n.º 175 anunciara na sessão 9. A proposição é de hierarquia e é expressa: dentro das leis o código não é modalidade nova ao lado dos decretos e das portarias, e «Na hierarquia das leis o código tem a força própria da lei que o aprovou ou em que está contido» (p. 371). A designação do diploma que o porta é indiferente, «que isso não tem importância», e em todo o caso o código é lei em sentido material (p. 371). O que a sessão 9 dera como regime da revogação por código novo tem aqui o seu fundamento: se o código não tem força própria, a sua unidade formal não pode arrastar unidade de efeito revogatório.
+
+A segunda proposição limita a extensão do que o código regula, e tem consequência sobre a subsistência de lei anterior: «Dissemos também que o código traz a *disciplina fundamental* de um certo ramo do direito. Isso não equivale a disciplina *exaustiva*» (p. 371). O critério de permanência do código, apesar de fontes posteriores regularem institutos parcelares, é explícito: «Basta que os princípios fundamentais e o sistema básico continuem a constar da primitiva lei para que devamos reconhecer que estamos ainda perante um código» (p. 371). Daí a categoria da legislação **avulsa** ou **extravagante**, que o autor descreve como cortejo de leis que recai sobre a matéria do código e «vai por vezes ao ponto de comprometer seriamente a preocupação de unidade que ditou o código» (p. 371).
+
+O autor explica por que as cláusulas que mandam integrar no código todas as modificações posteriores ficam letra morta, e a explicação é de prática legislativa: «é muito mais fácil publicar uma lei independente que integrar as novas disposições no sistema do código», com a justificação a achar-se por vezes na extensão do articulado adveniente, que se receia desequilibre o código, e noutras na obediência a princípios diversos dos que o informaram (p. 371). O exemplo da cláusula está na nota 502, com o art. 4 da Carta de Lei de 28 de Junho de 1888, que aprovou o Código Comercial português (p. 365).
+
+Do lado da alteração dos códigos, o cap. III registra o que a sessão 9 não tinha: a substituição do Código Civil português deu-se em 1966 após 22 anos de trabalhos preparatórios, pelo Dec.-Lei n.º 47 344, de 25 de Novembro (p. 369), e o Código foi «vastamente alterado» pelo Dec.-Lei n.º 496/77, de 25 de Novembro, surgido por imperativo do art. 293/3 da Constituição de 1976, com juízo expresso do autor: «ultrapassou largamente esse âmbito, sobretudo em matéria de Direito da Família, cujo espírito alterou radicalmente. Pouco democraticamente, nem sequer se abriu a possibilidade de debate público sobre temas assim fundamentais» (p. 369). O primeiro Código Civil, de 1867, «só foi reformado uma vez, em 16 de Dezembro de 1930» (p. 368). Todos estes diplomas e datas são referência do autor em 1997, não confrontada com o consolidado oficial nesta sessão.
 
 ## Relevância
 

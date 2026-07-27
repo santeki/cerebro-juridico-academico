@@ -9,7 +9,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Norma Jurídica
@@ -82,6 +82,16 @@ A tipologia desta página trabalha a generalidade e a abstracção como traços 
 O critério que as separa da lei é único e nomeado, e é ele que interessa à tipologia: «distinguem-se num ponto essencial: a falta de força obrigatória geral» (ASC, p. 310). O contraste com a lei corre pela igualdade da vinculação: «a lei, alterando objectivamente a ordem da comunidade, representa um elemento vinculativo para todos. A lei impõe-se igualmente, não podendo haver leis vinculativas para uns e não vinculativas para outros» (p. 310). A generalidade da instrução é, portanto, generalidade dentro de um círculo, e não generalidade da norma. A conclusão que daqui se tira - a generalidade, isolada, não caracteriza a lei - é leitura do cofre e não proposição do autor, que fixa o critério na força obrigatória geral.
 
 O mecanismo do n.º III fecha o ponto pelo lado de quem sofre o efeito, e distingue vinculação de sujeição: indeferido o requerimento por força da instrução, o particular «não está vinculado por aquela cadeia hierárquica» e pode recorrer para o superior ou para os tribunais, que «como não estão vinculados pela instrução, resolvem independentemente dela. Sinal de que o particular só reflexamente é atingido pela instrução» (ASC, p. 310, adjudicada por imagem). O ponto não é dado como pacífico: a nota 417 identifica quem sustente eficácia reflexa dos actos internos sobre terceiros (Themístocles Brandão Cavalcanti, *Teoria*, pp. 158-161, em relato de ASC). A qualificação das instruções como fontes vive em [[Conceitos/Fontes de Direito]].
+
+## Camada do Título VI, cap. II (sessão 10) - crime, contravenção e contra-ordenação
+
+O cap. II dá à página uma tipologia de infracções construída sobre dois critérios rivais, com cada ordenamento a escolher um. A **lei portuguesa** segue o critério substancial: «No crime prevê-se a violação de um bem, na contravenção a infracção de uma regra preventiva» (p. 349). O exemplo do autor é o das matérias explosivas: é crime atingir a integridade física de outrem através de uma explosão, é contravenção fazer circular matérias explosivas sem acatar as prevenções estabelecidas, porque nesse caso «só por um caminhão circular com uma carga explosiva fora das condições legais não resultou ainda nenhum dano social; mas aquelas regras representam um anteparo preventivo» (p. 349). A regra preventiva é, portanto, norma cuja violação não pressupõe dano, e é a estrutura da previsão que a distingue.
+
+A **lei brasileira** preferiu o critério formal, por a distinção substancial suscitar dificuldades de aplicação: «é contravenção a infracção punida com prisão simples ou multa», com as contravenções retiradas do Código Penal (p. 349). Duas consequências de regime acompanham a distinção nos dois sistemas: na generalidade dos crimes exige-se conduta intencional, mas «na contravenção a lei contenta-se com a acção ou omissão voluntárias», sendo punida a mera negligência (p. 349, com a nota 481); e não há punição de tentativa de contravenção (p. 349).
+
+No direito português desenvolve-se um terceiro conceito, o de **contra-ordenação**, «para corresponder fundamentalmente a infracções de carácter económico», com figuras retiradas do âmbito do Direito Penal a constituírem o Direito de mera ordenação social (p. 349). O autor não fecha a arrumação sistemática desta categoria nova, e a página não a fecha por ele.
+
+A distinção entre acção e omissão vem no mesmo lugar e é de estrutura da previsão: a omissão «é criminalmente punível quando o sujeito tinha o dever de agir e não o fez» (p. 348), o que faz da existência de um dever de agir elemento da previsão e não circunstância exterior. E a tipicidade é dada como exigência de conformidade a um dos tipos estabelecidos na lei, com a consequência de os códigos penais proibirem a analogia a partir das normas incriminadoras (pp. 348-349; [[Conceitos/Integração da Lei]]).
 
 ## Distinção de figuras próximas
 

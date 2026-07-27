@@ -7,7 +7,7 @@ estado_verificacao: verificado
 relacao: em-conflito
 estado_comparativo: comparativa
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Sanção
@@ -50,6 +50,18 @@ A divergência é de qualificação dogmática, com efeito directo no mapa dos c
 ### Posição na tradição
 
 ASC situa a controvérsia: afirmam a natureza sancionatória Paulo Cunha e Barbero (*Sistema*, I, n.º 5 b); nega-a Thon (o acto inválido pertenceria ao mundo dos meros factos; *Norma*, n.º 4) - tudo em relato de ASC (p. 73, nota 82). BM alinha materialmente com a posição afirmativa, sem discutir a controvérsia nos passos registados. A tipologia funcional de ASC e a tipologia por meios de BM compõem-se sem conflito fora deste ponto.
+
+## Camada do Título VI, cap. II (sessão 10) - as sanções criminais
+
+O cap. II dá à página o quadro das sanções criminais, que ela não tinha em sede própria desta fonte. As sanções criminais são as penas e as medidas de segurança, e a pena define-se por dois elementos cumulativos: «tem necessariamente um carácter de reprovação do agente e traz-lhe uma privação de bens» (p. 350). A reprovação distingue-a de outras reacções da ordem jurídica que também privam de bens sem censurar.
+
+Os bens historicamente atingidos são seis, e o autor percorre-os pelo estado em que estão: a **vida**, na pena de morte, «constitucionalmente banida»; a **integridade física**, cuja limitação «choca os dados fundamentais da nossa civilização»; a **liberdade**, que «representa hoje a forma normal da pena criminal», sem prisão perpétua; a **honorabilidade**, na repreensão; a **integração social**, no exílio ou banimento, hoje em geral proibidos, no desterro e, noutro grau, na demissão do funcionário público; e o **património**, no confisco, «proibido em princípio quando os bens não têm qualquer relação com o crime» mas admitido nesse caso, e sobretudo na multa, «a manifestação mais frequente deste tipo de pena» (p. 350).
+
+Sobre os fins das penas o autor expõe as três posições, retribuição, prevenção geral e prevenção especial, e toma partido pela não dispensa da retribuição, «ou pelo menos de uma noção de culpa ética, que é a única que evita que a reacção penal se baseie num mero oportunismo» (p. 351). O argumento não é de eficácia mas de limite: sem culpa ética, a reacção penal fica sem medida própria e passa a medir-se pelo que for útil.
+
+As medidas de segurança são o outro tipo de reacção penal, e o autor dá por superado o unilateralismo oitocentista que pretendia os criminosos anormais e as medidas o único método adequado: penas e medidas coexistem com finalidades específicas, com as actuações combinadas para a defesa da sociedade contra o crime, e a posição das ordens brasileira e portuguesa não é idêntica quanto à matéria (p. 351).
+
+Da distinção entre infracções vem ainda material para [[Conceitos/Norma Jurídica]]: o critério substancial da lei portuguesa, que prevê no crime a violação de um bem e na contravenção a infracção de uma regra preventiva, contra o critério formal da lei brasileira, que faz contravenção a infracção punida com prisão simples ou multa; e, no direito português, o conceito de contra-ordenação e o Direito de mera ordenação social, correspondendo fundamentalmente a infracções de carácter económico (p. 349).
 
 ## Distinção de figuras próximas
 

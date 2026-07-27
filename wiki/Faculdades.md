@@ -1,7 +1,7 @@
 ---
 tipo: indice
 titulo: "Faculdades - índice de vistas"
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-27
 ---
 
 # Faculdades - índice de vistas
@@ -14,11 +14,13 @@ ultima_actualizacao: 2026-07-25
 
 ## Faculdades (vistas)
 <!-- Uma linha por faculdade, link para a vista em wiki/Faculdades/. Acrescentar à medida que entram. -->
-- [[Faculdades/NOVA School of Law — Direito]] - NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 15 cobertos - 1 em bicamada e 14 em monocamada, via BM e ASC).
-- [[Faculdades/FDUP — Direito]] - Faculdade de Direito da Universidade do Porto, Direito. «Introdução ao Direito» 2025/2026 mapeada (28 pontos; 26 cobertos - 2 em bicamada e 24 em monocamada, via BM e ASC).
-- [[Faculdades/Católica Porto — Direito]] - Universidade Católica Portuguesa, Faculdade de Direito (Porto), Direito. «Introdução ao Estudo do Direito» mapeada (7 Partes; Partes I-VII em monocamada via BM caps. I-VIII).
-- [[Faculdades/Católica Lisboa — Direito]] - Universidade Católica Portuguesa, Faculdade de Direito (Lisboa), Direito. «Introdução ao Estudo do Direito» 2023/2024 mapeada (15 pontos; 14 cobertos - 1 em bicamada e 13 em monocamada, via BM e ASC).
-- [[Faculdades/FDUL — Direito]] - Faculdade de Direito da Universidade de Lisboa, Direito. «Introdução ao Estudo do Direito I», Turma A, 2025-2026 mapeada (19 pontos; 15 em monocamada via BM e ASC).
+- [[Faculdades/NOVA School of Law — Direito]] - NOVA School of Law, Direito. Vista da faculdade do Telmo; «Introdução ao Direito e ao Pensamento Jurídico» mapeada (guia 2021; 21 pontos; 15 cobertos - 4 em bicamada e 11 em monocamada, via BM e ASC; 6 por cobrir).
+- [[Faculdades/FDUP — Direito]] - Faculdade de Direito da Universidade do Porto, Direito. «Introdução ao Direito» 2025/2026 mapeada (28 pontos; 26 cobertos - 8 em bicamada e 18 em monocamada, via BM e ASC; 2 por cobrir, com sede identificada em ASC e tratamento declinado).
+- [[Faculdades/Católica Porto — Direito]] - Universidade Católica Portuguesa, Faculdade de Direito (Porto), Direito. «Introdução ao Estudo do Direito» mapeada (7 Partes; Partes I-VII cobertas via BM caps. I-VIII, com a Parte II, o ponto 5 da Parte III e o ponto 6 da Parte V em bicamada por ASC, e o ponto 7 da Parte V em bicamada parcial).
+- [[Faculdades/Católica Lisboa — Direito]] - Universidade Católica Portuguesa, Faculdade de Direito (Lisboa), Direito. «Introdução ao Estudo do Direito» 2023/2024 mapeada (15 pontos; 14 cobertos - 2 em bicamada e 12 em monocamada, via BM e ASC; 1 por cobrir. A ficha remete a matéria dos ramos do Direito às aulas práticas, p. 8, e não a autonomiza no programa).
+- [[Faculdades/FDUL — Direito]] - Faculdade de Direito da Universidade de Lisboa, Direito. «Introdução ao Estudo do Direito I», Turma A, 2025-2026 mapeada (19 pontos; 16 cobertos - 5 em bicamada, um deles parcial, e 11 em monocamada, via BM e ASC; 3 por cobrir. O exemplar é só de IED I; o programa de IED II está por obter).
+
+> Contadores conferidos por código contra as cinco vistas a 2026-07-27. O desalinhamento anterior, com este índice em 2026-07-25 e as vistas em 2026-07-26, foi apanhado na Fase 4 da sessão 10 e não pelo crivo, cujos checks de frescura cobrem o `ESTADO-RESUMO.md` e o cabeçalho de erratas da página-mãe do Ascensão, não este ficheiro. A extensão do check está proposta no fecho da conversa 25.
 
 ## Convergência entre faculdades
 Quando fontes adoptadas por faculdades diferentes tratam a mesma matéria, alimentam a **mesma** página de conhecimento - a matéria fica vista por mais do que uma escola numa só página. As posições não se fundem: o Eixo B classifica a relação entre elas (complementares · compatíveis · distintas · em conflito) e cada uma fica ancorada à sua fonte. A convergência serve o estudo completo; cada vista recorta, para o seu exame, o que conta nessa faculdade. Ver `PROTOCOLO-ANALISE-COMPARATIVA.md`.

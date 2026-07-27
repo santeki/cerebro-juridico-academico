@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Coercibilidade
@@ -75,6 +75,14 @@ A estrutura que a sessão 8 registou a propósito do costume a que o Estado recu
 A instrução produz regra e é dada como fonte do direito, mas o particular a quem o seu efeito chega não está sujeito ao vínculo que a sustenta: «como ele não está vinculado por aquela cadeia hierárquica, não terá de se conformar com a referida instrução. Se considerar que ela viola os seus direitos poderá recorrer para o superior hierárquico, ou para os órgãos judiciais. Estes, como não estão vinculados pela instrução, resolvem independentemente dela. Sinal de que o particular só reflexamente é atingido pela instrução» (ASC, p. 310, adjudicada por imagem). Há regra, há autoridade que a emite, há efeito prático sobre quem não é seu destinatário - e não há vinculação daquele que sofre o efeito.
 
 O paralelo com o costume sem acção é de estrutura e não de conteúdo: ali a regra existe e o Estado nega-lhe as engrenagens do poder público; aqui a regra existe e os órgãos judiciais decidem sem a considerar. Nos dois casos a juridicidade da regra não depende de o aparelho coactivo a fazer valer perante todos, o que é a proposição desta página. Registo de convergência estrutural, não afirmação do autor: ele não estabelece o paralelo, e a aproximação é construção do cofre ([[Conceitos/Fontes de Direito]], [[Conceitos/Norma Jurídica]]).
+
+## Camada do Título VI, cap. II (sessão 10) - o monopólio como fundamento da qualificação do processo
+
+A coercibilidade reaparece no capítulo dos ramos com função classificatória, e é a primeira vez que isso acontece nesta página. Ao qualificar o Direito Processual como Direito Público, Ascensão não invoca a posição dos sujeitos directamente: invoca o monopólio. O Estado «procura assegurar quanto possível o monopólio da coercibilidade», e é «para isso» que cria órgãos destinados a dirimir os litígios que surjam (p. 351, com remissão do autor para o n.º 40 V). A criação de tribunais é apresentada como instrumento do monopólio, e o processo como o direito que disciplina a actividade desses órgãos.
+
+O que daqui resulta para esta página é uma ligação que ela não tinha explícita: o monopólio da coercibilidade não serve apenas para caracterizar a ordem jurídica estadual perante as ordens menores, serve também para decidir a qualificação de um ramo. Se o processo é público, é porque regula a actividade através da qual o Estado exerce aquilo que reserva para si.
+
+O reverso está no mesmo capítulo e vale como limite. O Direito dos Organismos Intermédios tem estruturas jurídicas «com as suas próprias sanções e órgãos jurisdicionais», e o poder das entidades que as ditam «é originário: desenvolveu-se independentemente de qualquer previsão legal» (p. 336); o reconhecimento legal não as transforma em órgãos do Estado, e o ordenamento assim produzido «pode no seu conteúdo não ser coincidente com o direito oficial do Estado, sem que isso implique invalidade» (p. 337). O monopólio é, portanto, tendencial na letra do autor («quanto possível») e conhece ordens com jurisdição própria que ele não absorve ([[Conceitos/Fontes de Direito]]; [[Conceitos/Ramos do Direito]]).
 
 ## Distinção de figuras próximas
 

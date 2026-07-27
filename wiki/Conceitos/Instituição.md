@@ -10,7 +10,7 @@ revisao_ultima: 2026-07-09
 revisao_intervalo: 1
 revisao_proxima: 2026-07-10
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Instituição
@@ -67,6 +67,16 @@ Convergência substantiva com reforço mútuo. O centro é o duplo relato de Hau
 Aos centros jurígenos autónomos que a sessão 8 registou pelo n.º 160 acresce, pelo n.º 177, uma normatividade de natureza diferente e igualmente institucional: as **instruções**, que produzem «regras que apenas vinculam no interior duma dada hierarquia» (ASC, p. 309), com eficácia «necessariamente intra-institucional» (p. 310).
 
 A diferença face aos centros jurígenos do n.º 160 é de fundamento e não de âmbito. Os entes infra-estatais são fonte porque o grupo elabora direito próprio, que o reconhecimento estatal não absorve; a instrução é fonte porque de si deriva uma regra, mas o poder que a sustenta é o vínculo hierárquico dentro da instituição, não a autonomia normativa do grupo. O autor mantém-nas ambas no elenco das fontes intencionais: «Ambas são fontes do direito, pois de ambas derivam regras; ambas são fontes intencionais e supõem poderes de autoridade em quem as emite» (ASC, p. 310). A instituição gera, portanto, normatividade por duas vias distintas, e só uma delas produz direito oponível fora dela ([[Conceitos/Fontes de Direito]]).
+
+## Camada do Título VI, cap. II (sessão 10) - a instituição como critério de divisão dos ramos
+
+A instituição ganha aqui a função mais forte que tem no cofre: ser o critério de uma divisão do Direito. Ascensão declara que a divisão básica dos ramos deveria ser outra do que a tradicional, «muito mais explicativa que esta», e que «Deveriam dividir-se os ramos do direito em ramos de direito comum e ramos de direito institucional» (p. 331). O critério é a referência a instituições: os ramos podem referir-se ou não a instituições, «que regulam, e das quais por seu lado recebem a unificação e a fisionomia» (p. 331). A instituição não é aqui objecto regulado apenas: é a fonte da unidade e da fisionomia do próprio ramo, e o autor remete expressamente para a figura tal como a fixara no n.º 12 do curso.
+
+Três concretizações, todas no mesmo passo: «o Direito da Família regula a instituição familiar; o Direito Público é afinal o direito que regula a instituição Estado, no sentido mais utilizável da expressão; o Direito das Sucessões regula a instituição sucessão» (p. 331). O termo oposto é o **direito comum**, que não é resíduo: são as regras não ligadas a nenhuma instituição em particular, que «estabelecem antes princípios técnicos que podem ser aplicados independentemente, ou submetidos aos fins de uma instituição» (pp. 331-332), e nele o autor arruma as matérias da Introdução, a Teoria Geral do Direito Civil, as Obrigações e os Direitos Reais.
+
+O mecanismo que articula os dois termos é o da retoma com adaptação, e é o que dá operatividade à figura: as regras de direito comum são retomadas pelos ramos institucionais «e aí adaptadas de modo a servirem finalidades específicas», com desvios em relação ao regime comum; o exemplo é a obrigação, estudada em abstracto na relação credor-devedor e depois disciplinando relações familiares orientadas para fins institucionais, como a obrigação de fidelidade ou a de alimentos (p. 332). A adaptação não é excepção casuística: é o efeito de a instituição impor os seus fins à regra que recebe.
+
+O critério não é adoptado, e a razão é declarada: «Defeituosa ou não, a sistemática clássica tem funcionado satisfatoriamente. Enraizou-se de tal maneira que não é sensato pugnar pela sua substituição» (p. 332). O número corre todo em condicional. O que dele sobrevive com valor operativo é o poder explicativo, que o autor usa duas vezes para arrumar o que a dicotomia tradicional não arruma: o Direito Internacional Público, institucional por corresponder à comunidade internacional como comunidade autónoma (p. 334), e o Direito dos Organismos Intermédios, «Puro Direito institucional» (p. 337). O detalhe vive em [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 10]] e a divisão em [[Conceitos/Ramos do Direito]].
 
 ## Distinção de figuras próximas
 

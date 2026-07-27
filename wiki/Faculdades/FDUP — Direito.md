@@ -4,7 +4,7 @@ titulo: "FDUP - Direito"
 faculdade: "Faculdade de Direito da Universidade do Porto"
 curso: "Direito (licenciatura)"
 norma_citacao: ""
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # FDUP - Direito
@@ -33,8 +33,8 @@ ultima_actualizacao: 2026-07-26
   6. O problema do Direito Natural - [[Conceitos/Direito Justo]] - **bicamada** (BM, cap. X, Secção II: o problema, modelo ontológico vs positivismo vs pragmática universal, valer/vigorar, *pacta sunt servanda*, concepção hodierna da indisponibilidade, validade do Direito Positivo fundada no Direito Natural, fechado em 2026-07-11; **segunda camada ASC desde 2026-07-24** - Título III, cap. IV, nn. 97-109, pp. 163-184, em tratamento de periferia: a história das posições sobre o fundamento do direito, com o «eterno regresso» do Direito natural, a distinção entre Direito natural primário e secundário, a separação nítida entre jusnaturalismo e jusracionalismo, a tese do positivismo como metamorfose e não antítese do jusracionalismo, e a revivescência do pós-guerra. Onde BM constrói sistematicamente, ASC percorre historicamente e critica. **Terceira peça desde 2026-07-25**: a construção própria de ASC entrou com o Título IV, cap. I (nn. 110-121, pp. 185-205, sessão 6) e a **comparativa formal está fechada** na página - em conflito, com os cinco pares mapeados: o Direito natural como direito positivo contra o *prius* suprapositivo, a variabilidade essencial contra a validade intemporal, e a recusa expressa da moldura «teoria do direito justo» (ASC, p. 195, nota 230) contra o nome do próprio problema em BM).
 
   II. Os ramos do Direito
-  7. A *summa divisio* estrutural: Direito Público e Direito Privado - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, 4).
-  8. Principais ramos do Direito - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, 5-7).
+  7. A *summa divisio* estrutural: Direito Público e Direito Privado - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, 4). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. II, nn. 186-207, pp. 329-355). **Bicamada.** ASC adopta o mesmo critério da posição dos sujeitos e propõe, em condicional e sem adoptar, a divisão em direito comum e direito institucional (n.º 187); a relação passou a `em-conflito` (III).
+  8. Principais ramos do Direito - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, 5-7). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. II, nn. 186-207, pp. 329-355). **Bicamada.** Catálogo completo de ASC, com divergência frontal sobre o Direito Penal (n.º 203) e sobre o Direito do Trabalho (n.º 199).
 
   III. A norma jurídica
   9. O conceito de norma jurídica: elementos definidores e estrutura da norma - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, Secção I, § 1º).
@@ -42,8 +42,8 @@ ultima_actualizacao: 2026-07-26
   11. Classificação das normas jurídicas - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 2º).
 
   IV. A criação normativa estadual
-  12. A codificação - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II, § 1º).
-  13. Técnicas legislativas principais - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II, §§ 2º-4º).
+  12. A codificação - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II, § 1º). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. III, nn. 208-215, pp. 357-373). **Bicamada.** Comparativa fechada como `complementares`: de ASC vem o estatuto do código entre as fontes, as causas históricas e a consolidação como terceiro termo.
+  13. Técnicas legislativas principais - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II, §§ 2º-4º). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. III, nn. 208-215, pp. 357-373). **Bicamada.** Do lado de ASC, as três características do código moderno e a distinção entre códigos em sentido formal e material.
 
   V. A tutela do Direito e dos direitos
   14. Meios de tutela jurídica - [[Conceitos/Tutela do Direito]] - monocamada (BM, cap. V, §§ 1º-2º).
@@ -70,7 +70,7 @@ ultima_actualizacao: 2026-07-26
   27. Princípios fundamentais do direito privado português - por cobrir.
   28. Princípios fundamentais do direito público português - por cobrir.
 
-- **Cobertura do programa**: 26 de 28 pontos cobertos, dos quais **4 em bicamada** (ponto 6 - BM cap. X + ASC Títulos III-IV, comparativa fechada a 2026-07-25; ponto 5 - BM cap. II, § 4º + ASC Título IV, cap. I, desde 2026-07-25; **ponto 17 - BM cap. VI, §§ 1-8 + ASC Título VI, cap. I, sessões 8 e 9, convertido em 2026-07-26**; **ponto 18 - BM cap. VI, §§ 9-10 + ASC nn. 169-175, convertido em 2026-07-26**) e 22 em monocamada (pontos 1-4 e 7-25 - BM, caps. I-VIII e X, fechados em 2026-07-09/10/11; ponto 26 - ASC, Título III, cap. III, fechado em 2026-07-24, com a ressalva de datação de 1997); notas de alcance sem conversão nos pontos 2 e 20 (2026-07-25); 2 «por cobrir» (27-28: princípios fundamentais do direito privado e do direito público, fora das duas fontes). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
+- **Cobertura do programa**: 26 de 28 pontos cobertos, dos quais **8 em bicamada** (ponto 6 - BM cap. X + ASC Títulos III-IV, comparativa fechada a 2026-07-25; ponto 5 - BM cap. II, § 4º + ASC Título IV, cap. I, desde 2026-07-25; **ponto 17 - BM cap. VI, §§ 1-8 + ASC Título VI, cap. I, sessões 8 e 9, convertido em 2026-07-26**; **ponto 18 - BM cap. VI, §§ 9-10 + ASC nn. 169-175, convertido em 2026-07-26**; **pontos 7 e 8 - BM cap. III + ASC Título VI, cap. II, convertidos em 2026-07-27**; **pontos 12 e 13 - BM cap. IV, Secção II + ASC Título VI, cap. III, convertidos em 2026-07-27**) e 18 em monocamada (pontos 1-4 e 7-25 - BM, caps. I-VIII e X, fechados em 2026-07-09/10/11; ponto 26 - ASC, Título III, cap. III, fechado em 2026-07-24, com a ressalva de datação de 1997); notas de alcance sem conversão nos pontos 2 e 20 (2026-07-25); 2 «por cobrir» (27-28: princípios fundamentais do direito privado e do direito público; **a sessão 10 identificou a sede em ASC sem fechar os pontos** - «no Direito Constitucional se estudam os princípios fundamentais de todos os ramos do direito», p. 337, com o tratamento expressamente declinado, pelo que passam de «fora das duas fontes» a «sede identificada, tratamento declinado»). O Baptista Machado (obrigatório nesta cadeira) está em ingestão; os pontos que cada capítulo fechar actualizam-se no fecho de cada estudo.
 - **Histórico de avaliações**: sem fontes de avaliação ingeridas.
 
 ## Fila de prioridade (FDUP)

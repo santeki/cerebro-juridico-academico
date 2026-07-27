@@ -11,7 +11,7 @@ revisao_ultima: 2026-07-10
 revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Interpretação da Lei
@@ -112,6 +112,14 @@ A segunda é a leitura do art. 7/2 do Código Civil, e o instrumento é o direit
 A ambas acresce, do lado da teoria, a proposição epistemológica com que o autor resolve a fórmula «segundo a lei e a sua consciência»: «a objectividade não é atingível em si, mas mediante a sua revelação ao espírito do intérprete» (ASC, p. 313). É afirmação sobre o modo de acesso ao direito objectivo, e amarra a teoria da interpretação do autor à sua doutrina das fontes: a norma existe independentemente do intérprete, mas não é alcançável senão por ele. O desenvolvimento vive em [[Conceitos/Jurisdição]], onde a fórmula tem a sua sede.
 
 Em relato, e sem leitura autónoma da obra relatada: Pires de Lima sustentou a existência de **interpretação ab-rogante** entre duas leis publicadas em datas diferentes que deveriam entrar em vigor simultaneamente (ASC, nota 401, p. 300, com remissão para *RLJ*, 191, 335, e para os nn. 246-247 da própria obra, ainda por ler).
+
+## Camada do Título VI, cap. III (sessão 10) - a sistematização do código como condição da hermenêutica
+
+Duas proposições do capítulo da codificação entram nesta página, e a segunda tem consequência sobre o modo de interpretar. A primeira é o valor do código para quem interpreta: pela sistematização científica, «dá ao intérprete um mapa onde situar facilmente o novo caso», mapa «fecundo nos entendimentos que torna possíveis», e o autor acrescenta que o código «não só pressupõe como facilita a construção científica do direito», porque a própria estrutura faz ressaltar os princípios comuns que vivificam as diversas partes, tornando apreensíveis orientações gerais que só penosamente se detectariam numa seriação de leis (p. 364).
+
+A segunda é o custo, e é aqui que a página ganha material novo. O inconveniente específico do código é a rigidez, e ela «estende-se também ao campo doutrinário, pois há a tendência de fazer coincidir as sistematizações legais e doutrinais» (p. 365, letra adjudicada por imagem sob marcas de leitor). A nota 501 liga esse resultado a um estádio determinado da hermenêutica: «Este resultado é fatal quando se está no estádio da exegese na interpretação das leis», com remissão para o n.º 227 (p. 365). A dependência é dupla, portanto: a sistematização legal condiciona a doutrinal, e o grau em que a condiciona depende do método interpretativo dominante. Onde a exegese domina, a doutrina segue o sistema do código «por mais imperfeito e ultrapassado que este seja» (p. 365); onde não domina, pode afastar-se dele, e o autor dá o exemplo português dos últimos decénios do antigo Código Civil, em que nenhuma obra se baseava já no seu sistema e nem a distinção das disciplinas nos cursos lhe correspondia (p. 365).
+
+A doutrina da interpretação em sede própria corre no Título VII, por ler, e é lá que o n.º 227 responde. Esta camada fixa a dependência e deixa o mecanismo para essa sessão ([[Conceitos/Codificação e Técnicas Legislativas]]).
 
 ## Distinção de figuras próximas
 

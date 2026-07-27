@@ -9,7 +9,7 @@ revisao_intervalo: 1
 revisao_proxima: 2026-07-11
 estado_comparativo: aguarda-comparativo
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]", "[[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]]"]
-ultima_actualizacao: 2026-07-26
+ultima_actualizacao: 2026-07-27
 ---
 
 # Integração da Lei
@@ -84,6 +84,14 @@ A doutrina da integração do autor corre no Título VII, cap. III (nn. 248-270)
 A tipologia de lacunas desta página não contempla a que nasce do próprio funcionamento do sistema de fontes, e o n.º 174 dá-a com o caso trabalhado. Revogado globalmente um conjunto de preceitos pela entrada de lei nova que regula a matéria - o regime das letras de câmbio do Código Comercial, afastado pela adopção de lei uniforme -, e existindo lacuna na lei nova, não é lícito recorrer ao preceito revogado que regulava directamente o ponto: «Ele foi revogado, pois as disposições em que se inseria foram globalmente revogadas. **Há que confessar a lacuna da lei, que deverá ser preenchida nos termos gerais**» (ASC, pp. 303-304). A revogação global cria, portanto, lacunas que a lei revogada resolveria, e a proibição de as preencher com o texto revogado é o preço da globalidade. Quem tratar o preceito revogado como fonte subsidiária está a aplicar direito que cessou de vigorar, e não a integrar.
 
 A obrigação de julgar e o limite da criação normativa recebem confirmação por segunda voz sobre a mesma letra. A nota 422 antecipa o art. 10 do Código Civil, que «parece afastar-se deste sistema, ao atribuir a solução de casos omissos à norma que o intérprete criaria». O autor difere o tratamento - «Veremos, a propósito da integração das lacunas, qual o real significado desta previsão» - e fixa desde já a consequência que interessa às fontes: «De todo o modo […] a criação que aqui se refere é sempre uma criação no caso concreto, não uma criação normativa. Portanto, também aqui não nos surge a jurisprudência como fonte do direito» (ASC, p. 313). É a mesma proposição que a página regista por Baptista Machado, para quem a norma *ad hoc* se cria «sem que de modo algum adquira carácter vinculante para futuros casos ou para outros julgadores» (BM, p. 203) - convergência de substância sobre o art. 10º, registada em [[Conceitos/Fontes de Direito]]. O tratamento pleno da integração por Ascensão corre no Título VII, ainda por ler, e esta camada é antecipação declarada pelo próprio autor.
+
+## Camada do Título VI, cap. III (sessão 10) - o código como ponto de partida da integração
+
+Entre as vantagens da codificação, Ascensão dá uma que toca directamente esta página: pela sistematização científica, o código «dá ao intérprete um mapa onde situar facilmente o novo caso», e «Tem também interesse para os casos omissos, pois pode ser utilizado como ponto de partida para a integração de lacunas» (p. 364). A afirmação é breve e tem alcance dogmático: o que serve a integração não é o texto de cada preceito, é o plano que os ordena, e é por isso que o autor liga o valor do código à ciência jurídica que traça esse plano («Ao código moderno tem de estar ínsito um plano que só a ciência jurídica pode traçar», p. 359).
+
+A técnica da integração propriamente dita corre no Título VII, por ler, e esta camada não a antecipa. O que fica firmado é a razão de a codificação importar à integração, e ela articula-se com a proposição inversa do mesmo capítulo: a disciplina do código é fundamental e não exaustiva, com matéria deixada à legislação avulsa por não estar amadurecida ou por estar sujeita ao estado da técnica (pp. 371-372). O mapa que serve a integração é, portanto, um mapa deliberadamente incompleto, e o autor não trata a incompletude como defeito a suprir pelo intérprete mas como opção do codificador ([[Conceitos/Codificação e Técnicas Legislativas]]).
+
+Do lado penal, o cap. II dá o limite: o princípio da legalidade ou tipicidade exige que a conduta seja conforme a um dos tipos estabelecidos na lei, e daí que «os códigos penais proíbem a analogia a partir das normas incriminadoras ou das penas estabelecidas», repercutindo comandos constitucionais dos dois países (pp. 348-349). A proibição de analogia em matéria incriminadora é, nesta obra, consequência da tipicidade e não regra autónoma de integração.
 
 ## Distinção de figuras próximas
 
