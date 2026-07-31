@@ -34,6 +34,6 @@ Leitura integral confrontada com o PDF em todas as páginas do capítulo. As pos
 
 Movidas da página-mãe na cisão de 2026-07-25; todas confirmadas carácter a carácter no PDF (folha indicada pela regra 2N−4/2N−3):
 
-- «A sociedade é um produto humano — A sociedade é uma realidade objectiva — O homem é um produto social» - Berger e Luckmann, citados por BM, p. 22 (em itálico na obra; travessões do original preservados).
+- «A sociedade é um produto humano—A sociedade é uma realidade objectiva—O homem é um produto social» - Berger e Luckmann, citados por BM, p. 22 (em itálico na obra; travessões do original preservados, sem espaços como no impresso).
 - «Todo o social é normativo e todo o normativo é social» - BM, p. 23 (em itálico na obra; abertura do § 10).
 - «São as instituições que criam as normas jurídicas, e não as normas jurídicas que criam as instituições!» - Hauriou, citado por BM em nota, p. 29 (300 dpi; o MD deforma o fecho, «instituiçõt.-s» - v. ERRATA-MD).
