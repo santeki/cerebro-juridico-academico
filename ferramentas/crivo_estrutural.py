@@ -341,7 +341,7 @@ def check_tipografia(vault):
     """Travessão «—» fora de citação literal, código ou wikilink. Excepção: fidelidade da citação."""
     falhas = []
     for f in sorted(vault.rglob('*.md')):
-        if '.git' in f.parts or f.parts[len(vault.parts):][:1] == ('raw',):
+        if '.git' in f.parts or f.parts[len(vault.parts):][:1] in (('raw',), ('ferramentas',)):  # E11: relatórios de instrumento fora do escopo de escrita (6.27)
             continue
         t = f.read_text(encoding='utf-8')
         if '\u2014' not in t:
@@ -361,7 +361,7 @@ def check_rotulo_tese(vault):
     pats = [re.compile(r'(?:\A|\n\n)\*\*((?:[^*\n]|\*(?!\*)){2,120}?)\*\*[.:]\s'),
             re.compile(r'(?:\A|\n\n)\*\*((?:[^*\n]|\*(?!\*)){2,120}?[.:])\*\*\s')]
     for f in sorted(vault.rglob('*.md')):
-        if '.git' in f.parts or f.parts[len(vault.parts):][:1] == ('raw',):
+        if '.git' in f.parts or f.parts[len(vault.parts):][:1] in (('raw',), ('ferramentas',)):  # E11: relatórios de instrumento fora do escopo de escrita (6.27)
             continue
         t = f.read_text(encoding='utf-8')
         for pat in pats:
@@ -398,7 +398,7 @@ def check_frase_moldura(vault):
     """
     falhas = []
     for f in sorted(vault.rglob('*.md')):
-        if '.git' in f.parts or f.parts[len(vault.parts):][:1] == ('raw',):
+        if '.git' in f.parts or f.parts[len(vault.parts):][:1] in (('raw',), ('ferramentas',)):  # E11: relatórios de instrumento fora do escopo de escrita (6.27)
             continue
         t = f.read_text(encoding='utf-8')
         sp = _spans_protegidos(t)

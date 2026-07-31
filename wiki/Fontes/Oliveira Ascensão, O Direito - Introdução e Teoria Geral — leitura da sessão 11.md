@@ -357,7 +357,7 @@ Spot-checks posicionais propostos ao aluno (três, de trinta segundos cada): abr
 | 416 | «Porquê' a ordem jurídica não *l -um* am-õrú"oadô-casffãf-deelementos» | «Porque a ordem jurídica não é um amontoado casual de elementos» |
 | 416 | «o princípio da consoante-servação dos negócios jurídicos» | «o princípio da conservação dos negócios jurídicos» |
 
-Seis entradas novas, três delas concentradas na p. 416, que é a zona fraca declarada desta sessão. O total fixa-se por contagem mecânica no fecho, contra o ficheiro.
+Seis entradas novas (nn. 128-133), três delas concentradas na p. 416, que é a zona fraca declarada desta sessão. Total do ficheiro no fecho da sessão: 133 entradas (contado por código contra o ficheiro, no fecho da c30, a partir do diff da sessão).
 
 ### Dúvidas da sessão 11 (etiologia marcada)
 
@@ -371,4 +371,4 @@ Seis entradas novas, três delas concentradas na p. 416, que é a zona fraca dec
 
 ### Métricas da sessão 11
 
-Folhas do recorte: 55 (54 com texto). Páginas da obra: 375-429. Números lidos: 32 (nn. 216-247). Rondas E2: 2, com 8 adjudicadores cegos. Âncoras de probe fixadas por imagem: 8. Citações literais novas: contagem mecânica no fecho. Entradas novas de ERRATA-MD: contagem mecânica no fecho. Erratas da obra: 1.
+Folhas do recorte: 55 (54 com texto). Páginas da obra: 375-429. Números lidos: 32 (nn. 216-247). Rondas E2: 2, com 8 adjudicadores cegos. Âncoras de probe fixadas por imagem: 8. Citações literais novas: 256 (contadas por código no fecho da c30, pelo diff git da sessão, spans «...» ≥ 25 caracteres líquidos). Entradas novas de ERRATA-MD: 6 (nn. 128-133, pelo mesmo diff). Erratas da obra: 1.
