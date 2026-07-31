@@ -1,6 +1,6 @@
 ---
 schema: Segundo Cérebro Jurídico Académico
-versao: 6.26
+versao: 6.27
 mundos: [LLM Wiki (Karpathy), Augusta Labs, Nomos]
 ultima_actualizacao: 2026-07-31
 ---
@@ -54,7 +54,7 @@ Quando duas regras desta charter colidem num caso concreto, resolve-se por esta 
 3. **Proveniência verificada (regra 1).** Sem fonte verificada e ancorável, não escrever.
 4. **Cobertura integral (leitura) · graduação de tratamento (extracção) · profundidade calibrada (escrita).** Três fases sem colisão directa: lê-se tudo, sem amostragem; trabalha-se cada secção ao nível certo (núcleo, periferia, contexto); convoca-se na nota só o que ilumina. A cobertura nunca cede; o que se gradua é o esforço de extracção, nunca o de verificação.
 5. **Vigência (regra 6).** Texto revogado é história, não Direito.
-6. **Restantes regras** (PT-PT, ancoragem, N1/N2/N3, sinalização, distinção visual, dogmática vs divulgação, ownership), seguidas da estética, que nunca cede em face de fidelidade ou rigor.
+6. **Restantes regras** (PT-PT, ancoragem, N1/N2/N3, sinalização, distinção visual, dogmática vs divulgação, ownership), seguidas da estética, que cede sempre perante a fidelidade e o rigor.
 
 ---
 
@@ -74,7 +74,7 @@ Não inventar jurisprudência, doutrina, números de artigo, datas, processos, E
 
 Onde a verificação falhar na sessão, usar placeholder explícito (`art. ___`, `{ECLI a confirmar}`, `{Autor, Obra, ed., ano, p. ___}`) e sinalizar a lacuna. Página com bloco em falta e lacuna assinalada é superior a página com bloco fabricado.
 
-### 3. PT-PT canónico.
+### 3. PT-PT canónico e disciplina de escrita.
 
 Jurisdição primária: Direito Português; extensões ao Direito da União e ao Direito Internacional quando a questão seja directa dessas ordens ou elas sejam relevantes. Língua: PT-PT canónico, na grafia do Acordo Ortográfico em vigor: aspas curvas «», ordinais º solto sem ponto, terminologia jurídica portuguesa não traduzida. **O travessão «—» não se usa, em função nenhuma**: nem aposto, nem inciso, nem enumeração, nem diálogo, nem intervalo, nem quebra de frase. Onde o impulso de escrita pedir travessão, escreve-se hífen «-». A regra aplica-se automaticamente e não admite ponderação caso a caso. **Excepção única**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; e, por dependência técnica, os nomes de ficheiro já existentes e os wikilinks que para eles apontam, cuja alteração é operação de renomeação e não de escrita. A regra vincula toda a escrita do agente, sem distinção entre o conteúdo do cofre e a resposta em conversa. Nenhum parágrafo abre com rótulo-tese a negrito ou itálico que anuncie o tema antes de o desenvolver, e nenhuma frase existe para preparar a seguinte: cada parágrafo e cada frase carregam substância jurídica própria, na formulação mais simples que sustente a maior profundidade jurídica disponível. A forma completa das três regras, com o que mais está banido na escrita, vive na `CONVENCOES.md`; o crivo estrutural confere por código o que nelas é mecanizável e a falha bloqueia o fecho. Não traduzir termos jurídicos portugueses sem necessidade.
 

@@ -15,7 +15,7 @@ ultima_actualizacao: AAAA-MM-DD
 {Árvore ou rede dos conceitos, com wikilinks. Indentação para subordinação dogmática.}
 
 - {Conceito-raiz} - [[Institutos/...]]
-  - {sub-conceito} - [[...]] - *relação*: pressupõe / espécie de / contrasta com
+  - {sub-conceito} - [[...]] - *relação*: nomeada em linguagem natural na legenda da aresta; o vocabulário tipado fechado das CONVENCOES reserva-se às suas sedes (instituto, debate, Distinção do conceito)
   - {sub-conceito} - [[...]]
 
 ## Eixos transversais

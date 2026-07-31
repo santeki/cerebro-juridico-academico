@@ -4,9 +4,9 @@ Como a instância de origem se transforma na cópia que um aluno recebe. Princí
 
 ## O que embarca, o que se reinicia, o que fica
 
-Embarca `raw/` integral; o corpo de `wiki/` (institutos, conceitos, doutrina, jurisprudência, legislação, debates, auxiliares, sebentas, avaliação), as vistas, o índice, o glossário e o `ESTADO-RESUMO`; o schema completo (charter, convenções, protocolos, playbooks, modelos); as ferramentas de verificação (`ferramentas/`, sob git - 6.26, item F); `CERTIFICACAO.md`; `identidade/` apenas com `LEIA-ME.md` e `_modelo/`.
-**Reinicia**: `log.md` (nasce com uma entrada-génese: «Edição {referência} gerada da instância {versão} a {data}»), `PAINEL`, `MELHORIA`, `SUPRESSAO-LIST` (os ❌ são de quem opera), `Inbox`.
-**Fica na origem**: o log operacional da instância; o bloco de configuração preenchido (a cópia parte do bloco-template vazio, para a conversa do destinatário); `wiki/VOZ-FINGERPRINT.md` (a voz é do destinatário); as identidades visuais instaladas.
+Embarca `raw/` integral - com a excepção do exemplar cuja dimensão o `PROTOCOLO-BACKUP.md` põe fora do repositório, que se referencia pelo `hash_raw` da página de fonte e se entrega à parte; o corpo de `wiki/` (institutos, conceitos, doutrina, jurisprudência, legislação, debates, auxiliares, sebentas, avaliação), as vistas, o índice, o glossário e o `ESTADO-RESUMO`; o schema completo (charter, convenções, protocolos, playbooks, modelos); as ferramentas de verificação (`ferramentas/`, sob git - 6.26, item F); `CERTIFICACAO.md`; `identidade/` apenas com `LEIA-ME.md` e `_modelo/`.
+Reiniciam na cópia o `log.md` (nasce com uma entrada-génese: «Edição {referência} gerada da instância {versão} a {data}»), o `PAINEL`, a `MELHORIA`, a `SUPRESSAO-LIST` (os ❌ são de quem opera) e o `Inbox`.
+Ficam na origem o log operacional da instância; o bloco de configuração preenchido (a cópia parte do bloco-template vazio, para a conversa do destinatário); o `wiki/VOZ-FINGERPRINT.md` (a voz é do destinatário); e as identidades visuais instaladas.
 
 ## Geração do `EDICAO.md`
 

@@ -4,7 +4,7 @@ titulo: "Sebenta - {Obra}, {Autor}"
 leitura_origem: "[[Fontes/...]]"
 obra: ""
 autor: ""
-ramos: []
+ramo: []
 estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD
 ---

@@ -8,7 +8,7 @@ O painel vive em `wiki/PAINEL.md` e é **reescrito** a cada passagem (não se ac
 
 ## Frente 1 - Revisão espaçada
 
-O conhecimento não revisto esvai-se. Cada página de instituto ou conceito carrega no frontmatter três campos: `revisao_ultima` (data da última revisão), `revisao_intervalo` (dias até à próxima) e `revisao_proxima` (data devida). O painel lista as páginas cuja `revisao_proxima` já passou ou se aproxima, ordenadas pela mais atrasada.
+O conhecimento não revisto esvai-se. Cada página de instituto ou conceito pode carregar no frontmatter, em regime opt-in (abaixo), três campos: `revisao_ultima` (data da última revisão), `revisao_intervalo` (dias até à próxima) e `revisao_proxima` (data devida). O painel lista as páginas cuja `revisao_proxima` já passou ou se aproxima, ordenadas pela mais atrasada.
 
 A revisão espaçada corre em regime opt-in (Decisão de 2026-07-10): a página nova nasce fora do ciclo, sem campos `revisao_*`; entra no ciclo quando o aluno a marca («quero rever X»; «vou estudar {matéria}») ou quando uma avaliação se aproxima no calendário da vista - caso em que o painel propõe as páginas dessa matéria por urgência. Campos `revisao_*` pré-existentes mantêm-se como retrato até à primeira revisão real da página.
 
@@ -36,7 +36,7 @@ O conhecimento derivado envelhece quando a base muda: no fecho de cada ingestão
 
 ## Contrato do ESTADO-RESUMO
 
-O `wiki/ESTADO-RESUMO.md` é o leitor rápido do cofre, não o arquivo: **reconstrói-se, nunca se appenda**, com tecto de ≈25 KB. Regras de poda: só o valor mais recente por item de estado; pendências vivas copiam-se integrais; deltas apenas dos últimos 7 dias, no máximo um por operação e por dia, do mais recente para o mais antigo; excedido o tecto, cortam-se os deltas mais antigos primeiro. Escrita atómica (temporário, verificação de tamanho, substituição); a fonte da verdade - log e páginas - nunca se toca a partir daqui; fonte ilegível não reescreve o resumo: regista a falha no log e mantém o anterior.
+O `wiki/ESTADO-RESUMO.md` é o leitor rápido do cofre, não o arquivo: **reconstrói-se, nunca se appenda**, com tecto de ≤ 30 KB (o das CONVENCOES). Regras de poda: só o valor mais recente por item de estado; pendências vivas copiam-se integrais; deltas apenas dos últimos 7 dias, no máximo um por operação e por dia, do mais recente para o mais antigo; excedido o tecto, cortam-se os deltas mais antigos primeiro. Escrita atómica (temporário, verificação de tamanho, substituição); a fonte da verdade - log e páginas - nunca se toca a partir daqui; fonte ilegível não reescreve o resumo: regista a falha no log e mantém o anterior.
 
 ## Regeneração
 

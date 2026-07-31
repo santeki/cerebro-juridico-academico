@@ -13,7 +13,7 @@ Como um produto da wiki - sebenta, mapa de instituto, ficha, resposta desenvolvi
 
 ## Instalar uma identidade
 
-Crias `identidade/<Instituição>/`, despejas o que tiveres - um PDF real da casa chega; manual de normas, logos, fontes e templates ajudam - e dizes «instala». O agente extrai o mensurável (fontes declaradas nos PDFs, cores amostradas em valores exactos, margens medidas) e escreve o `IDENTIDADE.md` com a origem de cada valor; o que os materiais não mostram assume-se com default sensato, marcado «assumido». **Zero perguntas na instalação**; a afinação acontece na primeira produção («assumi a posição do logo no rodapé e a margem de 2,5 cm — muda alguma coisa?»). Paragem única: fonte identitária sem ficheiro em `fontes/` - a substituição silenciosa por parecida é proibida; três saídas de um toque: enviar o ficheiro, aprovar um fallback concreto (fica registado no manifesto), seguir em formato neutro.
+Crias `identidade/<Instituição>/`, despejas o que tiveres - um PDF real da casa chega; manual de normas, logos, fontes e templates ajudam - e dizes «instala». O agente extrai o mensurável (fontes declaradas nos PDFs, cores amostradas em valores exactos, margens medidas) e escreve o `IDENTIDADE.md` com a origem de cada valor; o que os materiais não mostram assume-se com default sensato, marcado «assumido». **Zero perguntas na instalação**; a afinação acontece na primeira produção («assumi a posição do logo no rodapé e a margem de 2,5 cm - muda alguma coisa?»). Paragem única: fonte identitária sem ficheiro em `fontes/` - a substituição silenciosa por parecida é proibida; três saídas de um toque: enviar o ficheiro, aprovar um fallback concreto (fica registado no manifesto), seguir em formato neutro.
 
 ## Regra-âncora visual
 

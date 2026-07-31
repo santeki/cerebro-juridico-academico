@@ -9,6 +9,8 @@ ecli: ""              # confirmado em DGSI; nunca reconstruído de memória
 relator: ""
 estado_verificacao: verificado | parcial | em-aberto
 institutos: []
+ramo: []              # ramo(s) do Direito a que o acórdão releva
+ficheiro_raw: ""      # caminho em raw/ ou URL DGSI de onde a decisão foi lida
 ultima_actualizacao: AAAA-MM-DD
 ---
 

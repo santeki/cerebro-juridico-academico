@@ -70,4 +70,4 @@ A sanção distingue-se da coercibilidade - a susceptibilidade de aplicação co
 ## Fontes
 
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] - cap. V, pp. 125-134; cap. IV, pp. 95-96.
-- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] - nn. 27-36, pp. 56-75 (sessão 1; âncoras conferidas na triagem de 2026-07-19).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] - nn. 27-36, pp. 56-75 (sessão 1; âncoras conferidas na triagem de 2026-07-19); Título V, pp. 237 e 239 (os juízos de equidade na aplicação, art. 400 do CC na remissão da fonte); Título VI, cap. II, pp. 349-351 (sessão 10: as sanções criminais).

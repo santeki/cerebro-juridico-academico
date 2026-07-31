@@ -67,11 +67,11 @@ ultima_actualizacao: AAAA-MM-DD
 
 ## Articulação transversal (obrigatória)
 
-{Onde este instituto ressoa noutros ramos. O Direito é sistema. Wikilinks:}
-- *Espelho em*: [[...]] - ligação curta.
-- *Contrasta com*: [[...]] - mesmo nome, regime diferente (cuidado com homonímia).
-- *Pressupõe*: [[...]] - conceito de Introdução ao Direito / TGDC em que assenta.
-- *É pressuposto por*: [[...]] - conceitos que dele dependem.
+{Onde este instituto ressoa noutros ramos. O Direito é sistema. Wikilinks, com o vocabulário fechado das CONVENCOES («Relações tipadas mínimas»): o link cuja natureza importe leva o tipo entre parênteses - *(contraria)*, *(concretiza)* ou *(excepciona)* -; os restantes ficam nus, cada um com uma linha de contexto:}
+- [[...]] *(contraria)* - {linha de contexto}.
+- [[...]] *(concretiza)* - {linha de contexto}.
+- [[...]] *(excepciona)* - {linha de contexto}.
+- [[...]] - {linha de contexto; link nu quando a natureza nada acrescente}.
 
 ## Dúvidas registadas em aberto
 {Bloco com as duas etiologias (conteúdo / scan), conforme o protocolo de ingestão. Cada dúvida visível enquanto não resolvida.}

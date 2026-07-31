@@ -8,7 +8,7 @@ Um sub-agente não sabe mais do que o maestro sobre Direito português; sabe olh
 
 ### Captação
 
-Um leitor por natureza de fonte, cada um a produzir a leitura fiel em `wiki/Fontes/`, reservatório de onde as notas extraem. Leitor de doutrina (sumário por secção, citações com página, mapa de conceitos, posições do autor), digesto de jurisprudência (ratio vs obiter no centro), leitor de legislação (modos sistémico/institucional/artigo, vigência como gate prévio). A cobertura é sempre integral em qualquer deles.
+Um leitor por natureza de fonte, cada um a produzir o relatório de leitura fiel que o maestro verifica e grava em `wiki/Fontes/`, reservatório de onde as notas extraem - a invariante mantém-se: sub-agentes lêem e reportam, nunca escrevem. Leitor de doutrina (sumário por secção, citações com página, mapa de conceitos, posições do autor), digesto de jurisprudência (ratio vs obiter no centro), leitor de legislação (modos sistémico/institucional/artigo, vigência como gate prévio). A cobertura é sempre integral em qualquer deles.
 
 ### Sistematização e rigor
 

@@ -3,9 +3,9 @@ tipo: revisao
 titulo: "Ficha de revisão - {instituto}"
 instituto: "[[Institutos/...]]"
 perfil: aluno
-ultima_revisao: AAAA-MM-DD
-proxima_revisao: AAAA-MM-DD
-intervalo_dias: 1
+revisao_ultima: AAAA-MM-DD
+revisao_intervalo: 1
+revisao_proxima: AAAA-MM-DD
 ---
 
 # Ficha de revisão - {instituto}
@@ -21,4 +21,4 @@ intervalo_dias: 1
 **R:** {resposta} → [[Institutos/...]]
 
 ## Cadência
-Intervalo actual: ___ dias. Após acerto, dobrar; após falha, repor a 1 dia. (Repetição espaçada - fase 5 do método de estudo.)
+Intervalo actual: ___ dias. Após acerto, avançar na sequência 1→3→7→16→35 dias; após falha, repor a 1 dia (`PROTOCOLO-PAINEL.md`). (Repetição espaçada - fase 5 do método de estudo.)

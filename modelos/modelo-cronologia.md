@@ -1,6 +1,7 @@
 ---
 tipo: cronologia
 titulo: "Cronologia - {Instituto / regime}"
+instituto: "[[...]]"              # página de instituto/conceito a que a cronologia serve
 ramo: []
 estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD

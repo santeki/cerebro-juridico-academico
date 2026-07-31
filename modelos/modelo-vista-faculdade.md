@@ -4,6 +4,7 @@ titulo: "{Faculdade} - {Curso}"
 faculdade: "{nome canónico da faculdade}"
 curso: "{curso}"
 norma_citacao: ""                # norma de referências dos produtos académicos (PROTOCOLO-VOZ) - p. ex., NP 405-1
+estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD
 ---
 

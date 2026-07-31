@@ -69,6 +69,13 @@ cerebro-juridico-academico/
 │   ├── log.md                      # registo cronológico append-only
 │   ├── telemetria.md               # convocações por operação: o que se lê (PROTOCOLO-PAINEL, Frente 4)
 │   ├── VOZ-EVOLUCAO.md             # evolução aprovada do fingerprint (PROTOCOLO-VOZ)
+│   ├── VOZ-FINGERPRINT.md          # fingerprint de estilo em vigor (PROTOCOLO-VOZ)
+│   ├── PAINEL.md                   # painel de ritmo vivo (PROTOCOLO-PAINEL)
+│   ├── ESTADO-RESUMO.md            # fotografia podada do estado (≤ 30 KB)
+│   ├── MELHORIA.md                 # métricas e tracker week-over-week (PROTOCOLO-AUDITORIA)
+│   ├── GATILHOS.md                 # gatilhos activos (PROTOCOLO-GATILHOS)
+│   ├── GLOSSARIO.md                # vocabulário canónico do sistema
+│   ├── SUPRESSAO-LIST.md           # sugestões suprimidas (nunca repropor)
 │   ├── Inbox/                      # captura rápida (notas fugazes por processar)
 │   ├── Faculdades.md               # índice de vistas por faculdade
 │   ├── Faculdades/                 # uma vista curricular por faculdade (Ano → Semestre → Cadeira)
@@ -85,6 +92,7 @@ cerebro-juridico-academico/
 │   └── Auxiliares/                 # templates auxiliares (sebenta, distinção, linha jurisp., etc.)
 │
 ├── modelos/                        # templates de página (o schema de cada tipo)
+├── ferramentas/                    # verificação por código, sob git (6.26, item F)
 ├── playbooks/                      # regras curadas por humano
 ├── identidade/                     # identidades visuais instaladas (curadas pelo aluno; ver identidade/LEIA-ME.md) (o agente lê, nunca escreve)
 └── archive/                        # histórico rotacionado
@@ -151,13 +159,15 @@ ultima_actualizacao: AAAA-MM-DD
 
 Campos só presentes quando aplicáveis (`relacao`, `estado_comparativo` em notas tocadas por mais de uma fonte). Páginas de legislação acrescentam os campos de vigência/vacatio (ver `modelos/modelo-legislacao.md`). Páginas de fonte acrescentam `fiabilidade:` (primaria-oficial | doutrina-verificada | institucional | apontamento-proprio) e `procedencia:` (edicao | local) - ver `modelos/modelo-fonte.md`. Campo transversal opcional em qualquer página: `triangulacao_pendente:` - fonte primária por obter, na citação por fonte secundária inacessível (`PROTOCOLO-INGESTAO.md`).
 
+O estatuto do bloco é de núcleo mais extensões (6.27, a alinhar a letra com a prática que os modelos sempre seguiram): o **núcleo universal**, presente em toda a página de conhecimento, é `tipo`, `titulo`, `estado_verificacao` e `ultima_actualizacao` - com os substitutos de data documentados por família: `ingerida_em` nas páginas de fonte, `data` nas capturas, os campos `revisao_*` do ciclo na ficha de revisão. Os demais campos do bloco (`categoria`, `ramo`, `cobertura`, `fontes`, `relacao`, `estado_comparativo`, `vigencia_conferida`) valem para as famílias que o modelo de cada tipo fixa: **o modelo é o schema da família**, e os campos que acrescenta (tribunal e ECLI na jurisprudência, `hash_raw` na fonte, `faculdade` na vista) são schema documentado, não invenção. Em divergência sobre o núcleo, vencem estas convenções; fora do núcleo, vence o modelo do tipo. `cobertura: integral` pertence à família das páginas de fonte.
+
 ### Granularidade das páginas - quando nasce página própria
 
 Um conceito ganha página própria quando tem operação jurídica autónoma - jurisprudência dedicada, doutrina dedicada, regime próprio, ou atravessa ramos; sim a qualquer destas → página. Quando a sua existência se esgota como tipologia interna de outra (elementos, modalidades, classificações), vive como secção dessa página, nunca como página-satélite rala. E entre o instituto canónico e a página de aplicação de ramo, a fronteira é de conteúdo, com promoção regulada: a aplicação trata «como X opera no ramo Y» e remete ao canónico; quando passa a citar material de ≥ 2 ramos, ou a duplicar o que já vive noutra aplicação do mesmo conceito, o conteúdo desligado do ramo sobe ao instituto canónico - migra-se o transversal, reescreve-se a aplicação para o estritamente ramificado, actualizam-se as ligações, e a operação regista-se no log.
 
 ### Relações tipadas mínimas
 
-Nos blocos de conexões das páginas de instituto e de debate, o wikilink cuja natureza importe leva o tipo entre parênteses, de vocabulário fechado a três: *(contraria)*, *(concretiza)*, *(excepciona)* - p. ex., «[[Institutos/Abuso do Direito]] *(excepciona)*». Fora destes dois tipos de página, e sempre que a natureza nada acrescente, o link fica nu. A taxonomia completa de relações foi avaliada e recusada como peso morto; estes três existem porque no Direito a natureza do vínculo decide o argumento - contrariar, concretizar e excepcionar são movimentos diferentes com consequências diferentes.
+Nos blocos de conexões das páginas de instituto e de debate, e na secção «Distinção de figuras próximas» das páginas de conceito, o wikilink cuja natureza importe leva o tipo entre parênteses, de vocabulário fechado a três: *(contraria)*, *(concretiza)*, *(excepciona)* - p. ex., «[[Institutos/Abuso do Direito]] *(excepciona)*». Fora destas sedes, e sempre que a natureza nada acrescente, o link fica nu; nenhum modelo usa vocabulário tipado próprio (6.27, a unificar os quatro regimes que circulavam). A taxonomia completa de relações foi avaliada e recusada como peso morto; estes três existem porque no Direito a natureza do vínculo decide o argumento - contrariar, concretizar e excepcionar são movimentos diferentes com consequências diferentes.
 
 ### Arquitectura de sedes
 
@@ -171,8 +181,8 @@ PT-PT canónico, em toda a wiki:
 - Aspas curvas «...» para citação literal breve em português.
 - Itálico para termos ou expressões em língua estrangeira ou latim (*ratio decidendi*, *Drittwirkung*).
 - Citação literal em língua estrangeira: aspas curvas e itálico cumulativamente, ou bloco `>` quando longo.
-- **O travessão «—» não se usa, em função nenhuma.** O substituto permanente é o hífen «-», sem excepção de função: aposto, inciso, enumeração, diálogo, intervalo, quebra de frase. A regra aplica-se automaticamente e não admite ponderação caso a caso. Vale em toda a escrita do sistema, sem distinção entre o conteúdo do cofre e a resposta em conversa. **Excepção única de substância**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; o travessão preserva-se, então, dentro das aspas curvas, do bloco `>` e do trecho em código. **Excepção técnica**: os nomes de ficheiro que já contêm «—» e os wikilinks que para eles apontam, cuja alteração é renomeação com migração de ligações, não escrita; a nomenclatura nova não os usa. Hífenes para palavras compostas, como sempre.
-- Ordinais º/ª solto, sem ponto: «art. 483º», «3.ª edição».
+- **O travessão «—» não se usa, em função nenhuma.** O substituto permanente é o hífen «-», sem excepção de função: aposto, inciso, enumeração, diálogo, intervalo, quebra de frase. A regra aplica-se automaticamente e não admite ponderação caso a caso. Vale em toda a escrita do sistema, sem distinção entre o conteúdo do cofre e a resposta em conversa. **Excepção única de substância**: a transcrição literal de fonte que contenha o travessão, porque a fidelidade da citação prevalece sobre a regra tipográfica; o travessão preserva-se, então, dentro das aspas curvas, do bloco `>` e do trecho em código. **Excepção técnica**: o travessão é legal nos nomes de ficheiro e de pasta - onde funciona como separador de campos da nomenclatura («`<Faculdade> — <Curso>.md`», «`<obra> — leitura da sessão N`»), não como pontuação de prosa - e nos wikilinks que para eles apontam; a proibição vale para o texto, não para a nomenclatura (6.27, a resolver a contradição entre esta regra e os padrões de nome deste ficheiro e dos modelos). Hífenes para palavras compostas, como sempre.
+- Ordinais º/ª solto, sem ponto: «art. 483º», «3ª edição». A abreviatura «n.º» (número) não é ordinal e mantém o ponto.
 - O leitor distingue instantaneamente texto da fonte (citação) de texto do agente (paráfrase/síntese).
 
 ### Sem rótulo-tese a abrir parágrafo

@@ -17,6 +17,11 @@ Tipos de entrada:
 | `Excepção` | desvio pontual ao schema aceite pelo aluno (sem alterar o schema) |
 | `Dúvida resolvida` | dúvida em aberto que uma fonte nova fechou - liga a dúvida original à fonte que a resolveu |
 | `Delete` | rotação para `archive/` (nunca eliminação) |
+| `Decisão executada` | execução material, em sessão, de decisão já aprovada pelo aluno (passos, testes e resultados) |
+| `Correcção trivial` | lapso sem efeito normativo corrigido com ok expresso, sem bump de versão |
+| `correctiva` | bloco de correcções de execução sobre o conteúdo, dirigido pelo aluno, sem alteração de regra (sem bump) |
+| `correcção` | operação de correcção em bloco ordenada expressamente pelo aluno (p. ex., gate de citações), com medição e resultado |
+| `curadoria` | inserção de texto fechado do aluno, execução material sem latitude editorial do agente |
 
 ---
 

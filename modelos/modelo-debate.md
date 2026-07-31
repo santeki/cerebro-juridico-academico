@@ -3,14 +3,14 @@ tipo: debate
 titulo: "{Questão controvertida}"
 instituto: "[[Institutos/...]]"
 relacao: em-conflito              # um debate é, por definição, uma relação «Em Conflito» do Eixo B
-sub_tipo: I | II | III | IV | V  # sinonímia | terminológica | classificatória | intra-jurisprudencial | doutrina↔jurisprudência
+subtipo: I | II | III | IV | V  # sinonímia | terminológica | classificatória | intra-jurisprudencial | doutrina↔jurisprudência
 estado_verificacao: verificado | parcial | em-aberto
 ultima_actualizacao: AAAA-MM-DD
 ---
 
 # {Questão controvertida}
 
-> Um debate é a forma viva de uma relação «Em Conflito» (Eixo B, `PROTOCOLO-ANALISE-COMPARATIVA.md`). O `sub_tipo` indica a natureza do conflito; a investigação do porquê (Comparativo 3) vive aqui.
+> Um debate é a forma viva de uma relação «Em Conflito» (Eixo B, `PROTOCOLO-ANALISE-COMPARATIVA.md`). O `subtipo` indica a natureza do conflito; a investigação do porquê (Comparativo 3) vive aqui.
 
 ## A questão
 {O ponto exacto em disputa. Formulado com precisão.}
