@@ -1,0 +1,8234 @@
+{
+ "resumo": {
+  "exemplar": "ASC",
+  "folhas_pdf": 630,
+  "folhas_com_marcador_md": 630,
+  "folhas_sem_numero_impresso_legivel": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   12,
+   14,
+   18,
+   32,
+   94,
+   104,
+   113,
+   114,
+   128,
+   129,
+   130,
+   140,
+   158,
+   180,
+   201,
+   202,
+   212,
+   224,
+   225,
+   226,
+   238,
+   286,
+   323,
+   324,
+   351,
+   369,
+   370,
+   379,
+   380,
+   411,
+   425,
+   426,
+   464,
+   468,
+   480,
+   498,
+   525,
+   526,
+   531,
+   532,
+   538,
+   542,
+   567,
+   568,
+   576,
+   592,
+   594,
+   616,
+   617,
+   618,
+   619,
+   620,
+   624,
+   630
+  ],
+  "intervalos_desvio": [
+   {
+    "folha_ini": 5,
+    "folha_fim": 350,
+    "desvio": 5
+   },
+   {
+    "folha_ini": 353,
+    "folha_fim": 615,
+    "desvio": 5
+   },
+   {
+    "folha_ini": 621,
+    "folha_fim": 629,
+    "desvio": 29
+   }
+  ],
+  "intervalos_suspeitos": [
+   {
+    "folha_ini": 352,
+    "folha_fim": 352,
+    "desvio": 143
+   }
+  ],
+  "possiveis_paginas_omissas": [
+   {
+    "entre_folhas": [
+     615,
+     621
+    ],
+    "paginas_impressas": [
+     621,
+     649
+    ],
+    "folhas_disponiveis": 5,
+    "nota": "salto de paginação — adjudicar por imagem/cópia física"
+   }
+  ],
+  "ratio_mediana": 0.9836,
+  "ratio_limiar_fraco": 0.9642,
+  "zonas_fracas_provaveis": [
+   {
+    "folha": 3,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 113,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 129,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 201,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 225,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 323,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 351,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 369,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 379,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 425,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 525,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 531,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 567,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 617,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 10,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 630,
+    "pagina": null,
+    "ratio": 0.0,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.000 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 224,
+    "pagina": null,
+    "ratio": 0.5203,
+    "so_md": 3,
+    "motivos": [
+     "ratio 0.520 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 2,
+    "pagina": null,
+    "ratio": 0.5766,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.577 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 128,
+    "pagina": null,
+    "ratio": 0.7747,
+    "so_md": 3,
+    "motivos": [
+     "ratio 0.775 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 147,
+    "pagina": 152,
+    "ratio": 0.8533,
+    "so_md": 51,
+    "motivos": [
+     "ratio 0.853 < limiar 0.964",
+     "vocabulário só-MD 51 > 15"
+    ]
+   },
+   {
+    "folha": 146,
+    "pagina": 151,
+    "ratio": 0.858,
+    "so_md": 47,
+    "motivos": [
+     "ratio 0.858 < limiar 0.964",
+     "vocabulário só-MD 47 > 15"
+    ]
+   },
+   {
+    "folha": 1,
+    "pagina": null,
+    "ratio": 0.875,
+    "so_md": 1,
+    "motivos": [
+     "ratio 0.875 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 551,
+    "pagina": 556,
+    "ratio": 0.9303,
+    "so_md": 1,
+    "motivos": [
+     "ratio 0.930 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 621,
+    "pagina": 650,
+    "ratio": 0.9375,
+    "so_md": 4,
+    "motivos": [
+     "ratio 0.938 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 405,
+    "pagina": 410,
+    "ratio": 0.9419,
+    "so_md": 10,
+    "motivos": [
+     "ratio 0.942 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 629,
+    "pagina": 658,
+    "ratio": 0.9445,
+    "so_md": 0,
+    "motivos": [
+     "ratio 0.945 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 94,
+    "pagina": null,
+    "ratio": 0.9452,
+    "so_md": 2,
+    "motivos": [
+     "ratio 0.945 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 148,
+    "pagina": 153,
+    "ratio": 0.9459,
+    "so_md": 11,
+    "motivos": [
+     "ratio 0.946 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 27,
+    "pagina": 32,
+    "ratio": 0.9467,
+    "so_md": 6,
+    "motivos": [
+     "ratio 0.947 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 179,
+    "pagina": 184,
+    "ratio": 0.9474,
+    "so_md": 0,
+    "motivos": [
+     "ratio 0.947 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 464,
+    "pagina": null,
+    "ratio": 0.948,
+    "so_md": 4,
+    "motivos": [
+     "ratio 0.948 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 526,
+    "pagina": null,
+    "ratio": 0.948,
+    "so_md": 2,
+    "motivos": [
+     "ratio 0.948 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 374,
+    "pagina": 379,
+    "ratio": 0.9495,
+    "so_md": 9,
+    "motivos": [
+     "ratio 0.950 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 12,
+    "pagina": null,
+    "ratio": 0.9507,
+    "so_md": 1,
+    "motivos": [
+     "ratio 0.951 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 145,
+    "pagina": 150,
+    "ratio": 0.9546,
+    "so_md": 9,
+    "motivos": [
+     "ratio 0.955 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 480,
+    "pagina": null,
+    "ratio": 0.9551,
+    "so_md": 1,
+    "motivos": [
+     "ratio 0.955 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 575,
+    "pagina": 580,
+    "ratio": 0.9553,
+    "so_md": 0,
+    "motivos": [
+     "ratio 0.955 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 84,
+    "pagina": 89,
+    "ratio": 0.9554,
+    "so_md": 4,
+    "motivos": [
+     "ratio 0.955 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 83,
+    "pagina": 88,
+    "ratio": 0.9555,
+    "so_md": 14,
+    "motivos": [
+     "ratio 0.956 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 585,
+    "pagina": 590,
+    "ratio": 0.9558,
+    "so_md": 6,
+    "motivos": [
+     "ratio 0.956 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 180,
+    "pagina": null,
+    "ratio": 0.9588,
+    "so_md": 1,
+    "motivos": [
+     "ratio 0.959 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 9,
+    "pagina": 14,
+    "ratio": 0.9593,
+    "so_md": 10,
+    "motivos": [
+     "ratio 0.959 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 114,
+    "pagina": null,
+    "ratio": 0.96,
+    "so_md": 2,
+    "motivos": [
+     "ratio 0.960 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 238,
+    "pagina": null,
+    "ratio": 0.9601,
+    "so_md": 3,
+    "motivos": [
+     "ratio 0.960 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 553,
+    "pagina": 558,
+    "ratio": 0.961,
+    "so_md": 9,
+    "motivos": [
+     "ratio 0.961 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 144,
+    "pagina": 149,
+    "ratio": 0.9617,
+    "so_md": 5,
+    "motivos": [
+     "ratio 0.962 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 471,
+    "pagina": 476,
+    "ratio": 0.9619,
+    "so_md": 7,
+    "motivos": [
+     "ratio 0.962 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 411,
+    "pagina": null,
+    "ratio": 0.9625,
+    "so_md": 9,
+    "motivos": [
+     "ratio 0.963 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 554,
+    "pagina": 559,
+    "ratio": 0.9628,
+    "so_md": 2,
+    "motivos": [
+     "ratio 0.963 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 373,
+    "pagina": 378,
+    "ratio": 0.9632,
+    "so_md": 8,
+    "motivos": [
+     "ratio 0.963 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 370,
+    "pagina": null,
+    "ratio": 0.9634,
+    "so_md": 0,
+    "motivos": [
+     "ratio 0.963 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 55,
+    "pagina": 60,
+    "ratio": 0.9635,
+    "so_md": 9,
+    "motivos": [
+     "ratio 0.964 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 101,
+    "pagina": 106,
+    "ratio": 0.9637,
+    "so_md": 3,
+    "motivos": [
+     "ratio 0.964 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 530,
+    "pagina": 535,
+    "ratio": 0.9638,
+    "so_md": 4,
+    "motivos": [
+     "ratio 0.964 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 104,
+    "pagina": null,
+    "ratio": 0.9641,
+    "so_md": 4,
+    "motivos": [
+     "ratio 0.964 < limiar 0.964"
+    ]
+   },
+   {
+    "folha": 259,
+    "pagina": 264,
+    "ratio": 0.9648,
+    "so_md": 45,
+    "motivos": [
+     "vocabulário só-MD 45 > 15"
+    ]
+   },
+   {
+    "folha": 391,
+    "pagina": 396,
+    "ratio": 0.9655,
+    "so_md": 44,
+    "motivos": [
+     "vocabulário só-MD 44 > 15"
+    ]
+   },
+   {
+    "folha": 267,
+    "pagina": 272,
+    "ratio": 0.9711,
+    "so_md": 31,
+    "motivos": [
+     "vocabulário só-MD 31 > 15"
+    ]
+   },
+   {
+    "folha": 399,
+    "pagina": 404,
+    "ratio": 0.9725,
+    "so_md": 31,
+    "motivos": [
+     "vocabulário só-MD 31 > 15"
+    ]
+   },
+   {
+    "folha": 136,
+    "pagina": 141,
+    "ratio": 0.9729,
+    "so_md": 17,
+    "motivos": [
+     "vocabulário só-MD 17 > 15"
+    ]
+   },
+   {
+    "folha": 395,
+    "pagina": 400,
+    "ratio": 0.9732,
+    "so_md": 35,
+    "motivos": [
+     "vocabulário só-MD 35 > 15"
+    ]
+   },
+   {
+    "folha": 437,
+    "pagina": 442,
+    "ratio": 0.977,
+    "so_md": 18,
+    "motivos": [
+     "vocabulário só-MD 18 > 15"
+    ]
+   },
+   {
+    "folha": 557,
+    "pagina": 562,
+    "ratio": 0.9792,
+    "so_md": 16,
+    "motivos": [
+     "vocabulário só-MD 16 > 15"
+    ]
+   }
+  ],
+  "picos_vocabulario": [
+   {
+    "folha": 136,
+    "pagina": 141,
+    "so_md": 17,
+    "ratio": 0.9729,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 146,
+    "pagina": 151,
+    "so_md": 47,
+    "ratio": 0.858,
+    "erratas_conhecidas": 3
+   },
+   {
+    "folha": 147,
+    "pagina": 152,
+    "so_md": 51,
+    "ratio": 0.8533,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 259,
+    "pagina": 264,
+    "so_md": 45,
+    "ratio": 0.9648,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 267,
+    "pagina": 272,
+    "so_md": 31,
+    "ratio": 0.9711,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 391,
+    "pagina": 396,
+    "so_md": 44,
+    "ratio": 0.9655,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 395,
+    "pagina": 400,
+    "so_md": 35,
+    "ratio": 0.9732,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 399,
+    "pagina": 404,
+    "so_md": 31,
+    "ratio": 0.9725,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 437,
+    "pagina": 442,
+    "so_md": 18,
+    "ratio": 0.977,
+    "erratas_conhecidas": 0
+   },
+   {
+    "folha": 557,
+    "pagina": 562,
+    "so_md": 16,
+    "ratio": 0.9792,
+    "erratas_conhecidas": 0
+   }
+  ],
+  "fronteiras_estruturais": [
+   {
+    "folha": 4,
+    "pagina": null,
+    "linha": "TÍTULO I"
+   },
+   {
+    "folha": 12,
+    "pagina": null,
+    "linha": "TÍTULO II"
+   },
+   {
+    "folha": 32,
+    "pagina": null,
+    "linha": "CAPITULO II"
+   },
+   {
+    "folha": 94,
+    "pagina": null,
+    "linha": "TÍTULO III"
+   },
+   {
+    "folha": 104,
+    "pagina": null,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 114,
+    "pagina": null,
+    "linha": "SECÇÃO li"
+   },
+   {
+    "folha": 128,
+    "pagina": null,
+    "linha": "SECÇÃO Ili"
+   },
+   {
+    "folha": 130,
+    "pagina": null,
+    "linha": "CAPÍTULO Ili"
+   },
+   {
+    "folha": 158,
+    "pagina": null,
+    "linha": "CAPÍTULO IV"
+   },
+   {
+    "folha": 180,
+    "pagina": null,
+    "linha": "TÍTULO IV"
+   },
+   {
+    "folha": 202,
+    "pagina": null,
+    "linha": "CAPÍTULO TI"
+   },
+   {
+    "folha": 212,
+    "pagina": null,
+    "linha": "CAPÍTULO III"
+   },
+   {
+    "folha": 224,
+    "pagina": null,
+    "linha": "PARTE II"
+   },
+   {
+    "folha": 226,
+    "pagina": null,
+    "linha": "TÍTULO V"
+   },
+   {
+    "folha": 238,
+    "pagina": null,
+    "linha": "TÍTULO VI"
+   },
+   {
+    "folha": 324,
+    "pagina": null,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 352,
+    "pagina": null,
+    "linha": "CAPÍTULO III"
+   },
+   {
+    "folha": 370,
+    "pagina": null,
+    "linha": "TÍTULO VII"
+   },
+   {
+    "folha": 380,
+    "pagina": null,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 426,
+    "pagina": null,
+    "linha": "CAPÍTULO III"
+   },
+   {
+    "folha": 464,
+    "pagina": null,
+    "linha": "CAPÍTULO IV"
+   },
+   {
+    "folha": 468,
+    "pagina": null,
+    "linha": "CAPÍTULO V"
+   },
+   {
+    "folha": 480,
+    "pagina": null,
+    "linha": "TÍTULO VIII"
+   },
+   {
+    "folha": 498,
+    "pagina": null,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 526,
+    "pagina": null,
+    "linha": "CAPÍTULO III"
+   },
+   {
+    "folha": 532,
+    "pagina": null,
+    "linha": "CAPÍTULO IV"
+   },
+   {
+    "folha": 568,
+    "pagina": null,
+    "linha": "CAPÍTULO V"
+   },
+   {
+    "folha": 576,
+    "pagina": null,
+    "linha": "CAPÍTULO VI"
+   },
+   {
+    "folha": 594,
+    "pagina": null,
+    "linha": "TÍTULO IX"
+   },
+   {
+    "folha": 618,
+    "pagina": null,
+    "linha": "PARTE!"
+   },
+   {
+    "folha": 619,
+    "pagina": null,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 620,
+    "pagina": null,
+    "linha": "CAPÍTULO li"
+   },
+   {
+    "folha": 622,
+    "pagina": 651,
+    "linha": "CAPÍTULO II"
+   },
+   {
+    "folha": 623,
+    "pagina": 652,
+    "linha": "TÍTULO VI"
+   },
+   {
+    "folha": 624,
+    "pagina": null,
+    "linha": "CAPÍTULO li"
+   },
+   {
+    "folha": 625,
+    "pagina": 654,
+    "linha": "TÍTULO VII"
+   },
+   {
+    "folha": 626,
+    "pagina": 655,
+    "linha": "CAPÍTULO Ili"
+   },
+   {
+    "folha": 627,
+    "pagina": 656,
+    "linha": "TÍTULO VIII"
+   },
+   {
+    "folha": 628,
+    "pagina": 657,
+    "linha": "CAPÍTULO HI"
+   },
+   {
+    "folha": 629,
+    "pagina": 658,
+    "linha": "CAPÍTULO VI"
+   }
+  ]
+ },
+ "tabela": [
+  {
+   "folha": 1,
+   "pagina": null,
+   "ratio": 0.875,
+   "so_md": 1,
+   "formas_so_md": [
+    "BRASIL"
+   ]
+  },
+  {
+   "folha": 2,
+   "pagina": null,
+   "ratio": 0.5766,
+   "so_md": 5,
+   "formas_so_md": [
+    "ESTUDO",
+    "INTRODUÇÃO",
+    "PARTE",
+    "PRELIMINARES",
+    "TÍTULO"
+   ]
+  },
+  {
+   "folha": 3,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 4,
+   "pagina": null,
+   "ratio": 0.9791,
+   "so_md": 3,
+   "formas_so_md": [
+    "advoga",
+    "auxiliares",
+    "ciências"
+   ]
+  },
+  {
+   "folha": 5,
+   "pagina": 10,
+   "ratio": 0.9779,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "chamam",
+    "desenhando",
+    "divisões"
+   ]
+  },
+  {
+   "folha": 6,
+   "pagina": 11,
+   "ratio": 0.9901,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 7,
+   "pagina": 12,
+   "ratio": 0.9865,
+   "so_md": 2,
+   "formas_so_md": [
+    "reduza",
+    "situações"
+   ]
+  },
+  {
+   "folha": 8,
+   "pagina": 13,
+   "ratio": 0.9813,
+   "so_md": 2,
+   "formas_so_md": [
+    "facto",
+    "fundamentais"
+   ]
+  },
+  {
+   "folha": 9,
+   "pagina": 14,
+   "ratio": 0.9593,
+   "so_md": 10,
+   "formas_so_md": [
+    "Bibliografia",
+    "Notas",
+    "Qualquer",
+    "ascende",
+    "categoria",
+    "oluntário",
+    "produz",
+    "produzir",
+    "sumária",
+    "vastíssima"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 10,
+   "pagina": null,
+   "ratio": 0.9835,
+   "so_md": 3,
+   "formas_so_md": [
+    "TÍTULO",
+    "disciplina",
+    "ndice"
+   ]
+  },
+  {
+   "folha": 11,
+   "pagina": 16,
+   "ratio": 0.9822,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 12,
+   "pagina": null,
+   "ratio": 0.9507,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 13,
+   "pagina": 18,
+   "ratio": 0.9722,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "determinado",
+    "diante",
+    "hipótese"
+   ]
+  },
+  {
+   "folha": 14,
+   "pagina": null,
+   "ratio": 0.988,
+   "so_md": 2,
+   "formas_so_md": [
+    "Grupo",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 15,
+   "pagina": 20,
+   "ratio": 0.9666,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "criada",
+    "dealbar",
+    "iberdade"
+   ]
+  },
+  {
+   "folha": 16,
+   "pagina": 21,
+   "ratio": 0.9875,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "frãduzem",
+    "muito"
+   ]
+  },
+  {
+   "folha": 17,
+   "pagina": 22,
+   "ratio": 0.9718,
+   "so_md": 10,
+   "formas_so_md": [
+    "Notas",
+    "abrangem",
+    "componentes",
+    "fáctica",
+    "mente",
+    "normativa",
+    "ocupa",
+    "ordem",
+    "particular",
+    "prmas"
+   ]
+  },
+  {
+   "folha": 18,
+   "pagina": null,
+   "ratio": 0.9763,
+   "so_md": 12,
+   "formas_so_md": [
+    "definidas",
+    "familiar",
+    "finalidãdesêlõsseus",
+    "forma",
+    "fáctica",
+    "insuficiência",
+    "maiore",
+    "normativa",
+    "perfeita",
+    "resultado",
+    "subordinação",
+    "técnica"
+   ]
+  },
+  {
+   "folha": 19,
+   "pagina": 24,
+   "ratio": 0.9893,
+   "so_md": 1,
+   "formas_so_md": [
+    "vivência"
+   ]
+  },
+  {
+   "folha": 20,
+   "pagina": 25,
+   "ratio": 0.989,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "instituições",
+    "mulada"
+   ]
+  },
+  {
+   "folha": 21,
+   "pagina": 26,
+   "ratio": 0.9883,
+   "so_md": 1,
+   "formas_so_md": [
+    "transpuser"
+   ]
+  },
+  {
+   "folha": 22,
+   "pagina": 27,
+   "ratio": 0.9882,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "cnómeno",
+    "completamente",
+    "evidente",
+    "evolução",
+    "impera",
+    "jficaID",
+    "mente",
+    "tividade"
+   ]
+  },
+  {
+   "folha": 23,
+   "pagina": 28,
+   "ratio": 0.9853,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "dependem",
+    "normalmente"
+   ]
+  },
+  {
+   "folha": 24,
+   "pagina": 29,
+   "ratio": 0.9916,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "ambíguo",
+    "significações",
+    "subjectivas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 25,
+   "pagina": 30,
+   "ratio": 0.9845,
+   "so_md": 4,
+   "formas_so_md": [
+    "Empiristas",
+    "lentamente",
+    "realistas",
+    "redução"
+   ]
+  },
+  {
+   "folha": 26,
+   "pagina": 31,
+   "ratio": 0.9917,
+   "so_md": 3,
+   "formas_so_md": [
+    "adiantarmos",
+    "comuNotas",
+    "formas"
+   ]
+  },
+  {
+   "folha": 27,
+   "pagina": 32,
+   "ratio": 0.9467,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "jurídica",
+    "moral",
+    "ordem",
+    "religiosa",
+    "trato"
+   ]
+  },
+  {
+   "folha": 28,
+   "pagina": 33,
+   "ratio": 0.9885,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "evidentemente",
+    "forma"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 29,
+   "pagina": 34,
+   "ratio": 0.9705,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPITULO",
+    "Notas",
+    "deôntico",
+    "tornar"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 30,
+   "pagina": 35,
+   "ratio": 0.9909,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "feito",
+    "neces",
+    "sáriaà"
+   ]
+  },
+  {
+   "folha": 31,
+   "pagina": 36,
+   "ratio": 0.9797,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "advogado",
+    "arrostar",
+    "dirigida",
+    "propõe"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 32,
+   "pagina": null,
+   "ratio": 0.9766,
+   "so_md": 6,
+   "formas_so_md": [
+    "Direito",
+    "Notas",
+    "cionada",
+    "direito",
+    "incondi",
+    "subjectivo"
+   ]
+  },
+  {
+   "folha": 33,
+   "pagina": 38,
+   "ratio": 0.9875,
+   "so_md": 1,
+   "formas_so_md": [
+    "Infra"
+   ]
+  },
+  {
+   "folha": 34,
+   "pagina": 39,
+   "ratio": 0.9842,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "indevida",
+    "instiga",
+    "mente",
+    "possíveis"
+   ]
+  },
+  {
+   "folha": 35,
+   "pagina": 40,
+   "ratio": 0.9653,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "primeiro",
+    "ssõesé",
+    "tenha"
+   ]
+  },
+  {
+   "folha": 36,
+   "pagina": 41,
+   "ratio": 0.9816,
+   "so_md": 9,
+   "formas_so_md": [
+    "claraNotas",
+    "constitutivos",
+    "contra",
+    "essencialmente",
+    "intercomunicação",
+    "interessar",
+    "pomos",
+    "remos",
+    "simplificação"
+   ]
+  },
+  {
+   "folha": 37,
+   "pagina": 42,
+   "ratio": 0.9845,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 38,
+   "pagina": 43,
+   "ratio": 0.9855,
+   "so_md": 3,
+   "formas_so_md": [
+    "adoptamos",
+    "enformadas",
+    "projecções"
+   ]
+  },
+  {
+   "folha": 39,
+   "pagina": 44,
+   "ratio": 0.9788,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "fontes"
+   ]
+  },
+  {
+   "folha": 40,
+   "pagina": 45,
+   "ratio": 0.9825,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "estatui",
+    "factis",
+    "pecies",
+    "tispécie"
+   ]
+  },
+  {
+   "folha": 41,
+   "pagina": 46,
+   "ratio": 0.9797,
+   "so_md": 1,
+   "formas_so_md": [
+    "regras"
+   ]
+  },
+  {
+   "folha": 42,
+   "pagina": 47,
+   "ratio": 0.9869,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "antenore",
+    "equivoci"
+   ]
+  },
+  {
+   "folha": 43,
+   "pagina": 48,
+   "ratio": 0.9803,
+   "so_md": 6,
+   "formas_so_md": [
+    "Lições",
+    "Notas",
+    "despotismo",
+    "integração",
+    "necessária",
+    "ordem"
+   ]
+  },
+  {
+   "folha": 44,
+   "pagina": 49,
+   "ratio": 0.9918,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 45,
+   "pagina": 50,
+   "ratio": 0.9879,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 46,
+   "pagina": 51,
+   "ratio": 0.9881,
+   "so_md": 2,
+   "formas_so_md": [
+    "pusesse",
+    "sobre"
+   ]
+  },
+  {
+   "folha": 47,
+   "pagina": 52,
+   "ratio": 0.9885,
+   "so_md": 1,
+   "formas_so_md": [
+    "qualNotas"
+   ]
+  },
+  {
+   "folha": 48,
+   "pagina": 53,
+   "ratio": 0.9817,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "complexíssima",
+    "estatalidade",
+    "laçados"
+   ]
+  },
+  {
+   "folha": 49,
+   "pagina": 54,
+   "ratio": 0.9801,
+   "so_md": 6,
+   "formas_so_md": [
+    "Imperatividade",
+    "Notas",
+    "hostilidade",
+    "pressuposto",
+    "previsão",
+    "sanção"
+   ]
+  },
+  {
+   "folha": 50,
+   "pagina": 55,
+   "ratio": 0.9883,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "correspondem",
+    "declarar",
+    "gados",
+    "generahdade",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 51,
+   "pagina": 56,
+   "ratio": 0.977,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "dessas",
+    "jurídicas",
+    "religiosa",
+    "ÕcasÔ"
+   ]
+  },
+  {
+   "folha": 52,
+   "pagina": 57,
+   "ratio": 0.979,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "apresentando",
+    "logicamente",
+    "motivacional",
+    "reprovação",
+    "semelhante"
+   ]
+  },
+  {
+   "folha": 53,
+   "pagina": 58,
+   "ratio": 0.9816,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "compulsórias",
+    "nomeadamente"
+   ]
+  },
+  {
+   "folha": 54,
+   "pagina": 59,
+   "ratio": 0.9849,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 55,
+   "pagina": 60,
+   "ratio": 0.9635,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "aquelas",
+    "castigar",
+    "condenado",
+    "cumprida",
+    "evidencia",
+    "finalidade",
+    "ilícito",
+    "reconstitutivas"
+   ]
+  },
+  {
+   "folha": 56,
+   "pagina": 61,
+   "ratio": 0.9746,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "direito",
+    "reter",
+    "satisfeita"
+   ]
+  },
+  {
+   "folha": 57,
+   "pagina": 62,
+   "ratio": 0.9801,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "compensatórias",
+    "forma",
+    "norma"
+   ]
+  },
+  {
+   "folha": 58,
+   "pagina": 63,
+   "ratio": 0.9876,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "cesso",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 59,
+   "pagina": 64,
+   "ratio": 0.9837,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 60,
+   "pagina": 65,
+   "ratio": 0.984,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "punitivas"
+   ]
+  },
+  {
+   "folha": 61,
+   "pagina": 66,
+   "ratio": 0.9878,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "distinguir"
+   ]
+  },
+  {
+   "folha": 62,
+   "pagina": 67,
+   "ratio": 0.9848,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "determinada",
+    "pensar",
+    "preventivas"
+   ]
+  },
+  {
+   "folha": 63,
+   "pagina": 68,
+   "ratio": 0.9776,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Valores",
+    "jurídico",
+    "negativos"
+   ]
+  },
+  {
+   "folha": 64,
+   "pagina": 69,
+   "ratio": 0.9855,
+   "so_md": 3,
+   "formas_so_md": [
+    "Modalidades",
+    "Notas",
+    "ineficácia"
+   ]
+  },
+  {
+   "folha": 65,
+   "pagina": 70,
+   "ratio": 0.9813,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "compra",
+    "subjectiva"
+   ]
+  },
+  {
+   "folha": 66,
+   "pagina": 71,
+   "ratio": 0.9842,
+   "so_md": 4,
+   "formas_so_md": [
+    "Valor",
+    "civil",
+    "negativo",
+    "sanção"
+   ]
+  },
+  {
+   "folha": 67,
+   "pagina": 72,
+   "ratio": 0.9852,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 68,
+   "pagina": 73,
+   "ratio": 0.9796,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Noção",
+    "coercibilidade"
+   ]
+  },
+  {
+   "folha": 69,
+   "pagina": 74,
+   "ratio": 0.9876,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "exercida"
+   ]
+  },
+  {
+   "folha": 70,
+   "pagina": 75,
+   "ratio": 0.985,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 71,
+   "pagina": 76,
+   "ratio": 0.9757,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "aplicada",
+    "coercivamente",
+    "estatu",
+    "frequentemente"
+   ]
+  },
+  {
+   "folha": 72,
+   "pagina": 77,
+   "ratio": 0.9865,
+   "so_md": 3,
+   "formas_so_md": [
+    "damentalmente",
+    "estatais",
+    "supra"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 73,
+   "pagina": 78,
+   "ratio": 0.9773,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "assisti"
+   ]
+  },
+  {
+   "folha": 74,
+   "pagina": 79,
+   "ratio": 0.9912,
+   "so_md": 2,
+   "formas_so_md": [
+    "deliberação",
+    "prestam"
+   ]
+  },
+  {
+   "folha": 75,
+   "pagina": 80,
+   "ratio": 0.9765,
+   "so_md": 3,
+   "formas_so_md": [
+    "Meios",
+    "caracterizaçãorística",
+    "tutela"
+   ]
+  },
+  {
+   "folha": 76,
+   "pagina": 81,
+   "ratio": 0.9853,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "preensão"
+   ]
+  },
+  {
+   "folha": 77,
+   "pagina": 82,
+   "ratio": 0.9862,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "supre"
+   ]
+  },
+  {
+   "folha": 78,
+   "pagina": 83,
+   "ratio": 0.9827,
+   "so_md": 6,
+   "formas_so_md": [
+    "Manifestações",
+    "actuais",
+    "essencial",
+    "justiça",
+    "mente",
+    "privada"
+   ]
+  },
+  {
+   "folha": 79,
+   "pagina": 84,
+   "ratio": 0.9892,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "funda",
+    "mental"
+   ]
+  },
+  {
+   "folha": 80,
+   "pagina": 85,
+   "ratio": 0.9892,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "satisfaz"
+   ]
+  },
+  {
+   "folha": 81,
+   "pagina": 86,
+   "ratio": 0.9777,
+   "so_md": 5,
+   "formas_so_md": [
+    "Características",
+    "Notas",
+    "curar",
+    "mente",
+    "sucessiva"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 82,
+   "pagina": 87,
+   "ratio": 0.9803,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "laçãÔ",
+    "lliãdo",
+    "resulta"
+   ]
+  },
+  {
+   "folha": 83,
+   "pagina": 88,
+   "ratio": 0.9555,
+   "so_md": 14,
+   "formas_so_md": [
+    "Notas",
+    "agressão",
+    "consume",
+    "corresponde",
+    "danificar",
+    "ilegal",
+    "impotentes",
+    "injusta",
+    "justifica",
+    "neutralizar",
+    "obstar",
+    "outcem",
+    "outrem",
+    "praticada"
+   ]
+  },
+  {
+   "folha": 84,
+   "pagina": 89,
+   "ratio": 0.9554,
+   "so_md": 4,
+   "formas_so_md": [
+    "Basta",
+    "Notas",
+    "pessoal",
+    "prossiga"
+   ]
+  },
+  {
+   "folha": 85,
+   "pagina": 90,
+   "ratio": 0.9805,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "empregado"
+   ]
+  },
+  {
+   "folha": 86,
+   "pagina": 91,
+   "ratio": 0.9833,
+   "so_md": 3,
+   "formas_so_md": [
+    "Exterioridade",
+    "Notas",
+    "sidiariamente"
+   ]
+  },
+  {
+   "folha": 87,
+   "pagina": 92,
+   "ratio": 0.9841,
+   "so_md": 5,
+   "formas_so_md": [
+    "Critérios",
+    "Notas",
+    "imediata",
+    "insuficientes",
+    "mente"
+   ]
+  },
+  {
+   "folha": 88,
+   "pagina": 93,
+   "ratio": 0.9803,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Verifica",
+    "irres",
+    "ponsabilização"
+   ]
+  },
+  {
+   "folha": 89,
+   "pagina": 94,
+   "ratio": 0.9855,
+   "so_md": 1,
+   "formas_so_md": [
+    "consideração"
+   ]
+  },
+  {
+   "folha": 90,
+   "pagina": 95,
+   "ratio": 0.9872,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "reclama"
+   ]
+  },
+  {
+   "folha": 91,
+   "pagina": 96,
+   "ratio": 0.9773,
+   "so_md": 6,
+   "formas_so_md": [
+    "CIÊNCIAS",
+    "ESTUDAM",
+    "TÍTULO",
+    "apresenNotas",
+    "diferentes",
+    "instrumentalmente"
+   ]
+  },
+  {
+   "folha": 92,
+   "pagina": 97,
+   "ratio": 0.9916,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 93,
+   "pagina": 98,
+   "ratio": 0.977,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 94,
+   "pagina": null,
+   "ratio": 0.9452,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Outras"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 95,
+   "pagina": 100,
+   "ratio": 0.9852,
+   "so_md": 2,
+   "formas_so_md": [
+    "Legislativa",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 96,
+   "pagina": 101,
+   "ratio": 0.9875,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "prévia"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 97,
+   "pagina": 102,
+   "ratio": 0.986,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 98,
+   "pagina": 103,
+   "ratio": 0.9907,
+   "so_md": 2,
+   "formas_so_md": [
+    "Etnologia",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 99,
+   "pagina": 104,
+   "ratio": 0.9856,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 100,
+   "pagina": 105,
+   "ratio": 0.9918,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 101,
+   "pagina": 106,
+   "ratio": 0.9637,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "intelectual",
+    "ligar"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 102,
+   "pagina": 107,
+   "ratio": 0.9863,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "HISTÓRIA",
+    "Notas",
+    "necessita"
+   ]
+  },
+  {
+   "folha": 103,
+   "pagina": 108,
+   "ratio": 0.9782,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "alunos"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 104,
+   "pagina": null,
+   "ratio": 0.9641,
+   "so_md": 4,
+   "formas_so_md": [
+    "Conteúdo",
+    "mente",
+    "seguida",
+    "tiver"
+   ]
+  },
+  {
+   "folha": 105,
+   "pagina": 110,
+   "ratio": 0.9741,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "existente",
+    "função",
+    "histórico",
+    "xplicativa"
+   ]
+  },
+  {
+   "folha": 106,
+   "pagina": 111,
+   "ratio": 0.9952,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 107,
+   "pagina": 112,
+   "ratio": 0.9839,
+   "so_md": 3,
+   "formas_so_md": [
+    "Método",
+    "esclarecimentos",
+    "orientações"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 108,
+   "pagina": 113,
+   "ratio": 0.99,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 109,
+   "pagina": 114,
+   "ratio": 0.9913,
+   "so_md": 2,
+   "formas_so_md": [
+    "comprovadamente",
+    "consegui"
+   ]
+  },
+  {
+   "folha": 110,
+   "pagina": 115,
+   "ratio": 0.9914,
+   "so_md": 3,
+   "formas_so_md": [
+    "SECÇÃO",
+    "deter",
+    "minou"
+   ]
+  },
+  {
+   "folha": 111,
+   "pagina": 116,
+   "ratio": 0.9873,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "longa"
+   ]
+  },
+  {
+   "folha": 112,
+   "pagina": 117,
+   "ratio": 0.9837,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "fimdamen",
+    "mongi",
+    "respeita",
+    "talmente"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 113,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 114,
+   "pagina": null,
+   "ratio": 0.96,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Senatusconsultos"
+   ]
+  },
+  {
+   "folha": 115,
+   "pagina": 120,
+   "ratio": 0.9782,
+   "so_md": 5,
+   "formas_so_md": [
+    "Constituições",
+    "gressores",
+    "imperiais",
+    "maNotas",
+    "trans"
+   ]
+  },
+  {
+   "folha": 116,
+   "pagina": 121,
+   "ratio": 0.9893,
+   "so_md": 1,
+   "formas_so_md": [
+    "jurisconsultos"
+   ]
+  },
+  {
+   "folha": 117,
+   "pagina": 122,
+   "ratio": 0.9848,
+   "so_md": 4,
+   "formas_so_md": [
+    "Edictos",
+    "dores",
+    "impera",
+    "magistrados"
+   ]
+  },
+  {
+   "folha": 118,
+   "pagina": 123,
+   "ratio": 0.9825,
+   "so_md": 6,
+   "formas_so_md": [
+    "Civilis",
+    "Corpus",
+    "determinar",
+    "formava",
+    "luris",
+    "perpe"
+   ]
+  },
+  {
+   "folha": 119,
+   "pagina": 124,
+   "ratio": 0.9794,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "ninguém"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 120,
+   "pagina": 125,
+   "ratio": 0.9864,
+   "so_md": 6,
+   "formas_so_md": [
+    "Institu",
+    "Lateral",
+    "Notas",
+    "Períodos",
+    "Romano",
+    "mente"
+   ]
+  },
+  {
+   "folha": 121,
+   "pagina": 126,
+   "ratio": 0.982,
+   "so_md": 9,
+   "formas_so_md": [
+    "civile",
+    "consolidação",
+    "corres",
+    "desigualmentt",
+    "fundamento",
+    "gentium",
+    "jurisconsultos",
+    "ponde",
+    "prerrogativas"
+   ]
+  },
+  {
+   "folha": 122,
+   "pagina": 127,
+   "ratio": 0.9922,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 123,
+   "pagina": 128,
+   "ratio": 0.9869,
+   "so_md": 3,
+   "formas_so_md": [
+    "antiga",
+    "mente",
+    "pessoas"
+   ]
+  },
+  {
+   "folha": 124,
+   "pagina": 129,
+   "ratio": 0.9922,
+   "so_md": 4,
+   "formas_so_md": [
+    "exclusiva",
+    "mente",
+    "mulada",
+    "onnalismo"
+   ]
+  },
+  {
+   "folha": 125,
+   "pagina": 130,
+   "ratio": 0.9726,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "Tendências",
+    "actuais",
+    "estudo",
+    "experimentação"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 126,
+   "pagina": 131,
+   "ratio": 0.9903,
+   "so_md": 5,
+   "formas_so_md": [
+    "PORTUGUÊS",
+    "SECÇÃO",
+    "funda",
+    "mental",
+    "tinianeias"
+   ]
+  },
+  {
+   "folha": 127,
+   "pagina": 132,
+   "ratio": 0.9741,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 128,
+   "pagina": null,
+   "ratio": 0.7747,
+   "so_md": 3,
+   "formas_so_md": [
+    "ACTUAIS",
+    "CAPÍTULO",
+    "SISTEMAS"
+   ]
+  },
+  {
+   "folha": 129,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 130,
+   "pagina": null,
+   "ratio": 0.9668,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 131,
+   "pagina": 136,
+   "ratio": 0.9864,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "fórmula",
+    "permitem",
+    "português"
+   ]
+  },
+  {
+   "folha": 132,
+   "pagina": 137,
+   "ratio": 0.9862,
+   "so_md": 2,
+   "formas_so_md": [
+    "Conteúdo",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 133,
+   "pagina": 138,
+   "ratio": 0.9849,
+   "so_md": 2,
+   "formas_so_md": [
+    "Macrocomparação",
+    "microcomparação"
+   ]
+  },
+  {
+   "folha": 134,
+   "pagina": 139,
+   "ratio": 0.9825,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "direi",
+    "mente",
+    "micro",
+    "nomeada",
+    "problema"
+   ]
+  },
+  {
+   "folha": 135,
+   "pagina": 140,
+   "ratio": 0.9644,
+   "so_md": 10,
+   "formas_so_md": [
+    "Critério",
+    "Notas",
+    "civilizações",
+    "macrocompara",
+    "mundial",
+    "orientação",
+    "parado",
+    "porém",
+    "sequer",
+    "suscitou"
+   ]
+  },
+  {
+   "folha": 136,
+   "pagina": 141,
+   "ratio": 0.9729,
+   "so_md": 17,
+   "formas_so_md": [
+    "Dãsedísdntivo",
+    "Notas",
+    "anima",
+    "classificação",
+    "clvílizações",
+    "considerada",
+    "dassociêdades",
+    "dificuldades",
+    "direitos",
+    "homogeneidade",
+    "necessariamente",
+    "primitivos",
+    "reconhecidas",
+    "significativas",
+    "substancialmente",
+    "superficialmente",
+    "urídicas"
+   ]
+  },
+  {
+   "folha": 137,
+   "pagina": 142,
+   "ratio": 0.988,
+   "so_md": 1,
+   "formas_so_md": [
+    "rente"
+   ]
+  },
+  {
+   "folha": 138,
+   "pagina": 143,
+   "ratio": 0.9916,
+   "so_md": 2,
+   "formas_so_md": [
+    "combati",
+    "confronto"
+   ]
+  },
+  {
+   "folha": 139,
+   "pagina": 144,
+   "ratio": 0.9895,
+   "so_md": 3,
+   "formas_so_md": [
+    "formal",
+    "mente",
+    "tidos"
+   ]
+  },
+  {
+   "folha": 140,
+   "pagina": null,
+   "ratio": 0.9865,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "transfonna"
+   ]
+  },
+  {
+   "folha": 141,
+   "pagina": 146,
+   "ratio": 0.9851,
+   "so_md": 5,
+   "formas_so_md": [
+    "Subsistema",
+    "extrema",
+    "herança",
+    "mente",
+    "romanístico"
+   ]
+  },
+  {
+   "folha": 142,
+   "pagina": 147,
+   "ratio": 0.9907,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 143,
+   "pagina": 148,
+   "ratio": 0.981,
+   "so_md": 3,
+   "formas_so_md": [
+    "confronto",
+    "formação",
+    "romaNotas"
+   ]
+  },
+  {
+   "folha": 144,
+   "pagina": 149,
+   "ratio": 0.9617,
+   "so_md": 5,
+   "formas_so_md": [
+    "categorias",
+    "comuns",
+    "consideradas",
+    "elçme",
+    "mulaç"
+   ]
+  },
+  {
+   "folha": 145,
+   "pagina": 150,
+   "ratio": 0.9546,
+   "so_md": 9,
+   "formas_so_md": [
+    "Subsistema",
+    "dizer",
+    "formação",
+    "funcionamento",
+    "inseguro",
+    "pretenso",
+    "salvo",
+    "tornou",
+    "transplantação"
+   ],
+   "erratas_conhecidas": 4
+  },
+  {
+   "folha": 146,
+   "pagina": 151,
+   "ratio": 0.858,
+   "so_md": 47,
+   "formas_so_md": [
+    "Aliás",
+    "Estados",
+    "Inglaterra",
+    "análogos",
+    "aplicam",
+    "atingiu",
+    "através",
+    "cansaram",
+    "comum",
+    "constante",
+    "convertido",
+    "embora",
+    "encarquilhou",
+    "encontra",
+    "estejam",
+    "estudiosos",
+    "evidente",
+    "evolução",
+    "final",
+    "fixas",
+    "formalmente",
+    "incognoscível",
+    "interesse",
+    "interpenetração",
+    "intérpretes",
+    "judiciários",
+    "jurisprudencial",
+    "justamente",
+    "maneira",
+    "mesma",
+    "normativos",
+    "número",
+    "pelos",
+    "perdeu",
+    "ponto",
+    "porque",
+    "precedentes",
+    "própria",
+    "quando",
+    "recente"
+   ],
+   "erratas_conhecidas": 3
+  },
+  {
+   "folha": 147,
+   "pagina": 152,
+   "ratio": 0.8533,
+   "so_md": 51,
+   "formas_so_md": [
+    "Deste",
+    "Direitos",
+    "Notas",
+    "Podemos",
+    "americanos",
+    "apesar",
+    "apreciação",
+    "autovinculada",
+    "autovinculação",
+    "causa",
+    "considerou",
+    "criou",
+    "daqueles",
+    "decidido",
+    "decisis",
+    "declarou",
+    "desta",
+    "determinar",
+    "dicta",
+    "distinguem",
+    "dizer",
+    "emitido",
+    "emitira",
+    "entre",
+    "estão",
+    "evitam",
+    "examinar",
+    "extrair",
+    "finura",
+    "identidade",
+    "inferiores",
+    "juízes",
+    "muita",
+    "máximo",
+    "necessária",
+    "negra",
+    "obiter",
+    "passado",
+    "países",
+    "razão"
+   ]
+  },
+  {
+   "folha": 148,
+   "pagina": 153,
+   "ratio": 0.9459,
+   "so_md": 11,
+   "formas_so_md": [
+    "amerNotas",
+    "assim",
+    "barricada",
+    "consagrar",
+    "corresponde",
+    "corrigida",
+    "exprimiu",
+    "felicidade",
+    "melhor",
+    "significado",
+    "suspeitas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 149,
+   "pagina": 154,
+   "ratio": 0.9731,
+   "so_md": 6,
+   "formas_so_md": [
+    "ership",
+    "esforç",
+    "grandes",
+    "grupos",
+    "nísticos",
+    "parecido"
+   ]
+  },
+  {
+   "folha": 150,
+   "pagina": 155,
+   "ratio": 0.9839,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "socialista",
+    "soviético"
+   ]
+  },
+  {
+   "folha": 151,
+   "pagina": 156,
+   "ratio": 0.988,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "estrutura",
+    "mente",
+    "total"
+   ]
+  },
+  {
+   "folha": 152,
+   "pagina": 157,
+   "ratio": 0.9851,
+   "so_md": 3,
+   "formas_so_md": [
+    "Fontes",
+    "Notas",
+    "conteúdo"
+   ]
+  },
+  {
+   "folha": 153,
+   "pagina": 158,
+   "ratio": 0.9853,
+   "so_md": 2,
+   "formas_so_md": [
+    "Chinês",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 154,
+   "pagina": 159,
+   "ratio": 0.9908,
+   "so_md": 1,
+   "formas_so_md": [
+    "condeNotas"
+   ]
+  },
+  {
+   "folha": 155,
+   "pagina": 160,
+   "ratio": 0.9809,
+   "so_md": 8,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "FILOSOFIA",
+    "Notas",
+    "introduc",
+    "mente",
+    "nomeada",
+    "peque",
+    "sucessiva"
+   ]
+  },
+  {
+   "folha": 156,
+   "pagina": 161,
+   "ratio": 0.9918,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 157,
+   "pagina": 162,
+   "ratio": 0.9886,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 158,
+   "pagina": null,
+   "ratio": 0.9653,
+   "so_md": 2,
+   "formas_so_md": [
+    "História",
+    "Notas"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 159,
+   "pagina": 164,
+   "ratio": 0.9898,
+   "so_md": 2,
+   "formas_so_md": [
+    "Louri",
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 160,
+   "pagina": 165,
+   "ratio": 0.9859,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "antiguidade",
+    "jusnatu",
+    "preensão",
+    "ralista"
+   ]
+  },
+  {
+   "folha": 161,
+   "pagina": 166,
+   "ratio": 0.9836,
+   "so_md": 6,
+   "formas_so_md": [
+    "Contra",
+    "Notas",
+    "cristã",
+    "filosofia",
+    "punham",
+    "renascentista"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 162,
+   "pagina": 167,
+   "ratio": 0.9844,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "descrença",
+    "árias"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 163,
+   "pagina": 168,
+   "ratio": 0.9896,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "surgi"
+   ]
+  },
+  {
+   "folha": 164,
+   "pagina": 169,
+   "ratio": 0.9899,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 165,
+   "pagina": 170,
+   "ratio": 0.9822,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "advento",
+    "racionalismo"
+   ]
+  },
+  {
+   "folha": 166,
+   "pagina": 171,
+   "ratio": 0.9842,
+   "so_md": 4,
+   "formas_so_md": [
+    "Caracterização",
+    "Notas",
+    "crítica",
+    "encontra"
+   ]
+  },
+  {
+   "folha": 167,
+   "pagina": 172,
+   "ratio": 0.9876,
+   "so_md": 2,
+   "formas_so_md": [
+    "direi",
+    "histórica"
+   ]
+  },
+  {
+   "folha": 168,
+   "pagina": 173,
+   "ratio": 0.9933,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "pender"
+   ]
+  },
+  {
+   "folha": 169,
+   "pagina": 174,
+   "ratio": 0.9837,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Positivismo",
+    "mente",
+    "rentes"
+   ]
+  },
+  {
+   "folha": 170,
+   "pagina": 175,
+   "ratio": 0.993,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "nomeada"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 171,
+   "pagina": 176,
+   "ratio": 0.9862,
+   "so_md": 1,
+   "formas_so_md": [
+    "Kantismo"
+   ]
+  },
+  {
+   "folha": 172,
+   "pagina": 177,
+   "ratio": 0.9884,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 173,
+   "pagina": 178,
+   "ratio": 0.9786,
+   "so_md": 3,
+   "formas_so_md": [
+    "Hegelianismo",
+    "Notas",
+    "defenda"
+   ]
+  },
+  {
+   "folha": 174,
+   "pagina": 179,
+   "ratio": 0.9886,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "limita"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 175,
+   "pagina": 180,
+   "ratio": 0.9746,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "jusnatura",
+    "lista",
+    "nosso",
+    "rentes",
+    "tempo"
+   ]
+  },
+  {
+   "folha": 176,
+   "pagina": 181,
+   "ratio": 0.9927,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 177,
+   "pagina": 182,
+   "ratio": 0.9908,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 178,
+   "pagina": 183,
+   "ratio": 0.9799,
+   "so_md": 5,
+   "formas_so_md": [
+    "CARACTERIZAÇÃO",
+    "Notas",
+    "TÍTULO",
+    "neoliberalismo",
+    "sionismo"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 179,
+   "pagina": 184,
+   "ratio": 0.9474,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 180,
+   "pagina": null,
+   "ratio": 0.9588,
+   "so_md": 1,
+   "formas_so_md": [
+    "valores"
+   ]
+  },
+  {
+   "folha": 181,
+   "pagina": 186,
+   "ratio": 0.9876,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "diversa",
+    "mente",
+    "remos"
+   ]
+  },
+  {
+   "folha": 182,
+   "pagina": 187,
+   "ratio": 0.9866,
+   "so_md": 7,
+   "formas_so_md": [
+    "Justiça",
+    "Notas",
+    "absolu",
+    "constante",
+    "mente",
+    "tidade",
+    "valorar"
+   ]
+  },
+  {
+   "folha": 183,
+   "pagina": 188,
+   "ratio": 0.9838,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 184,
+   "pagina": 189,
+   "ratio": 0.9879,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 185,
+   "pagina": 190,
+   "ratio": 0.9857,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 186,
+   "pagina": 191,
+   "ratio": 0.9709,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "natural",
+    "natureza"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 187,
+   "pagina": 192,
+   "ratio": 0.991,
+   "so_md": 2,
+   "formas_so_md": [
+    "justa",
+    "mente"
+   ]
+  },
+  {
+   "folha": 188,
+   "pagina": 193,
+   "ratio": 0.9839,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "concreta",
+    "pergunta",
+    "social"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 189,
+   "pagina": 194,
+   "ratio": 0.9868,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 190,
+   "pagina": 195,
+   "ratio": 0.9875,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 191,
+   "pagina": 196,
+   "ratio": 0.9848,
+   "so_md": 5,
+   "formas_so_md": [
+    "Objectividade",
+    "corres",
+    "necesNotas",
+    "ponde",
+    "relativismo"
+   ]
+  },
+  {
+   "folha": 192,
+   "pagina": 197,
+   "ratio": 0.9902,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "intempo",
+    "mente",
+    "nomeada",
+    "ralidade"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 193,
+   "pagina": 198,
+   "ratio": 0.9832,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "valioso"
+   ]
+  },
+  {
+   "folha": 194,
+   "pagina": 199,
+   "ratio": 0.983,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "efectivamente",
+    "observada"
+   ]
+  },
+  {
+   "folha": 195,
+   "pagina": 200,
+   "ratio": 0.9871,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "objecti",
+    "plexo"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 196,
+   "pagina": 201,
+   "ratio": 0.986,
+   "so_md": 2,
+   "formas_so_md": [
+    "núcleo",
+    "permanente"
+   ]
+  },
+  {
+   "folha": 197,
+   "pagina": 202,
+   "ratio": 0.9897,
+   "so_md": 1,
+   "formas_so_md": [
+    "necesNotas"
+   ]
+  },
+  {
+   "folha": 198,
+   "pagina": 203,
+   "ratio": 0.9857,
+   "so_md": 3,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "FUNÇÃO",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 199,
+   "pagina": 204,
+   "ratio": 0.9893,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 200,
+   "pagina": 205,
+   "ratio": 0.9858,
+   "so_md": 1,
+   "formas_so_md": [
+    "tornar"
+   ]
+  },
+  {
+   "folha": 201,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 202,
+   "pagina": null,
+   "ratio": 0.9775,
+   "so_md": 4,
+   "formas_so_md": [
+    "devida",
+    "legitimidade",
+    "mentais",
+    "mente"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 203,
+   "pagina": 208,
+   "ratio": 0.9864,
+   "so_md": 1,
+   "formas_so_md": [
+    "fruNotas"
+   ]
+  },
+  {
+   "folha": 204,
+   "pagina": 209,
+   "ratio": 0.9871,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "contra",
+    "formal",
+    "jusfilosó",
+    "legitimação",
+    "ponha"
+   ]
+  },
+  {
+   "folha": 205,
+   "pagina": 210,
+   "ratio": 0.9793,
+   "so_md": 6,
+   "formas_so_md": [
+    "Corres",
+    "Notas",
+    "grupos",
+    "ponde",
+    "pressão",
+    "substancial"
+   ]
+  },
+  {
+   "folha": 206,
+   "pagina": 211,
+   "ratio": 0.9924,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 207,
+   "pagina": 212,
+   "ratio": 0.9851,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "resultado"
+   ]
+  },
+  {
+   "folha": 208,
+   "pagina": 213,
+   "ratio": 0.9845,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "feita"
+   ],
+   "erratas_conhecidas": 2
+  },
+  {
+   "folha": 209,
+   "pagina": 214,
+   "ratio": 0.988,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 210,
+   "pagina": 215,
+   "ratio": 0.9893,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "CIÊNCIA",
+    "Notas",
+    "formemente"
+   ]
+  },
+  {
+   "folha": 211,
+   "pagina": 216,
+   "ratio": 0.9888,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 212,
+   "pagina": null,
+   "ratio": 0.9772,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "formação",
+    "jurídica",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 213,
+   "pagina": 218,
+   "ratio": 0.9772,
+   "so_md": 5,
+   "formas_so_md": [
+    "Associa",
+    "Infra",
+    "Notas",
+    "espírito",
+    "mação"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 214,
+   "pagina": 219,
+   "ratio": 0.9959,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 215,
+   "pagina": 220,
+   "ratio": 0.9828,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "ainda",
+    "funda",
+    "mentais"
+   ]
+  },
+  {
+   "folha": 216,
+   "pagina": 221,
+   "ratio": 0.9907,
+   "so_md": 1,
+   "formas_so_md": [
+    "solução"
+   ]
+  },
+  {
+   "folha": 217,
+   "pagina": 222,
+   "ratio": 0.9913,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 218,
+   "pagina": 223,
+   "ratio": 0.9854,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "estrangeiro",
+    "histórico"
+   ]
+  },
+  {
+   "folha": 219,
+   "pagina": 224,
+   "ratio": 0.9883,
+   "so_md": 2,
+   "formas_so_md": [
+    "exclusivamente",
+    "independentemente"
+   ]
+  },
+  {
+   "folha": 220,
+   "pagina": 225,
+   "ratio": 0.99,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Sequência",
+    "objecto"
+   ],
+   "erratas_conhecidas": 1
+  },
+  {
+   "folha": 221,
+   "pagina": 226,
+   "ratio": 0.9866,
+   "so_md": 2,
+   "formas_so_md": [
+    "Plano",
+    "exposição"
+   ]
+  },
+  {
+   "folha": 222,
+   "pagina": 227,
+   "ratio": 0.9894,
+   "so_md": 1,
+   "formas_so_md": [
+    "PARTE"
+   ]
+  },
+  {
+   "folha": 223,
+   "pagina": 228,
+   "ratio": 0.9884,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 224,
+   "pagina": null,
+   "ratio": 0.5203,
+   "so_md": 3,
+   "formas_so_md": [
+    "NORMATIVAS",
+    "SOLUÇÃO",
+    "TÍTULO"
+   ]
+  },
+  {
+   "folha": 225,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 226,
+   "pagina": null,
+   "ratio": 0.9858,
+   "so_md": 1,
+   "formas_so_md": [
+    "equidade"
+   ]
+  },
+  {
+   "folha": 227,
+   "pagina": 232,
+   "ratio": 0.9755,
+   "so_md": 4,
+   "formas_so_md": [
+    "Abschied",
+    "Notas",
+    "critério",
+    "exclusivo"
+   ]
+  },
+  {
+   "folha": 228,
+   "pagina": 233,
+   "ratio": 0.9758,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mesmo"
+   ]
+  },
+  {
+   "folha": 229,
+   "pagina": 234,
+   "ratio": 0.9776,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "complementar",
+    "panEar"
+   ]
+  },
+  {
+   "folha": 230,
+   "pagina": 235,
+   "ratio": 0.9819,
+   "so_md": 8,
+   "formas_so_md": [
+    "Notas",
+    "Soluções",
+    "dispo",
+    "frequente",
+    "generalizadoras",
+    "individualizadoras",
+    "mente",
+    "níveis"
+   ]
+  },
+  {
+   "folha": 231,
+   "pagina": 236,
+   "ratio": 0.9869,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 232,
+   "pagina": 237,
+   "ratio": 0.9827,
+   "so_md": 2,
+   "formas_so_md": [
+    "Processos",
+    "individualização"
+   ]
+  },
+  {
+   "folha": 233,
+   "pagina": 238,
+   "ratio": 0.984,
+   "so_md": 2,
+   "formas_so_md": [
+    "Crítica",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 234,
+   "pagina": 239,
+   "ratio": 0.9844,
+   "so_md": 6,
+   "formas_so_md": [
+    "Infra",
+    "Notas",
+    "Retoma",
+    "conde",
+    "nação",
+    "remos"
+   ]
+  },
+  {
+   "folha": 235,
+   "pagina": 240,
+   "ratio": 0.9836,
+   "so_md": 6,
+   "formas_so_md": [
+    "FONTES",
+    "Notas",
+    "TÍTULO",
+    "justa",
+    "mente",
+    "normativas"
+   ]
+  },
+  {
+   "folha": 236,
+   "pagina": 241,
+   "ratio": 0.9885,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "arrisca"
+   ]
+  },
+  {
+   "folha": 237,
+   "pagina": 242,
+   "ratio": 0.9664,
+   "so_md": 2,
+   "formas_so_md": [
+    "dependência",
+    "incontrolável"
+   ]
+  },
+  {
+   "folha": 238,
+   "pagina": null,
+   "ratio": 0.9601,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Noção",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 239,
+   "pagina": 244,
+   "ratio": 0.9813,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Portugal",
+    "comunitárias",
+    "marcação",
+    "prevalen",
+    "temente"
+   ]
+  },
+  {
+   "folha": 240,
+   "pagina": 245,
+   "ratio": 0.9835,
+   "so_md": 4,
+   "formas_so_md": [
+    "Brasil",
+    "MERCOSUL",
+    "Notas",
+    "trich"
+   ]
+  },
+  {
+   "folha": 241,
+   "pagina": 246,
+   "ratio": 0.9874,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 242,
+   "pagina": 247,
+   "ratio": 0.9941,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mente"
+   ]
+  },
+  {
+   "folha": 243,
+   "pagina": 248,
+   "ratio": 0.9859,
+   "so_md": 1,
+   "formas_so_md": [
+    "meroNotas"
+   ]
+  },
+  {
+   "folha": 244,
+   "pagina": 249,
+   "ratio": 0.9768,
+   "so_md": 3,
+   "formas_so_md": [
+    "equidade",
+    "mente",
+    "nomeada"
+   ]
+  },
+  {
+   "folha": 245,
+   "pagina": 250,
+   "ratio": 0.9772,
+   "so_md": 3,
+   "formas_so_md": [
+    "ERCOS",
+    "doutrina",
+    "soluNotas"
+   ]
+  },
+  {
+   "folha": 246,
+   "pagina": 251,
+   "ratio": 0.9858,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "costume",
+    "requisitos",
+    "riais",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 247,
+   "pagina": 252,
+   "ratio": 0.9882,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "trina"
+   ]
+  },
+  {
+   "folha": 248,
+   "pagina": 253,
+   "ratio": 0.9882,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Pretensos",
+    "Simples",
+    "consultos",
+    "juris",
+    "mente"
+   ]
+  },
+  {
+   "folha": 249,
+   "pagina": 254,
+   "ratio": 0.9836,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "igual",
+    "mente",
+    "respeita"
+   ]
+  },
+  {
+   "folha": 250,
+   "pagina": 255,
+   "ratio": 0.9908,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Valia"
+   ]
+  },
+  {
+   "folha": 251,
+   "pagina": 256,
+   "ratio": 0.9888,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "fonne"
+   ]
+  },
+  {
+   "folha": 252,
+   "pagina": 257,
+   "ratio": 0.9871,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Relação"
+   ]
+  },
+  {
+   "folha": 253,
+   "pagina": 258,
+   "ratio": 0.9875,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "fundamental",
+    "mente"
+   ]
+  },
+  {
+   "folha": 254,
+   "pagina": 259,
+   "ratio": 0.9741,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "legais",
+    "regras",
+    "relevância"
+   ]
+  },
+  {
+   "folha": 255,
+   "pagina": 260,
+   "ratio": 0.9856,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "Processo",
+    "chamadas",
+    "existência",
+    "manancial",
+    "nacionais",
+    "portanto",
+    "recepções",
+    "relevante"
+   ]
+  },
+  {
+   "folha": 256,
+   "pagina": 261,
+   "ratio": 0.9927,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "áctico"
+   ]
+  },
+  {
+   "folha": 257,
+   "pagina": 262,
+   "ratio": 0.9775,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "submissão"
+   ]
+  },
+  {
+   "folha": 258,
+   "pagina": 263,
+   "ratio": 0.9871,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 259,
+   "pagina": 264,
+   "ratio": 0.9648,
+   "so_md": 45,
+   "formas_so_md": [
+    "Aplicação",
+    "Notas",
+    "Observou",
+    "Perguntar",
+    "actuação",
+    "admitir",
+    "análise",
+    "assinaladas",
+    "autónoma",
+    "concepções",
+    "consiga",
+    "definitivo",
+    "demonstrar",
+    "dignidade",
+    "disposições",
+    "escassas",
+    "excluísse",
+    "exposta",
+    "falseados",
+    "genericamente",
+    "hipóteses",
+    "imprimir",
+    "intenção",
+    "juridicidade",
+    "jurídica",
+    "limitaria",
+    "mesmo",
+    "ninguém",
+    "partida",
+    "partiria",
+    "pelos",
+    "perdem",
+    "perguntar",
+    "pretender",
+    "prevêem",
+    "próprias",
+    "públicos",
+    "replicar",
+    "semelhante",
+    "simples"
+   ]
+  },
+  {
+   "folha": 260,
+   "pagina": 265,
+   "ratio": 0.9877,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "sempre",
+    "visão"
+   ]
+  },
+  {
+   "folha": 261,
+   "pagina": 266,
+   "ratio": 0.9878,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "afirmado"
+   ]
+  },
+  {
+   "folha": 262,
+   "pagina": 267,
+   "ratio": 0.9909,
+   "so_md": 2,
+   "formas_so_md": [
+    "cesso",
+    "noção"
+   ]
+  },
+  {
+   "folha": 263,
+   "pagina": 268,
+   "ratio": 0.9898,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 264,
+   "pagina": 269,
+   "ratio": 0.9817,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "gração",
+    "preceitosvalecer",
+    "ridade",
+    "vância"
+   ]
+  },
+  {
+   "folha": 265,
+   "pagina": 270,
+   "ratio": 0.9861,
+   "so_md": 3,
+   "formas_so_md": [
+    "caracNotas",
+    "formais",
+    "materiais"
+   ]
+  },
+  {
+   "folha": 266,
+   "pagina": 271,
+   "ratio": 0.9929,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 267,
+   "pagina": 272,
+   "ratio": 0.9711,
+   "so_md": 31,
+   "formas_so_md": [
+    "Governo",
+    "Notas",
+    "anteriormente",
+    "aprova",
+    "aquela",
+    "assenta",
+    "complementar",
+    "constitucionais",
+    "constitucional",
+    "corrente",
+    "corresponde",
+    "criação",
+    "câmaras",
+    "demos",
+    "distinção",
+    "diverso",
+    "escrita",
+    "especial",
+    "maestro",
+    "medidas",
+    "mesmo",
+    "nenhuma",
+    "portanto",
+    "posterior",
+    "pressupõe",
+    "provisórias",
+    "quando",
+    "regulamento",
+    "reveste",
+    "utilizado",
+    "utilização"
+   ]
+  },
+  {
+   "folha": 268,
+   "pagina": 273,
+   "ratio": 0.9748,
+   "so_md": 5,
+   "formas_so_md": [
+    "Disposições",
+    "Notas",
+    "entes",
+    "intermediários",
+    "terminologia"
+   ]
+  },
+  {
+   "folha": 269,
+   "pagina": 274,
+   "ratio": 0.9861,
+   "so_md": 2,
+   "formas_so_md": [
+    "independente",
+    "mente"
+   ]
+  },
+  {
+   "folha": 270,
+   "pagina": 275,
+   "ratio": 0.9783,
+   "so_md": 7,
+   "formas_so_md": [
+    "Notas",
+    "Posturas",
+    "diplo",
+    "formal",
+    "mente",
+    "outros",
+    "trina"
+   ]
+  },
+  {
+   "folha": 271,
+   "pagina": 276,
+   "ratio": 0.9883,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 272,
+   "pagina": 277,
+   "ratio": 0.9741,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "retira",
+    "solenes"
+   ]
+  },
+  {
+   "folha": 273,
+   "pagina": 278,
+   "ratio": 0.9861,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "reticente"
+   ]
+  },
+  {
+   "folha": 274,
+   "pagina": 279,
+   "ratio": 0.995,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "respeita"
+   ]
+  },
+  {
+   "folha": 275,
+   "pagina": 280,
+   "ratio": 0.9759,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Regulamentos",
+    "comuns",
+    "formal",
+    "lentemente",
+    "preva"
+   ]
+  },
+  {
+   "folha": 276,
+   "pagina": 281,
+   "ratio": 0.9798,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 277,
+   "pagina": 282,
+   "ratio": 0.9772,
+   "so_md": 3,
+   "formas_so_md": [
+    "Infra",
+    "Notas",
+    "Tipos"
+   ]
+  },
+  {
+   "folha": 278,
+   "pagina": 283,
+   "ratio": 0.9934,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "chama"
+   ]
+  },
+  {
+   "folha": 279,
+   "pagina": 284,
+   "ratio": 0.9783,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "legais",
+    "referências"
+   ]
+  },
+  {
+   "folha": 280,
+   "pagina": 285,
+   "ratio": 0.9823,
+   "so_md": 3,
+   "formas_so_md": [
+    "Desvalores",
+    "Notas",
+    "legislativo"
+   ]
+  },
+  {
+   "folha": 281,
+   "pagina": 286,
+   "ratio": 0.9838,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "traídos"
+   ]
+  },
+  {
+   "folha": 282,
+   "pagina": 287,
+   "ratio": 0.9877,
+   "so_md": 2,
+   "formas_so_md": [
+    "Publicação",
+    "princf"
+   ]
+  },
+  {
+   "folha": 283,
+   "pagina": 288,
+   "ratio": 0.9874,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 284,
+   "pagina": 289,
+   "ratio": 0.9895,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Rectiflcações"
+   ]
+  },
+  {
+   "folha": 285,
+   "pagina": 290,
+   "ratio": 0.9788,
+   "so_md": 10,
+   "formas_so_md": [
+    "Administração",
+    "Notas",
+    "afixação",
+    "cesso",
+    "corporativas",
+    "desempenhavam",
+    "forma",
+    "governadores",
+    "internacionais",
+    "pormenorizam"
+   ]
+  },
+  {
+   "folha": 286,
+   "pagina": null,
+   "ratio": 0.9897,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 287,
+   "pagina": 292,
+   "ratio": 0.9838,
+   "so_md": 5,
+   "formas_so_md": [
+    "Entrada",
+    "Notas",
+    "Vigência",
+    "ornai",
+    "vigor"
+   ]
+  },
+  {
+   "folha": 288,
+   "pagina": 293,
+   "ratio": 0.9892,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 289,
+   "pagina": 294,
+   "ratio": 0.9807,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Problemática",
+    "imediata",
+    "mente"
+   ]
+  },
+  {
+   "folha": 290,
+   "pagina": 295,
+   "ratio": 0.9877,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 291,
+   "pagina": 296,
+   "ratio": 0.9838,
+   "so_md": 3,
+   "formas_so_md": [
+    "Cessação",
+    "Notas",
+    "termo"
+   ]
+  },
+  {
+   "folha": 292,
+   "pagina": 297,
+   "ratio": 0.9922,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 293,
+   "pagina": 298,
+   "ratio": 0.988,
+   "so_md": 1,
+   "formas_so_md": [
+    "Regime"
+   ]
+  },
+  {
+   "folha": 294,
+   "pagina": 299,
+   "ratio": 0.9923,
+   "so_md": 2,
+   "formas_so_md": [
+    "predomíNotas",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 295,
+   "pagina": 300,
+   "ratio": 0.9808,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "expressa",
+    "simultaneamente",
+    "tensão",
+    "tácita"
+   ]
+  },
+  {
+   "folha": 296,
+   "pagina": 301,
+   "ratio": 0.9947,
+   "so_md": 4,
+   "formas_so_md": [
+    "correspondente",
+    "deter",
+    "minar",
+    "respec"
+   ]
+  },
+  {
+   "folha": 297,
+   "pagina": 302,
+   "ratio": 0.9746,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "eiaminarmos",
+    "pressa",
+    "quando"
+   ]
+  },
+  {
+   "folha": 298,
+   "pagina": 303,
+   "ratio": 0.9816,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "aprovação",
+    "cesso",
+    "legifera",
+    "resultante"
+   ]
+  },
+  {
+   "folha": 299,
+   "pagina": 304,
+   "ratio": 0.9887,
+   "so_md": 1,
+   "formas_so_md": [
+    "UniNotas"
+   ]
+  },
+  {
+   "folha": 300,
+   "pagina": 305,
+   "ratio": 0.9865,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Valia",
+    "efectiva"
+   ]
+  },
+  {
+   "folha": 301,
+   "pagina": 306,
+   "ratio": 0.9872,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "pressa"
+   ]
+  },
+  {
+   "folha": 302,
+   "pagina": 307,
+   "ratio": 0.9844,
+   "so_md": 4,
+   "formas_so_md": [
+    "Fontes",
+    "instruções",
+    "internas",
+    "sisNotas"
+   ]
+  },
+  {
+   "folha": 303,
+   "pagina": 308,
+   "ratio": 0.9821,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "acentuada",
+    "mente"
+   ]
+  },
+  {
+   "folha": 304,
+   "pagina": 309,
+   "ratio": 0.9736,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "decisão",
+    "máxima"
+   ]
+  },
+  {
+   "folha": 305,
+   "pagina": 310,
+   "ratio": 0.9871,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "igual",
+    "mente"
+   ]
+  },
+  {
+   "folha": 306,
+   "pagina": 311,
+   "ratio": 0.9685,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "elaboração"
+   ]
+  },
+  {
+   "folha": 307,
+   "pagina": 312,
+   "ratio": 0.9854,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 308,
+   "pagina": 313,
+   "ratio": 0.9868,
+   "so_md": 8,
+   "formas_so_md": [
+    "Notas",
+    "Quadros",
+    "armando",
+    "diante",
+    "juris",
+    "possíveis",
+    "prudencial",
+    "relevância"
+   ]
+  },
+  {
+   "folha": 309,
+   "pagina": 314,
+   "ratio": 0.9847,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "exclu",
+    "sivista"
+   ]
+  },
+  {
+   "folha": 310,
+   "pagina": 315,
+   "ratio": 0.9848,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "concorde",
+    "costume",
+    "jurisprudenciál",
+    "mente",
+    "permitem"
+   ]
+  },
+  {
+   "folha": 311,
+   "pagina": 316,
+   "ratio": 0.9788,
+   "so_md": 8,
+   "formas_so_md": [
+    "Notas",
+    "armação",
+    "aÍneri",
+    "juris",
+    "jurispruden",
+    "mongi",
+    "prudencial",
+    "transf"
+   ]
+  },
+  {
+   "folha": 312,
+   "pagina": 317,
+   "ratio": 0.9948,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 313,
+   "pagina": 318,
+   "ratio": 0.9772,
+   "so_md": 7,
+   "formas_so_md": [
+    "Brasil",
+    "Notas",
+    "Portugal",
+    "antigos",
+    "assento",
+    "prejulgado",
+    "trabalhista"
+   ]
+  },
+  {
+   "folha": 314,
+   "pagina": 319,
+   "ratio": 0.9799,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "dente",
+    "prece",
+    "reuni"
+   ]
+  },
+  {
+   "folha": 315,
+   "pagina": 320,
+   "ratio": 0.9752,
+   "so_md": 3,
+   "formas_so_md": [
+    "ectivamente",
+    "gislalivo",
+    "pendiada"
+   ]
+  },
+  {
+   "folha": 316,
+   "pagina": 321,
+   "ratio": 0.9793,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "actual",
+    "cisões",
+    "portuguesa",
+    "situação"
+   ]
+  },
+  {
+   "folha": 317,
+   "pagina": 322,
+   "ratio": 0.9804,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Prejul",
+    "mente",
+    "repetida"
+   ]
+  },
+  {
+   "folha": 318,
+   "pagina": 323,
+   "ratio": 0.9832,
+   "so_md": 4,
+   "formas_so_md": [
+    "Acórdãos",
+    "Notas",
+    "dendi",
+    "respon"
+   ]
+  },
+  {
+   "folha": 319,
+   "pagina": 324,
+   "ratio": 0.9888,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "feridos"
+   ]
+  },
+  {
+   "folha": 320,
+   "pagina": 325,
+   "ratio": 0.9844,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "Notas",
+    "RAMOS",
+    "ressalva"
+   ]
+  },
+  {
+   "folha": 321,
+   "pagina": 326,
+   "ratio": 0.9865,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "afirmação"
+   ]
+  },
+  {
+   "folha": 322,
+   "pagina": 327,
+   "ratio": 0.9899,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Parece",
+    "veria"
+   ]
+  },
+  {
+   "folha": 323,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 324,
+   "pagina": null,
+   "ratio": 0.9674,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "comum",
+    "institucional"
+   ]
+  },
+  {
+   "folha": 325,
+   "pagina": 330,
+   "ratio": 0.9916,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 326,
+   "pagina": 331,
+   "ratio": 0.9812,
+   "so_md": 4,
+   "formas_so_md": [
+    "Internacional",
+    "Notas",
+    "corres",
+    "ponde"
+   ]
+  },
+  {
+   "folha": 327,
+   "pagina": 332,
+   "ratio": 0.9881,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 328,
+   "pagina": 333,
+   "ratio": 0.9838,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "intermédios",
+    "organismos"
+   ]
+  },
+  {
+   "folha": 329,
+   "pagina": 334,
+   "ratio": 0.9877,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 330,
+   "pagina": 335,
+   "ratio": 0.9816,
+   "so_md": 3,
+   "formas_so_md": [
+    "Constitucional",
+    "Notas",
+    "Público"
+   ]
+  },
+  {
+   "folha": 331,
+   "pagina": 336,
+   "ratio": 0.9896,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 332,
+   "pagina": 337,
+   "ratio": 0.9897,
+   "so_md": 3,
+   "formas_so_md": [
+    "Civil",
+    "mente",
+    "particular"
+   ]
+  },
+  {
+   "folha": 333,
+   "pagina": 338,
+   "ratio": 0.9785,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "classificação",
+    "direi",
+    "germânica"
+   ]
+  },
+  {
+   "folha": 334,
+   "pagina": 339,
+   "ratio": 0.9914,
+   "so_md": 2,
+   "formas_so_md": [
+    "Infra",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 335,
+   "pagina": 340,
+   "ratio": 0.9823,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 336,
+   "pagina": 341,
+   "ratio": 0.9671,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Sucessões"
+   ]
+  },
+  {
+   "folha": 337,
+   "pagina": 342,
+   "ratio": 0.9691,
+   "so_md": 4,
+   "formas_so_md": [
+    "Comercial",
+    "Notas",
+    "especiais",
+    "privados"
+   ]
+  },
+  {
+   "folha": 338,
+   "pagina": 343,
+   "ratio": 0.9871,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 339,
+   "pagina": 344,
+   "ratio": 0.984,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Trabalho"
+   ]
+  },
+  {
+   "folha": 340,
+   "pagina": 345,
+   "ratio": 0.9859,
+   "so_md": 4,
+   "formas_so_md": [
+    "Previdência",
+    "Social",
+    "mente",
+    "sucessiva"
+   ]
+  },
+  {
+   "folha": 341,
+   "pagina": 346,
+   "ratio": 0.9814,
+   "so_md": 2,
+   "formas_so_md": [
+    "Agrário",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 342,
+   "pagina": 347,
+   "ratio": 0.975,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "encontra"
+   ]
+  },
+  {
+   "folha": 343,
+   "pagina": 348,
+   "ratio": 0.9856,
+   "so_md": 3,
+   "formas_so_md": [
+    "criminal",
+    "mente",
+    "partiNotas"
+   ]
+  },
+  {
+   "folha": 344,
+   "pagina": 349,
+   "ratio": 0.9905,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "árias"
+   ]
+  },
+  {
+   "folha": 345,
+   "pagina": 350,
+   "ratio": 0.9783,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Processual",
+    "constitucional",
+    "mente"
+   ]
+  },
+  {
+   "folha": 346,
+   "pagina": 351,
+   "ratio": 0.9868,
+   "so_md": 3,
+   "formas_so_md": [
+    "Civil",
+    "Notas",
+    "Processo"
+   ]
+  },
+  {
+   "folha": 347,
+   "pagina": 352,
+   "ratio": 0.9902,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "cesso"
+   ]
+  },
+  {
+   "folha": 348,
+   "pagina": 353,
+   "ratio": 0.9878,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Penal"
+   ]
+  },
+  {
+   "folha": 349,
+   "pagina": 354,
+   "ratio": 0.9825,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "CODIFICAÇÃO",
+    "Notas",
+    "responde"
+   ]
+  },
+  {
+   "folha": 350,
+   "pagina": 355,
+   "ratio": 0.9877,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 351,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 352,
+   "pagina": null,
+   "ratio": 0.9722,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "compilação",
+    "consolidação"
+   ]
+  },
+  {
+   "folha": 353,
+   "pagina": 358,
+   "ratio": 0.9885,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "Posterior",
+    "mente"
+   ]
+  },
+  {
+   "folha": 354,
+   "pagina": 359,
+   "ratio": 0.99,
+   "so_md": 3,
+   "formas_so_md": [
+    "Causas",
+    "Notas",
+    "radamente"
+   ]
+  },
+  {
+   "folha": 355,
+   "pagina": 360,
+   "ratio": 0.9839,
+   "so_md": 1,
+   "formas_so_md": [
+    "suprimis"
+   ]
+  },
+  {
+   "folha": 356,
+   "pagina": 361,
+   "ratio": 0.9823,
+   "so_md": 2,
+   "formas_so_md": [
+    "Conveniência",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 357,
+   "pagina": 362,
+   "ratio": 0.9893,
+   "so_md": 2,
+   "formas_so_md": [
+    "manha",
+    "praticabiliNotas"
+   ]
+  },
+  {
+   "folha": 358,
+   "pagina": 363,
+   "ratio": 0.9966,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 359,
+   "pagina": 364,
+   "ratio": 0.9861,
+   "so_md": 2,
+   "formas_so_md": [
+    "Códigos",
+    "existentes"
+   ]
+  },
+  {
+   "folha": 360,
+   "pagina": 365,
+   "ratio": 0.9935,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 361,
+   "pagina": 366,
+   "ratio": 0.9788,
+   "so_md": 5,
+   "formas_so_md": [
+    "Brasil",
+    "Notas",
+    "civis",
+    "indicações",
+    "posteriores"
+   ]
+  },
+  {
+   "folha": 362,
+   "pagina": 367,
+   "ratio": 0.9854,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "disciplina",
+    "fundamental"
+   ]
+  },
+  {
+   "folha": 363,
+   "pagina": 368,
+   "ratio": 0.9822,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 364,
+   "pagina": 369,
+   "ratio": 0.9939,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mente"
+   ]
+  },
+  {
+   "folha": 365,
+   "pagina": 370,
+   "ratio": 0.9732,
+   "so_md": 3,
+   "formas_so_md": [
+    "Aspectos",
+    "complementares",
+    "modaNotas"
+   ]
+  },
+  {
+   "folha": 366,
+   "pagina": 371,
+   "ratio": 0.9954,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 367,
+   "pagina": 372,
+   "ratio": 0.98,
+   "so_md": 5,
+   "formas_so_md": [
+    "DETERMINAÇÃO",
+    "REGRAS",
+    "TÍTULO",
+    "mente",
+    "suficiente"
+   ]
+  },
+  {
+   "folha": 368,
+   "pagina": 373,
+   "ratio": 0.9915,
+   "so_md": 1,
+   "formas_so_md": [
+    "direi"
+   ]
+  },
+  {
+   "folha": 369,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 370,
+   "pagina": null,
+   "ratio": 0.9634,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 371,
+   "pagina": 376,
+   "ratio": 0.971,
+   "so_md": 7,
+   "formas_so_md": [
+    "Lacunas",
+    "Notas",
+    "assim",
+    "ciência",
+    "objecto",
+    "positadamente",
+    "resultado"
+   ]
+  },
+  {
+   "folha": 372,
+   "pagina": 377,
+   "ratio": 0.9728,
+   "so_md": 5,
+   "formas_so_md": [
+    "Interpretação",
+    "Notas",
+    "aplicação",
+    "integração",
+    "número"
+   ]
+  },
+  {
+   "folha": 373,
+   "pagina": 378,
+   "ratio": 0.9632,
+   "so_md": 8,
+   "formas_so_md": [
+    "Aspectos",
+    "Notas",
+    "ainda",
+    "comuns",
+    "concreto",
+    "nterpre",
+    "tação",
+    "terminação"
+   ]
+  },
+  {
+   "folha": 374,
+   "pagina": 379,
+   "ratio": 0.9495,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "concreto",
+    "encontrar",
+    "firrI",
+    "graçao",
+    "lacunas",
+    "mente",
+    "porém",
+    "profunda"
+   ]
+  },
+  {
+   "folha": 375,
+   "pagina": 380,
+   "ratio": 0.9754,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "apoiar",
+    "autêntica",
+    "cjçlaus",
+    "conhe",
+    "doutrinal",
+    "possa",
+    "posterior",
+    "térpl"
+   ]
+  },
+  {
+   "folha": 376,
+   "pagina": 381,
+   "ratio": 0.9753,
+   "so_md": 10,
+   "formas_so_md": [
+    "Basta",
+    "Ciência",
+    "Determinação",
+    "Notas",
+    "determinar",
+    "judicial",
+    "lista",
+    "método",
+    "pesquisadora",
+    "regras"
+   ]
+  },
+  {
+   "folha": 377,
+   "pagina": 382,
+   "ratio": 0.9833,
+   "so_md": 2,
+   "formas_so_md": [
+    "Infra",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 378,
+   "pagina": 383,
+   "ratio": 0.9866,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "Notas",
+    "mente",
+    "racional"
+   ]
+  },
+  {
+   "folha": 379,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 380,
+   "pagina": null,
+   "ratio": 0.965,
+   "so_md": 1,
+   "formas_so_md": [
+    "ordenamento"
+   ]
+  },
+  {
+   "folha": 381,
+   "pagina": 386,
+   "ratio": 0.9714,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Regras",
+    "adulterado",
+    "legais",
+    "sobre",
+    "tendermos"
+   ]
+  },
+  {
+   "folha": 382,
+   "pagina": 387,
+   "ratio": 0.9881,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 383,
+   "pagina": 388,
+   "ratio": 0.984,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "autoqua",
+    "letra",
+    "lificada",
+    "sedes"
+   ]
+  },
+  {
+   "folha": 384,
+   "pagina": 389,
+   "ratio": 0.9866,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 385,
+   "pagina": 390,
+   "ratio": 0.9811,
+   "so_md": 11,
+   "formas_so_md": [
+    "Especifica",
+    "Notas",
+    "acontecerá",
+    "comunicação",
+    "desprendem",
+    "elemento",
+    "exegese",
+    "interpretativa",
+    "legisla",
+    "obscuridade",
+    "portuguesa"
+   ]
+  },
+  {
+   "folha": 386,
+   "pagina": 391,
+   "ratio": 0.9929,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 387,
+   "pagina": 392,
+   "ratio": 0.9708,
+   "so_md": 7,
+   "formas_so_md": [
+    "Notas",
+    "Objectivismo",
+    "aceite",
+    "afirmar",
+    "legislativo",
+    "referiremos",
+    "subordina"
+   ]
+  },
+  {
+   "folha": 388,
+   "pagina": 393,
+   "ratio": 0.9849,
+   "so_md": 3,
+   "formas_so_md": [
+    "Actualismo",
+    "conteúdo",
+    "históricotórica"
+   ]
+  },
+  {
+   "folha": 389,
+   "pagina": 394,
+   "ratio": 0.9872,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mente"
+   ]
+  },
+  {
+   "folha": 390,
+   "pagina": 395,
+   "ratio": 0.9944,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "decidida",
+    "mente"
+   ]
+  },
+  {
+   "folha": 391,
+   "pagina": 396,
+   "ratio": 0.9655,
+   "so_md": 44,
+   "formas_so_md": [
+    "Apostillw",
+    "Código",
+    "Justamente",
+    "Notas",
+    "Também",
+    "abrangeria",
+    "acabamos",
+    "acompanhar",
+    "automóvel",
+    "brasileiro",
+    "caducas",
+    "circunstâncias",
+    "confunde",
+    "consideravelmente",
+    "correntes",
+    "disciplina",
+    "distingue",
+    "elaboração",
+    "elaborou",
+    "energia",
+    "entender",
+    "evolutiva",
+    "evolução",
+    "extensiva",
+    "frequência",
+    "importantíssimas",
+    "imprevisíveis",
+    "interpretação",
+    "lacunoso",
+    "matérias",
+    "modernamente",
+    "nenhuma",
+    "nuclear",
+    "portanto",
+    "presente",
+    "procura",
+    "propósito",
+    "provocados",
+    "próprio",
+    "rigorosamente"
+   ]
+  },
+  {
+   "folha": 392,
+   "pagina": 397,
+   "ratio": 0.9917,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "justificar",
+    "quisesse",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 393,
+   "pagina": 398,
+   "ratio": 0.9813,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "gramatical",
+    "lógica",
+    "objec",
+    "pretensas",
+    "ttvistas"
+   ]
+  },
+  {
+   "folha": 394,
+   "pagina": 399,
+   "ratio": 0.992,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "sobre",
+    "vivência"
+   ]
+  },
+  {
+   "folha": 395,
+   "pagina": 400,
+   "ratio": 0.9732,
+   "so_md": 35,
+   "formas_so_md": [
+    "Elementos",
+    "Posteriormente",
+    "Procede",
+    "afirmação",
+    "apreensão",
+    "completa",
+    "considerar",
+    "contraposta",
+    "directamente",
+    "discrepância",
+    "distinguir",
+    "divergência",
+    "encontra",
+    "envelhecimento",
+    "estabelece",
+    "evolutiva",
+    "exclusão",
+    "extensiva",
+    "fundamento",
+    "justamente",
+    "lógicos",
+    "momento",
+    "momentos",
+    "ocorrer",
+    "palavras",
+    "particula",
+    "primeira",
+    "realidade",
+    "reconhece",
+    "reconstituir",
+    "seguiria",
+    "sempre",
+    "significado",
+    "teleológico",
+    "verificar"
+   ]
+  },
+  {
+   "folha": 396,
+   "pagina": 401,
+   "ratio": 0.9917,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "diante"
+   ]
+  },
+  {
+   "folha": 397,
+   "pagina": 402,
+   "ratio": 0.9731,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 398,
+   "pagina": 403,
+   "ratio": 0.9883,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "semivincula",
+    "tivos"
+   ]
+  },
+  {
+   "folha": 399,
+   "pagina": 404,
+   "ratio": 0.9725,
+   "so_md": 31,
+   "formas_so_md": [
+    "Atender",
+    "Notas",
+    "Resulta",
+    "Significar",
+    "anteriores",
+    "casualmente",
+    "compreensível",
+    "contempla",
+    "contrário",
+    "daquela",
+    "esclarecimento",
+    "estabelecem",
+    "excessiva",
+    "imediatamente",
+    "inserção",
+    "instaurar",
+    "interpretado",
+    "investigação",
+    "isoladamente",
+    "jurídico",
+    "limitação",
+    "momento",
+    "números",
+    "permite",
+    "permitindo",
+    "propositura",
+    "relaciona",
+    "segunda",
+    "sistema",
+    "ultrapassar",
+    "variações"
+   ]
+  },
+  {
+   "folha": 400,
+   "pagina": 405,
+   "ratio": 0.9952,
+   "so_md": 3,
+   "formas_so_md": [
+    "cedem",
+    "mente",
+    "particular"
+   ]
+  },
+  {
+   "folha": 401,
+   "pagina": 406,
+   "ratio": 0.9818,
+   "so_md": 2,
+   "formas_so_md": [
+    "Teleológico",
+    "vigoNotas"
+   ]
+  },
+  {
+   "folha": 402,
+   "pagina": 407,
+   "ratio": 0.991,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "ercntemcnte"
+   ]
+  },
+  {
+   "folha": 403,
+   "pagina": 408,
+   "ratio": 0.9857,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 404,
+   "pagina": 409,
+   "ratio": 0.9856,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "definição",
+    "legis",
+    "ratio"
+   ]
+  },
+  {
+   "folha": 405,
+   "pagina": 410,
+   "ratio": 0.9419,
+   "so_md": 10,
+   "formas_so_md": [
+    "Hermenêwica",
+    "Notas",
+    "acentuar",
+    "apenas",
+    "contrariá",
+    "enquanto",
+    "legislador",
+    "momento",
+    "própria",
+    "próprio"
+   ]
+  },
+  {
+   "folha": 406,
+   "pagina": 411,
+   "ratio": 0.9792,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 407,
+   "pagina": 412,
+   "ratio": 0.9751,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "concepção",
+    "correspondência",
+    "distinção",
+    "dogmática"
+   ]
+  },
+  {
+   "folha": 408,
+   "pagina": 413,
+   "ratio": 0.9806,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "debate",
+    "gerais",
+    "princípios"
+   ]
+  },
+  {
+   "folha": 409,
+   "pagina": 414,
+   "ratio": 0.9686,
+   "so_md": 7,
+   "formas_so_md": [
+    "Caracterização",
+    "Notas",
+    "batido",
+    "corresponde",
+    "intenso",
+    "orientações",
+    "singu"
+   ]
+  },
+  {
+   "folha": 410,
+   "pagina": 415,
+   "ratio": 0.9787,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "precisa",
+    "richterlicher",
+    "roanece",
+    "sociedade"
+   ]
+  },
+  {
+   "folha": 411,
+   "pagina": null,
+   "ratio": 0.9625,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "básico",
+    "concepçã",
+    "consoanteservação",
+    "declarativa",
+    "grandes",
+    "interpretação",
+    "maioritárias",
+    "unívocas"
+   ]
+  },
+  {
+   "folha": 412,
+   "pagina": 417,
+   "ratio": 0.9851,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "formais"
+   ]
+  },
+  {
+   "folha": 413,
+   "pagina": 418,
+   "ratio": 0.9723,
+   "so_md": 4,
+   "formas_so_md": [
+    "definitiva",
+    "mente",
+    "spois",
+    "última"
+   ]
+  },
+  {
+   "folha": 414,
+   "pagina": 419,
+   "ratio": 0.9932,
+   "so_md": 2,
+   "formas_so_md": [
+    "curar",
+    "restritiva"
+   ]
+  },
+  {
+   "folha": 415,
+   "pagina": 420,
+   "ratio": 0.9772,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "correctiva"
+   ]
+  },
+  {
+   "folha": 416,
+   "pagina": 421,
+   "ratio": 0.9867,
+   "so_md": 3,
+   "formas_so_md": [
+    "Redução",
+    "leNotas",
+    "teleológica"
+   ]
+  },
+  {
+   "folha": 417,
+   "pagina": 422,
+   "ratio": 0.9867,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "rcctiva"
+   ]
+  },
+  {
+   "folha": 418,
+   "pagina": 423,
+   "ratio": 0.9925,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "senta"
+   ]
+  },
+  {
+   "folha": 419,
+   "pagina": 424,
+   "ratio": 0.973,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "exacto",
+    "iticativa",
+    "jurispruden",
+    "trição"
+   ]
+  },
+  {
+   "folha": 420,
+   "pagina": 425,
+   "ratio": 0.9819,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "reconhece"
+   ]
+  },
+  {
+   "folha": 421,
+   "pagina": 426,
+   "ratio": 0.9707,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Requisitos",
+    "Ventura",
+    "curará",
+    "interpretativo",
+    "realidade"
+   ]
+  },
+  {
+   "folha": 422,
+   "pagina": 427,
+   "ratio": 0.9833,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "distintaposições"
+   ]
+  },
+  {
+   "folha": 423,
+   "pagina": 428,
+   "ratio": 0.9699,
+   "so_md": 6,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "INTEGRAÇÃO",
+    "LACUNAS",
+    "Notas",
+    "objecto",
+    "pretensão"
+   ]
+  },
+  {
+   "folha": 424,
+   "pagina": 429,
+   "ratio": 0.9796,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "córitrário"
+   ]
+  },
+  {
+   "folha": 425,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 426,
+   "pagina": null,
+   "ratio": 0.968,
+   "so_md": 3,
+   "formas_so_md": [
+    "Lacuna",
+    "Notas",
+    "visão"
+   ]
+  },
+  {
+   "folha": 427,
+   "pagina": 432,
+   "ratio": 0.9753,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "cesso",
+    "cumpri",
+    "curaremos",
+    "menta",
+    "mente"
+   ]
+  },
+  {
+   "folha": 428,
+   "pagina": 433,
+   "ratio": 0.9897,
+   "so_md": 1,
+   "formas_so_md": [
+    "interpretação"
+   ]
+  },
+  {
+   "folha": 429,
+   "pagina": 434,
+   "ratio": 0.9852,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 430,
+   "pagina": 435,
+   "ratio": 0.9891,
+   "so_md": 2,
+   "formas_so_md": [
+    "Nomeada",
+    "mente"
+   ]
+  },
+  {
+   "folha": 431,
+   "pagina": 436,
+   "ratio": 0.9794,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "extra",
+    "sistemáticos"
+   ]
+  },
+  {
+   "folha": 432,
+   "pagina": 437,
+   "ratio": 0.9906,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 433,
+   "pagina": 438,
+   "ratio": 0.9881,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 434,
+   "pagina": 439,
+   "ratio": 0.9848,
+   "so_md": 3,
+   "formas_so_md": [
+    "curará",
+    "equidade",
+    "inNotas"
+   ]
+  },
+  {
+   "folha": 435,
+   "pagina": 440,
+   "ratio": 0.9919,
+   "so_md": 3,
+   "formas_so_md": [
+    "actualmente",
+    "mente",
+    "pratica"
+   ]
+  },
+  {
+   "folha": 436,
+   "pagina": 441,
+   "ratio": 0.9793,
+   "so_md": 4,
+   "formas_so_md": [
+    "Aplicabilidade",
+    "Notas",
+    "actual",
+    "também"
+   ]
+  },
+  {
+   "folha": 437,
+   "pagina": 442,
+   "ratio": 0.977,
+   "so_md": 18,
+   "formas_so_md": [
+    "Aristóteles",
+    "Castanheira",
+    "Notas",
+    "Pronunciou",
+    "Significava",
+    "apresentando",
+    "consideramos",
+    "costume",
+    "determinava",
+    "exposição",
+    "individualmente",
+    "interpretada",
+    "intra",
+    "izadora",
+    "necessária",
+    "oportunidade",
+    "sistemáticos",
+    "suficientemente"
+   ]
+  },
+  {
+   "folha": 438,
+   "pagina": 443,
+   "ratio": 0.9757,
+   "so_md": 4,
+   "formas_so_md": [
+    "dellLjuri",
+    "estabelece",
+    "niçcio",
+    "sidera"
+   ]
+  },
+  {
+   "folha": 439,
+   "pagina": 444,
+   "ratio": 0.9672,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 440,
+   "pagina": 445,
+   "ratio": 0.9789,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Proibições"
+   ]
+  },
+  {
+   "folha": 441,
+   "pagina": 446,
+   "ratio": 0.9813,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "descrição",
+    "mente"
+   ]
+  },
+  {
+   "folha": 442,
+   "pagina": 447,
+   "ratio": 0.9832,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "através",
+    "legalidade"
+   ]
+  },
+  {
+   "folha": 443,
+   "pagina": 448,
+   "ratio": 0.9704,
+   "so_md": 2,
+   "formas_so_md": [
+    "Justificação",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 444,
+   "pagina": 449,
+   "ratio": 0.9888,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "cuíares",
+    "parti"
+   ]
+  },
+  {
+   "folha": 445,
+   "pagina": 450,
+   "ratio": 0.9832,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "singulare"
+   ]
+  },
+  {
+   "folha": 446,
+   "pagina": 451,
+   "ratio": 0.9778,
+   "so_md": 7,
+   "formas_so_md": [
+    "Notas",
+    "deter",
+    "legais",
+    "minar",
+    "significado",
+    "singu",
+    "tipologias"
+   ]
+  },
+  {
+   "folha": 447,
+   "pagina": 452,
+   "ratio": 0.9792,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "cedia"
+   ]
+  },
+  {
+   "folha": 448,
+   "pagina": 453,
+   "ratio": 0.9823,
+   "so_md": 3,
+   "formas_so_md": [
+    "iluNotas",
+    "iuris",
+    "retisierung"
+   ]
+  },
+  {
+   "folha": 449,
+   "pagina": 454,
+   "ratio": 0.9892,
+   "so_md": 1,
+   "formas_so_md": [
+    "porNotas"
+   ]
+  },
+  {
+   "folha": 450,
+   "pagina": 455,
+   "ratio": 0.9776,
+   "so_md": 4,
+   "formas_so_md": [
+    "Admissão",
+    "Notas",
+    "normativo",
+    "tamente"
+   ]
+  },
+  {
+   "folha": 451,
+   "pagina": 456,
+   "ratio": 0.9854,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "deveria",
+    "mente",
+    "particular"
+   ]
+  },
+  {
+   "folha": 452,
+   "pagina": 457,
+   "ratio": 0.9766,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 453,
+   "pagina": 458,
+   "ratio": 0.9787,
+   "so_md": 5,
+   "formas_so_md": [
+    "Concepção",
+    "Notas",
+    "adoptada",
+    "justa",
+    "mente"
+   ]
+  },
+  {
+   "folha": 454,
+   "pagina": 459,
+   "ratio": 0.9712,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "assente",
+    "contem",
+    "expres"
+   ]
+  },
+  {
+   "folha": 455,
+   "pagina": 460,
+   "ratio": 0.9732,
+   "so_md": 3,
+   "formas_so_md": [
+    "criaria",
+    "intérprete",
+    "norma"
+   ]
+  },
+  {
+   "folha": 456,
+   "pagina": 461,
+   "ratio": 0.9742,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "verdadeira"
+   ]
+  },
+  {
+   "folha": 457,
+   "pagina": 462,
+   "ratio": 0.9798,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "agente",
+    "cadamente",
+    "cesse",
+    "critério",
+    "equivo"
+   ]
+  },
+  {
+   "folha": 458,
+   "pagina": 463,
+   "ratio": 0.9747,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "conhecer",
+    "dimento",
+    "jurídico",
+    "plenitude"
+   ]
+  },
+  {
+   "folha": 459,
+   "pagina": 464,
+   "ratio": 0.984,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 460,
+   "pagina": 465,
+   "ratio": 0.9859,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "objectividade",
+    "potencial"
+   ]
+  },
+  {
+   "folha": 461,
+   "pagina": 466,
+   "ratio": 0.9893,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 462,
+   "pagina": 467,
+   "ratio": 0.986,
+   "so_md": 3,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "ENUNCIATIVA",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 463,
+   "pagina": 468,
+   "ratio": 0.9792,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 464,
+   "pagina": null,
+   "ratio": 0.948,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "contrario",
+    "deverá",
+    "excepcional"
+   ]
+  },
+  {
+   "folha": 465,
+   "pagina": 470,
+   "ratio": 0.9752,
+   "so_md": 5,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "JURÍDICO",
+    "MÉTODO",
+    "Notas",
+    "ridique"
+   ]
+  },
+  {
+   "folha": 466,
+   "pagina": 471,
+   "ratio": 0.9884,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 467,
+   "pagina": 472,
+   "ratio": 0.983,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 468,
+   "pagina": null,
+   "ratio": 0.9673,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "bjecto",
+    "deram",
+    "iderações",
+    "interesses"
+   ]
+  },
+  {
+   "folha": 469,
+   "pagina": 474,
+   "ratio": 0.9838,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "suprapositi"
+   ]
+  },
+  {
+   "folha": 470,
+   "pagina": 475,
+   "ratio": 0.9869,
+   "so_md": 2,
+   "formas_so_md": [
+    "Apreciação",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 471,
+   "pagina": 476,
+   "ratio": 0.9619,
+   "so_md": 7,
+   "formas_so_md": [
+    "Notas",
+    "Tendências",
+    "afins",
+    "antilegalistas",
+    "fenomenologistas",
+    "materiais",
+    "também"
+   ]
+  },
+  {
+   "folha": 472,
+   "pagina": 477,
+   "ratio": 0.9915,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 473,
+   "pagina": 478,
+   "ratio": 0.9811,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "Tópica",
+    "ponderação",
+    "sentarem",
+    "verdade"
+   ]
+  },
+  {
+   "folha": 474,
+   "pagina": 479,
+   "ratio": 0.9825,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "nomeada",
+    "ordem"
+   ]
+  },
+  {
+   "folha": 475,
+   "pagina": 480,
+   "ratio": 0.9901,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 476,
+   "pagina": 481,
+   "ratio": 0.9867,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "TÍTULO",
+    "curso",
+    "meada"
+   ]
+  },
+  {
+   "folha": 477,
+   "pagina": 482,
+   "ratio": 0.9897,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 478,
+   "pagina": 483,
+   "ratio": 0.9946,
+   "so_md": 1,
+   "formas_so_md": [
+    "conNotas"
+   ]
+  },
+  {
+   "folha": 479,
+   "pagina": 484,
+   "ratio": 0.9649,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 480,
+   "pagina": null,
+   "ratio": 0.9551,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 481,
+   "pagina": 486,
+   "ratio": 0.9793,
+   "so_md": 2,
+   "formas_so_md": [
+    "Essência",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 482,
+   "pagina": 487,
+   "ratio": 0.9924,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "ceptivas"
+   ]
+  },
+  {
+   "folha": 483,
+   "pagina": 488,
+   "ratio": 0.9727,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "acontece",
+    "expressão",
+    "tanto"
+   ]
+  },
+  {
+   "folha": 484,
+   "pagina": 489,
+   "ratio": 0.9929,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 485,
+   "pagina": 490,
+   "ratio": 0.9855,
+   "so_md": 5,
+   "formas_so_md": [
+    "Estrutura",
+    "Notas",
+    "dente",
+    "prece",
+    "recorda"
+   ]
+  },
+  {
+   "folha": 486,
+   "pagina": 491,
+   "ratio": 0.9875,
+   "so_md": 3,
+   "formas_so_md": [
+    "Hipoteticidade",
+    "Notas",
+    "matur"
+   ]
+  },
+  {
+   "folha": 487,
+   "pagina": 492,
+   "ratio": 0.9821,
+   "so_md": 4,
+   "formas_so_md": [
+    "Imperativo",
+    "Notas",
+    "conduta",
+    "visão"
+   ]
+  },
+  {
+   "folha": 488,
+   "pagina": 493,
+   "ratio": 0.9915,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "aspecto"
+   ]
+  },
+  {
+   "folha": 489,
+   "pagina": 494,
+   "ratio": 0.982,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Tentativas",
+    "ração",
+    "revisão"
+   ]
+  },
+  {
+   "folha": 490,
+   "pagina": 495,
+   "ratio": 0.985,
+   "so_md": 2,
+   "formas_so_md": [
+    "Generalidade",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 491,
+   "pagina": 496,
+   "ratio": 0.9804,
+   "so_md": 4,
+   "formas_so_md": [
+    "Examina",
+    "Infra",
+    "Notas",
+    "remos"
+   ]
+  },
+  {
+   "folha": 492,
+   "pagina": 497,
+   "ratio": 0.9948,
+   "so_md": 4,
+   "formas_so_md": [
+    "deter",
+    "idades",
+    "irregular",
+    "minar"
+   ]
+  },
+  {
+   "folha": 493,
+   "pagina": 498,
+   "ratio": 0.9861,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "compromis",
+    "sória"
+   ]
+  },
+  {
+   "folha": 494,
+   "pagina": 499,
+   "ratio": 0.9815,
+   "so_md": 6,
+   "formas_so_md": [
+    "Bilateralidade",
+    "alteridade",
+    "atendendoNotas",
+    "mente",
+    "trina",
+    "virtual"
+   ]
+  },
+  {
+   "folha": 495,
+   "pagina": 500,
+   "ratio": 0.9889,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "imediata",
+    "mente",
+    "vasta"
+   ]
+  },
+  {
+   "folha": 496,
+   "pagina": 501,
+   "ratio": 0.9835,
+   "so_md": 3,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "CLASSIFICAÇÃO",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 497,
+   "pagina": 502,
+   "ratio": 0.9753,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 498,
+   "pagina": null,
+   "ratio": 0.9704,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "derivadas",
+    "principais"
+   ]
+  },
+  {
+   "folha": 499,
+   "pagina": 504,
+   "ratio": 0.9662,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "inovadoras",
+    "interpretativas"
+   ]
+  },
+  {
+   "folha": 500,
+   "pagina": 505,
+   "ratio": 0.9797,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "autónomas",
+    "missivas"
+   ]
+  },
+  {
+   "folha": 501,
+   "pagina": 506,
+   "ratio": 0.9751,
+   "so_md": 5,
+   "formas_so_md": [
+    "Ennec",
+    "Notas",
+    "cerus",
+    "devolução",
+    "remissivas"
+   ]
+  },
+  {
+   "folha": 502,
+   "pagina": 507,
+   "ratio": 0.9831,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "normativo",
+    "termos"
+   ]
+  },
+  {
+   "folha": 503,
+   "pagina": 508,
+   "ratio": 0.9795,
+   "so_md": 2,
+   "formas_so_md": [
+    "Ficções",
+    "directaNotas"
+   ]
+  },
+  {
+   "folha": 504,
+   "pagina": 509,
+   "ratio": 0.9824,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Presunções",
+    "absolutas",
+    "cepti",
+    "cesso",
+    "trina"
+   ]
+  },
+  {
+   "folha": 505,
+   "pagina": 510,
+   "ratio": 0.9828,
+   "so_md": 5,
+   "formas_so_md": [
+    "dispositivas",
+    "injuntivas",
+    "inversas",
+    "mente",
+    "posterior"
+   ]
+  },
+  {
+   "folha": 506,
+   "pagina": 511,
+   "ratio": 0.9827,
+   "so_md": 4,
+   "formas_so_md": [
+    "Infra",
+    "Notas",
+    "injun",
+    "tivas"
+   ]
+  },
+  {
+   "folha": 507,
+   "pagina": 512,
+   "ratio": 0.9888,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "dispo",
+    "injun",
+    "sitiva",
+    "tivas"
+   ]
+  },
+  {
+   "folha": 508,
+   "pagina": 513,
+   "ratio": 0.9745,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "determinação",
+    "imperativi",
+    "interpretativas",
+    "permissivas",
+    "supletivas"
+   ]
+  },
+  {
+   "folha": 509,
+   "pagina": 514,
+   "ratio": 0.9874,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "violação"
+   ]
+  },
+  {
+   "folha": 510,
+   "pagina": 515,
+   "ratio": 0.9846,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 511,
+   "pagina": 516,
+   "ratio": 0.9774,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "Referência",
+    "especiais",
+    "excepcionais",
+    "gerais"
+   ]
+  },
+  {
+   "folha": 512,
+   "pagina": 517,
+   "ratio": 0.9872,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "suple",
+    "tivas"
+   ]
+  },
+  {
+   "folha": 513,
+   "pagina": 518,
+   "ratio": 0.983,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "cação"
+   ]
+  },
+  {
+   "folha": 514,
+   "pagina": 519,
+   "ratio": 0.9841,
+   "so_md": 5,
+   "formas_so_md": [
+    "adequadaNotas",
+    "comuns",
+    "forme",
+    "funda",
+    "mentais"
+   ]
+  },
+  {
+   "folha": 515,
+   "pagina": 520,
+   "ratio": 0.9824,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "cesso",
+    "universais"
+   ]
+  },
+  {
+   "folha": 516,
+   "pagina": 521,
+   "ratio": 0.9815,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "categorias",
+    "entre",
+    "subjectivas"
+   ]
+  },
+  {
+   "folha": 517,
+   "pagina": 522,
+   "ratio": 0.9802,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "especial",
+    "revoga",
+    "versais"
+   ]
+  },
+  {
+   "folha": 518,
+   "pagina": 523,
+   "ratio": 0.9875,
+   "so_md": 1,
+   "formas_so_md": [
+    "CompreensivelmenteNotas"
+   ]
+  },
+  {
+   "folha": 519,
+   "pagina": 524,
+   "ratio": 0.9889,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 520,
+   "pagina": 525,
+   "ratio": 0.986,
+   "so_md": 5,
+   "formas_so_md": [
+    "aparente",
+    "aspecto",
+    "legislativa",
+    "mente",
+    "sentidoNotas"
+   ]
+  },
+  {
+   "folha": 521,
+   "pagina": 526,
+   "ratio": 0.9905,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 522,
+   "pagina": 527,
+   "ratio": 0.9816,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 523,
+   "pagina": 528,
+   "ratio": 0.9819,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "versais"
+   ]
+  },
+  {
+   "folha": 524,
+   "pagina": 529,
+   "ratio": 0.9765,
+   "so_md": 4,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "CONCURSO",
+    "CONFLITO",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 525,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 526,
+   "pagina": null,
+   "ratio": 0.948,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "lntro"
+   ]
+  },
+  {
+   "folha": 527,
+   "pagina": 532,
+   "ratio": 0.9872,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 528,
+   "pagina": 533,
+   "ratio": 0.9843,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "Sequência"
+   ]
+  },
+  {
+   "folha": 529,
+   "pagina": 534,
+   "ratio": 0.9817,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "mente",
+    "subsequente"
+   ]
+  },
+  {
+   "folha": 530,
+   "pagina": 535,
+   "ratio": 0.9638,
+   "so_md": 4,
+   "formas_so_md": [
+    "ANTIGA",
+    "CAPÍTULO",
+    "Notas",
+    "SUCESSÃO"
+   ]
+  },
+  {
+   "folha": 531,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 532,
+   "pagina": null,
+   "ratio": 0.9778,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "transitório"
+   ]
+  },
+  {
+   "folha": 533,
+   "pagina": 538,
+   "ratio": 0.9887,
+   "so_md": 1,
+   "formas_so_md": [
+    "veres"
+   ]
+  },
+  {
+   "folha": 534,
+   "pagina": 539,
+   "ratio": 0.9808,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "análise",
+    "caçüo",
+    "colectivas"
+   ]
+  },
+  {
+   "folha": 535,
+   "pagina": 540,
+   "ratio": 0.9839,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "fixadas",
+    "legislação"
+   ]
+  },
+  {
+   "folha": 536,
+   "pagina": 541,
+   "ratio": 0.9781,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 537,
+   "pagina": 542,
+   "ratio": 0.9869,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 538,
+   "pagina": null,
+   "ratio": 0.9716,
+   "so_md": 6,
+   "formas_so_md": [
+    "Determinações",
+    "Notas",
+    "constitucionais",
+    "irretroactividade",
+    "retroactivo",
+    "sobre"
+   ]
+  },
+  {
+   "folha": 539,
+   "pagina": 544,
+   "ratio": 0.9787,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "inflecte"
+   ]
+  },
+  {
+   "folha": 540,
+   "pagina": 545,
+   "ratio": 0.9772,
+   "so_md": 5,
+   "formas_so_md": [
+    "Continuação",
+    "evolução",
+    "retroac",
+    "sentido",
+    "tonstitucional"
+   ]
+  },
+  {
+   "folha": 541,
+   "pagina": 546,
+   "ratio": 0.9885,
+   "so_md": 1,
+   "formas_so_md": [
+    "desfavoraNotas"
+   ]
+  },
+  {
+   "folha": 542,
+   "pagina": null,
+   "ratio": 0.9757,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "adquiridos",
+    "direi",
+    "julga"
+   ]
+  },
+  {
+   "folha": 543,
+   "pagina": 548,
+   "ratio": 0.988,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "dtrei",
+    "menos"
+   ]
+  },
+  {
+   "folha": 544,
+   "pagina": 549,
+   "ratio": 0.9719,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "facto"
+   ]
+  },
+  {
+   "folha": 545,
+   "pagina": 550,
+   "ratio": 0.9894,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "contra",
+    "posição"
+   ]
+  },
+  {
+   "folha": 546,
+   "pagina": 551,
+   "ratio": 0.9751,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "pujar",
+    "sobre",
+    "titucio"
+   ]
+  },
+  {
+   "folha": 547,
+   "pagina": 552,
+   "ratio": 0.981,
+   "so_md": 3,
+   "formas_so_md": [
+    "Concretização",
+    "Notas",
+    "critério"
+   ]
+  },
+  {
+   "folha": 548,
+   "pagina": 553,
+   "ratio": 0.9807,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "brasileira"
+   ]
+  },
+  {
+   "folha": 549,
+   "pagina": 554,
+   "ratio": 0.989,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 550,
+   "pagina": 555,
+   "ratio": 0.9743,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "perfeito"
+   ]
+  },
+  {
+   "folha": 551,
+   "pagina": 556,
+   "ratio": 0.9303,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 552,
+   "pagina": 557,
+   "ratio": 0.9696,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "essencial",
+    "mente",
+    "relação",
+    "terminação",
+    "verdadeira"
+   ]
+  },
+  {
+   "folha": 553,
+   "pagina": 558,
+   "ratio": 0.961,
+   "so_md": 9,
+   "formas_so_md": [
+    "Notas",
+    "Veremos",
+    "correspon",
+    "dejla",
+    "designa",
+    "feito",
+    "possível",
+    "remos",
+    "títulos"
+   ]
+  },
+  {
+   "folha": 554,
+   "pagina": 559,
+   "ratio": 0.9628,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "conhece"
+   ]
+  },
+  {
+   "folha": 555,
+   "pagina": 560,
+   "ratio": 0.9756,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "retroactiva"
+   ]
+  },
+  {
+   "folha": 556,
+   "pagina": 561,
+   "ratio": 0.9793,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "afirmação",
+    "determinar",
+    "termos",
+    "tratarmos"
+   ]
+  },
+  {
+   "folha": 557,
+   "pagina": 562,
+   "ratio": 0.9792,
+   "so_md": 16,
+   "formas_so_md": [
+    "Inter",
+    "Notas",
+    "Regime",
+    "admissível",
+    "declaração",
+    "igualmente",
+    "inconveniência",
+    "inter",
+    "interpretativas",
+    "justificou",
+    "nária",
+    "outri",
+    "pretare",
+    "pretazione",
+    "pretender",
+    "semelhante"
+   ]
+  },
+  {
+   "folha": 558,
+   "pagina": 563,
+   "ratio": 0.9769,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 559,
+   "pagina": 564,
+   "ratio": 0.9839,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "actividade",
+    "contraria",
+    "frequente",
+    "legisla",
+    "mente"
+   ]
+  },
+  {
+   "folha": 560,
+   "pagina": 565,
+   "ratio": 0.9744,
+   "so_md": 10,
+   "formas_so_md": [
+    "Civil",
+    "Confronto",
+    "Código",
+    "Notas",
+    "aparente",
+    "doras",
+    "incrimina",
+    "mente",
+    "português",
+    "preexistente"
+   ]
+  },
+  {
+   "folha": 561,
+   "pagina": 566,
+   "ratio": 0.9852,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mente"
+   ]
+  },
+  {
+   "folha": 562,
+   "pagina": 567,
+   "ratio": 0.9865,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "especial",
+    "sente"
+   ]
+  },
+  {
+   "folha": 563,
+   "pagina": 568,
+   "ratio": 0.9802,
+   "so_md": 4,
+   "formas_so_md": [
+    "Coisas",
+    "Notas",
+    "feitas",
+    "trina"
+   ]
+  },
+  {
+   "folha": 564,
+   "pagina": 569,
+   "ratio": 0.9779,
+   "so_md": 2,
+   "formas_so_md": [
+    "Família",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 565,
+   "pagina": 570,
+   "ratio": 0.9741,
+   "so_md": 6,
+   "formas_so_md": [
+    "APLICAÇÃO",
+    "CAPÍTULO",
+    "ESPAÇO",
+    "atingi",
+    "titula",
+    "visão"
+   ]
+  },
+  {
+   "folha": 566,
+   "pagina": 571,
+   "ratio": 0.9693,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 567,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  },
+  {
+   "folha": 568,
+   "pagina": null,
+   "ratio": 0.9681,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "pluralidade"
+   ]
+  },
+  {
+   "folha": 569,
+   "pagina": 574,
+   "ratio": 0.9872,
+   "so_md": 2,
+   "formas_so_md": [
+    "lidade",
+    "nacioNotas"
+   ]
+  },
+  {
+   "folha": 570,
+   "pagina": 575,
+   "ratio": 0.9919,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "pretensa"
+   ]
+  },
+  {
+   "folha": 571,
+   "pagina": 576,
+   "ratio": 0.9872,
+   "so_md": 3,
+   "formas_so_md": [
+    "Internacional",
+    "Notas",
+    "Privado"
+   ]
+  },
+  {
+   "folha": 572,
+   "pagina": 577,
+   "ratio": 0.9744,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mpetên"
+   ]
+  },
+  {
+   "folha": 573,
+   "pagina": 578,
+   "ratio": 0.9827,
+   "so_md": 6,
+   "formas_so_md": [
+    "CAPÍTULO",
+    "FONTES",
+    "HIERARQUIA",
+    "Jundi",
+    "lente",
+    "preva"
+   ]
+  },
+  {
+   "folha": 574,
+   "pagina": 579,
+   "ratio": 0.9894,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "direi"
+   ]
+  },
+  {
+   "folha": 575,
+   "pagina": 580,
+   "ratio": 0.9553,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 576,
+   "pagina": null,
+   "ratio": 0.9697,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "Sentido",
+    "expressão",
+    "forme"
+   ]
+  },
+  {
+   "folha": 577,
+   "pagina": 582,
+   "ratio": 0.9807,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "assento",
+    "costume",
+    "internacionais",
+    "mação"
+   ]
+  },
+  {
+   "folha": 578,
+   "pagina": 583,
+   "ratio": 0.9882,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 579,
+   "pagina": 584,
+   "ratio": 0.9748,
+   "so_md": 11,
+   "formas_so_md": [
+    "Disposições",
+    "Notas",
+    "autarquias",
+    "diplomas",
+    "entes",
+    "expressa",
+    "intermediários",
+    "mente",
+    "plexo",
+    "tendo",
+    "trata"
+   ]
+  },
+  {
+   "folha": 580,
+   "pagina": 585,
+   "ratio": 0.9883,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 581,
+   "pagina": 586,
+   "ratio": 0.9788,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "ordinárias"
+   ]
+  },
+  {
+   "folha": 582,
+   "pagina": 587,
+   "ratio": 0.9748,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "estaduais",
+    "federais",
+    "mente",
+    "municipais",
+    "normal"
+   ]
+  },
+  {
+   "folha": 583,
+   "pagina": 588,
+   "ratio": 0.9809,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 584,
+   "pagina": 589,
+   "ratio": 0.9767,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "limitar",
+    "normas",
+    "stitui"
+   ]
+  },
+  {
+   "folha": 585,
+   "pagina": 590,
+   "ratio": 0.9558,
+   "so_md": 6,
+   "formas_so_md": [
+    "Notas",
+    "Stufenbau",
+    "conteúdo",
+    "ectivamente",
+    "normativo",
+    "theorie"
+   ]
+  },
+  {
+   "folha": 586,
+   "pagina": 591,
+   "ratio": 0.992,
+   "so_md": 1,
+   "formas_so_md": [
+    "mente"
+   ]
+  },
+  {
+   "folha": 587,
+   "pagina": 592,
+   "ratio": 0.9841,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "movidos",
+    "título"
+   ]
+  },
+  {
+   "folha": 588,
+   "pagina": 593,
+   "ratio": 0.9834,
+   "so_md": 3,
+   "formas_so_md": [
+    "Interpretação",
+    "Notas",
+    "autêntica"
+   ]
+  },
+  {
+   "folha": 589,
+   "pagina": 594,
+   "ratio": 0.9894,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 590,
+   "pagina": 595,
+   "ratio": 0.9785,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "contida",
+    "hierarquica"
+   ]
+  },
+  {
+   "folha": 591,
+   "pagina": 596,
+   "ratio": 0.9839,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "REGRA",
+    "TÍTULO",
+    "mente",
+    "particular"
+   ]
+  },
+  {
+   "folha": 592,
+   "pagina": null,
+   "ratio": 0.9824,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "mente"
+   ]
+  },
+  {
+   "folha": 593,
+   "pagina": 598,
+   "ratio": 0.9773,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "hierarquicamente"
+   ]
+  },
+  {
+   "folha": 594,
+   "pagina": null,
+   "ratio": 0.9652,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "insuficiência",
+    "normalidade",
+    "subsunção"
+   ]
+  },
+  {
+   "folha": 595,
+   "pagina": 600,
+   "ratio": 0.9881,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "terminação"
+   ]
+  },
+  {
+   "folha": 596,
+   "pagina": 601,
+   "ratio": 0.9868,
+   "so_md": 5,
+   "formas_so_md": [
+    "Notas",
+    "formas",
+    "inter",
+    "normativa",
+    "relação"
+   ]
+  },
+  {
+   "folha": 597,
+   "pagina": 602,
+   "ratio": 0.987,
+   "so_md": 2,
+   "formas_so_md": [
+    "cometi",
+    "semNotas"
+   ]
+  },
+  {
+   "folha": 598,
+   "pagina": 603,
+   "ratio": 0.9847,
+   "so_md": 3,
+   "formas_so_md": [
+    "autor",
+    "difeNotas",
+    "jurídico"
+   ]
+  },
+  {
+   "folha": 599,
+   "pagina": 604,
+   "ratio": 0.9827,
+   "so_md": 2,
+   "formas_so_md": [
+    "autoNotas",
+    "automática"
+   ]
+  },
+  {
+   "folha": 600,
+   "pagina": 605,
+   "ratio": 0.9906,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "independente",
+    "mente"
+   ]
+  },
+  {
+   "folha": 601,
+   "pagina": 606,
+   "ratio": 0.9843,
+   "so_md": 2,
+   "formas_so_md": [
+    "interpretação",
+    "osmose"
+   ]
+  },
+  {
+   "folha": 602,
+   "pagina": 607,
+   "ratio": 0.9862,
+   "so_md": 2,
+   "formas_so_md": [
+    "Qualificação",
+    "comNotas"
+   ]
+  },
+  {
+   "folha": 603,
+   "pagina": 608,
+   "ratio": 0.9793,
+   "so_md": 3,
+   "formas_so_md": [
+    "Determinação",
+    "Notas",
+    "consequência"
+   ]
+  },
+  {
+   "folha": 604,
+   "pagina": 609,
+   "ratio": 0.9834,
+   "so_md": 5,
+   "formas_so_md": [
+    "desconhecimento",
+    "irrelevância",
+    "mente",
+    "substancial",
+    "típica"
+   ]
+  },
+  {
+   "folha": 605,
+   "pagina": 610,
+   "ratio": 0.9863,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 606,
+   "pagina": 611,
+   "ratio": 0.9841,
+   "so_md": 3,
+   "formas_so_md": [
+    "Fundamento",
+    "Notas",
+    "princípio"
+   ]
+  },
+  {
+   "folha": 607,
+   "pagina": 612,
+   "ratio": 0.9834,
+   "so_md": 4,
+   "formas_so_md": [
+    "infeliz",
+    "mente",
+    "regra",
+    "vinculação"
+   ]
+  },
+  {
+   "folha": 608,
+   "pagina": 613,
+   "ratio": 0.9835,
+   "so_md": 3,
+   "formas_so_md": [
+    "Notas",
+    "correcção",
+    "mente"
+   ]
+  },
+  {
+   "folha": 609,
+   "pagina": 614,
+   "ratio": 0.9825,
+   "so_md": 4,
+   "formas_so_md": [
+    "Inadmissibilidade",
+    "Notas",
+    "hipote",
+    "ticidade"
+   ]
+  },
+  {
+   "folha": 610,
+   "pagina": 615,
+   "ratio": 0.9884,
+   "so_md": 1,
+   "formas_so_md": [
+    "Notas"
+   ]
+  },
+  {
+   "folha": 611,
+   "pagina": 616,
+   "ratio": 0.9805,
+   "so_md": 2,
+   "formas_so_md": [
+    "Informática",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 612,
+   "pagina": 617,
+   "ratio": 0.9645,
+   "so_md": 4,
+   "formas_so_md": [
+    "Notas",
+    "comandos",
+    "individua",
+    "lizadores"
+   ]
+  },
+  {
+   "folha": 613,
+   "pagina": 618,
+   "ratio": 0.9897,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "reserva"
+   ]
+  },
+  {
+   "folha": 614,
+   "pagina": 619,
+   "ratio": 0.988,
+   "so_md": 2,
+   "formas_so_md": [
+    "APÊNDICE",
+    "Notas"
+   ]
+  },
+  {
+   "folha": 615,
+   "pagina": 620,
+   "ratio": 0.9887,
+   "so_md": 2,
+   "formas_so_md": [
+    "Notas",
+    "referi"
+   ]
+  },
+  {
+   "folha": 616,
+   "pagina": null,
+   "ratio": 0.9944,
+   "so_md": 1,
+   "formas_so_md": [
+    "ÍNDICE"
+   ]
+  },
+  {
+   "folha": 617,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 10,
+   "formas_so_md": [
+    "camada",
+    "conteúdo",
+    "defeito",
+    "digitalização",
+    "dobrada",
+    "inclinada",
+    "parcialmente",
+    "página",
+    "texto",
+    "visível"
+   ]
+  },
+  {
+   "folha": 618,
+   "pagina": null,
+   "ratio": 0.9849,
+   "so_md": 1,
+   "formas_so_md": [
+    "ÍNDICE"
+   ]
+  },
+  {
+   "folha": 619,
+   "pagina": null,
+   "ratio": 0.9696,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 620,
+   "pagina": null,
+   "ratio": 0.9771,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 621,
+   "pagina": 650,
+   "ratio": 0.9375,
+   "so_md": 4,
+   "formas_so_md": [
+    "TÍTULO",
+    "ental",
+    "romanf",
+    "slico"
+   ]
+  },
+  {
+   "folha": 622,
+   "pagina": 651,
+   "ratio": 0.9745,
+   "so_md": 1,
+   "formas_so_md": [
+    "efectivamente"
+   ]
+  },
+  {
+   "folha": 623,
+   "pagina": 652,
+   "ratio": 0.974,
+   "so_md": 1,
+   "formas_so_md": [
+    "essaçao"
+   ]
+  },
+  {
+   "folha": 624,
+   "pagina": null,
+   "ratio": 0.9801,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 625,
+   "pagina": 654,
+   "ratio": 0.9743,
+   "so_md": 1,
+   "formas_so_md": [
+    "GENERALIDADES"
+   ]
+  },
+  {
+   "folha": 626,
+   "pagina": 655,
+   "ratio": 0.9829,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 627,
+   "pagina": 656,
+   "ratio": 0.9657,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 628,
+   "pagina": 657,
+   "ratio": 0.9792,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 629,
+   "pagina": 658,
+   "ratio": 0.9445,
+   "so_md": 0,
+   "formas_so_md": []
+  },
+  {
+   "folha": 630,
+   "pagina": null,
+   "ratio": 0.0,
+   "so_md": 5,
+   "formas_so_md": [
+    "branco",
+    "camada",
+    "página",
+    "renderização",
+    "texto"
+   ]
+  }
+ ]
+}

@@ -4,7 +4,7 @@ Como a instância de origem se transforma na cópia que um aluno recebe. Princí
 
 ## O que embarca, o que se reinicia, o que fica
 
-Embarca `raw/` integral; o corpo de `wiki/` (institutos, conceitos, doutrina, jurisprudência, legislação, debates, auxiliares, sebentas, avaliação), as vistas, o índice, o glossário e o `ESTADO-RESUMO`; o schema completo (charter, convenções, protocolos, playbooks, modelos); `CERTIFICACAO.md`; `identidade/` apenas com `LEIA-ME.md` e `_modelo/`.
+Embarca `raw/` integral; o corpo de `wiki/` (institutos, conceitos, doutrina, jurisprudência, legislação, debates, auxiliares, sebentas, avaliação), as vistas, o índice, o glossário e o `ESTADO-RESUMO`; o schema completo (charter, convenções, protocolos, playbooks, modelos); as ferramentas de verificação (`ferramentas/`, sob git - 6.26, item F); `CERTIFICACAO.md`; `identidade/` apenas com `LEIA-ME.md` e `_modelo/`.
 **Reinicia**: `log.md` (nasce com uma entrada-génese: «Edição {referência} gerada da instância {versão} a {data}»), `PAINEL`, `MELHORIA`, `SUPRESSAO-LIST` (os ❌ são de quem opera), `Inbox`.
 **Fica na origem**: o log operacional da instância; o bloco de configuração preenchido (a cópia parte do bloco-template vazio, para a conversa do destinatário); `wiki/VOZ-FINGERPRINT.md` (a voz é do destinatário); as identidades visuais instaladas.
 
