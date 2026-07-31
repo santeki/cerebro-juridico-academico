@@ -5,7 +5,7 @@ categoria: [Conceito]
 ramo: [teoria-do-direito, direito-internacional-privado]
 estado_verificacao: verificado
 fontes: ["[[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]]"]
-ultima_actualizacao: 2026-07-25
+ultima_actualizacao: 2026-07-31
 ---
 
 # Aplicação da Lei no Espaço
@@ -21,7 +21,7 @@ No direito português vivem nos arts. 14º a 65º do Código Civil e constituem 
 
 O que o paralelo com a dimensão temporal ensina, e que nenhuma das duas páginas diz sozinha, é que a competência normativa tem sempre três coordenadas - matéria, tempo e espaço - e que as duas últimas se resolvem pela mesma técnica de segundo grau, ao passo que a primeira se resolve pela interpretação. Quem domine a estrutura de uma domina a da outra: em ambas se pergunta primeiro qual a lei competente e só depois o que ela dispõe, e em ambas a inversão dessa ordem produz o mesmo erro. A delimitação espacial articula-se com a dimensão da vigência tratada em [[Conceitos/Vigência das Normas]].
 
-Página de fonte única e de tratamento sumário na própria obra: o conceito está fixado, o regime não, e a segunda voz entra quando o Título VIII de Oliveira Ascensão, que trata a aplicação da lei no espaço, for lido. Gancho da sessão 6, registado sem comparativo: sobre o conhecimento do Direito estrangeiro que a remissão convoca, ASC antecipa que interpretá-lo exige conhecer a ordem social em que se integra e que «a remissão da lei se faz para o Direito vigente, e não para o Direito válido. Só a nossa própria ordem pode ser considerada à luz da categoria da validade.» (ASC, p. 226, n.º 133; desenvolvimento em [[Conceitos/Ciência do Direito]]).
+Página de fonte única e de tratamento sumário na própria obra: o conceito está fixado, o regime não, e a segunda voz entra quando o cap. V do Título VIII de Oliveira Ascensão (nn. 337-340), que trata a aplicação da lei no espaço, for lido. A teoria da regra do mesmo Título (caps. I-II, sessão 13) antecipa duas peças pelo prisma da classificação das regras: o Direito Internacional Privado como sede da «grande massa das regras de devolução» - regras remissivas que não regulam directamente a matéria, antes indicam um elemento, como o lugar da situação da coisa, capaz de determinar a ordem jurídica aplicável (ASC, p. 508, com os arts. 8 da LICC brasileira e 46/1 do CC em nota) -; e a *ordem pública internacional*, de âmbito diverso do das regras injuntivas internas: a lei estrangeira competente aplica-se mesmo com prejuízo destas, e só quando princípios básicos da comunidade são postos em causa intervém aquela, «como última defesa» (ASC, pp. 514-515; [[Conceitos/Norma Jurídica]]). Gancho da sessão 6, registado sem comparativo: sobre o conhecimento do Direito estrangeiro que a remissão convoca, ASC antecipa que interpretá-lo exige conhecer a ordem social em que se integra e que «a remissão da lei se faz para o Direito vigente, e não para o Direito válido. Só a nossa própria ordem pode ser considerada à luz da categoria da validade.» (ASC, p. 226, n.º 133; desenvolvimento em [[Conceitos/Ciência do Direito]]).
 
 ## Posição de Baptista Machado
 
@@ -47,3 +47,4 @@ Nos programas mapeados: NOVA bloco IV, ponto 20 («Aplicação da lei no espaço
 
 ## Fontes
 - [[Fontes/Baptista Machado, Introdução ao Direito e ao Discurso Legitimador]] - cap. VIII, Secção II, p. 252 (leitura integral; confronto com o PDF; a Secção II confirmada como fecho do cap. VIII pelo texto - folha 128, metade esquerda).
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 13]] - nn. 295 e 299, pp. 508-509 e 514-515 (regras de devolução; ordem pública internacional).

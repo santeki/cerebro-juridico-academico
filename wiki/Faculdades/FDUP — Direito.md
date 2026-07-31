@@ -37,9 +37,9 @@ ultima_actualizacao: 2026-07-27
   8. Principais ramos do Direito - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, 5-7). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. II, nn. 186-207, pp. 329-355). **Bicamada.** Catálogo completo de ASC, com divergência frontal sobre o Direito Penal (n.º 203) e sobre o Direito do Trabalho (n.º 199).
 
   III. A norma jurídica
-  9. O conceito de norma jurídica: elementos definidores e estrutura da norma - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, Secção I, § 1º).
+  9. O conceito de norma jurídica: elementos definidores e estrutura da norma - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, Secção I, § 1º). **Nota de alcance ASC (2026-07-31, sessão 13)**: tocado de frente pelo Título VIII, caps. I-II (nn. 279-309, pp. 485-530) - teoria da regra e classificação integral, com o comparativo de [[Conceitos/Norma Jurídica]] corrido; conversão a bicamada proposta, a aguardar autorização.
   10. O facto jurídico, o ato jurídico, a situação jurídica e a relação jurídica - [[Conceitos/Facto Jurídico]] - monocamada (BM, cap. IV, § 1º, 3).
-  11. Classificação das normas jurídicas - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 2º).
+  11. Classificação das normas jurídicas - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 2º). **Nota de alcance ASC (2026-07-31, sessão 13)**: tocado de frente pelo Título VIII, caps. I-II (nn. 279-309, pp. 485-530) - teoria da regra e classificação integral, com o comparativo de [[Conceitos/Norma Jurídica]] corrido; conversão a bicamada proposta, a aguardar autorização.
 
   IV. A criação normativa estadual
   12. A codificação - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II, § 1º). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. III, nn. 208-215, pp. 357-373). **Bicamada.** Comparativa fechada como `complementares`: de ASC vem o estatuto do código entre as fontes, as causas históricas e a consolidação como terceiro termo.

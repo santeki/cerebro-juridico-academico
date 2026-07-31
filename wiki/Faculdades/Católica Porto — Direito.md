@@ -29,10 +29,10 @@ ultima_actualizacao: 2026-07-27
   Parte II - A Macroestrutura do Direito - [[Conceitos/Ramos do Direito]] - monocamada (BM, cap. III, «Macroestrutura: as grandes divisões do Direito»). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. II, nn. 186-207, pp. 329-355, sede própria dos ramos). **Bicamada.** A relação passou a `em-conflito` (III), por divergência de catálogo sobre o mesmo critério.
 
   Parte III - A norma jurídica
-  1. Noção e estrutura - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 1º).
+  1. Noção e estrutura - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 1º). **Nota de alcance ASC (2026-07-31, sessão 13)**: tocado de frente pelo Título VIII, caps. I-II (nn. 279-309, pp. 485-530) - teoria da regra e classificação integral, com o comparativo de [[Conceitos/Norma Jurídica]] corrido; conversão a bicamada proposta, a aguardar autorização.
   2. O facto jurídico, a situação jurídica e a relação jurídica - [[Conceitos/Facto Jurídico]] - monocamada (BM, cap. IV, § 1º, 3).
   3. O sujeito jurídico e os direitos subjectivos - [[Conceitos/Personalidade Jurídica]] · [[Conceitos/Direito Objectivo e Direito Subjectivo]] - monocamada (BM, cap. IV, § 1º, 4-5).
-  4. Classificação das normas jurídicas - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 2º).
+  4. Classificação das normas jurídicas - [[Conceitos/Norma Jurídica]] - monocamada (BM, cap. IV, § 2º). **Nota de alcance ASC (2026-07-31, sessão 13)**: tocado de frente pelo Título VIII, caps. I-II (nn. 279-309, pp. 485-530) - teoria da regra e classificação integral, com o comparativo de [[Conceitos/Norma Jurídica]] corrido; conversão a bicamada proposta, a aguardar autorização.
   5. Técnicas legislativas - [[Conceitos/Codificação e Técnicas Legislativas]] - monocamada (BM, cap. IV, Secção II). **Segunda camada ASC desde 2026-07-27** (Título VI, cap. III, nn. 208-215, pp. 357-373, sede própria da codificação). **Bicamada.** Comparativa fechada como `complementares`.
 
   Parte IV - A tutela do Direito - [[Conceitos/Tutela do Direito]] e [[Conceitos/Jurisdição]] - monocamada (BM, cap. V).
