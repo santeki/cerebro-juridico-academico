@@ -85,7 +85,7 @@ Para esta página, o que o capítulo acrescenta é o fecho da tripla partição 
 
 ## Camada do Título VI, cap. I (sessão 9) - a demarcação em operação
 
-Esta página regista, pelo n.º 49, a doutrina do autor sobre a fronteira entre o enunciado sociológico e o enunciado normativo. O n.º 176 mostra-a a operar sobre o próprio texto dele, duas vezes e em sentidos diferentes, e é por isso material desta página e não apenas da vigência.
+Esta página regista, pelo n.º 49, a doutrina do autor sobre a fronteira entre o enunciado sociológico e o enunciado normativo. Os nn. 176 e 179 mostram-na a operar sobre o próprio texto dele, duas vezes e em sentidos diferentes, e é por isso material desta página e não apenas de [[Conceitos/Vigência das Normas]] e [[Conceitos/Fontes de Direito]].
 
 A primeira demarcação separa explicação de justificação. Depois de reconstituir historicamente a diminuição da valia efectiva da lei no Brasil - as importações legislativas jusracionalistas, a inadequação, a inobservância passiva -, o autor corta: «Esta situação tem pois uma explicação sociológica. Mas isso não equivale à sua justificação. É anómalo que num país a lei seja apenas uma alternativa possível, e haja discrepância entre a lei e a prática» (ASC, p. 309). A causa explica o que é; não legitima o que deve ser.
 
@@ -101,6 +101,7 @@ Nos programas mapeados: é a sede do sub-recorte «as disciplinas que estudam o 
 
 ## Fontes
 
+- [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral — leitura da sessão 9]] - Título VI, cap. I, pp. 309 e 315 (sessão 9: a demarcação sociológico/normativo em operação, nn. 176 e 179).
 - [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] - Título III, cap. IV (nn. 97-98, pp. 163-165; leitura integral da sessão 5, tratamento de periferia; o objecto da Filosofia do Direito e a sua variação histórica).
 - [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] - Título III, cap. III (nn. 80-83, pp. 135-140; leitura integral da sessão 4, tratamento de núcleo; a delimitação do Direito Comparado por método e a sua fronteira com a História do Direito).
 - [[Fontes/Oliveira Ascensão, O Direito - Introdução e Teoria Geral]] - Título III, cap. II (nn. 52-67 + Secção III «Omissis», pp. 109-133; leitura integral da sessão 3, tratamento de contexto: dupla fonte com confronto mecânico nas 24 folhas com texto, ronda E2 em lote de 15 folhas com uma adjudicação cega A1 e 5 spot-checks; sete páginas pares do capítulo com margem direita cortada na digitalização).
